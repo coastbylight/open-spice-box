@@ -2,8 +2,9 @@ import { notFound } from 'next/navigation'
 import Image from 'next/image'
 import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
-import type { Recipe, RecipeIngredient } from '@/types/recipe'
+import type { Recipe } from '@/types/recipe'
 import MarkdownRenderer from '@/components/ui/MarkdownRenderer'
+import RecipeIngredients from '@/components/recipe/RecipeIngredients'
 
 interface Props {
   params: { slug: string }
@@ -75,66 +76,6 @@ function SectionHeading({ children }: { children: React.ReactNode }) {
   )
 }
 
-/**
- * Find the first ingredient name (longest first, to prefer "black cardamom"
- * over "cardamom") that appears as a whole word inside the ingredient text.
- * Returns split parts so only the matched word(s) get linked.
- */
-function findIngredientMatch(
-  text: string,
-  ingredientSlugs: Record<string, string>
-): { before: string; match: string; after: string; slug: string } | null {
-  // Sort longest name first so "black cardamom" beats "cardamom"
-  const names = Object.keys(ingredientSlugs).sort((a, b) => b.length - a.length)
-  for (const name of names) {
-    const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-    const regex = new RegExp(`\\b${escaped}\\b`, 'i')
-    const m = text.match(regex)
-    if (m && m.index !== undefined) {
-      return {
-        before: text.slice(0, m.index),
-        match: m[0],
-        after: text.slice(m.index + m[0].length),
-        slug: ingredientSlugs[name],
-      }
-    }
-  }
-  return null
-}
-
-function IngredientLine({ item, ingredientSlugs }: { item: RecipeIngredient; ingredientSlugs: Record<string, string> }) {
-  const hit = findIngredientMatch(item.ingredient, ingredientSlugs)
-  return (
-    <li className="flex gap-4 py-2.5 border-b border-parchment-100 last:border-0">
-      <span className="text-sm text-charcoal-400 w-20 shrink-0 text-right leading-snug pt-0.5">
-        {item.amount}
-        {item.unit ? ` ${item.unit}` : ''}
-      </span>
-      <span className="text-sm text-charcoal-800 leading-snug">
-        {hit ? (
-          <>
-            {hit.before}
-            <a
-              href={`/ingredients/${hit.slug}`}
-              className="underline decoration-dotted underline-offset-2 decoration-ochre-400 hover:text-ochre-700 hover:decoration-ochre-600 transition-colors"
-            >
-              {hit.match}
-            </a>
-            {hit.after}
-          </>
-        ) : (
-          item.ingredient
-        )}
-        {item.prep_note && (
-          <span className="text-charcoal-400">, {item.prep_note}</span>
-        )}
-        {item.optional && (
-          <span className="text-charcoal-400 italic"> (optional)</span>
-        )}
-      </span>
-    </li>
-  )
-}
 
 // ─── Page ────────────────────────────────────────────────────────────────────
 
@@ -290,14 +231,10 @@ export default async function RecipeDetailPage({ params }: Props) {
           )}
 
           {/* ── Ingredients ── */}
-          <section id="ingredients">
-            <SectionHeading>Ingredients</SectionHeading>
-            <ul>
-              {(r.ingredients ?? []).map((item, i) => (
-                <IngredientLine key={i} item={item} ingredientSlugs={ingredientSlugs} />
-              ))}
-            </ul>
-          </section>
+          <RecipeIngredients
+            items={r.ingredients ?? []}
+            ingredientSlugs={ingredientSlugs}
+          />
 
           {/* ── Method ── */}
           {r.instructions?.length > 0 && (
