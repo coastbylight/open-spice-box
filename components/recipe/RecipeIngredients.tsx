@@ -112,6 +112,9 @@ function IngredientLine({
         ) : (
           item.ingredient
         )}
+        {converted.countNote && (
+          <span className="text-charcoal-400"> ({converted.countNote})</span>
+        )}
         {item.prep_note && (
           <span className="text-charcoal-400">, {item.prep_note}</span>
         )}
