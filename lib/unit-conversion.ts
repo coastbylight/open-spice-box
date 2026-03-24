@@ -41,9 +41,10 @@ function toFraction(x: number): string {
 }
 
 function formatOz(oz: number): { amount: string; unit: string } {
-  if (oz < 0.15) return { amount: '¼',           unit: 'oz' }
-  if (oz >= 16)  return { amount: toFraction(Math.round((oz / 16) * 4) / 4), unit: 'lb' }
-  const step    = oz < 4 ? 0.25 : 0.5
+  if (oz < 0.15) return { amount: '¼', unit: 'oz' }
+  // Prefer lb for anything over 8 oz (½ lb)
+  if (oz >= 8)   return { amount: toFraction(Math.max(0.25, Math.round((oz / 16) * 4) / 4)), unit: 'lb' }
+  const step = oz < 4 ? 0.25 : 0.5
   return { amount: toFraction(Math.round(oz / step) * step), unit: 'oz' }
 }
 
@@ -108,6 +109,32 @@ const DENSITY: { kw: string[]; gpt: number }[] = [
   { kw:['star anise'], gpt:1.9 },
   { kw:['asafoetida','hing'], gpt:2.8 },
   { kw:['mace','javitri'], gpt:1.8 },
+
+  // ── Fresh aromatics & pastes ─────────────────────────────────────────────
+  // Pastes are dense (~5 g/tsp); chopped fresh is lighter
+  { kw:['ginger-garlic paste','ginger garlic paste'], gpt:5.0 },
+  { kw:['ginger paste','adrak paste'],                gpt:5.0 },
+  { kw:['garlic paste','lehsun paste'],                gpt:5.0 },
+  { kw:['chilli paste','chili paste','green chilli paste','green chili paste'], gpt:5.0 },
+  { kw:['tamarind paste','imli paste'],               gpt:6.0 },
+  { kw:['tomato paste'],                              gpt:6.5 },
+
+  // Fresh ginger & garlic (chopped/minced/julienned)
+  { kw:['fresh ginger','ginger','adrak'],             gpt:2.0 },
+  { kw:['fresh garlic','garlic','lehsun'],             gpt:2.0 },
+
+  // Green chillies / fresh chillies (sliced or chopped)
+  { kw:['green chilli','green chili','fresh chilli','fresh chili','hari mirch'], gpt:2.0 },
+  { kw:['red chilli','fresh red chilli','red chili'],  gpt:2.0 },
+
+  // Fresh herbs (loosely packed, roughly chopped — very low density)
+  { kw:['fresh coriander','fresh cilantro','coriander leaves','cilantro','dhania'],   gpt:0.4 },
+  { kw:['fresh mint','pudina','mint leaves'],          gpt:0.35 },
+  { kw:['fresh curry leaves','curry leaves','kadi patta'], gpt:0.3 },
+  { kw:['fresh dill','suwa'],                          gpt:0.35 },
+  { kw:['fresh parsley','parsley'],                    gpt:0.4 },
+  { kw:['fresh basil','basil'],                        gpt:0.35 },
+  { kw:['spring onion','green onion','scallion','hara pyaz'], gpt:1.0 },
 ]
 
 function spiceDensity(name: string): number | null {
@@ -117,13 +144,18 @@ function spiceDensity(name: string): number | null {
 }
 
 function gramsToSpice(g: number, density: number): { amount: string; unit: string } {
-  const tsp = g / density
-  if (tsp < 3) {
-    return { amount: toFraction(Math.max(0.125, Math.round(tsp/0.125)*0.125)), unit: 'tsp' }
+  const tsp  = g / density
+  const tbsp = tsp / 3    // 3 tsp = 1 tbsp
+  const cups = tbsp / 16  // 16 tbsp = 1 cup
+
+  if (cups >= 0.25) {
+    // Round to nearest ⅛ cup (2 tbsp)
+    return { amount: toFraction(Math.round(cups / 0.125) * 0.125), unit: 'cup' }
   }
-  const tbsp = tsp / 3
-  if (tbsp >= 1) return { amount: toFraction(Math.round(tbsp/0.25)*0.25), unit: 'tbsp' }
-  return { amount: toFraction(Math.round(tsp/0.25)*0.25), unit: 'tsp' }
+  if (tbsp >= 1) {
+    return { amount: toFraction(Math.round(tbsp / 0.25) * 0.25), unit: 'tbsp' }
+  }
+  return { amount: toFraction(Math.max(0.125, Math.round(tsp / 0.125) * 0.125)), unit: 'tsp' }
 }
 
 // ─── Protein keywords (always oz / lb) ───────────────────────────────────────
