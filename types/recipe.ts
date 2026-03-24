@@ -32,11 +32,15 @@ export interface Recipe {
 }
 
 export interface RecipeIngredient {
-  amount: string
+  amount: string | null
   unit: string | null
   ingredient: string
   prep_note: string | null
   optional: boolean
+  /** Pre-stored imperial quantity (e.g. "⅔", "3½", "2") — used for non-spice conversions */
+  imperial_amount?: string | null
+  /** Pre-stored imperial unit (e.g. "cup", "tbsp", "medium onions") */
+  imperial_unit?: string | null
 }
 
 export interface RecipeStep {

@@ -19,8 +19,8 @@ function UnitToggle({
       aria-label="Unit system"
       className="inline-flex items-center rounded-full border border-parchment-200 bg-parchment-50 p-0.5 shadow-[0_1px_3px_rgba(139,90,43,0.08)] select-none"
     >
-      {(['imperial', 'metric'] as const).map((s) => {
-        const label = s === 'metric' ? 'g' : 'oz'
+      {(['imperial', 'metric'] as const).map(s => {
+        const label  = s === 'metric' ? 'g' : 'oz'
         const active = system === s
         return (
           <button
@@ -43,46 +43,59 @@ function UnitToggle({
   )
 }
 
-// ─── Ingredient Line ──────────────────────────────────────────────────────────
+// ─── Ingredient name link helper ──────────────────────────────────────────────
 
 function findIngredientMatch(
   text: string,
-  ingredientSlugs: Record<string, string>
+  slugs: Record<string, string>
 ): { before: string; match: string; after: string; slug: string } | null {
-  const names = Object.keys(ingredientSlugs).sort((a, b) => b.length - a.length)
+  const names = Object.keys(slugs).sort((a, b) => b.length - a.length)
   for (const name of names) {
     const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-    const regex = new RegExp(`\\b${escaped}\\b`, 'i')
-    const m = text.match(regex)
+    const m = text.match(new RegExp(`\\b${escaped}\\b`, 'i'))
     if (m && m.index !== undefined) {
       return {
         before: text.slice(0, m.index),
-        match: m[0],
-        after: text.slice(m.index + m[0].length),
-        slug: ingredientSlugs[name],
+        match:  m[0],
+        after:  text.slice(m.index + m[0].length),
+        slug:   slugs[name],
       }
     }
   }
   return null
 }
 
+// ─── Single ingredient row ────────────────────────────────────────────────────
+
 function IngredientLine({
   item,
   system,
-  ingredientSlugs,
+  slugs,
 }: {
-  item: RecipeIngredient
+  item:   RecipeIngredient
   system: UnitSystem
-  ingredientSlugs: Record<string, string>
+  slugs:  Record<string, string>
 }) {
-  const converted = convertIngredient(item.amount, item.unit, item.ingredient, system)
-  const hit = findIngredientMatch(item.ingredient, ingredientSlugs)
+  const converted = convertIngredient(
+    item.amount,
+    item.unit,
+    item.ingredient,
+    system,
+    item.imperial_amount,
+    item.imperial_unit,
+  )
+
+  const hit = findIngredientMatch(item.ingredient, slugs)
+
+  // Amount + unit cell
+  const amountText = converted.amount
+    ? `${converted.amount}${converted.unit ? ' ' + converted.unit : ''}`
+    : ''
 
   return (
     <li className="flex gap-4 py-2.5 border-b border-parchment-100 last:border-0">
-      <span className="text-sm text-charcoal-400 w-20 shrink-0 text-right leading-snug pt-0.5">
-        {converted.amount}
-        {converted.unit ? ` ${converted.unit}` : ''}
+      <span className="text-sm text-charcoal-400 w-24 shrink-0 text-right leading-snug pt-0.5">
+        {amountText || <span className="italic">—</span>}
       </span>
       <span className="text-sm text-charcoal-800 leading-snug">
         {hit ? (
@@ -110,7 +123,7 @@ function IngredientLine({
   )
 }
 
-// ─── Section Heading ──────────────────────────────────────────────────────────
+// ─── Section heading with action slot ────────────────────────────────────────
 
 function SectionHeading({
   children,
@@ -129,24 +142,20 @@ function SectionHeading({
   )
 }
 
-// ─── Main Component ───────────────────────────────────────────────────────────
+// ─── Main export ──────────────────────────────────────────────────────────────
 
 export default function RecipeIngredients({
   items,
   ingredientSlugs,
 }: {
-  items: RecipeIngredient[]
+  items:           RecipeIngredient[]
   ingredientSlugs: Record<string, string>
 }) {
   const [system, setSystem] = useState<UnitSystem>('imperial')
 
   return (
     <section id="ingredients">
-      <SectionHeading
-        action={
-          <UnitToggle system={system} onChange={setSystem} />
-        }
-      >
+      <SectionHeading action={<UnitToggle system={system} onChange={setSystem} />}>
         Ingredients
       </SectionHeading>
       <ul>
@@ -155,7 +164,7 @@ export default function RecipeIngredients({
             key={i}
             item={item}
             system={system}
-            ingredientSlugs={ingredientSlugs}
+            slugs={ingredientSlugs}
           />
         ))}
       </ul>
