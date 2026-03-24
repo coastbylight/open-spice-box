@@ -22,3 +22,87 @@
 .delay-300 { animation-delay: 0.3s; }
 .delay-400 { animation-delay: 0.4s; }
 .delay-500 { animation-delay: 0.5s; }
+
+/* ── Chinese Seal Animations ── */
+
+@keyframes seal-enter {
+  from {
+    opacity: 0;
+    transform: scale(0.82) rotate(-6deg);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+  }
+}
+
+@keyframes seal-breathe {
+  0%, 100% {
+    transform: scale(1);
+    filter: drop-shadow(0 8px 44px rgba(201, 57, 43, 0.08));
+  }
+  50% {
+    transform: scale(1.022);
+    filter: drop-shadow(0 14px 64px rgba(201, 57, 43, 0.20));
+  }
+}
+
+@keyframes seal-orbit-cw {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes seal-orbit-ccw {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(-360deg); }
+}
+
+@keyframes seal-dot-pulse {
+  0%, 100% {
+    opacity: 0.38;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.85;
+    transform: scale(1.65);
+  }
+}
+
+@keyframes seal-center-pulse {
+  0%, 100% {
+    opacity: 0.45;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.75;
+    transform: scale(1.12);
+  }
+}
+
+.animate-seal-orbit-cw {
+  animation: seal-orbit-cw 52s linear infinite;
+}
+
+.animate-seal-orbit-ccw {
+  animation: seal-orbit-ccw 84s linear infinite;
+}
+
+.animate-seal-dot-pulse {
+  animation: seal-dot-pulse 3.6s ease-in-out infinite;
+}
+
+.animate-seal-center-pulse {
+  animation: seal-center-pulse 4.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-seal-orbit-cw,
+  .animate-seal-orbit-ccw,
+  .animate-seal-dot-pulse,
+  .animate-seal-center-pulse {
+    animation: none !important;
+  }
+  .animate-seal-wrapper {
+    animation: seal-enter 0.001ms both !important;
+  }
+}

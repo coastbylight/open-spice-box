@@ -19,66 +19,75 @@ export const metadata: Metadata = {
 function ChineseSeal() {
   return (
     <div className="relative w-full h-full" aria-hidden="true">
-      {/* Parchment background circle */}
+      {/* Static: parchment background circle */}
       <div className="absolute inset-0 rounded-full bg-parchment-50" />
 
-      {/* Lattice grid — clipped to the ring between outer and inner circles */}
-      <div
-        className="absolute inset-[11px] rounded-full overflow-hidden"
-        style={{
-          backgroundImage:
-            'linear-gradient(rgba(201,57,43,0.22) 1px, transparent 1px), linear-gradient(90deg, rgba(201,57,43,0.22) 1px, transparent 1px)',
-          backgroundSize: '22px 22px',
-        }}
-      >
-        {/* Parchment inner circle — masks out the grid in the center zone */}
+      {/* ── OUTER BEZEL GROUP: slow CW rotation ── */}
+      {/* Contains lattice grid, outer rings, cardinal tick marks */}
+      <div className="absolute inset-0 animate-seal-orbit-cw">
+        {/* Lattice grid — clipped to the ring between outer and inner circles */}
         <div
-          className="absolute rounded-full bg-parchment-50"
-          style={{ inset: 'calc(50% - 68px)' }}
-        />
+          className="absolute inset-[11px] rounded-full overflow-hidden"
+          style={{
+            backgroundImage:
+              'linear-gradient(rgba(201,57,43,0.22) 1px, transparent 1px), linear-gradient(90deg, rgba(201,57,43,0.22) 1px, transparent 1px)',
+            backgroundSize: '22px 22px',
+          }}
+        >
+          {/* Parchment inner circle — masks out the grid in the center zone */}
+          <div
+            className="absolute rounded-full bg-parchment-50"
+            style={{ inset: 'calc(50% - 68px)' }}
+          />
+        </div>
+
+        {/* Outer decorative rings */}
+        <div className="absolute inset-0 rounded-full border-[3px] border-lacquer-500/55" />
+        <div className="absolute inset-[9px] rounded-full border border-lacquer-400/22" />
+
+        {/* Cardinal tick marks — move with the outer bezel */}
+        <div className="absolute top-2 left-1/2 -translate-x-1/2 w-[5px] h-[14px] rounded-sm bg-lacquer-500/55" />
+        <div className="absolute bottom-2 left-1/2 -translate-x-1/2 w-[5px] h-[14px] rounded-sm bg-lacquer-500/55" />
+        <div className="absolute left-2 top-1/2 -translate-y-1/2 h-[5px] w-[14px] rounded-sm bg-lacquer-500/55" />
+        <div className="absolute right-2 top-1/2 -translate-y-1/2 h-[5px] w-[14px] rounded-sm bg-lacquer-500/55" />
       </div>
 
-      {/* Outer decorative rings */}
-      <div className="absolute inset-0 rounded-full border-[3px] border-lacquer-500/55" />
-      <div className="absolute inset-[9px] rounded-full border border-lacquer-400/22" />
+      {/* ── INNER MECHANISM GROUP: slow CCW counter-rotation ── */}
+      {/* Contains inner rings and crosshair lines */}
+      <div className="absolute inset-0 animate-seal-orbit-ccw">
+        {/* Inner ring around center */}
+        <div
+          className="absolute rounded-full border-2 border-lacquer-500/45"
+          style={{ inset: 'calc(50% - 68px)' }}
+        />
+        <div
+          className="absolute rounded-full border border-lacquer-400/20"
+          style={{ inset: 'calc(50% - 60px)' }}
+        />
 
-      {/* Inner ring around center */}
-      <div
-        className="absolute rounded-full border-2 border-lacquer-500/45"
-        style={{ inset: 'calc(50% - 68px)' }}
-      />
-      <div
-        className="absolute rounded-full border border-lacquer-400/20"
-        style={{ inset: 'calc(50% - 60px)' }}
-      />
+        {/* Crosshair lines from square edges to inner ring */}
+        <div className="absolute left-1/2 -translate-x-px bg-lacquer-500/40"
+          style={{ top: 'calc(50% - 68px)', height: '46px', width: '1px' }} />
+        <div className="absolute left-1/2 -translate-x-px bg-lacquer-500/40"
+          style={{ top: 'calc(50% + 22px)', height: '46px', width: '1px' }} />
+        <div className="absolute top-1/2 -translate-y-px bg-lacquer-500/40"
+          style={{ left: 'calc(50% - 68px)', width: '46px', height: '1px' }} />
+        <div className="absolute top-1/2 -translate-y-px bg-lacquer-500/40"
+          style={{ left: 'calc(50% + 22px)', width: '46px', height: '1px' }} />
+      </div>
 
-      {/* Cash coin center square */}
+      {/* ── STATIC CENTER ── */}
+      {/* Cash coin center square — subtle pulse */}
       <div
-        className="absolute border border-lacquer-500/45"
+        className="absolute border border-lacquer-500/45 animate-seal-center-pulse"
         style={{ inset: 'calc(50% - 22px)' }}
       />
 
-      {/* Crosshair lines from square edges to inner ring */}
-      <div className="absolute left-1/2 -translate-x-px bg-lacquer-500/40"
-        style={{ top: 'calc(50% - 68px)', height: '46px', width: '1px' }} />
-      <div className="absolute left-1/2 -translate-x-px bg-lacquer-500/40"
-        style={{ top: 'calc(50% + 22px)', height: '46px', width: '1px' }} />
-      <div className="absolute top-1/2 -translate-y-px bg-lacquer-500/40"
-        style={{ left: 'calc(50% - 68px)', width: '46px', height: '1px' }} />
-      <div className="absolute top-1/2 -translate-y-px bg-lacquer-500/40"
-        style={{ left: 'calc(50% + 22px)', width: '46px', height: '1px' }} />
-
-      {/* Cardinal tick marks */}
-      <div className="absolute top-2 left-1/2 -translate-x-1/2 w-[5px] h-[14px] rounded-sm bg-lacquer-500/55" />
-      <div className="absolute bottom-2 left-1/2 -translate-x-1/2 w-[5px] h-[14px] rounded-sm bg-lacquer-500/55" />
-      <div className="absolute left-2 top-1/2 -translate-y-1/2 h-[5px] w-[14px] rounded-sm bg-lacquer-500/55" />
-      <div className="absolute right-2 top-1/2 -translate-y-1/2 h-[5px] w-[14px] rounded-sm bg-lacquer-500/55" />
-
-      {/* Diagonal corner accent dots */}
-      <div className="absolute top-[16%] left-[16%] w-2 h-2 rounded-full bg-lacquer-500/38" />
-      <div className="absolute top-[16%] right-[16%] w-2 h-2 rounded-full bg-lacquer-500/38" />
-      <div className="absolute bottom-[16%] left-[16%] w-2 h-2 rounded-full bg-lacquer-500/38" />
-      <div className="absolute bottom-[16%] right-[16%] w-2 h-2 rounded-full bg-lacquer-500/38" />
+      {/* Diagonal corner accent dots — staggered pulse */}
+      <div className="absolute top-[16%] left-[16%] w-2 h-2 rounded-full bg-lacquer-500/38 animate-seal-dot-pulse" />
+      <div className="absolute top-[16%] right-[16%] w-2 h-2 rounded-full bg-lacquer-500/38 animate-seal-dot-pulse" style={{ animationDelay: '0.9s' }} />
+      <div className="absolute bottom-[16%] left-[16%] w-2 h-2 rounded-full bg-lacquer-500/38 animate-seal-dot-pulse" style={{ animationDelay: '1.8s' }} />
+      <div className="absolute bottom-[16%] right-[16%] w-2 h-2 rounded-full bg-lacquer-500/38 animate-seal-dot-pulse" style={{ animationDelay: '2.7s' }} />
     </div>
   )
 }
@@ -179,7 +188,13 @@ export default async function HomePage() {
 
             {/* Right: Chinese coin decorative seal */}
             <div className="hidden lg:flex justify-center items-center">
-              <div className="w-[360px] h-[360px] xl:w-[400px] xl:h-[400px] drop-shadow-[0_8px_40px_rgba(201,57,43,0.08)]">
+              <div
+                className="w-[360px] h-[360px] xl:w-[400px] xl:h-[400px]"
+                style={{
+                  animation:
+                    'seal-enter 1.1s cubic-bezier(0.16, 1, 0.3, 1) both 0.3s, seal-breathe 8s ease-in-out infinite 1.4s',
+                }}
+              >
                 <ChineseSeal />
               </div>
             </div>

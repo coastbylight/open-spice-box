@@ -55,7 +55,7 @@ function TagPill({ label }: { label: string }) {
 export default async function IngredientDetailPage({ params }: Props) {
   const supabase = createClient()
 
-  const [{ data: ingredient }, { data: recipesWithIngredients }] = await Promise.all([
+  const [{ data: ingredient }, { data: allRecipes }] = await Promise.all([
     supabase
       .from('ingredients')
       .select('*')
@@ -72,12 +72,36 @@ export default async function IngredientDetailPage({ params }: Props) {
 
   const ing = ingredient as Ingredient
 
-  const usedIn = (recipesWithIngredients ?? []).filter(r => {
+  const usedIn = (allRecipes ?? []).filter(r => {
     const ings = r.ingredients as Array<{ ingredient: string }> | null
     return ings?.some(
       i => i.ingredient.toLowerCase() === ing.name.toLowerCase()
     )
   })
+
+  // Build a map of recipe title (lowercase) → slug for linking traditional dishes
+  const recipeTitleToSlug = new Map<string, string>()
+  for (const r of allRecipes ?? []) {
+    recipeTitleToSlug.set(r.title.toLowerCase().trim(), r.slug)
+  }
+
+  function findRecipeSlugForDish(dish: string): string | null {
+    const d = dish.toLowerCase().trim()
+    // Exact match first
+    if (recipeTitleToSlug.has(d)) return recipeTitleToSlug.get(d)!
+    // Substring matches
+    for (const [title, slug] of recipeTitleToSlug) {
+      if (title.includes(d) || d.includes(title)) return slug
+    }
+    // Word-overlap: 2+ significant words
+    const dWords = d.split(/\s+/).filter(w => w.length > 3)
+    for (const [title, slug] of recipeTitleToSlug) {
+      const tWords = title.split(/\s+/).filter(w => w.length > 3)
+      const overlap = dWords.filter(w => tWords.includes(w)).length
+      if (overlap >= 2) return slug
+    }
+    return null
+  }
 
   const traditions = ing.traditional_medicine_perspectives ?? {}
 
@@ -219,12 +243,24 @@ export default async function IngredientDetailPage({ params }: Props) {
           <section id="traditional-dishes">
             <SectionHeading>Traditional Dishes</SectionHeading>
             <ul className="space-y-1.5">
-              {ing.traditional_dishes.map(dish => (
-                <li key={dish} className="text-sm text-charcoal-700 flex gap-2">
-                  <span className="text-ochre-400 select-none" aria-hidden="true">—</span>
-                  {dish}
-                </li>
-              ))}
+              {ing.traditional_dishes.map(dish => {
+                const recipeSlug = findRecipeSlugForDish(dish)
+                return (
+                  <li key={dish} className="text-sm text-charcoal-700 flex gap-2">
+                    <span className="text-ochre-400 select-none" aria-hidden="true">—</span>
+                    {recipeSlug ? (
+                      <Link
+                        href={`/recipes/${recipeSlug}`}
+                        className="text-ochre-700 hover:text-ochre-600 underline underline-offset-2 decoration-ochre-300 hover:decoration-ochre-500 transition-colors focus:outline-none focus-visible:ring-1 focus-visible:ring-ochre-500 rounded"
+                      >
+                        {dish}
+                      </Link>
+                    ) : (
+                      dish
+                    )}
+                  </li>
+                )
+              })}
             </ul>
           </section>
         )}
