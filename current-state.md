@@ -4,6 +4,34 @@ _Last updated: 2026-03-24_
 
 ## What Was Just Completed
 
+**Collections feature added** — New `/collections` section added between Recipes and Ingredients in the nav.
+
+- `supabase/migrations/009_collections.sql` — `collections` table with `name`, `slug`, `description`, `cover_image_url`, `recipe_slugs text[]`, `published`, RLS policies matching the rest of the site. **Migration must be applied manually in Supabase SQL Editor** (not yet run against the live DB).
+- `types/collection.ts` — `Collection` TypeScript interface
+- `app/(public)/collections/page.tsx` — grid of published collections, shows name, description, and recipe count
+- `app/(public)/collections/[slug]/page.tsx` — detail page with breadcrumb, optional cover image, and recipe card grid linking to `/recipes/[slug]`. Recipe order follows the `recipe_slugs` array.
+- `scripts/seed-collections.mjs` — seed script for loading collections; run with `SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` env vars
+- `components/layout/SiteNav.tsx` — "Collections" added to `NAV_LINKS` between Recipes and Ingredients
+- First collection **Edible Skincare** (`slug: edible-skincare`) defined in seed script with empty `recipe_slugs` (recipes to be added manually later)
+
+**Ingredient tag filter — medical tags only** — `app/(public)/ingredients/page.tsx`: the tag filter bar on the ingredients listing page now only shows tags with medical/health meanings. A `MEDICAL_TAGS` allowlist filters `allTags` before passing to `IngredientGrid`. Kept: `absorptive`, `adaptogenic`, `anti-inflammatory`, `anti-nausea`, `antimicrobial`, `antioxidant`, `beta-glucan`, `bioavailability-enhancer`, `cooling`, `digestive`, `healing`, `immune`, `liver`, `medicinal`, `mood`, `postpartum`, `probiotic`, `spleen`, `tonic`, `warming`, `yin-nourishing`. Ingredient detail pages are unaffected.
+
+---
+
+**Ajwain Water recipe added** — `full_recipes/wellness_recipes/Ayurveda/ajwain-water-digestive-infusion.md`: Full recipe page for the traditional North Indian carom seed digestive infusion. Created following the ancient-pantry-recipe skill format with headnote, method, ingredient health notes (Ayurvedic classification, thymol antispasmodic research, honey-heating caution), substitutions and variations (ginger, fennel, black pepper), serving suggestions, storage, and cultural notes. Loaded via `load-full-recipes.mjs`. Now at **184 total recipes** in Supabase. The recipe title "Ajwain Water (Digestive Infusion)" fuzzy-matches exactly against the "Ajwain water (digestive infusion)" entry in the carom seeds ingredient's `traditional_dishes` array, so the ingredient page at `/ingredients/carom-seeds` now renders that dish as a hyperlink automatically.
+
+**Tradition pages deepened — Ayurveda and TCM** — The `/traditions/ayurveda` and `/traditions/traditional-chinese-medicine` pages now carry substantially expanded content in both the `philosophy` and `food_principles` fields, updated directly in Supabase:
+
+- **Ayurveda philosophy** (9,055 chars): Covers full history of the three foundational texts (Charaka Samhita, Sushruta Samhita, Ashtanga Hridayam), the 8 classical branches, the three doshas with their gunas and physical/mental manifestations, prakriti vs vikriti, agni and its 5 subtypes, ama (undigested matter), and a spice-by-spice breakdown (turmeric/haridra, ginger/sunthi, black pepper/maricha, cumin/jeeraka, coriander/dhania, cardamom/ela, cinnamon/tvak, fenugreek/methi, fennel/shatapushpa, carom seeds/ajwain) with Sanskrit names, Ayurvedic classification, and doshic actions.
+
+- **Ayurveda food_principles** (15,008 chars): All six tastes (shad rasa) with their qualities and doshic effects, the 20 gunas framework, four agni types and which spices address each, deep nutrient-density section (piperine/curcumin 2000% bioavailability research, cumin iron content, ginger's gingerols, cinnamon blood sugar data — all framed with research vs tradition distinction), seasonal eating by dosha, viruddha ahara incompatibility examples.
+
+- **TCM philosophy** (11,562 chars): History of Huangdi Neijing, Shennong Bencao Jing, and Shanghan Lun; Qi as vital force (non-mystical explanation); Yin/Yang in the body; the Five Elements (Wu Xing) with organ, season, emotion, flavor, and color correspondences; the 12 zang-fu organ pairs; and a TCM-specific spice classification section (ginger as sheng jiang/gan jiang, cinnamon as rou gui/gui zhi, sha ren cardamom, ding xiang cloves, ba jiao hui xiang star anise, jiang huang turmeric, xiao hui xiang fennel, hei zhi ma black sesame, hua jiao Sichuan pepper) with meridian entries and specific TCM actions.
+
+- **TCM food_principles** (20,109 chars): Five flavors (wu wei) with Chinese characters, clinical actions, and example foods for each; thermal nature practical guide for cooking; which spices enter which meridians; deep section on warming spices as Yang tonics with modern research parallels; Qi-moving vs dampness-transforming spices; the five colors doctrine (wu se); seasonal cooking by element (all four seasons with specific spice guidance); therapeutic congee as base.
+
+---
+
 **Chinese Seal hero animation** — `app/(public)/page.tsx` + `app/globals.css`: The decorative `ChineseSeal` component on the homepage hero is now animated with layered CSS keyframes. Structure restructured into two rotation groups: outer bezel (lattice + outer rings + cardinal tick marks) rotates CW at 52s; inner mechanism (inner rings + crosshairs) counter-rotates CCW at 84s. Corner accent dots pulse with staggered 0.9s offsets. Center square breathes with opacity+scale on 4.2s loop. Wrapper entry: scale(0.82)+rotate(-6°) → normal on spring easing (0.3s delay), then continuous breathing scale on 8s loop. All animations use `transform`/`filter` only; disabled via `prefers-reduced-motion`.
 
 **Traditional dishes hyperlinked to recipes** — `app/(public)/ingredients/[slug]/page.tsx`: The Traditional Dishes section now links dish names to matching recipes. `findRecipeSlugForDish()` does a three-tier fuzzy match (exact → substring → 2+ word overlap) against all published recipe titles fetched at render time. Matching dishes render as `<Link>` with ochre underline style; non-matching dishes remain plain text. Script `scripts/link-traditional-dishes.mjs` updated 13 ingredients in Supabase that had zero linkable dishes — appended actual recipe titles (e.g., Cumin → "Fennel, Cumin & Coriander Digestive Tea", Ashwagandha → "Ashwagandha Moon Milk", Soy Sauce → "Kolkata Chowmein", Garlic → "Punjabi Chicken Curry"). Audit script at `scripts/audit-traditional-dishes.mjs`.
@@ -312,7 +340,7 @@ All public pages live in `app/(public)/` route group with a shared layout:
 ### 6.5 Content Seeding
 - **172 regional recipes** loaded from `full_recipes/indian_recipes/` (15 regional collections: Andhra, Awadhi, Bengali, Dum, Goan, Indian Sweets, Kashmiri, Kerala, Maharashtrian, Parsi, Punjabi, Rajasthani, Rice, Tamil Nadu, Tandoor)
 - **10 wellness/functional recipes** seeded via scripts: Khichdi, Golden Milk, Spiced Bone Broth, Miso Soup with Ginger and Reishi, Ashwagandha Moon Milk, Fennel/Cumin/Coriander Digestive Tea, Reishi Mushroom Congee, Tulsi Holy Basil Tea, Cinnamon Cardamom Oats, Licorice Root & Ginger Throat Soother. All 9 (except Khichdi which had an existing file) now also have markdown files in `full_recipes/wellness_recipes/`
-- **182 total recipes** in Supabase, all published
+- **184 total recipes** in Supabase, all published (182 original + 2 subsequent: ajwain-water-digestive-infusion + any other additions)
 - **20 ingredients** seeded: Turmeric, Ginger, Saffron, Black Pepper, Cardamom (from `seed.mjs`) + Cinnamon, Cumin, Coriander, Fennel, Fenugreek, Ashwagandha, Holy Basil, Miso, Moringa, Reishi Mushroom, Licorice Root, Amla, Ghee, Cloves, Rose (from `seed-full-content.mjs`). Markdown source files now exist for all 20 in `full_recipes/ingredients/`.
 - **2 traditions** seeded: Ayurveda, Traditional Chinese Medicine
 - Seed scripts: `scripts/load-full-recipes.mjs` (regional recipes from markdown), `scripts/seed.mjs` (5 ingredients + 2 recipes), `scripts/seed-full-content.mjs` (15 ingredients + 8 recipes + 2 traditions)

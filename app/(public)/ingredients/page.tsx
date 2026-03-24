@@ -25,9 +25,33 @@ export default async function IngredientsPage() {
 
   const all = ingredients ?? []
 
+  const MEDICAL_TAGS = new Set([
+    'absorptive',
+    'adaptogenic',
+    'anti-inflammatory',
+    'anti-nausea',
+    'antimicrobial',
+    'antioxidant',
+    'beta-glucan',
+    'bioavailability-enhancer',
+    'cooling',
+    'digestive',
+    'healing',
+    'immune',
+    'liver',
+    'medicinal',
+    'mood',
+    'postpartum',
+    'probiotic',
+    'spleen',
+    'tonic',
+    'warming',
+    'yin-nourishing',
+  ])
+
   const allTags = Array.from(
     new Set(all.flatMap(i => i.tags ?? []))
-  ).sort()
+  ).filter(t => MEDICAL_TAGS.has(t)).sort()
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">

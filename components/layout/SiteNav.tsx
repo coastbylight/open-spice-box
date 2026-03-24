@@ -9,6 +9,7 @@ type IndicatorStyle = { left: number; width: number; opacity: number }
 
 const NAV_LINKS = [
   { href: '/recipes', label: 'Recipes' },
+  { href: '/collections', label: 'Collections' },
   { href: '/ingredients', label: 'Ingredients' },
   { href: '/how-to', label: 'How-To' },
   { href: '/traditions', label: 'Traditional Medicine' },
