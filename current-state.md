@@ -4,6 +4,42 @@ _Last updated: 2026-03-24_
 
 ## What Was Just Completed
 
+**Metric / Imperial unit toggle on recipe pages** — Every recipe detail page now has a **g / oz pill toggle** inline with the Ingredients heading. Imperial is the default.
+
+- **Data migration** — All 183 recipes (2,154 ingredients) had their ingredient data stored as flat strings (`"7 g coriander powder (about 2 teaspoons)"`) with `amount` and `unit` both null. `scripts/migrate-ingredients.mjs` parsed every string into structured fields: `amount`, `unit`, `ingredient`, `prep_note`, `imperial_amount`, `imperial_unit`. Parenthetical hints like `(about ¾ tsp)` or `(about 3 medium onions)` were extracted into `imperial_amount`/`imperial_unit`.
+
+- **`types/recipe.ts`** — `RecipeIngredient` updated: `amount` is now `string | null` (was `string`), and two optional fields added: `imperial_amount?: string | null`, `imperial_unit?: string | null`.
+
+- **`lib/unit-conversion.ts`** — Conversion library with accurate USDA-sourced density table. Rules by category:
+  - **Spices / powders / seeds** → tsp / tbsp (density table, 35+ entries). Fixes incorrect hints in DB (e.g. 7g coriander powder: was "2 tsp", now correctly calculates **3¾ tsp** at 1.8 g/tsp)
+  - **Fresh aromatics** (ginger paste, garlic paste, fresh ginger, fresh garlic, green chillies, fresh coriander, mint, curry leaves) → tsp / tbsp / cup via density
+  - **Liquids (ml / L)** → tsp / tbsp / fl oz / cup / qt depending on amount
+  - **Proteins** (meat, fish, seafood, paneer) → oz / lb
+  - **Vegetables** → oz / lb + `"(about N items)"` count note using a weight-per-item table (potato ~150g, onion ~150g, tomato ~120g, cauliflower ~550g, etc.). Uses stored parenthetical count hint when available.
+  - **Everything else** → stored imperial volume hint if present, else oz / lb
+  - **oz → lb threshold**: anything over 8 oz (½ lb) displays in lb
+
+- **`components/recipe/RecipeIngredients.tsx`** — New client component replacing the server-rendered ingredient list. Holds toggle state (default `'imperial'`). Passes `imperial_amount`/`imperial_unit` from DB through to conversion logic. Renders `countNote` (e.g. "about 2–3 potatoes") after the ingredient name in imperial mode.
+
+- **`app/(public)/recipes/[slug]/page.tsx`** — Updated to import and render `RecipeIngredients` instead of the old inline `IngredientLine` component.
+
+---
+
+**Ingredients page — Chinese medicine cabinet UI** — `components/ingredient/IngredientCabinet.tsx` replaces `IngredientGrid` on the ingredients page. Every ingredient is a drawer in a Chinese medicine cabinet (百子柜):
+
+- **Cabinet frame**: Deep red-black lacquered rosewood (`#1C0504`–`#110302`) with repeating vertical grain lines and two decorative gold inlay strips on the crown and base rails. Offset box-shadow gives a thick carved-wood presence.
+- **Drawer faces**: Per-drawer CSS rosewood grain (hue 8–15°, saturation 62–70%, layered repeating-linear-gradient) with inset carved panel shadow and bottom edge shadow. Each drawer has slight hue/lightness variation so no two look identical.
+- **Label plate**: Parchment-50/parchment-100 gradient background (matching site palette) with a layered ochre metal frame — `ochre-800` outer line → `ochre-400` gold band → `ochre-600` inner line. Inner engraved border in `ochre-500`. Ingredient name in `var(--font-cormorant)` at 13px/600 weight in `charcoal-900` — legible and on-brand.
+- **Brass ring**: Perfect circle SVG pull using site ochre palette (`ochre-200` through `ochre-900`). Diagonal + horizontal gradient layers simulate cast-brass volume. Specular arc at top-left. Cast shadow circle offset below. Boss plate with rivet dots at top.
+- **Hover**: Drawer slides forward (`translateZ 18px`, `rotateX -0.8deg`) with spring easing; ring lifts 6px; shadow deepens; ochre glow rim appears inside drawer edge.
+- **Click/exit**: Drawer pulls dramatically forward (`translateZ 70px`) before navigating to `/ingredients/[slug]`.
+- **Accessibility**: `prefers-reduced-motion` disables all transforms; `aria-label="View [name]"` on every drawer; focus-visible ring in `ochre-400`.
+- Search and tag filters above the cabinet are unchanged.
+
+**Ingredient tag filter — medical tags only** — `app/(public)/ingredients/page.tsx`: the tag filter bar on the ingredients listing page now only shows tags with medical/health meanings. A `MEDICAL_TAGS` allowlist filters `allTags` before passing to `IngredientCabinet`. Kept: `absorptive`, `adaptogenic`, `anti-inflammatory`, `anti-nausea`, `antimicrobial`, `antioxidant`, `beta-glucan`, `bioavailability-enhancer`, `cooling`, `digestive`, `healing`, `immune`, `liver`, `medicinal`, `mood`, `postpartum`, `probiotic`, `spleen`, `tonic`, `warming`, `yin-nourishing`. Ingredient detail pages are unaffected.
+
+---
+
 **Collections feature added** — New `/collections` section added between Recipes and Ingredients in the nav.
 
 - `supabase/migrations/009_collections.sql` — `collections` table with `name`, `slug`, `description`, `cover_image_url`, `recipe_slugs text[]`, `published`, RLS policies matching the rest of the site. **Migration must be applied manually in Supabase SQL Editor** (not yet run against the live DB).
@@ -358,7 +394,7 @@ All public pages live in `app/(public)/` route group with a shared layout:
 - JSON-LD: server-side injected on recipe detail page
 - `next/image` with Supabase remote patterns configured in `next.config.mjs`
 - No Turbopack (webpack for stability)
-- Recipe seeding: full markdown text stored in `ingredient` field (amount/unit/prep_note left null) for simplicity and correct display
+- Recipe ingredients: originally stored as flat strings in the `ingredient` field (amount/unit null). Migrated to structured fields (amount, unit, ingredient, prep_note, imperial_amount, imperial_unit) via `scripts/migrate-ingredients.mjs`. The `RecipeIngredients` client component handles metric/imperial display with dynamic conversion.
 
 ---
 
