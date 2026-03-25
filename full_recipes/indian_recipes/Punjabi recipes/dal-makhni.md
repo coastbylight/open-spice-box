@@ -10,7 +10,7 @@ total_time: 2 hours 15 minutes (plus soaking)
 difficulty: Easy
 cuisine: Punjabi
 course: Main Course / Side
-tags: [lentils, dal, punjabi, vegetarian, slow-cooked, black-urad, kidney-beans, butter, cream, restaurant-style]
+tags: [indian, lentils, dal, punjabi, vegetarian, slow-cooked, black-urad, kidney-beans, butter, cream, restaurant-style]
 ingredients_key: [whole black urad dal, kidney beans, butter, cream, kasuri methi, tomato]
 hero_image_prompt: A black iron pot of dal makhni, thick and deeply mahogany, a swirl of cream and a nugget of butter melting on top, a few torn coriander leaves, served with a piece of charred tandoori roti resting at the edge of the pot, candlelit warm kitchen light
 seo_title: Dal Makhni Recipe – Authentic Slow-Cooked Punjabi Black Dal

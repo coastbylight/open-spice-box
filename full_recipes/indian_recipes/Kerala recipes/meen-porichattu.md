@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main / Side
 difficulty: Easy
-tags: [kerala, fish, pan-fried, kingfish, marinade, coconut-oil, curry-leaves, vinegar, meen]
+tags: [indian, kerala, fish, pan-fried, kingfish, marinade, coconut-oil, curry-leaves, vinegar, meen]
 hero_image_prompt: Four thick kingfish slices in a wide black iron pan, their surfaces deeply crusted in a dark red chilli-turmeric coating, the edges crisped and caramelized, curry leaves charred and brittle around them, a sheen of coconut oil in the pan, one slice turned to show the white flaking flesh inside, photographed from above on a dark surface
 seo_title: Meen Porichattu — Kerala Pan-Fried Fish with Red Chilli and Vinegar
 meta_description: Meen Porichattu is Kerala's pan-fried fish — thinly sliced kingfish marinated in a thick paste of red chilli, turmeric, garlic and vinegar, then fried in coconut oil with curry leaves until deeply crusted and fragrant.

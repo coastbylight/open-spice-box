@@ -67,17 +67,17 @@ Served with chapattis and a simple dal, this is the kind of food that makes a vi
 
 ## Method
 
-1. **Prepare the gourds.** Wash the bitter gourds and scrape the ridged skin lightly with a peeler or knife. Slice off and reserve the tops (stem ends). Using a small spoon or the handle of a teaspoon, gently hollow out the inner flesh and seeds, leaving the walls intact. Dissolve 3 teaspoons salt in 500 ml water, add the hollowed gourds and their tops, and soak for 10 minutes. Drain and rinse well.
+1. Prepare the gourds. Wash the bitter gourds and scrape the ridged skin lightly with a peeler or knife. Slice off and reserve the tops (stem ends). Using a small spoon or the handle of a teaspoon, gently hollow out the inner flesh and seeds, leaving the walls intact. Dissolve 3 teaspoons salt in 500 ml water, add the hollowed gourds and their tops, and soak for 10 minutes. Drain and rinse well.
 
-2. **Make the stuffing.** Grate the onions (250 g) finely. Extract the garlic (20 g) juice by pounding or grating the garlic and pressing it through a piece of muslin or fine cloth. Roast the aniseed (20 g) in a dry pan over medium heat until fragrant, then grind. Combine grated onion, garlic juice, coriander powder (6 teaspoons), turmeric (½ teaspoon), ground aniseed, kalonji (2 g), chironji (20 g), ground cashews, mango powder (2 g), and salt (3 teaspoons). Mix well.
+2. Make the stuffing. Grate the onions (250 g) finely. Extract the garlic (20 g) juice by pounding or grating the garlic and pressing it through a piece of muslin or fine cloth. Roast the aniseed (20 g) in a dry pan over medium heat until fragrant, then grind. Combine grated onion, garlic juice, coriander powder (6 teaspoons), turmeric (½ teaspoon), ground aniseed, kalonji (2 g), chironji (20 g), ground cashews, mango powder (2 g), and salt (3 teaspoons). Mix well.
 
-3. **Heat the ghee (100 g).** In a kadhai, heat a little of the ghee. Add a splash of garlic juice if any remains. Add sautéed onion from the stuffing mixture (reserving the bulk for filling) and fry briefly. Remove and add to the stuffing mixture.
+3. Heat the ghee (100 g). In a kadhai, heat a little of the ghee. Add a splash of garlic juice if any remains. Add sautéed onion from the stuffing mixture (reserving the bulk for filling) and fry briefly. Remove and add to the stuffing mixture.
 
-4. **Stuff and seal.** Fill each hollowed gourd with the spice mixture, pressing it gently but firmly. Replace the tops and secure with kitchen twine so the filling cannot escape during cooking.
+4. Stuff and seal. Fill each hollowed gourd with the spice mixture, pressing it gently but firmly. Replace the tops and secure with kitchen twine so the filling cannot escape during cooking.
 
-5. **Cook dum-style.** Heat the remaining ghee in a heavy, deep kadhai or pot with a tight-fitting lid. Add the stuffed gourds in a single layer. Cook over medium heat, turning occasionally, for about 8–10 minutes until the exterior begins to brown. Reduce heat to very low, cover tightly, and cook for a further 20–25 minutes until the gourds are completely tender when pierced. Drain off any excess oil.
+5. Cook dum-style. Heat the remaining ghee in a heavy, deep kadhai or pot with a tight-fitting lid. Add the stuffed gourds in a single layer. Cook over medium heat, turning occasionally, for about 8–10 minutes until the exterior begins to brown. Reduce heat to very low, cover tightly, and cook for a further 20–25 minutes until the gourds are completely tender when pierced. Drain off any excess oil.
 
-6. **Serve hot** with chapattis or paratha.
+6. Serve hot with chapattis or paratha.
 
 ---
 

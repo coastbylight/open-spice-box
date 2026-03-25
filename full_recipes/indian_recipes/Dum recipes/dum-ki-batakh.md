@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Involved
-tags: dum, duck, Awadhi, Mughal, saffron, yogurt, braised, gluten-free, special occasion
+tags: indian, dum, duck, Awadhi, Mughal, saffron, yogurt, braised, gluten-free, special occasion
 hero_image_prompt: Two bronzed duck legs resting in a deep, rust-coloured spiced gravy inside a blackened heavy handi, a wisp of fragrant steam, garnished with crushed cardamom and a scatter of fresh herb, photographed from above on a dark stone surface with dramatic side lighting
 seo_title: Dum Ki Batakh — Awadhi Slow-Braised Duck in Saffron Yogurt Gravy
 meta_description: Dum ki batakh: duck legs marinated in saffron, cream, and whole spice yogurt, then sealed and slow-braised for 45 minutes in the dum tradition until deeply tender.
@@ -76,19 +76,19 @@ This is a dish for a long afternoon and a patient cook. The preparation is large
 
 ## Method
 
-1. **Marinate the duck.** Score the duck legs (2 legs) with a sharp knife in a crosshatch pattern, cutting through the skin to help the marinade penetrate. Combine all the marinade ingredients and mix well. Coat the duck thoroughly, working the marinade into the scores. Cover and refrigerate overnight, or for at least 4 hours.
+1. Marinate the duck. Score the duck legs (2 legs) with a sharp knife in a crosshatch pattern, cutting through the skin to help the marinade penetrate. Combine all the marinade ingredients and mix well. Coat the duck thoroughly, working the marinade into the scores. Cover and refrigerate overnight, or for at least 4 hours.
 
-2. **Start the cook.** Remove the duck from the refrigerator 30 minutes before cooking. Heat the ghee (100 g) and oil together in a heavy handi or deep pot over medium heat. Add the whole spices (cardamom, cloves, cinnamon) and let them crackle and bloom for 30 seconds.
+2. Start the cook. Remove the duck from the refrigerator 30 minutes before cooking. Heat the ghee (100 g) and oil together in a heavy handi or deep pot over medium heat. Add the whole spices (cardamom, cloves, cinnamon) and let them crackle and bloom for 30 seconds.
 
-3. **Sauté the onion (150 g).** Add the chopped onion (100 g) and cook over medium heat, stirring, until just translucent — about 5 minutes. Do not brown.
+3. Sauté the onion (150 g). Add the chopped onion (100 g) and cook over medium heat, stirring, until just translucent — about 5 minutes. Do not brown.
 
-4. **Sear the duck.** Add the marinated duck legs skin-side down. Cook without moving for 3–4 minutes until the skin has begun to render and colour. Turn and cook for 2 minutes on the flesh side.
+4. Sear the duck. Add the marinated duck legs skin-side down. Cook without moving for 3–4 minutes until the skin has begun to render and colour. Turn and cook for 2 minutes on the flesh side.
 
-5. **Add stock and seal.** Add the stock and bring to a boil. Seal the handi tightly — first with a layer of foil pressed firmly over the rim, then with the lid pressed down. Place on the lowest possible heat, ideally over a heat diffuser, and cook for 45 minutes without disturbing.
+5. Add stock and seal. Add the stock and bring to a boil. Seal the handi tightly — first with a layer of foil pressed firmly over the rim, then with the lid pressed down. Place on the lowest possible heat, ideally over a heat diffuser, and cook for 45 minutes without disturbing.
 
-6. **Rest and finish.** Remove from heat. Rest, still sealed, for 10 minutes. Open carefully away from you. The duck should be completely tender and pulling away from the bone. Add the kewra water (20 ml), grate a little nutmeg over the top, and stir gently. Taste and adjust salt (2 teaspoons).
+6. Rest and finish. Remove from heat. Rest, still sealed, for 10 minutes. Open carefully away from you. The duck should be completely tender and pulling away from the bone. Add the kewra water (20 ml), grate a little nutmeg over the top, and stir gently. Taste and adjust salt (2 teaspoons).
 
-7. **Serve** with tandoori roti or khamiri roti.
+7. Serve with tandoori roti or khamiri roti.
 
 ---
 

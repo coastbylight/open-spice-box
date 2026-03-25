@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Medium
-tags: Parsi, sweet, khoya, pastry, fried, sugar syrup, nuts, cardamom, Zoroastrian, celebration
+tags: indian, Parsi, sweet, khoya, pastry, fried, sugar syrup, nuts, cardamom, Zoroastrian, celebration
 hero_image_prompt: A plate of malai nu khaja — small golden pastry cups, their surfaces glistening with sugar syrup, scattered on a dark plate with crushed pistachios visible through translucent dough, photographed in warm close-up light
 seo_title: Malai Nu Khaja — Parsi Khoya Pastry Cups with Nut Filling
 meta_description: Malai nu khaja: Parsi sweet pastry cups made from khoya, maida, and ghee, filled with spiced cashew and almond, fried golden, and soaked in single-string sugar syrup.
@@ -64,19 +64,19 @@ The single-string consistency of the syrup (tested by stretching a small amount 
 
 ## Method
 
-1. **Make the dough.** Combine khoya (200 g), flour (50 g), bicarbonate of soda, and ghee (20 g). Mix together, adding water (200 ml) a tablespoon at a time, until a soft, pliable dough forms. Not sticky, not dry. Cover and rest for 15 minutes.
+1. Make the dough. Combine khoya (200 g), flour (50 g), bicarbonate of soda, and ghee (20 g). Mix together, adding water (200 ml) a tablespoon at a time, until a soft, pliable dough forms. Not sticky, not dry. Cover and rest for 15 minutes.
 
-2. **Make the filling.** Combine the finely chopped cashewnuts (30 g), almonds (30 g), cucumber seeds (5 g), and cardamom powder (¼ teaspoon). Mix well.
+2. Make the filling. Combine the finely chopped cashewnuts (30 g), almonds (30 g), cucumber seeds (5 g), and cardamom powder (¼ teaspoon). Mix well.
 
-3. **Make the sugar (500 g) syrup.** Combine sugar and water in a small pot. Bring to a boil and simmer without stirring until it reaches single-string consistency. When a small amount stretched between thumb and forefinger forms exactly one thin thread. Keep warm.
+3. Make the sugar (500 g) syrup. Combine sugar and water in a small pot. Bring to a boil and simmer without stirring until it reaches single-string consistency. When a small amount stretched between thumb and forefinger forms exactly one thin thread. Keep warm.
 
-4. **Shape.** Take a small ball of dough (about the size of a large marble). Flatten in your palm and press into a shallow cup shape. Place about half a teaspoon of nut filling in the centre. Fold the edges up and press to seal, then gently flatten into a compact round shape.
+4. Shape. Take a small ball of dough (about the size of a large marble). Flatten in your palm and press into a shallow cup shape. Place about half a teaspoon of nut filling in the centre. Fold the edges up and press to seal, then gently flatten into a compact round shape.
 
-5. **Fry.** Heat oil in a kadhai to about 160°C (medium heat). Fry the shaped khaja in batches for 4–5 minutes, turning, until golden all over. Do not rush. They need to cook through to the filling.
+5. Fry. Heat oil in a kadhai to about 160°C (medium heat). Fry the shaped khaja in batches for 4–5 minutes, turning, until golden all over. Do not rush. They need to cook through to the filling.
 
-6. **Soak in syrup.** Remove from oil, drain briefly, then immediately dip in the warm sugar syrup. Hold for 30 seconds, turning, then remove and place on a tray to set.
+6. Soak in syrup. Remove from oil, drain briefly, then immediately dip in the warm sugar syrup. Hold for 30 seconds, turning, then remove and place on a tray to set.
 
-7. **Cool completely** before serving.
+7. Cool completely before serving.
 
 ---
 

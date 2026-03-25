@@ -62,21 +62,21 @@ The final basting with oil while the chicken is half-cooked is not optional. It 
 
 ## Method
 
-1. **Make yoghurt cheese (if not using Greek yoghurt).** Line a sieve or colander with 2–3 layers of muslin or a clean cloth. Spoon 400 g of full-fat plain yoghurt into the cloth. Bring the corners together and hang over a bowl, or place the sieve over a bowl, in the refrigerator for at least 2 hours. The resulting drained yoghurt (yoghurt cheese) should be very thick, close to cream cheese in consistency. You should have approximately 165 g after draining.
+1. Make yoghurt cheese (if not using Greek yoghurt). Line a sieve or colander with 2–3 layers of muslin or a clean cloth. Spoon 400 g of full-fat plain yoghurt into the cloth. Bring the corners together and hang over a bowl, or place the sieve over a bowl, in the refrigerator for at least 2 hours. The resulting drained yoghurt (yoghurt cheese) should be very thick, close to cream cheese in consistency. You should have approximately 165 g after draining.
 
-2. **Prepare the chicken.** If using a whole chicken (700 g), cut into 2 halves along the backbone. Make 3–4 deep cuts through the flesh of each piece, cutting down to the bone. This allows the marinade to penetrate deeply. If using chicken pieces, make 2–3 deep cuts in each piece.
+2. Prepare the chicken. If using a whole chicken (700 g), cut into 2 halves along the backbone. Make 3–4 deep cuts through the flesh of each piece, cutting down to the bone. This allows the marinade to penetrate deeply. If using chicken pieces, make 2–3 deep cuts in each piece.
 
-3. **First marinade.** Combine the malt vinegar (65 ml), ginger-garlic paste (15 g), and salt (½ teaspoon). Rub thoroughly over the chicken, pressing into the cuts. Leave at room temperature for 10 minutes. After 10 minutes, squeeze the chicken pieces firmly to remove as much moisture and marinade as possible. Discard the squeezed liquid.
+3. First marinade. Combine the malt vinegar (65 ml), ginger-garlic paste (15 g), and salt (½ teaspoon). Rub thoroughly over the chicken, pressing into the cuts. Leave at room temperature for 10 minutes. After 10 minutes, squeeze the chicken pieces firmly to remove as much moisture and marinade as possible. Discard the squeezed liquid.
 
-4. **Second marinade.** In a large bowl, combine the yoghurt cheese (165 g), salt (¼ teaspoon), turmeric (½ teaspoon), red chilli powder (10 g), and garam masala (½ teaspoon). Mix well. Add the squeezed chicken pieces and coat thoroughly, pressing the thick marinade into every cut and surface. Cover and refrigerate for 3–4 hours, or overnight for best results.
+4. Second marinade. In a large bowl, combine the yoghurt cheese (165 g), salt (¼ teaspoon), turmeric (½ teaspoon), red chilli powder (10 g), and garam masala (½ teaspoon). Mix well. Add the squeezed chicken pieces and coat thoroughly, pressing the thick marinade into every cut and surface. Cover and refrigerate for 3–4 hours, or overnight for best results.
 
-5. **Cook the chicken.**
+5. Cook the chicken.
    - *In a tandoor:* Skewer the chicken and lower into the tandoor. Cook for 8–10 minutes. Remove, brush generously with neutral oil, and return to the tandoor for a further 8–12 minutes until cooked through and the marinade has set into a charred, fragrant crust.
    - *In a home oven/grill:* Preheat the oven to 240°C (220°C fan) with the grill element on, or heat a grill to its maximum setting. Place the chicken on a wire rack over a foil-lined tray. Cook for 15 minutes. Remove, baste generously with oil, return and cook for a further 15–20 minutes until cooked through. For char, finish for 3–4 minutes directly under a very hot grill until the surface is deeply coloured.
 
-6. **Test for doneness.** Insert a knife or skewer into the thickest part of the thigh. The juices should run clear, not pink. The internal temperature should reach 74°C.
+6. Test for doneness. Insert a knife or skewer into the thickest part of the thigh. The juices should run clear, not pink. The internal temperature should reach 74°C.
 
-7. **Rest and serve.** Allow to rest for 5 minutes before serving. Serve on a platter with raw onion rings, lemon wedges, and green coriander-mint chutney.
+7. Rest and serve. Allow to rest for 5 minutes before serving. Serve on a platter with raw onion rings, lemon wedges, and green coriander-mint chutney.
 
 ---
 

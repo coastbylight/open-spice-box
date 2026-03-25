@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kolkata street food
 course: Street Food
 difficulty: Medium
-tags: Kolkata, street food, egg, paratha, fried, breakfast, snack
+tags: comfort food, indian, Kolkata, street food, egg, paratha, fried, breakfast, snack
 hero_image_prompt: A moglai paratha on a paper plate, cut diagonally to reveal the egg interior, golden-brown and blistered on the outside, a small dish of mustard sauce and sliced onion alongside, shot on a street food stall surface with warm ambient light
 seo_title: Moglai Paratha Recipe — Kolkata's Crispy Egg-Stuffed Street Paratha
 meta_description: Moglai paratha: Kolkata's beloved street food of thin maida dough folded around a spiced egg mixture and shallow-fried until deeply golden. Recipe with technique.
@@ -69,19 +69,19 @@ The key is heat management. Too low and the paratha absorbs oil without crisping
 
 ## Method
 
-1. **Make the dough.** Combine flour (500 g), salt (1 tsp), and oil (1 tsp) in a large bowl. Add warm water gradually, mixing until a smooth, soft dough forms. Softer than bread dough, almost as soft as an earlobe. Knead for 5–6 minutes. Cover with a damp cloth and rest for 20 minutes.
+1. Make the dough. Combine flour (500 g), salt (1 tsp), and oil (1 tsp) in a large bowl. Add warm water gradually, mixing until a smooth, soft dough forms. Softer than bread dough, almost as soft as an earlobe. Knead for 5–6 minutes. Cover with a damp cloth and rest for 20 minutes.
 
-2. **Prepare the egg mixture.** In a bowl, beat the eggs. Add the finely chopped onion (50 g), green chillies (20 g), coriander (20 g), ginger paste (20 g), salt (5 g), black pepper (5 g), and cumin powder (10 g). Mix well and set aside. The mixture should be quite thick with aromatics.
+2. Prepare the egg mixture. In a bowl, beat the eggs. Add the finely chopped onion (50 g), green chillies (20 g), coriander (20 g), ginger paste (20 g), salt (5 g), black pepper (5 g), and cumin powder (10 g). Mix well and set aside. The mixture should be quite thick with aromatics.
 
-3. **Roll the paratha.** Divide the dough into 6–8 equal balls. On a lightly oiled or floured surface, roll each ball as thin as possible. Aim for 2–3 mm, roughly the size of a small dinner plate, 25–28 cm across. Thin rolling is critical for the flaky texture.
+3. Roll the paratha. Divide the dough into 6–8 equal balls. On a lightly oiled or floured surface, roll each ball as thin as possible. Aim for 2–3 mm, roughly the size of a small dinner plate, 25–28 cm across. Thin rolling is critical for the flaky texture.
 
-4. **Add the filling.** Spoon 2–3 tablespoons of the egg mixture onto the center of the rolled dough, spreading it lightly but leaving a 2 cm border. Do not spread all the way to the edge or sealing will be difficult.
+4. Add the filling. Spoon 2–3 tablespoons of the egg mixture onto the center of the rolled dough, spreading it lightly but leaving a 2 cm border. Do not spread all the way to the edge or sealing will be difficult.
 
-5. **Fold and seal.** Fold the bottom third of the dough up over the filling, then fold the top third down, like a letter. Then fold the left and right sides in to create a rectangular parcel with the egg enclosed completely. Press the edges firmly to seal.
+5. Fold and seal. Fold the bottom third of the dough up over the filling, then fold the top third down, like a letter. Then fold the left and right sides in to create a rectangular parcel with the egg enclosed completely. Press the edges firmly to seal.
 
-6. **Fry.** Heat a large tawa or heavy frying pan over medium-high heat. Add enough oil to generously coat the surface, about 2 tablespoons per paratha. Carefully lay the folded paratha in the oil, sealed side down first to seal the edges with heat. Cook for 3–4 minutes until the underside is deeply golden, pressing gently with the spatula to ensure even contact. Flip and cook the other side for another 3–4 minutes. The paratha is ready when both sides are a rich amber-gold and the paratha feels light and slightly puffed.
+6. Fry. Heat a large tawa or heavy frying pan over medium-high heat. Add enough oil to generously coat the surface, about 2 tablespoons per paratha. Carefully lay the folded paratha in the oil, sealed side down first to seal the edges with heat. Cook for 3–4 minutes until the underside is deeply golden, pressing gently with the spatula to ensure even contact. Flip and cook the other side for another 3–4 minutes. The paratha is ready when both sides are a rich amber-gold and the paratha feels light and slightly puffed.
 
-7. **Drain and serve.** Remove to a wire rack or paper-lined plate briefly. Serve immediately. The contrast between crisp exterior and soft egg interior is greatest in the first few minutes.
+7. Drain and serve. Remove to a wire rack or paper-lined plate briefly. Serve immediately. The contrast between crisp exterior and soft egg interior is greatest in the first few minutes.
 
 ---
 

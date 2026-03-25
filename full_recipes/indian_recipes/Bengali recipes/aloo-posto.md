@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Easy
-tags: Bengali, potato, poppy seed, posto, mustard oil, vegetarian, vegan, gluten-free, weeknight, comfort food
+tags: indian, Bengali, potato, poppy seed, posto, mustard oil, vegetarian, vegan, gluten-free, weeknight, comfort food
 hero_image_prompt: A shallow terracotta bowl of aloo posto, cubed potatoes coated in a pale grey-white poppy seed paste flecked with slit green chillies and nigella seeds, a thread of raw mustard oil catching the light, shot from directly above on a weathered wooden surface in soft natural daylight
 seo_title: Aloo Posto Recipe — Bengali Potato & Poppy Seed Dish
 meta_description: Aloo posto: Bengali potatoes cooked in a freshly ground poppy seed paste with mustard oil and nigella seeds. A weekday staple of extraordinary depth and simplicity.
@@ -64,19 +64,19 @@ Mustard oil is the only appropriate fat. The dish is finished with a drizzle of 
 
 ## Method
 
-1. **Soak and grind the posto.** Drain the soaked poppy seeds (80 g) and transfer to a small blender or grinder. Add the chopped green chillies and 4 tablespoons of cold water. Grind to as smooth a paste as possible. Stop and scrape down the sides repeatedly. If the paste feels coarse, add another tablespoon of water and continue grinding. The paste should be pale, cohesive, and creamy — this step cannot be rushed. Set aside.
+1. Soak and grind the posto. Drain the soaked poppy seeds (80 g) and transfer to a small blender or grinder. Add the chopped green chillies and 4 tablespoons of cold water. Grind to as smooth a paste as possible. Stop and scrape down the sides repeatedly. If the paste feels coarse, add another tablespoon of water and continue grinding. The paste should be pale, cohesive, and creamy — this step cannot be rushed. Set aside.
 
-2. **Heat the mustard oil (3 tablespoons).** Pour the mustard oil into a heavy-based pan or karahi and heat over high heat until wisps of white smoke appear. Remove from heat and allow to cool for 1–2 minutes. This removes the raw sharpness of the oil. Return to medium heat.
+2. Heat the mustard oil (3 tablespoons). Pour the mustard oil into a heavy-based pan or karahi and heat over high heat until wisps of white smoke appear. Remove from heat and allow to cool for 1–2 minutes. This removes the raw sharpness of the oil. Return to medium heat.
 
-3. **Temper.** Add the nigella seeds (½ teaspoon) to the hot oil. They will pop and sputter within seconds, releasing their characteristic sharp, onion-like fragrance. Allow them to sizzle for 20–30 seconds.
+3. Temper. Add the nigella seeds (½ teaspoon) to the hot oil. They will pop and sputter within seconds, releasing their characteristic sharp, onion-like fragrance. Allow them to sizzle for 20–30 seconds.
 
-4. **Fry the potatoes.** Add the cubed potatoes to the pan and turn to coat in the tempered oil. Add the turmeric (½ teaspoon) and stir gently to coat the potatoes evenly in yellow. Increase heat to medium-high and fry the potatoes, turning occasionally, for 8–10 minutes until lightly golden on the outside and about three-quarters cooked through. They should resist a skewer but not be hard at the centre.
+4. Fry the potatoes. Add the cubed potatoes to the pan and turn to coat in the tempered oil. Add the turmeric (½ teaspoon) and stir gently to coat the potatoes evenly in yellow. Increase heat to medium-high and fry the potatoes, turning occasionally, for 8–10 minutes until lightly golden on the outside and about three-quarters cooked through. They should resist a skewer but not be hard at the centre.
 
-5. **Add the posto paste.** Reduce heat to medium-low. Add the posto paste to the pan. Stir to coat the potatoes, being gentle to avoid breaking them. Add 3–4 tablespoons of water to help the paste spread and prevent it from scorching. Add the slit green chillies, salt (1 teaspoon), and sugar (½ teaspoon). Stir everything together.
+5. Add the posto paste. Reduce heat to medium-low. Add the posto paste to the pan. Stir to coat the potatoes, being gentle to avoid breaking them. Add 3–4 tablespoons of water to help the paste spread and prevent it from scorching. Add the slit green chillies, salt (1 teaspoon), and sugar (½ teaspoon). Stir everything together.
 
-6. **Cook through.** Cover the pan with a lid and cook over low heat for 6–8 minutes until the potatoes are completely tender when pierced with a skewer. The paste will coat the potatoes and dry down. There should be very little pooling sauce. Remove the lid for the last 2 minutes if the mixture seems too wet; the paste should cling rather than pool.
+6. Cook through. Cover the pan with a lid and cook over low heat for 6–8 minutes until the potatoes are completely tender when pierced with a skewer. The paste will coat the potatoes and dry down. There should be very little pooling sauce. Remove the lid for the last 2 minutes if the mixture seems too wet; the paste should cling rather than pool.
 
-7. **Finish.** Taste for salt and adjust. Drizzle 1 teaspoon of raw mustard oil over the surface just before serving. Do not stir this in — let it sit on top as an aromatic finish. Serve immediately.
+7. Finish. Taste for salt and adjust. Drizzle 1 teaspoon of raw mustard oil over the surface just before serving. Do not stir this in — let it sit on top as an aromatic finish. Serve immediately.
 
 ---
 

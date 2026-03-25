@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Involved
-tags: Goan, dessert, coconut, layered, festive, baked, egg
+tags: indian, Goan, dessert, coconut, layered, festive, baked, egg
 hero_image_prompt: A thick wedge of bebinca sliced to reveal seven amber-gold layers, served on a white ceramic plate with a dusting of nutmeg, warm afternoon light from the side casting long shadows across the caramelised surface, dark wood table beneath
 seo_title: Bebinca Recipe — Goa's Classic Seven-Layer Coconut Pudding
 meta_description: The definitive bebinca recipe: seven golden layers of coconut milk, egg yolk, and sugar, each caramelised before the next is poured. A Goan Christmas essential.
@@ -61,17 +61,17 @@ The practical key: spread each layer thin, no more than half a centimetre. A thi
 
 ## Method
 
-1. **Make the batter.** Whisk the egg yolks (100 g) and sugar together in a large bowl until the mixture is pale and the sugar has mostly dissolved, about 2 minutes of steady whisking. Add the coconut milk (500 ml) and whisk to combine. Sift in the flour (200 g), cardamom (1 tsp), and nutmeg, and whisk until completely smooth. The batter should be fluid, with no lumps. Rest for 10 minutes.
+1. Make the batter. Whisk the egg yolks (100 g) and sugar together in a large bowl until the mixture is pale and the sugar has mostly dissolved, about 2 minutes of steady whisking. Add the coconut milk (500 ml) and whisk to combine. Sift in the flour (200 g), cardamom (1 tsp), and nutmeg, and whisk until completely smooth. The batter should be fluid, with no lumps. Rest for 10 minutes.
 
-2. **Set up your pan.** Use a heavy-bottomed, oven-safe pan approximately 20–22 cm in diameter. A cast-iron skillet or a flat-based cake tin with a solid base works well. Grease generously with ghee (50 g). Position your oven rack about 15 cm from the top grill/broiler element and preheat the grill to its highest setting.
+2. Set up your pan. Use a heavy-bottomed, oven-safe pan approximately 20–22 cm in diameter. A cast-iron skillet or a flat-based cake tin with a solid base works well. Grease generously with ghee (50 g). Position your oven rack about 15 cm from the top grill/broiler element and preheat the grill to its highest setting.
 
-3. **Pour the first layer.** Ladle in enough batter to just cover the base, roughly 80–90 ml, forming a layer about 4–5 mm deep. Tilt to distribute evenly. Place under the grill and cook for 10–13 minutes, watching closely. The layer is ready when the top is deeply golden and the edges are beginning to pull away slightly. It should look like a golden-brown crêpe: caramelised on top, set through.
+3. Pour the first layer. Ladle in enough batter to just cover the base, roughly 80–90 ml, forming a layer about 4–5 mm deep. Tilt to distribute evenly. Place under the grill and cook for 10–13 minutes, watching closely. The layer is ready when the top is deeply golden and the edges are beginning to pull away slightly. It should look like a golden-brown crêpe: caramelised on top, set through.
 
-4. **Build the layers.** Remove from the grill. Brush the surface lightly with melted ghee. Stir the waiting batter well (the flour settles), then pour the next thin layer directly on top. Return to the grill. Repeat this process (grill, brush with ghee, pour next layer) until all the batter is used. You should achieve a minimum of 7 layers; aim for 7–9.
+4. Build the layers. Remove from the grill. Brush the surface lightly with melted ghee. Stir the waiting batter well (the flour settles), then pour the next thin layer directly on top. Return to the grill. Repeat this process (grill, brush with ghee, pour next layer) until all the batter is used. You should achieve a minimum of 7 layers; aim for 7–9.
 
-5. **Final layer.** After the final layer is caramelised, remove the bebinca from the oven. Allow to cool completely in the pan, at least 1 hour. It will firm as it cools.
+5. Final layer. After the final layer is caramelised, remove the bebinca from the oven. Allow to cool completely in the pan, at least 1 hour. It will firm as it cools.
 
-6. **Unmould and slice.** Run a thin knife around the edge of the pan. Invert onto a board. The caramelised bottom layer (which was poured first) will now be on top, the darkest and most fragrant. Dust lightly with freshly grated nutmeg (½ tsp). Slice into wedges or squares to reveal the amber cross-section of layers.
+6. Unmould and slice. Run a thin knife around the edge of the pan. Invert onto a board. The caramelised bottom layer (which was poured first) will now be on top, the darkest and most fragrant. Dust lightly with freshly grated nutmeg (½ tsp). Slice into wedges or squares to reveal the amber cross-section of layers.
 
 ---
 

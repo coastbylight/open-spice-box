@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Breakfast
 difficulty: Easy
-tags: [kerala, breakfast, rice-flour, coconut, steamed, gluten-free, puttu, kadala]
+tags: [indian, kerala, breakfast, rice-flour, coconut, steamed, gluten-free, puttu, kadala]
 hero_image_prompt: Two white puttu cylinders on a banana leaf, their ends crumbling slightly where they were pushed from the mold, layers of white rice flour and fresh coconut alternating visibly, steam still rising, a small bowl of deep brown Kerala kadala curry beside them and a single ripe yellow banana, photographed in soft morning light
 seo_title: Puttu — Kerala's Steamed Rice Flour and Coconut Breakfast
 meta_description: Puttu is Kerala's most iconic breakfast — steamed cylinders of rice flour and fresh coconut, cooked in a puttu maker. Served with kadala curry, banana, or coconut milk and sugar. Simple, grounding, and deeply satisfying.

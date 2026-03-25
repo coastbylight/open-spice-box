@@ -6,7 +6,7 @@ source_name: Traditional Street Food Recipe
 cuisine: East Indian
 course: Snack
 difficulty: Easy
-tags: Kolkata, street food, noodles, chowmein, stir-fry, vegetarian, East India, quick
+tags: comfort food, indian, Kolkata, street food, noodles, chowmein, stir-fry, vegetarian, East India, quick
 hero_image_prompt: A wide paper plate piled with glossy stir-fried noodles, dark with soy and chilli sauce, studded with shredded cabbage and carrot julienne, wisps of steam rising, photographed against a dark street-food background with warm overhead light
 seo_title: Kolkata Chowmein: Indian Street-Style Stir-Fried Noodles
 meta_description: Kolkata chowmein: stir-fried hakka noodles with cabbage, carrot, capsicum, and onion tossed in soy sauce and chilli sauce, the iconic street food of Bengal.
@@ -60,17 +60,17 @@ At home, the key is heat. A domestic hob cannot replicate a wok burner's intensi
 
 ## Method
 
-1. **Prep everything before you start.** This cooks fast. Have all vegetables cut, sauces measured, and noodles ready.
+1. Prep everything before you start. This cooks fast. Have all vegetables cut, sauces measured, and noodles ready.
 
-2. **Heat the wok or pan.** Set a large wok or cast-iron pan over the highest heat available. Let it heat for 2 full minutes until very hot.
+2. Heat the wok or pan. Set a large wok or cast-iron pan over the highest heat available. Let it heat for 2 full minutes until very hot.
 
-3. **Stir-fry the vegetables.** Add the oil. When it shimmers, add the onions (50 g) and stir-fry for 30 seconds. Add the carrots (50 g), then the cabbage (200 g), then the capsicum (50 g). Stir-fry continuously over high heat for 2–3 minutes. The vegetables should be just beginning to soften at the edges but still have crunch.
+3. Stir-fry the vegetables. Add the oil. When it shimmers, add the onions (50 g) and stir-fry for 30 seconds. Add the carrots (50 g), then the cabbage (200 g), then the capsicum (50 g). Stir-fry continuously over high heat for 2–3 minutes. The vegetables should be just beginning to soften at the edges but still have crunch.
 
-4. **Add the noodles.** Add the boiled noodles. Toss and stir-fry over high heat for 1–2 minutes, pressing the noodles against the hot surface in intervals to get some colour.
+4. Add the noodles. Add the boiled noodles. Toss and stir-fry over high heat for 1–2 minutes, pressing the noodles against the hot surface in intervals to get some colour.
 
-5. **Add sauces and seasoning.** Pour the soy sauce (20 ml) and chilli sauce (20 ml) around the edges of the wok (not the centre, which is cooler). The edges are hotter and will reduce the sauce quickly. Add salt (1 teaspoon), white pepper (1 teaspoon), and MSG (1 teaspoon) if using. Toss everything together vigorously for 1–2 minutes until the noodles are uniformly dark and glossy.
+5. Add sauces and seasoning. Pour the soy sauce (20 ml) and chilli sauce (20 ml) around the edges of the wok (not the centre, which is cooler). The edges are hotter and will reduce the sauce quickly. Add salt (1 teaspoon), white pepper (1 teaspoon), and MSG (1 teaspoon) if using. Toss everything together vigorously for 1–2 minutes until the noodles are uniformly dark and glossy.
 
-6. **Serve immediately.** Chowmein waits for no one.
+6. Serve immediately. Chowmein waits for no one.
 
 ---
 

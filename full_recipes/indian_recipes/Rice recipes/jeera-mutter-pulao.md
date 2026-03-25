@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Side
 difficulty: Easy
-tags: Punjabi, rice, basmati, peas, cumin, vegetarian, vegan, weeknight, side dish
+tags: indian, Punjabi, rice, basmati, peas, cumin, vegetarian, vegan, weeknight, side dish
 hero_image_prompt: A wide platter of jeera mutter pulao, the long basmati grains separate and glossy with oil, bright green peas scattered throughout, the surface flecked with dark whole spices, on a pale stone surface with soft natural light
 seo_title: Jeera Mutter Pulao Recipe — Punjabi Cumin and Pea Rice
 meta_description: Simple, fragrant jeera mutter pulao: basmati rice soaked and cooked with golden onion, cumin, whole spices, and sweet green peas.
@@ -60,19 +60,19 @@ A generous frying of the onions until properly golden is worth the 10 minutes it
 
 ## Method
 
-1. **Soak the rice.** Rinse the basmati rice (175 g) in cold water until it runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain through a sieve.
+1. Soak the rice. Rinse the basmati rice (175 g) in cold water until it runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain through a sieve.
 
-2. **Bloom the whole spices.** Heat the oil in a wide, heavy-based pot with a lid over medium-high heat. Add the cloves (3–4), cinnamon stick (3 cm), and black cardamom pod (1 g). Stir for 20–30 seconds until fragrant.
+2. Bloom the whole spices. Heat the oil in a wide, heavy-based pot with a lid over medium-high heat. Add the cloves (3–4), cinnamon stick (3 cm), and black cardamom pod (1 g). Stir for 20–30 seconds until fragrant.
 
-3. **Add cumin and onions.** Add the cumin seeds (1½ teaspoons) — they should splutter immediately in the hot oil. Add the sliced onions and cook over medium-high heat, stirring frequently, for 8–10 minutes until deep golden brown.
+3. Add cumin and onions. Add the cumin seeds (1½ teaspoons) — they should splutter immediately in the hot oil. Add the sliced onions and cook over medium-high heat, stirring frequently, for 8–10 minutes until deep golden brown.
 
-4. **Add peas, salt (¾ teaspoon), and rice.** Add the green peas (100 g) and stir for 30 seconds. Add the salt and the drained soaked rice. Fold very gently to coat the rice in the oil and spices — avoid breaking the delicate soaked grains. Stir with a light hand for 1–2 minutes until the rice is warmed through and coated.
+4. Add peas, salt (¾ teaspoon), and rice. Add the green peas (100 g) and stir for 30 seconds. Add the salt and the drained soaked rice. Fold very gently to coat the rice in the oil and spices — avoid breaking the delicate soaked grains. Stir with a light hand for 1–2 minutes until the rice is warmed through and coated.
 
-5. **Add water and cook.** Add 320 ml of hot water. Stir once, bring to a boil over high heat, then reduce to the lowest simmer. Cook uncovered until the water drops to just below the surface of the rice — about 5–7 minutes.
+5. Add water and cook. Add 320 ml of hot water. Stir once, bring to a boil over high heat, then reduce to the lowest simmer. Cook uncovered until the water drops to just below the surface of the rice — about 5–7 minutes.
 
-6. **Dum finish.** Place a clean folded kitchen cloth over the pot and cover tightly with the lid. Cook on the lowest possible heat for 18–20 minutes. Do not open the lid.
+6. Dum finish. Place a clean folded kitchen cloth over the pot and cover tightly with the lid. Cook on the lowest possible heat for 18–20 minutes. Do not open the lid.
 
-7. **Rest and serve.** Remove from heat and rest, covered, for 5 minutes. Uncover and gently fluff with a fork. The grains should be separate and the peas bright and cooked through.
+7. Rest and serve. Remove from heat and rest, covered, for 5 minutes. Uncover and gently fluff with a fork. The grains should be separate and the peas bright and cooked through.
 
 ---
 

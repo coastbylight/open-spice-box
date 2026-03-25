@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Medium
-tags: Awadhi, Lucknow, chicken, korma, Mughal, cashew, saffron, kewra, gluten-free
+tags: indian, Awadhi, Lucknow, chicken, korma, Mughal, cashew, saffron, kewra, gluten-free
 hero_image_prompt: A wide, cream-coloured korma in a dark copper pot, the sauce rich and golden with a sheen of ghee on the surface, a few whole chicken pieces visible, a golden thread of saffron across the top, shot with warm overhead light on aged brass
 seo_title: Murgh Korma Recipe — Authentic Awadhi Chicken Korma with Cashew and Saffron
 meta_description: Awadhi murgh korma: chicken braised in a silky cashew and yogurt sauce, finished with kewra water and saffron. The Mughal court classic, made for home kitchens.
@@ -81,21 +81,21 @@ The single most useful insight: don't rush the onion browning. Deep golden onion
 
 ## Method
 
-1. **Make the cashew paste.** Soak the cashews (50 g) in warm water for 20 minutes until softened. Drain and blend with 3–4 tablespoons of fresh water to a completely smooth, white paste. Set aside.
+1. Make the cashew paste. Soak the cashews (50 g) in warm water for 20 minutes until softened. Drain and blend with 3–4 tablespoons of fresh water to a completely smooth, white paste. Set aside.
 
-2. **Brown the onions.** In a wide, heavy pot, melt the ghee (3½ tablespoons) over medium-high heat. Add the sliced onions with a pinch of salt (2 teaspoons). Cook, stirring regularly, for 18–22 minutes until the onions are deep golden-brown — not pale or merely soft, but genuinely caramelised, with a sweet, nutty aroma. Patience here pays dividends in every subsequent step. Remove half the onions and set aside for garnishing.
+2. Brown the onions. In a wide, heavy pot, melt the ghee (3½ tablespoons) over medium-high heat. Add the sliced onions with a pinch of salt (2 teaspoons). Cook, stirring regularly, for 18–22 minutes until the onions are deep golden-brown — not pale or merely soft, but genuinely caramelised, with a sweet, nutty aroma. Patience here pays dividends in every subsequent step. Remove half the onions and set aside for garnishing.
 
-3. **Build the base.** Add the whole spices (cardamom (4–5 pods), cloves (4–5 cloves), cinnamon (1 short stick), mace (2 blades)) to the remaining onions in the pot. Stir for 60 seconds until fragrant. Add the ginger-garlic paste (2 tablespoons) and cook, stirring constantly, for 2–3 minutes until the raw smell disappears and the paste turns lightly golden.
+3. Build the base. Add the whole spices (cardamom (4–5 pods), cloves (4–5 cloves), cinnamon (1 short stick), mace (2 blades)) to the remaining onions in the pot. Stir for 60 seconds until fragrant. Add the ginger-garlic paste (2 tablespoons) and cook, stirring constantly, for 2–3 minutes until the raw smell disappears and the paste turns lightly golden.
 
-4. **Add the chicken (1 kg).** Increase heat to medium-high. Add the chicken pieces and cook, turning, for 6–8 minutes until lightly coloured on all sides. The skin should show some golden patches.
+4. Add the chicken (1 kg). Increase heat to medium-high. Add the chicken pieces and cook, turning, for 6–8 minutes until lightly coloured on all sides. The skin should show some golden patches.
 
-5. **Add yogurt (100 g) in stages.** Reduce the heat to medium. Add the beaten yogurt in three additions — add one-third, stir vigorously and cook until it is fully incorporated into the sauce and stops looking white and separate (about 2–3 minutes), then add the next third. Repeat with the final addition. This gradual approach prevents the yogurt from splitting and builds a smooth, integrated sauce.
+5. Add yogurt (100 g) in stages. Reduce the heat to medium. Add the beaten yogurt in three additions — add one-third, stir vigorously and cook until it is fully incorporated into the sauce and stops looking white and separate (about 2–3 minutes), then add the next third. Repeat with the final addition. This gradual approach prevents the yogurt from splitting and builds a smooth, integrated sauce.
 
-6. **Spice and simmer.** Add the red chilli powder (4 teaspoons), coriander powder (2 teaspoons), and turmeric (1 teaspoon). Stir well and cook for 3–4 minutes, stirring regularly, until the spices are well incorporated and the ghee begins to separate around the edges of the sauce. Add the cashew paste and stir through. Add 150 ml of warm water, bring to a gentle simmer, then cover and cook over low heat for 20–25 minutes until the chicken is cooked through and tender.
+6. Spice and simmer. Add the red chilli powder (4 teaspoons), coriander powder (2 teaspoons), and turmeric (1 teaspoon). Stir well and cook for 3–4 minutes, stirring regularly, until the spices are well incorporated and the ghee begins to separate around the edges of the sauce. Add the cashew paste and stir through. Add 150 ml of warm water, bring to a gentle simmer, then cover and cook over low heat for 20–25 minutes until the chicken is cooked through and tender.
 
-7. **Finish.** Remove the lid, stir in the garam masala (2 teaspoons) and cream (2 tablespoons). Simmer uncovered for 5 minutes to thicken slightly. Remove from heat. Stir in the kewra water (2 teaspoons) and saffron (3 g) milk. Taste for salt.
+7. Finish. Remove the lid, stir in the garam masala (2 teaspoons) and cream (2 tablespoons). Simmer uncovered for 5 minutes to thicken slightly. Remove from heat. Stir in the kewra water (2 teaspoons) and saffron (3 g) milk. Taste for salt.
 
-8. **Serve** garnished with the reserved fried onions.
+8. Serve garnished with the reserved fried onions.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Medium
-tags: Parsi, chicken, potato straws, apricot, sweet-savoury, Zoroastrian, gluten-free, celebration
+tags: indian, Parsi, chicken, potato straws, apricot, sweet-savoury, Zoroastrian, gluten-free, celebration
 hero_image_prompt: A wide bowl of deep amber Parsi chicken curry topped with a generous tangle of golden-brown potato straws, steam rising, photographed from above on a dark stone surface with warm side light
 seo_title: Salli Murgi — Parsi Chicken Curry with Crispy Potato Straws
 meta_description: Salli murgi: Parsi chicken curry with tomato, onion, and warm spices, optionally enriched with dried apricot, finished with cream, and crowned with crisp salli (potato straws).
@@ -72,17 +72,17 @@ The salli must be made fresh and added at the last moment; they soften within mi
 
 ## Method
 
-1. **Cook the curry base.** Heat oil in a kadhai over medium heat. Fry the sliced onion until golden brown, about 10 minutes. Add the chilli (1), garlic (10 g), ginger (30 g), turmeric (2 g), red chilli powder (2 g), white pepper (1 g), cumin (2 g), and cinnamon (2 g). Stir-fry for 3–4 minutes.
+1. Cook the curry base. Heat oil in a kadhai over medium heat. Fry the sliced onion until golden brown, about 10 minutes. Add the chilli (1), garlic (10 g), ginger (30 g), turmeric (2 g), red chilli powder (2 g), white pepper (1 g), cumin (2 g), and cinnamon (2 g). Stir-fry for 3–4 minutes.
 
-2. **Add tomatoes (150 g).** Add the blended tomato. Cook until oil separates, about 5 minutes. Transfer to a blender, add 60 ml water, and blend to a smooth paste. Return to the pan.
+2. Add tomatoes (150 g). Add the blended tomato. Cook until oil separates, about 5 minutes. Transfer to a blender, add 60 ml water, and blend to a smooth paste. Return to the pan.
 
-3. **Cook the chicken.** Stir-fry the chicken in a wok or wide pan in a little oil for 5 minutes. Add the blended onion-tomato masala, salt (10 g), sugar (2 g), and enough water (60 ml) to barely cover. Simmer uncovered for 15–20 minutes until the chicken is cooked and the gravy has thickened.
+3. Cook the chicken. Stir-fry the chicken in a wok or wide pan in a little oil for 5 minutes. Add the blended onion-tomato masala, salt (10 g), sugar (2 g), and enough water (60 ml) to barely cover. Simmer uncovered for 15–20 minutes until the chicken is cooked and the gravy has thickened.
 
-4. **Finish.** Add the dried apricots (if using) and cook for 5 minutes more. Stir in the cream (50 ml) and garam masala (2 g). Garnish with coriander (30 g). Keep warm.
+4. Finish. Add the dried apricots (if using) and cook for 5 minutes more. Stir in the cream (50 ml) and garam masala (2 g). Garnish with coriander (30 g). Keep warm.
 
-5. **Make the salli.** Rinse the shredded potato thoroughly in cold water until water runs clear. Pat completely dry with a kitchen towel. This is essential for crispy results. Heat oil in a kadhai to 180°C. Fry the potato straws in small batches until golden and crisp, about 3–4 minutes. Drain and immediately season with salt.
+5. Make the salli. Rinse the shredded potato thoroughly in cold water until water runs clear. Pat completely dry with a kitchen towel. This is essential for crispy results. Heat oil in a kadhai to 180°C. Fry the potato straws in small batches until golden and crisp, about 3–4 minutes. Drain and immediately season with salt.
 
-6. **Serve.** Top each portion of chicken with a generous tangle of salli at the table.
+6. Serve. Top each portion of chicken with a generous tangle of salli at the table.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Bread
 difficulty: Medium
-tags: Bengali, bread, deep-fried, luchi, maida, white flour, festive, vegetarian, celebration, Durga Puja, Saraswati Puja
+tags: indian, Bengali, bread, deep-fried, luchi, maida, white flour, festive, vegetarian, celebration, Durga Puja, Saraswati Puja
 hero_image_prompt: Five golden-white luchi breads on a dark iron plate, three fully puffed into round domes, two partially deflated showing their layered interior, shot close from a slight angle in warm morning light, the glistening surface catching small highlights, a bronze bowl of cholar dal partially visible at the edge
 seo_title: Luchi Recipe — Authentic Bengali Deep-Fried Puffed Breads
 meta_description: Luchi: Bengali puffed deep-fried breads made from fine white flour. The definitive festive bread of Bengal, traditionally served with cholar dal or kasha mangsho.
@@ -60,21 +60,21 @@ Frying temperature is the other variable that separates good luchi from great lu
 
 ## Method
 
-1. **Make the dough.** Sift the maida (250 g) and salt (½ teaspoon) together into a large bowl. Add the sugar (1 teaspoon) if using. Add the ghee (2 tablespoons) in small pieces. Using your fingertips, work the ghee into the flour using a rubbing motion — as you would for shortcrust pastry — until the mixture resembles very fine breadcrumbs and there are no visible lumps of fat. This stage is important: the fat must be fully incorporated before any water is added.
+1. Make the dough. Sift the maida (250 g) and salt (½ teaspoon) together into a large bowl. Add the sugar (1 teaspoon) if using. Add the ghee (2 tablespoons) in small pieces. Using your fingertips, work the ghee into the flour using a rubbing motion — as you would for shortcrust pastry — until the mixture resembles very fine breadcrumbs and there are no visible lumps of fat. This stage is important: the fat must be fully incorporated before any water is added.
 
-2. **Add water gradually.** Make a well in the centre of the flour mixture. Add the warm water a little at a time, mixing with one hand as you add. The dough should come together into a firm, smooth ball — firmer than you might expect, and noticeably stiffer than a chapati dough. Add only enough water to bring the dough together without stickiness. A dough that is too soft will not puff properly.
+2. Add water gradually. Make a well in the centre of the flour mixture. Add the warm water a little at a time, mixing with one hand as you add. The dough should come together into a firm, smooth ball — firmer than you might expect, and noticeably stiffer than a chapati dough. Add only enough water to bring the dough together without stickiness. A dough that is too soft will not puff properly.
 
-3. **Knead.** Turn the dough out onto a clean surface and knead for 5–7 minutes until it is completely smooth, elastic, and non-sticky. The surface should be slightly satiny. Cover with a damp cloth or cling film and rest for at least 20 minutes at room temperature. This resting period allows the gluten to relax, making rolling much easier.
+3. Knead. Turn the dough out onto a clean surface and knead for 5–7 minutes until it is completely smooth, elastic, and non-sticky. The surface should be slightly satiny. Cover with a damp cloth or cling film and rest for at least 20 minutes at room temperature. This resting period allows the gluten to relax, making rolling much easier.
 
-4. **Divide and roll.** Divide the rested dough into 16–18 equal balls, each about the size of a large marble (20–22 g each). Keep them covered as you work. Working one at a time, dust your work surface lightly with maida and roll each ball into a round disc approximately 10–11 cm in diameter and 2–3 mm thick. The disc should be even in thickness. Any thick spots will resist puffing. Do not roll too thin or the luchi will tear rather than puff.
+4. Divide and roll. Divide the rested dough into 16–18 equal balls, each about the size of a large marble (20–22 g each). Keep them covered as you work. Working one at a time, dust your work surface lightly with maida and roll each ball into a round disc approximately 10–11 cm in diameter and 2–3 mm thick. The disc should be even in thickness. Any thick spots will resist puffing. Do not roll too thin or the luchi will tear rather than puff.
 
-5. **Heat the oil.** Pour the oil into a deep, heavy-based pan to a depth of at least 8 cm. Heat over medium-high heat to approximately 180°C. Test the temperature by dropping a tiny piece of dough into the oil. It should sink briefly, then rise immediately to the surface and sizzle actively. If it rises too fast and browns immediately, the oil is too hot; if it sinks and sits, the oil is too cool.
+5. Heat the oil. Pour the oil into a deep, heavy-based pan to a depth of at least 8 cm. Heat over medium-high heat to approximately 180°C. Test the temperature by dropping a tiny piece of dough into the oil. It should sink briefly, then rise immediately to the surface and sizzle actively. If it rises too fast and browns immediately, the oil is too hot; if it sinks and sits, the oil is too cool.
 
-6. **Fry the luchi.** Carefully slide one dough disc into the hot oil. Within a few seconds it will begin to puff. Using the back of a slotted spoon or a spider skimmer, gently press down on the surface of the luchi with light, repeated taps. This helps the steam build pressure evenly inside and encourages full, symmetrical puffing. The luchi should be golden-white (not brown) on the bottom after about 45 seconds. Turn it once. Fry the second side for a further 20–30 seconds. Remove and drain on kitchen paper. The entire process per luchi takes approximately 60–90 seconds.
+6. Fry the luchi. Carefully slide one dough disc into the hot oil. Within a few seconds it will begin to puff. Using the back of a slotted spoon or a spider skimmer, gently press down on the surface of the luchi with light, repeated taps. This helps the steam build pressure evenly inside and encourages full, symmetrical puffing. The luchi should be golden-white (not brown) on the bottom after about 45 seconds. Turn it once. Fry the second side for a further 20–30 seconds. Remove and drain on kitchen paper. The entire process per luchi takes approximately 60–90 seconds.
 
-7. **Maintain the oil temperature.** Between each luchi, give the oil a moment to return to temperature. Frying in rapid succession without allowing the temperature to recover will cause the later luchi to absorb more oil and puff less dramatically.
+7. Maintain the oil temperature. Between each luchi, give the oil a moment to return to temperature. Frying in rapid succession without allowing the temperature to recover will cause the later luchi to absorb more oil and puff less dramatically.
 
-8. **Serve immediately.** Luchi is at its best the moment it comes out of the oil — hot, faintly glistening, still holding some of the air from puffing. It should not wait. Have the accompaniments ready before you begin frying.
+8. Serve immediately. Luchi is at its best the moment it comes out of the oil — hot, faintly glistening, still holding some of the air from puffing. It should not wait. Have the accompaniments ready before you begin frying.
 
 ---
 

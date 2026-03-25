@@ -6,7 +6,7 @@ source_name: Traditional North Indian Street Food
 cuisine: North Indian
 course: Snack
 difficulty: Easy
-tags: chaat, potato, sweet potato, street food, North Indian, vegetarian, vegan, Delhi, black salt
+tags: comfort food, chaat, potato, sweet potato, street food, North Indian, vegetarian, vegan, Delhi, black salt
 hero_image_prompt: A wide chaat plate of golden diced potato and orange sweet potato cubes, glistening with ghee and tamarind chutney, scattered with green coriander and julienned ginger, on a dark background with warm overhead light
 seo_title: Aloo Shakarkandi Ki Chaat — North Indian Potato and Sweet Potato Chaat
 meta_description: Aloo shakarkandi ki chaat: potato and sweet potato pan-fried in ghee until golden, tossed with tamarind water, black salt, saunth chutney, and green chilli.
@@ -58,15 +58,15 @@ This is a simple preparation made interesting by the layering of its seasonings:
 
 ## Method
 
-1. **Fry the potatoes (500 g).** Heat the ghee (100 g) in a wide, heavy pan over medium-high heat. Add the diced potato and fry, stirring occasionally, for 10–12 minutes until golden and crispy at the edges and cooked through. Remove with a slotted spoon.
+1. Fry the potatoes (500 g). Heat the ghee (100 g) in a wide, heavy pan over medium-high heat. Add the diced potato and fry, stirring occasionally, for 10–12 minutes until golden and crispy at the edges and cooked through. Remove with a slotted spoon.
 
-2. **Warm the sweet potato.** If the sweet potato is already roasted or boiled, add it to the same ghee for 2–3 minutes just to warm through and pick up some colour.
+2. Warm the sweet potato. If the sweet potato is already roasted or boiled, add it to the same ghee for 2–3 minutes just to warm through and pick up some colour.
 
-3. **Toss together.** Combine the fried potato and sweet potato in a wide bowl. Pour over the tamarind water (100 ml) and add the black salt (25 g), ginger (50 g) julienne, and chopped green chillies (25 g). Toss well.
+3. Toss together. Combine the fried potato and sweet potato in a wide bowl. Pour over the tamarind water (100 ml) and add the black salt (25 g), ginger (50 g) julienne, and chopped green chillies (25 g). Toss well.
 
-4. **Add saunth chutney (200 g).** Drizzle the saunth chutney over the mixture and toss once more.
+4. Add saunth chutney (200 g). Drizzle the saunth chutney over the mixture and toss once more.
 
-5. **Garnish and serve.** Scatter the fresh coriander (25 g) over the top and serve warm. This chaat is best when the potato is still hot and the condiments are fresh.
+5. Garnish and serve. Scatter the fresh coriander (25 g) over the top and serve warm. This chaat is best when the potato is still hot and the condiments are fresh.
 
 ---
 

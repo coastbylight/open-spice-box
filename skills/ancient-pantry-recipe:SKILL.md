@@ -69,9 +69,33 @@ Make the recipe clearly cookable.
 
 Ensure:
 - Ingredients appear in order of use
-- Measurements are standardized (metric and imperial where practical)
+- Measurements follow the **Ingredient Measurement Standard** (see below)
 - Cooking times are plausible for the technique described
 - Instructions are clear and sequential
+
+### Ingredient Measurement Standard (Critical)
+
+The app has a metric/imperial toggle. Write ingredients to support both systems correctly.
+
+**Imperial mode (when toggle shows oz):**
+- **Proteins (meat, cheese, seafood) and produce:** use oz if under 8 oz, use lb if 8 oz or above. Example: "1 lb ground pork", "6 oz shrimp", "2 lb pork ribs"
+- **Spices, salt, pepper, ginger, garlic, and aromatics:** always use tsp or tbsp. Never oz or grams. Example: "1 tsp turmeric", "2 tbsp minced ginger"
+- **Liquids:** use cups, tablespoons, teaspoons. Example: "1 cup chicken broth", "2 tbsp soy sauce"
+- **Dry goods (flour, sugar, rice, etc.):** use cups. Example: "2 cups jasmine rice"
+- **Fresh herbs and leafy items:** use cups (loosely packed) or count. Example: "1/2 cup cilantro leaves", "4 sprigs thyme"
+
+**Metric mode (when toggle shows g):**
+- Use grams (g) for everything under 1000 g, kilograms (kg) for 1000 g and above
+- Use milliliters (ml) for liquids under 1000 ml, liters (L) for 1000 ml and above
+
+**In non-ingredient sections** (Method, Why This Works, Substitutions, Serving Suggestions, etc.): always reference amounts in imperial units. Example: "Add the 2 tablespoons of soy sauce" not "Add the 30 ml of soy sauce."
+
+**Conversion accuracy is critical.** Double-check every conversion. Common references:
+- 1 tbsp = 15 ml = ~15 g (water/liquid)
+- 1 tsp = 5 ml = ~5 g
+- 1 cup = 240 ml
+- 1 oz = 28 g
+- 1 lb = 454 g = 16 oz
 
 Add sensory cues at key moments:
 - Onions turning deep golden and sweet-smelling
@@ -243,6 +267,8 @@ Numbered steps. Each step includes:
 - Clear instruction
 - Sensory cue where relevant
 - Brief explanation of why it matters (for key steps only)
+
+**Do NOT bold the opening phrase of each step.** Write plain text throughout. No `**Cook the onions.**` patterns. Just `1. Cook the onions until...`
 
 ---
 

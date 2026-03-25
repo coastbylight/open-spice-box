@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: East Indian (Bihar / Odisha)
 course: Dessert
 difficulty: Advanced
-tags: [bihar, odisha, east india, dessert, pastry, semolina, rice flour, deep fried, layered, festival sweet, vegetarian]
+tags: [indian, bihar, odisha, east india, dessert, pastry, semolina, rice flour, deep fried, layered, festival sweet, vegetarian]
 hero_image_prompt: A stack of khaja pastry rounds on a brass plate, their cross-sections showing distinct flaky pale layers, dusted with white powdered sugar, warm side light revealing the laminated texture
 seo_title: Khaja Recipe - Bihar and Odisha's Flaky Layered Pastry Sweet
 meta_description: Khaja is a traditional East Indian deep-fried layered pastry from Bihar and Odisha, made from semolina and three-day-soaked rice flour with ghee lamination. A festival sweet requiring patience.

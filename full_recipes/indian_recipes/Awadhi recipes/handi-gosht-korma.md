@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main Course
 difficulty: Intermediate
-tags: [lamb, korma, dum, awadhi, saffron, almond, slow-cooked, mughlai, handi]
+tags: [indian, lamb, korma, dum, awadhi, saffron, almond, slow-cooked, mughlai, handi]
 hero_image_prompt: A terracotta handi pot with a lid slightly ajar, revealing glistening pieces of braised lamb in a pale golden korma sauce, flecked with saffron threads and scattered with almond flakes and fresh coriander, soft natural light from the side
 seo_title: Handi Gosht Korma — Awadhi Slow-Braised Lamb with Saffron and Almonds
 meta_description: A classic Awadhi lamb korma cooked dum-style in a sealed handi — brown onion paste, almond, yogurt, and saffron yielding a pale, fragrant, deeply mellow gravy.
@@ -78,21 +78,21 @@ Serve this at the table with the lid still on, and lift it slowly. The cloud of 
 
 ## Method
 
-1. **Bloom the whole spices.** Heat the oil in a heavy handi or deep pot over medium heat. Add the bay leaves (2), cinnamon (5 g), cloves (6–8 cloves), and cardamom (6 pods, lightly crushed). Let them sizzle for 30–45 seconds until the bay leaves darken slightly at the edges and the air smells of warm wood and citrus.
+1. Bloom the whole spices. Heat the oil in a heavy handi or deep pot over medium heat. Add the bay leaves (2), cinnamon (5 g), cloves (6–8 cloves), and cardamom (6 pods, lightly crushed). Let them sizzle for 30–45 seconds until the bay leaves darken slightly at the edges and the air smells of warm wood and citrus.
 
-2. **Build the base.** Add the sliced onions (500 g). Cook over medium heat, stirring occasionally, for 20–25 minutes until they are deep golden and beginning to stick slightly. Add the ginger garlic (30 g) paste (30 g) and coriander (30 g) powder (5 g). Fry for another 3–4 minutes until the raw smell is gone.
+2. Build the base. Add the sliced onions (500 g). Cook over medium heat, stirring occasionally, for 20–25 minutes until they are deep golden and beginning to stick slightly. Add the ginger garlic (30 g) paste (30 g) and coriander (30 g) powder (5 g). Fry for another 3–4 minutes until the raw smell is gone.
 
-3. **Add stock and temper the yogurt.** Pour in the warm lamb (1 kg) stock. Stir to deglaze the pot, lifting any caramelised bits from the base. Reduce heat to low. Add the beaten yogurt in a slow stream, stirring continuously — if the gravy is too hot, the yogurt will split. You want a smooth, pale liquid that smells faintly sour and sweet at once.
+3. Add stock and temper the yogurt. Pour in the warm lamb (1 kg) stock. Stir to deglaze the pot, lifting any caramelised bits from the base. Reduce heat to low. Add the beaten yogurt in a slow stream, stirring continuously — if the gravy is too hot, the yogurt will split. You want a smooth, pale liquid that smells faintly sour and sweet at once.
 
-4. **Add the lamb.** Place the lamb pieces into the pot. Bring to a gentle simmer, then stir in the brown onion paste (100 g) and brown garlic paste. These will darken the gravy slightly and add a roasted, almost caramel depth.
+4. Add the lamb. Place the lamb pieces into the pot. Bring to a gentle simmer, then stir in the brown onion paste (100 g) and brown garlic paste. These will darken the gravy slightly and add a roasted, almost caramel depth.
 
-5. **Season and enrich.** Add the mace powder (2 g), cardamom powder (1 g), salt (5 g), and almond (20 g) paste (50 g). Stir gently until the almond paste is fully incorporated. The gravy should look slightly thicker now, with a pale, silky surface.
+5. Season and enrich. Add the mace powder (2 g), cardamom powder (1 g), salt (5 g), and almond (20 g) paste (50 g). Stir gently until the almond paste is fully incorporated. The gravy should look slightly thicker now, with a pale, silky surface.
 
-6. **Dum cook.** Seal the handi tightly — use dough or foil under the lid if needed. Cook on the lowest possible flame for 45–55 minutes, or until the lamb is fully tender and the gravy has tightened around the meat. If using a pressure cooker as a substitute, 3–4 whistles on low flame will achieve similar results.
+6. Dum cook. Seal the handi tightly — use dough or foil under the lid if needed. Cook on the lowest possible flame for 45–55 minutes, or until the lamb is fully tender and the gravy has tightened around the meat. If using a pressure cooker as a substitute, 3–4 whistles on low flame will achieve similar results.
 
-7. **Finish with saffron (0.1 g).** Open the handi. The gravy should be glossy, golden, and fragrant. Drizzle the saffron water evenly over the surface. Do not stir — let it bleed in naturally for a minute, then fold gently.
+7. Finish with saffron (0.1 g). Open the handi. The gravy should be glossy, golden, and fragrant. Drizzle the saffron water evenly over the surface. Do not stir — let it bleed in naturally for a minute, then fold gently.
 
-8. **Plate and garnish.** Ladle into a serving dish. Scatter toasted almond flakes and fresh coriander over the top. Serve immediately.
+8. Plate and garnish. Ladle into a serving dish. Scatter toasted almond flakes and fresh coriander over the top. Serve immediately.
 
 ---
 

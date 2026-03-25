@@ -10,7 +10,7 @@ total_time: 1 hour
 difficulty: Easy
 cuisine: Indian (Pan-regional)
 course: Main
-tags: [rice, lentils, ayurvedic, comfort food, one-pot, vegetarian, gluten-free, digestion]
+tags: [indian, rice, lentils, ayurvedic, comfort food, one-pot, vegetarian, gluten-free, digestion]
 ingredients_key: [yellow moong dal, basmati rice, ghee, asafoetida, turmeric]
 hero_image_prompt: A deep earthenware bowl of golden khichdi, thick and porridge-like, with a generous pool of melted ghee glistening on top. A small clay pot of yogurt and a dark pickle sit beside it. Steam rises gently. Natural morning light, warm tones, rustic wooden surface.
 seo_title: Khichdi Recipe — India's Ancient Rice and Moong Dal One-Pot Meal

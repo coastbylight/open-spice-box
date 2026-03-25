@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Easy
-tags: [bengali, east india, dessert, rice pudding, kheer, nolen gur, date palm jaggery, milk, cardamom, nuts, raisins, festival, vegetarian, gluten free]
+tags: [indian, bengali, east india, dessert, rice pudding, kheer, nolen gur, date palm jaggery, milk, cardamom, nuts, raisins, festival, vegetarian, gluten free]
 hero_image_prompt: A wide bowl of payesh, deep amber-toned rice pudding dotted with raisins and crushed nuts, a dusting of cardamom visible on the surface, served in a shallow clay pot with a metal spoon resting at the edge, warm window light from the side
 seo_title: Payesh Recipe - Bengali Rice Pudding with Date Palm Jaggery
 meta_description: Payesh is Bengali rice pudding made with date palm jaggery (nolen gur) whose caramel depth sets this apart from any other kheer. Made with reduced milk, coconut, nuts, raisins, and cardamom.

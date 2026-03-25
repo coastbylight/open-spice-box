@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Easy
-tags: Parsi, dessert, vermicelli, sev, rose water, cardamom, sweet, celebration, Zoroastrian
+tags: indian, Parsi, dessert, vermicelli, sev, rose water, cardamom, sweet, celebration, Zoroastrian
 hero_image_prompt: A wide bowl of golden sev — lightly browned vermicelli cooked in butter and cream, scattered with slivered almonds, plump sultanas, and a dusting of cardamom, photographed from above on a dark surface in warm light
 seo_title: Parsi Sev — Sweet Vermicelli Dessert with Rose Water and Cream
 meta_description: Parsi sev: fine vermicelli lightly fried in butter, cooked in sugar syrup and milk, finished with cream, rose water, cardamom, and garnished with slivered almonds and sultanas.
@@ -56,15 +56,15 @@ Parsi sev is a celebration dessert, made for Navroze (Parsi New Year), weddings,
 
 ## Method
 
-1. **Fry the vermicelli (125 g).** Melt the butter (30 g) with a dash of oil in a wide pan over medium heat. Add the vermicelli and stir constantly for 3–4 minutes until pale golden but not dark. It should smell nutty and look lightly toasted. Set aside.
+1. Fry the vermicelli (125 g). Melt the butter (30 g) with a dash of oil in a wide pan over medium heat. Add the vermicelli and stir constantly for 3–4 minutes until pale golden but not dark. It should smell nutty and look lightly toasted. Set aside.
 
-2. **Make the syrup.** In the same pan, combine the sugar (120 g), water (50 ml), and milk. Bring to a boil and stir until the sugar is dissolved.
+2. Make the syrup. In the same pan, combine the sugar (120 g), water (50 ml), and milk. Bring to a boil and stir until the sugar is dissolved.
 
-3. **Cook the vermicelli.** Add the fried vermicelli to the syrup. Simmer over low heat, stirring gently, until all the liquid is absorbed, about 8–10 minutes. The vermicelli should be cooked through and slightly sticky.
+3. Cook the vermicelli. Add the fried vermicelli to the syrup. Simmer over low heat, stirring gently, until all the liquid is absorbed, about 8–10 minutes. The vermicelli should be cooked through and slightly sticky.
 
-4. **Finish.** Add the cream (70 ml) and rose water (10 ml). Stir gently and heat for 2 minutes. The mixture should be moist and fragrant. Remove from heat. Sprinkle with the ground cardamom (¼ teaspoon) and nutmeg (1 g), and scatter the almonds (30 g) and sultanas (30 g) over the top.
+4. Finish. Add the cream (70 ml) and rose water (10 ml). Stir gently and heat for 2 minutes. The mixture should be moist and fragrant. Remove from heat. Sprinkle with the ground cardamom (¼ teaspoon) and nutmeg (1 g), and scatter the almonds (30 g) and sultanas (30 g) over the top.
 
-5. **Serve warm.**
+5. Serve warm.
 
 ---
 

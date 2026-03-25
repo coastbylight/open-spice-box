@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Dessert
 difficulty: Advanced
-tags: [maharashtra, goa, west india, dessert, rice, sugar, poppy seeds, ghee, diwali, festival sweet, vegetarian, gluten free]
+tags: [indian, maharashtra, goa, west india, dessert, rice, sugar, poppy seeds, ghee, diwali, festival sweet, vegetarian, gluten free]
 hero_image_prompt: A stack of anarsas on a dark ceramic plate, their poppy-seed crusted surfaces pale golden, slightly translucent at the edges where the thin rice dough shows through, one broken to show the dense interior, warm natural light
 seo_title: Anarsas Recipe: Maharashtrian Diwali Rice and Sugar Sweets
 meta_description: Anarsas are Maharashtrian Diwali sweets. Rice soaked for 3 days, ground with sugar, shaped into poppy-seed-crusted rounds and shallow-fried in ghee until a fine mesh forms on the surface. A festival sweet requiring patience.

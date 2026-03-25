@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Medium
-tags: Rajasthani, chicken, curry, boneless, tomato, whole spices, gluten-free
+tags: indian, Rajasthani, chicken, curry, boneless, tomato, whole spices, gluten-free
 hero_image_prompt: A wide copper serving bowl of Rajasthani chicken curry, the boneless leg pieces in a deep amber-brown gravy, finished with green coriander and a scattering of whole spice fragments, on a terracotta surface with warm desert-light from the side
 seo_title: Rajasthani Chicken Curry Recipe — Boneless Chicken in Spiced Tomato Masala
 meta_description: Rajasthani chicken curry: boneless leg pieces seared and braised in a golden onion-tomato masala with whole garam masala, Kashmiri chilli, yoghurt, and lemon.
@@ -64,19 +64,19 @@ A squeeze of lemon and fresh coriander at the very end are not garnishes. They a
 
 ## Method
 
-1. **Sear the chicken.** Heat 2 tablespoons of the oil in a wide heavy pan over high heat. Season the chicken with a small pinch of salt (¾ teaspoon), a pinch of turmeric (¼ teaspoon), and a small pinch of chilli powder. Sear the chicken pieces in batches without overcrowding, for 3–4 minutes until golden on the outside. Remove to a plate. The chicken will finish cooking in the masala. Set aside.
+1. Sear the chicken. Heat 2 tablespoons of the oil in a wide heavy pan over high heat. Season the chicken with a small pinch of salt (¾ teaspoon), a pinch of turmeric (¼ teaspoon), and a small pinch of chilli powder. Sear the chicken pieces in batches without overcrowding, for 3–4 minutes until golden on the outside. Remove to a plate. The chicken will finish cooking in the masala. Set aside.
 
-2. **Bloom the whole spices.** In the same pan, heat the remaining oil over medium heat. Add all the whole garam masala (15 g) spices: cinnamon, cardamom, cloves, bay leaf, peppercorns. Stir for 30–45 seconds until fragrant and the bay leaf has softened.
+2. Bloom the whole spices. In the same pan, heat the remaining oil over medium heat. Add all the whole garam masala (15 g) spices: cinnamon, cardamom, cloves, bay leaf, peppercorns. Stir for 30–45 seconds until fragrant and the bay leaf has softened.
 
-3. **Fry the onions.** Add the finely chopped onions and cook over medium-high heat, stirring regularly, for 12–14 minutes until deeply golden brown. The colour here is important. Pale onions produce a flat-tasting masala.
+3. Fry the onions. Add the finely chopped onions and cook over medium-high heat, stirring regularly, for 12–14 minutes until deeply golden brown. The colour here is important. Pale onions produce a flat-tasting masala.
 
-4. **Add pastes and spices.** Add the ginger-garlic paste (23 g) and stir for 2 minutes. Add the Kashmiri chilli powder (1 teaspoon) and remaining turmeric. Stir for 30 seconds. Add the salt.
+4. Add pastes and spices. Add the ginger-garlic paste (23 g) and stir for 2 minutes. Add the Kashmiri chilli powder (1 teaspoon) and remaining turmeric. Stir for 30 seconds. Add the salt.
 
-5. **Cook the tomatoes (165 g).** Add the tomato purée and stir well. Cook over medium heat, stirring frequently, for 8–10 minutes until the oil separates from the masala and pools at the edges. The masala should look glossy and dense, not wet.
+5. Cook the tomatoes (165 g). Add the tomato purée and stir well. Cook over medium heat, stirring frequently, for 8–10 minutes until the oil separates from the masala and pools at the edges. The masala should look glossy and dense, not wet.
 
-6. **Add the chicken and yoghurt (35 g).** Add the seared chicken pieces to the masala and stir to coat. Add the beaten yoghurt a little at a time, stirring constantly. Bring to a boil, then reduce to a simmer. Cook covered for 15–18 minutes until the chicken is cooked through and tender.
+6. Add the chicken and yoghurt (35 g). Add the seared chicken pieces to the masala and stir to coat. Add the beaten yoghurt a little at a time, stirring constantly. Bring to a boil, then reduce to a simmer. Cook covered for 15–18 minutes until the chicken is cooked through and tender.
 
-7. **Finish.** Add the garam masala powder (½ teaspoon) and stir. Add the lemon juice (½ lemon). Taste and adjust salt. Scatter the fresh coriander (5 g) over the top and serve immediately.
+7. Finish. Add the garam masala powder (½ teaspoon) and stir. Add the lemon juice (½ lemon). Taste and adjust salt. Scatter the fresh coriander (5 g) over the top and serve immediately.
 
 ---
 

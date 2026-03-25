@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Moderate
-tags: Goan, fish, curry, coconut, tamarind, spicy, sour, seafood
+tags: indian, Goan, fish, curry, coconut, tamarind, spicy, sour, seafood
 hero_image_prompt: A wide clay bowl of deep rust-red ambotik fish curry, whole pieces of fish submerged in a vivid, glossy masala, steam rising gently, shot from a low angle on a weathered wooden table with a banana leaf beneath and a small bowl of tamarind paste alongside
 seo_title: Ambotik Recipe — Goa's Fiery Sour Fish Curry
 meta_description: Ambotik is Goa's sour-spicy fish curry — a coconut and chilli masala ground with tamarind and tempered with small onions. Learn the traditional method, ingredient notes, and serving suggestions.
@@ -67,19 +67,19 @@ This is a curry that tastes better the next day, once the fish has had time to a
 
 ## Method
 
-1. **Make the masala.** Combine the grated coconut, dried red chillies (50 g), coriander seeds (1 tsp), turmeric (¾ tsp), peppercorns (½ tsp), and the 2 reserved small onions (2) in a blender or wet grinder. Add a splash of water and grind to a smooth, thick paste. The paste should be deep red-orange and fragrant. Taste it: the rawness of the chilli should still be present at this stage, which is fine.
+1. Make the masala. Combine the grated coconut, dried red chillies (50 g), coriander seeds (1 tsp), turmeric (¾ tsp), peppercorns (½ tsp), and the 2 reserved small onions (2) in a blender or wet grinder. Add a splash of water and grind to a smooth, thick paste. The paste should be deep red-orange and fragrant. Taste it: the rawness of the chilli should still be present at this stage, which is fine.
 
-2. **Prepare the tamarind.** Soak the tamarind block (30 g) in warm water for 10 minutes, then work it with your fingers to release the pulp. Strain through a sieve, pressing to extract all the liquid. Set aside.
+2. Prepare the tamarind. Soak the tamarind block (30 g) in warm water for 10 minutes, then work it with your fingers to release the pulp. Strain through a sieve, pressing to extract all the liquid. Set aside.
 
-3. **Sauté the onions.** Peel and halve or slice the remaining small onions (250 g). Heat oil in a wide, heavy pan over medium heat. Add the onions and cook, stirring occasionally, until they are soft, translucent, and beginning to colour at the edges, about 8–10 minutes. The sweetness of small onions needs time to develop; don't rush this step.
+3. Sauté the onions. Peel and halve or slice the remaining small onions (250 g). Heat oil in a wide, heavy pan over medium heat. Add the onions and cook, stirring occasionally, until they are soft, translucent, and beginning to colour at the edges, about 8–10 minutes. The sweetness of small onions needs time to develop; don't rush this step.
 
-4. **Fry the masala.** Add the ground coconut paste to the onions and stir to combine. Cook over medium heat, stirring frequently, for 8–10 minutes. You are looking for the masala to deepen in colour, to lose its raw, sharp smell, and for flecks of oil to begin appearing around the edges. This is the moment the curry finds its character.
+4. Fry the masala. Add the ground coconut paste to the onions and stir to combine. Cook over medium heat, stirring frequently, for 8–10 minutes. You are looking for the masala to deepen in colour, to lose its raw, sharp smell, and for flecks of oil to begin appearing around the edges. This is the moment the curry finds its character.
 
-5. **Add the fish.** Nestle the fish pieces into the masala, turning gently to coat. Add enough water to bring the curry to a loose, pourable consistency, about 150–200 ml. Bring to a single vigorous boil, then lower the heat and simmer, covered, for 8–12 minutes, until the fish is just cooked through. It should flake at the thickest part when pressed gently.
+5. Add the fish. Nestle the fish pieces into the masala, turning gently to coat. Add enough water to bring the curry to a loose, pourable consistency, about 150–200 ml. Bring to a single vigorous boil, then lower the heat and simmer, covered, for 8–12 minutes, until the fish is just cooked through. It should flake at the thickest part when pressed gently.
 
-6. **Add tamarind.** Stir in the strained tamarind pulp. Taste and adjust salt. Simmer uncovered for 2 minutes more, just long enough for the sourness to integrate without cooking away. The curry should taste distinctly tart and spicy, with the coconut providing a creamy background note.
+6. Add tamarind. Stir in the strained tamarind pulp. Taste and adjust salt. Simmer uncovered for 2 minutes more, just long enough for the sourness to integrate without cooking away. The curry should taste distinctly tart and spicy, with the coconut providing a creamy background note.
 
-7. **Serve hot** with steamed rice, ideally the single-polished Goan ukde (parboiled) rice if you can find it.
+7. Serve hot with steamed rice, ideally the single-polished Goan ukde (parboiled) rice if you can find it.
 
 ---
 

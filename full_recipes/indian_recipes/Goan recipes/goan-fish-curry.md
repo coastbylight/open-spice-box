@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Easy
-tags: Goan, fish, coconut, tamarind, pomfret, kingfish, seafood, coastal, dairy-free, gluten-free
+tags: indian, Goan, fish, coconut, tamarind, pomfret, kingfish, seafood, coastal, dairy-free, gluten-free
 hero_image_prompt: A shallow terracotta bowl of Goan fish curry, the sauce a deep orange-red with visible chunks of white fish, a curl of coconut visible at the edge, shot on a worn wooden plank with a folded banana leaf and a wedge of lime catching the afternoon light
 seo_title: Goan Fish Curry Recipe — Authentic Coconut Tamarind Curry with Pomfret
 meta_description: Goan fish curry: pomfret or kingfish in a ground coconut paste with tamarind, dried red chillies, and fresh green chillies. Simple, vibrant, and deeply coastal.
@@ -70,19 +70,19 @@ Pomfret (*paplet*) is the prestige choice: firm, flat, sweet-fleshed, and suprem
 
 ## Method
 
-1. **Marinate the fish.** Pat the fish steaks dry and rub with turmeric (1 teaspoon) and salt (1 teaspoon) on all surfaces. Set aside while you make the paste.
+1. Marinate the fish. Pat the fish steaks dry and rub with turmeric (1 teaspoon) and salt (1 teaspoon) on all surfaces. Set aside while you make the paste.
 
-2. **Make the coconut (2 cups) paste.** Drain the soaked dried red chillies (4 chillies). In a blender or wet grinder, combine the grated coconut, soaked red chillies, toasted coriander seeds (1½ teaspoons), toasted cumin (1 teaspoon), black pepper (½ teaspoon), turmeric (1 teaspoon), and tamarind pulp (2 tablespoons, from a block or paste). Add 4–5 tablespoons of water and grind to a smooth, thick paste. This takes 3–4 minutes of blending, stopping to scrape down the sides. The paste should be rust-red, fragrant, and smooth rather than grainy. Taste it — it should be sharp, hot, and distinctly tangy. Add a little more tamarind if it seems flat.
+2. Make the coconut (2 cups) paste. Drain the soaked dried red chillies (4 chillies). In a blender or wet grinder, combine the grated coconut, soaked red chillies, toasted coriander seeds (1½ teaspoons), toasted cumin (1 teaspoon), black pepper (½ teaspoon), turmeric (1 teaspoon), and tamarind pulp (2 tablespoons, from a block or paste). Add 4–5 tablespoons of water and grind to a smooth, thick paste. This takes 3–4 minutes of blending, stopping to scrape down the sides. The paste should be rust-red, fragrant, and smooth rather than grainy. Taste it — it should be sharp, hot, and distinctly tangy. Add a little more tamarind if it seems flat.
 
-3. **Fry the onions.** Heat the oil in a wide, heavy pan over medium heat. Add the sliced onion (1 small onion) and cook, stirring regularly, for 8–10 minutes until soft and just beginning to turn golden at the edges. Do not rush this step — properly softened onions give body to the sauce that raw or merely wilted onions cannot.
+3. Fry the onions. Heat the oil in a wide, heavy pan over medium heat. Add the sliced onion (1 small onion) and cook, stirring regularly, for 8–10 minutes until soft and just beginning to turn golden at the edges. Do not rush this step — properly softened onions give body to the sauce that raw or merely wilted onions cannot.
 
-4. **Cook the paste.** Add the coconut paste to the softened onions. Stir continuously over medium heat for 4–5 minutes. The paste will become fragrant and deepen slightly in colour as the coconut toasts and the tamarind concentrates. You want the raw coconut smell to cook off completely before adding water.
+4. Cook the paste. Add the coconut paste to the softened onions. Stir continuously over medium heat for 4–5 minutes. The paste will become fragrant and deepen slightly in colour as the coconut toasts and the tamarind concentrates. You want the raw coconut smell to cook off completely before adding water.
 
-5. **Build the curry.** Add 300–350 ml of water to the paste and stir well to incorporate. The sauce should be roughly the consistency of a thin soup at this stage — it will thicken as it simmers. Add the slit green chillies and remaining salt (10 g). Bring to a boil, then reduce to a steady simmer. Cook for 5 minutes, tasting and adjusting for salt, heat, and acidity.
+5. Build the curry. Add 300–350 ml of water to the paste and stir well to incorporate. The sauce should be roughly the consistency of a thin soup at this stage — it will thicken as it simmers. Add the slit green chillies and remaining salt (10 g). Bring to a boil, then reduce to a steady simmer. Cook for 5 minutes, tasting and adjusting for salt, heat, and acidity.
 
-6. **Cook the fish.** Gently slide the marinated fish steaks into the simmering curry. Tilt the pan slightly to ensure the sauce covers the fish. Cover with a lid and simmer gently for 8–10 minutes — the fish should be cooked through when a piece flakes easily at the thickest part. Do not stir aggressively; the fish is delicate.
+6. Cook the fish. Gently slide the marinated fish steaks into the simmering curry. Tilt the pan slightly to ensure the sauce covers the fish. Cover with a lid and simmer gently for 8–10 minutes — the fish should be cooked through when a piece flakes easily at the thickest part. Do not stir aggressively; the fish is delicate.
 
-7. **Taste and serve.** Adjust the salt and add a small squeeze of lime or extra tamarind if more acidity is needed. Serve from the pan directly into bowls over rice.
+7. Taste and serve. Adjust the salt and add a small squeeze of lime or extra tamarind if more acidity is needed. Serve from the pan directly into bowls over rice.
 
 ---
 

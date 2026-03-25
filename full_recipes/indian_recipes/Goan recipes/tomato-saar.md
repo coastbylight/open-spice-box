@@ -6,7 +6,7 @@ source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Starter
 difficulty: Easy
-tags: Goan, tomato, soup, saar, coconut milk, vegan, gluten-free, vegetarian, quick
+tags: indian, Goan, tomato, soup, saar, coconut milk, vegan, gluten-free, vegetarian, quick
 hero_image_prompt: A wide bowl of vivid red-orange tomato saar, thin and glossy, garnished with fresh coriander and a swirl of coconut milk, beside a small bowl of rice, photographed from above on a terracotta surface in bright natural light
 seo_title: Tomato Saar — Traditional Goan Spiced Tomato Broth
 meta_description: Tomato saar: a thin Goan tomato broth with fresh coconut milk, tempered with mustard seeds, curry leaves, and green chilli — served alongside rice or sipped as a soup.
@@ -69,19 +69,19 @@ Served hot in a bowl alongside rice and a curry, saar is the dish that makes the
 
 ## Method
 
-1. **Boil the tomatoes (1 kg).** Place the whole tomatoes in a pot with just enough water to cover. Bring to a boil and cook for 10–12 minutes until completely soft and the skins are splitting. Remove from the heat and cool slightly.
+1. Boil the tomatoes (1 kg). Place the whole tomatoes in a pot with just enough water to cover. Bring to a boil and cook for 10–12 minutes until completely soft and the skins are splitting. Remove from the heat and cool slightly.
 
-2. **Purée and strain.** Blend the cooked tomatoes (with their cooking liquid) until smooth. Pass through a fine sieve, pressing well to extract all the liquid. Discard the skins and seeds.
+2. Purée and strain. Blend the cooked tomatoes (with their cooking liquid) until smooth. Pass through a fine sieve, pressing well to extract all the liquid. Discard the skins and seeds.
 
-3. **Make fresh coconut (100 g) milk.** Blend the grated coconut with 200 ml of warm water. Strain through a fine sieve or muslin cloth, pressing firmly. This is your fresh coconut milk. (If using canned coconut milk, simply measure out 60 ml.)
+3. Make fresh coconut (100 g) milk. Blend the grated coconut with 200 ml of warm water. Strain through a fine sieve or muslin cloth, pressing firmly. This is your fresh coconut milk. (If using canned coconut milk, simply measure out 60 ml.)
 
-4. **Combine and warm.** Pour the sieved tomato purée into a clean pot. Add the fresh coconut milk and return to a gentle heat. Add the ginger-garlic paste (blend the ginger and garlic (equal parts, roughly chopped) with a little water to form a paste), cumin (2 g), red chilli powder (¼ teaspoon), black pepper (10 g), green chillies (3–4 chillies), and sugar (½ teaspoon). Stir and simmer for 5 minutes.
+4. Combine and warm. Pour the sieved tomato purée into a clean pot. Add the fresh coconut milk and return to a gentle heat. Add the ginger-garlic paste (blend the ginger and garlic (equal parts, roughly chopped) with a little water to form a paste), cumin (2 g), red chilli powder (¼ teaspoon), black pepper (10 g), green chillies (3–4 chillies), and sugar (½ teaspoon). Stir and simmer for 5 minutes.
 
-5. **Add coriander.** Stir in the fresh coriander (50 g). Taste and adjust salt (2 teaspoons) and sugar — the saar should be bright, slightly sweet-sour, warmly spiced, and thin enough to drink from a bowl.
+5. Add coriander. Stir in the fresh coriander (50 g). Taste and adjust salt (2 teaspoons) and sugar — the saar should be bright, slightly sweet-sour, warmly spiced, and thin enough to drink from a bowl.
 
-6. **Make the tempering.** Heat the oil in a small pan until shimmering. Add the mustard (2 g) seeds (2 g) and let them splutter for 30 seconds. Add the curry leaves and slit green chillies — they will crackle and hiss. Pour this tempering immediately over the hot saar.
+6. Make the tempering. Heat the oil in a small pan until shimmering. Add the mustard (2 g) seeds (2 g) and let them splutter for 30 seconds. Add the curry leaves and slit green chillies — they will crackle and hiss. Pour this tempering immediately over the hot saar.
 
-7. **Serve hot** alongside rice and a curry, or as a soup on its own.
+7. Serve hot alongside rice and a curry, or as a soup on its own.
 
 ---
 

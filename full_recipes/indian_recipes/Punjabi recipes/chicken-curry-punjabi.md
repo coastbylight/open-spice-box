@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium
-tags: Punjabi, chicken, curry, tomato, onion gravy, bone-in, weeknight, gluten-free
+tags: indian, Punjabi, chicken, curry, tomato, onion gravy, bone-in, weeknight, gluten-free
 hero_image_prompt: A deep kadhai of Punjabi chicken curry, the pieces of bone-in chicken barely visible under a thick rust-red gravy, ginger julienne and green coriander scattered across the surface, a stack of chapati blurred in the background, lit with warm overhead light
 seo_title: Punjabi Chicken Curry Recipe — Authentic Bone-In Tomato Gravy
 meta_description: Classic Punjabi chicken curry with bone-in pieces seared and braised in a rich tomato-onion masala finished with yoghurt, garam masala, and fresh ginger julienne.
@@ -69,19 +69,19 @@ The ginger julienne and coriander scattered at the end are not just garnish. The
 
 ## Method
 
-1. **Sear the chicken (700 g).** Heat 2 tablespoons of the oil in a wide heavy-based pan over high heat. Season the chicken pieces with a pinch of turmeric (½ teaspoon), a pinch of Kashmiri chilli, and a small pinch of salt (¾ teaspoon). Add to the hot oil and sear without moving for 3–4 minutes until the surface is golden and slightly crisp on the underside. Turn and sear the other side for 2–3 minutes. Remove the chicken to a plate; it should be coloured outside but still raw at the centre. Set aside.
+1. Sear the chicken (700 g). Heat 2 tablespoons of the oil in a wide heavy-based pan over high heat. Season the chicken pieces with a pinch of turmeric (½ teaspoon), a pinch of Kashmiri chilli, and a small pinch of salt (¾ teaspoon). Add to the hot oil and sear without moving for 3–4 minutes until the surface is golden and slightly crisp on the underside. Turn and sear the other side for 2–3 minutes. Remove the chicken to a plate; it should be coloured outside but still raw at the centre. Set aside.
 
-2. **Build the masala base.** In the same pan (wipe if needed) heat the remaining oil over medium heat. Add the cardamom pods (4 pods) and bay leaves (2 leaves). Within 30 seconds they will release their fragrance into the oil. Add the sliced onions and cook, stirring regularly, for 12–15 minutes until they are deep golden throughout; not pale, not burnt, but genuinely dark and sweet-smelling. Take your time here. This is the flavour foundation.
+2. Build the masala base. In the same pan (wipe if needed) heat the remaining oil over medium heat. Add the cardamom pods (4 pods) and bay leaves (2 leaves). Within 30 seconds they will release their fragrance into the oil. Add the sliced onions and cook, stirring regularly, for 12–15 minutes until they are deep golden throughout; not pale, not burnt, but genuinely dark and sweet-smelling. Take your time here. This is the flavour foundation.
 
-3. **Add the pastes and spices.** Add the ginger (7 g) paste (14 g) and garlic paste (7 g) to the onions. Stir and cook for 2 minutes until the raw smell is gone and the mixture is fragrant. Add the Kashmiri chilli powder (1 teaspoon), the remaining turmeric, the coriander (15 g) powder (2 teaspoons), and the salt. Stir continuously for 1 minute.
+3. Add the pastes and spices. Add the ginger (7 g) paste (14 g) and garlic paste (7 g) to the onions. Stir and cook for 2 minutes until the raw smell is gone and the mixture is fragrant. Add the Kashmiri chilli powder (1 teaspoon), the remaining turmeric, the coriander (15 g) powder (2 teaspoons), and the salt. Stir continuously for 1 minute.
 
-4. **Add tomato.** Add the tomato purée (or finely chopped tomatoes (100 g)) and stir well. Cook over medium heat, stirring frequently, for 8–10 minutes until the tomatoes have completely broken down and the oil begins to separate and pool at the edges and surface. This is the moment the masala is ready. The mixture should look slightly glossy and the colour will have deepened.
+4. Add tomato. Add the tomato purée (or finely chopped tomatoes (100 g)) and stir well. Cook over medium heat, stirring frequently, for 8–10 minutes until the tomatoes have completely broken down and the oil begins to separate and pool at the edges and surface. This is the moment the masala is ready. The mixture should look slightly glossy and the colour will have deepened.
 
-5. **Add the chicken and yoghurt (70 g).** Add the seared chicken pieces to the masala and stir to coat. Add the beaten yoghurt a little at a time, stirring constantly to prevent it from splitting. Once all the yoghurt is incorporated, bring to a boil, then reduce the heat to a steady simmer. Cover and cook for 20–25 minutes until the chicken is cooked through and tender; the meat should pull easily from the bone.
+5. Add the chicken and yoghurt (70 g). Add the seared chicken pieces to the masala and stir to coat. Add the beaten yoghurt a little at a time, stirring constantly to prevent it from splitting. Once all the yoghurt is incorporated, bring to a boil, then reduce the heat to a steady simmer. Cover and cook for 20–25 minutes until the chicken is cooked through and tender; the meat should pull easily from the bone.
 
-6. **Check and reduce.** Remove the lid. If the gravy is thinner than you like, increase the heat and cook uncovered for 5 minutes, stirring, until it reaches your preferred consistency. Taste and adjust salt. The oil should be visible on the surface; this is correct.
+6. Check and reduce. Remove the lid. If the gravy is thinner than you like, increase the heat and cook uncovered for 5 minutes, stirring, until it reaches your preferred consistency. Taste and adjust salt. The oil should be visible on the surface; this is correct.
 
-7. **Finish.** Add the garam masala (½ teaspoon) and stir through. Add the lemon juice (10 ml). Scatter the ginger julienne, slit green chillies (2), and fresh coriander over the top. Serve immediately.
+7. Finish. Add the garam masala (½ teaspoon) and stir through. Add the lemon juice (10 ml). Scatter the ginger julienne, slit green chillies (2), and fresh coriander over the top. Serve immediately.
 
 ---
 

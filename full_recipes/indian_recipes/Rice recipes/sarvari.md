@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Easy
-tags: Kashmiri, rice, chickpea, black gram, ghee, cumin, vegetarian, gluten-free, comfort food
+tags: indian, Kashmiri, rice, chickpea, black gram, ghee, cumin, vegetarian, gluten-free, comfort food
 hero_image_prompt: A wide serving bowl of sarvari, the white rice and pale chickpeas glistening with ghee, a few whole cloves and cumin seeds visible on the surface, on a dark wooden surface with soft northern light
 seo_title: Sarvari Recipe — Kashmiri Rice with Chickpeas and Ghee Temper
 meta_description: Sarvari: traditional Kashmiri rice cooked with soaked chickpeas or black gram, combined and finished with a cumin and clove ghee temper. A simple, nourishing preparation.
@@ -59,17 +59,17 @@ The ghee temper poured over the finished dish at the end is the moment that brin
 
 ## Method
 
-1. **Soak the legumes.** The night before: place the chickpeas (35 g) or black gram in a bowl with enough cold water (350 ml) to cover by 5 cm. Add the pinch of sodium bicarbonate and stir to dissolve. Soak overnight (at least 8 hours). The next morning, drain and rinse thoroughly.
+1. Soak the legumes. The night before: place the chickpeas (35 g) or black gram in a bowl with enough cold water (350 ml) to cover by 5 cm. Add the pinch of sodium bicarbonate and stir to dissolve. Soak overnight (at least 8 hours). The next morning, drain and rinse thoroughly.
 
-2. **Boil the legumes.** Place the soaked chickpeas or black gram in a pot with fresh cold water to cover by 5 cm. Bring to a vigorous boil (important for chickpeas — see below). Then reduce to a steady simmer. Cook for 25–35 minutes until the chickpeas are completely soft throughout — they should crush easily between two fingers with no resistance. Add a pinch of salt (¾ teaspoon) in the last 10 minutes of cooking. Drain and set aside.
+2. Boil the legumes. Place the soaked chickpeas or black gram in a pot with fresh cold water to cover by 5 cm. Bring to a vigorous boil (important for chickpeas — see below). Then reduce to a steady simmer. Cook for 25–35 minutes until the chickpeas are completely soft throughout — they should crush easily between two fingers with no resistance. Add a pinch of salt (¾ teaspoon) in the last 10 minutes of cooking. Drain and set aside.
 
-3. **Cook the rice (175 g).** Rinse the rice in cold water. Place in a separate pot with 350 ml of water and half the salt. Bring to a boil, then reduce to a low simmer, cover, and cook for 15–18 minutes until the rice is fully cooked and the water has been absorbed. Remove from heat.
+3. Cook the rice (175 g). Rinse the rice in cold water. Place in a separate pot with 350 ml of water and half the salt. Bring to a boil, then reduce to a low simmer, cover, and cook for 15–18 minutes until the rice is fully cooked and the water has been absorbed. Remove from heat.
 
-4. **Combine.** Add the drained cooked chickpeas to the cooked rice. Stir gently to combine. Add the remaining salt and adjust to taste. Return to low heat for 2 minutes to warm through together.
+4. Combine. Add the drained cooked chickpeas to the cooked rice. Stir gently to combine. Add the remaining salt and adjust to taste. Return to low heat for 2 minutes to warm through together.
 
-5. **Prepare the ghee temper.** In a small pan, heat the ghee over medium-high heat until shimmering and very hot, not smoking. Add the cumin seeds (1 teaspoon). Within 20–30 seconds they will splutter, darken, and smell nutty and toasted. Add the whole cloves (3–4). Stir for 10 seconds.
+5. Prepare the ghee temper. In a small pan, heat the ghee over medium-high heat until shimmering and very hot, not smoking. Add the cumin seeds (1 teaspoon). Within 20–30 seconds they will splutter, darken, and smell nutty and toasted. Add the whole cloves (3–4). Stir for 10 seconds.
 
-6. **Pour and serve.** Immediately pour the entire hot temper (cumin, cloves, ghee and all) over the rice and chickpea mixture in the pot. Stir well to combine. Serve immediately.
+6. Pour and serve. Immediately pour the entire hot temper (cumin, cloves, ghee and all) over the rice and chickpea mixture in the pot. Stir well to combine. Serve immediately.
 
 ---
 

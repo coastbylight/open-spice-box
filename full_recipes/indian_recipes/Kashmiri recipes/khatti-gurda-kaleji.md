@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Easy
-tags: [kashmiri, offal, liver, kidney, tamarind, fennel, ghee, quick-cook]
+tags: [indian, kashmiri, offal, liver, kidney, tamarind, fennel, ghee, quick-cook]
 hero_image_prompt: A cast iron pan with glossy, deep-mahogany lamb liver and kidney pieces coated in a thick, sour tamarind-fennel masala, browned onions scattered throughout, a pool of amber ghee at the edge of the pan, set on a dark stone surface with a halved tamarind pod beside it
 seo_title: Khatti Gurda Kaleji — Kashmiri Sour Kidney and Liver
 meta_description: Khatti Gurda Kaleji is a Kashmiri offal preparation — lamb kidney and liver quickly sautéed with browned onions, fennel powder, cardamom and tamarind pulp. Sharp, rich and deeply savory.

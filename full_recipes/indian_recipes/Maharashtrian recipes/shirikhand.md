@@ -10,7 +10,7 @@ total_time: 8 hours 15 minutes
 difficulty: Easy
 cuisine: Maharashtrian, Gujarati
 course: Dessert, Sweet
-tags: [shrikhand, shirikhand, hung yogurt dessert, maharashtrian dessert, gujarati dessert, saffron dessert, festival sweet, no-cook dessert, aamrakhand, yogurt sweet, wedding dessert]
+tags: [indian, shrikhand, shirikhand, hung yogurt dessert, maharashtrian dessert, gujarati dessert, saffron dessert, festival sweet, no-cook dessert, aamrakhand, yogurt sweet, wedding dessert]
 ingredients_key: [full-fat yogurt, sugar, saffron, cardamom, pistachios]
 hero_image_prompt: White ceramic bowl of Shrikhand on a marble surface, dense creamy pale-yellow dessert studded with saffron strands and slivered green pistachios, a few silver vark flakes, elegant and restrained plating, soft diffused natural light from above
 seo_title: Shrikhand Recipe — Authentic Maharashtrian Hung Yogurt Dessert with Saffron

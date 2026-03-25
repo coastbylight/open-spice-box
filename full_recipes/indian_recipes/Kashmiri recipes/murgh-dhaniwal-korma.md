@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Advanced
-tags: [kashmiri, wazwan, chicken, korma, coriander, spinach, cashew, poppy-seed, green-curry]
+tags: [indian, kashmiri, wazwan, chicken, korma, coriander, spinach, cashew, poppy-seed, green-curry]
 hero_image_prompt: A wide copper lagan filled with a vivid, herb-green curry, boneless chicken pieces submerged in the glossy sauce studded with cashew fragments, a drizzle of ghee pooling at the surface, the green deepened by cooked spinach, set on a carved wooden surface with fresh coriander sprigs placed to one side
 seo_title: Murgh Dhaniwal Korma — Kashmiri Chicken in Green Coriander Gravy
 meta_description: Murgh Dhaniwal Korma is a Wazwan-tradition Kashmiri dish — boneless chicken cooked in a vivid paste of blanched spinach and fresh coriander, layered with cashew-poppy paste and a curd-besan gravy. Rich, herbaceous and complex.

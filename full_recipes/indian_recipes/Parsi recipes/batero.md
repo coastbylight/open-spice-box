@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy
-tags: Parsi, lamb, beer, toddy, braised, whole spices, gluten-free, Zoroastrian, slow-cooked
+tags: indian, Parsi, lamb, beer, toddy, braised, whole spices, gluten-free, Zoroastrian, slow-cooked
 hero_image_prompt: A deep pot of batero — dark, glossy lamb pieces simmered in a mahogany-brown liquid of toddy or beer and spices, the surface glistening with rendered fat, photographed from above on a dark kitchen surface with warm side light
 seo_title: Batero — Parsi Lamb Braised in Toddy or Beer
 meta_description: Batero: Parsi lamb marinated overnight in toddy vinegar or beer with cumin, pepper, turmeric, and ginger-garlic, then seared and slowly braised until deeply tender.
@@ -61,15 +61,15 @@ What emerges is deeply savoury, slightly sour, the toddy's yeasty quality integr
 
 ## Method
 
-1. **Prepare the marinade.** Grind the ginger (50 g), garlic, turmeric (10 g), red chilli powder (10 g), cumin seeds (5 g), and peppercorns together to a paste (add a splash of toddy or water to help the blender move).
+1. Prepare the marinade. Grind the ginger (50 g), garlic, turmeric (10 g), red chilli powder (10 g), cumin seeds (5 g), and peppercorns together to a paste (add a splash of toddy or water to help the blender move).
 
-2. **Marinate the lamb (500 g).** Pierce the lamb pieces all over with a fork to help the marinade penetrate. Rub the ground spice paste thoroughly into all the pieces. Place in a deep bowl or container and pour enough toddy or beer to completely cover. Add salt (4 teaspoons). Stir well. Cover and refrigerate overnight (or for at least 2–3 hours, brought back to room temperature before cooking).
+2. Marinate the lamb (500 g). Pierce the lamb pieces all over with a fork to help the marinade penetrate. Rub the ground spice paste thoroughly into all the pieces. Place in a deep bowl or container and pour enough toddy or beer to completely cover. Add salt (4 teaspoons). Stir well. Cover and refrigerate overnight (or for at least 2–3 hours, brought back to room temperature before cooking).
 
-3. **Sear the lamb.** Heat the ghee (30 g) in a heavy pot over medium-high heat. Remove the lamb from the marinade (reserve all the marinade liquid) and fry in the hot ghee until brown on all sides, about 4–5 minutes total. This searing builds flavour that survives the long braise.
+3. Sear the lamb. Heat the ghee (30 g) in a heavy pot over medium-high heat. Remove the lamb from the marinade (reserve all the marinade liquid) and fry in the hot ghee until brown on all sides, about 4–5 minutes total. This searing builds flavour that survives the long braise.
 
-4. **Braise.** Add the reserved marinade liquid to the pot. Bring to a boil, then reduce heat to a low simmer. Cover and cook for 35–40 minutes until the lamb is completely tender and the sauce has reduced to a rich, dark, coating consistency. Taste and adjust salt.
+4. Braise. Add the reserved marinade liquid to the pot. Bring to a boil, then reduce heat to a low simmer. Cover and cook for 35–40 minutes until the lamb is completely tender and the sauce has reduced to a rich, dark, coating consistency. Taste and adjust salt.
 
-5. **Serve hot** with roti, rice, or pav.
+5. Serve hot with roti, rice, or pav.
 
 ---
 

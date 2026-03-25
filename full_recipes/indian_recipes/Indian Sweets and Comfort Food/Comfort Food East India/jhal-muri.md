@@ -6,7 +6,7 @@ source_name: Traditional Bengali Street Food
 cuisine: Bengali
 course: Snack
 difficulty: Easy
-tags: Bengali, street food, puffed rice, snack, vegetarian, vegan, quick, no-cook, Kolkata
+tags: comfort food, indian, Bengali, street food, puffed rice, snack, vegetarian, vegan, quick, no-cook, Kolkata
 hero_image_prompt: A large bowl of jhal muri — puffed rice tossed with chopped potato, red onion, sliced coconut, and bhujia, glistening with raw mustard oil, scattered with green chilli, photographed from above on a dark surface in bright natural light
 seo_title: Jhal Muri — Spiced Bengali Puffed Rice Snack
 meta_description: Jhal muri: Bengal's iconic street snack of puffed rice tossed with raw mustard oil, chopped potato, onion, bhujia, and sliced coconut, spiced with green chilli and lime.
@@ -57,15 +57,15 @@ Boiled potato adds chew and substance. Bhujia provides crunch and seasoned depth
 
 ## Method
 
-1. **Combine.** Place the puffed rice (200 g), onion (50 g), green chillies (2–3 chillies), potato, bhujia (50 g), and peanuts in a large bowl.
+1. Combine. Place the puffed rice (200 g), onion (50 g), green chillies (2–3 chillies), potato, bhujia (50 g), and peanuts in a large bowl.
 
-2. **Add the mustard oil.** Drizzle the raw mustard oil (50 ml) over the mixture. The pungent, sharp smell of raw mustard oil is the signature of this dish.
+2. Add the mustard oil. Drizzle the raw mustard oil (50 ml) over the mixture. The pungent, sharp smell of raw mustard oil is the signature of this dish.
 
-3. **Toss well.** Mix everything together with your hands or a large spoon, working quickly. The puffed rice begins to lose its crunch within a few minutes.
+3. Toss well. Mix everything together with your hands or a large spoon, working quickly. The puffed rice begins to lose its crunch within a few minutes.
 
-4. **Add coconut (50 g).** Scatter the sliced coconut over the top and toss once more.
+4. Add coconut (50 g). Scatter the sliced coconut over the top and toss once more.
 
-5. **Serve immediately.** Jhal muri must be eaten within 5 minutes of mixing.
+5. Serve immediately. Jhal muri must be eaten within 5 minutes of mixing.
 
 ---
 

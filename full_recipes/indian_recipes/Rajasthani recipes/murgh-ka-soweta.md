@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Medium
-tags: Rajasthani, chicken, corn, yoghurt, ghee, semi-dry, festive, gluten-free
+tags: indian, Rajasthani, chicken, corn, yoghurt, ghee, semi-dry, festive, gluten-free
 hero_image_prompt: A wide serving dish of murgh ka soweta, golden chicken pieces and bright yellow corn kernels visible in a reduced amber gravy, finished with ginger julienne and fresh coriander, on a dark stone surface with warm directional light
 seo_title: Murgh Ka Soweta Recipe — Rajasthani Chicken with Sweet Corn and Yoghurt
 meta_description: Murgh ka soweta: Rajasthani chicken curry built on a base curry and enriched with sweet corn kernels, beaten yoghurt, garam masala, and fresh ginger — a festive preparation with a semi-dry, cling-coated finish.
@@ -62,19 +62,19 @@ Ginger julienne at the finish is the traditional garnish: thin, bright slivers o
 
 ## Method
 
-1. **Heat the base.** If your base chicken curry has been refrigerated, bring it back to room temperature or warm it gently before beginning.
+1. Heat the base. If your base chicken curry has been refrigerated, bring it back to room temperature or warm it gently before beginning.
 
-2. **Build the aromatic base.** Heat the ghee (65 g) in a wide, heavy-based kadhai or pan over medium heat. Add the chopped ginger (10 g) and fry for 30 seconds until fragrant. Add the chopped garlic (7 g) and fry for 1 minute until lightly golden. Watch carefully; garlic burns quickly. Add the chopped green chillies (2–3 small) and stir for 30 seconds.
+2. Build the aromatic base. Heat the ghee (65 g) in a wide, heavy-based kadhai or pan over medium heat. Add the chopped ginger (10 g) and fry for 30 seconds until fragrant. Add the chopped garlic (7 g) and fry for 1 minute until lightly golden. Watch carefully; garlic burns quickly. Add the chopped green chillies (2–3 small) and stir for 30 seconds.
 
-3. **Add the chicken curry.** Add the cooked chicken curry (chicken pieces and all the gravy) to the pan. Stir well to coat everything in the aromatic ghee base. Cook over medium-high heat for 5–6 minutes, stirring regularly.
+3. Add the chicken curry. Add the cooked chicken curry (chicken pieces and all the gravy) to the pan. Stir well to coat everything in the aromatic ghee base. Cook over medium-high heat for 5–6 minutes, stirring regularly.
 
-4. **Add the corn.** Add the corn kernels (175 g). Stir to combine. Continue cooking over medium heat, stirring regularly, for 8–10 minutes. The gravy will reduce and concentrate. Some of the liquid will evaporate, and the masala will begin to cling to the chicken and corn rather than pooling beneath it. Add the salt (4 g) and stir. Taste. The dish should be well-seasoned throughout.
+4. Add the corn. Add the corn kernels (175 g). Stir to combine. Continue cooking over medium heat, stirring regularly, for 8–10 minutes. The gravy will reduce and concentrate. Some of the liquid will evaporate, and the masala will begin to cling to the chicken and corn rather than pooling beneath it. Add the salt (4 g) and stir. Taste. The dish should be well-seasoned throughout.
 
-5. **Add the yoghurt (65 g).** Reduce the heat to medium-low. Add the beaten yoghurt a tablespoon at a time, stirring constantly to prevent it from splitting. Once all the yoghurt is incorporated, stir and cook for 4–5 minutes until the yoghurt has cooked in and the gravy has thickened back down to a semi-dry consistency.
+5. Add the yoghurt (65 g). Reduce the heat to medium-low. Add the beaten yoghurt a tablespoon at a time, stirring constantly to prevent it from splitting. Once all the yoghurt is incorporated, stir and cook for 4–5 minutes until the yoghurt has cooked in and the gravy has thickened back down to a semi-dry consistency.
 
-6. **Finish.** Add the garam masala powder (½ teaspoon) and stir through. Add the chopped fresh coriander (10 g). Taste and adjust seasoning.
+6. Finish. Add the garam masala powder (½ teaspoon) and stir through. Add the chopped fresh coriander (10 g). Taste and adjust seasoning.
 
-7. **Serve.** Transfer to a serving dish. Scatter the ginger (5 g) julienne over the top immediately before serving.
+7. Serve. Transfer to a serving dish. Scatter the ginger (5 g) julienne over the top immediately before serving.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: South Indian
 course: Snack
 difficulty: Medium
-tags: South India, breakfast, urad dal, fried, vada, Tamil Nadu, Karnataka, vegetarian, vegan
+tags: comfort food, indian, South India, breakfast, urad dal, fried, vada, Tamil Nadu, Karnataka, vegetarian, vegan
 hero_image_prompt: Four medu vadas stacked loosely on a banana leaf, their rings golden-brown and slightly blistered, alongside a small steel bowl of white coconut chutney and a bowl of golden sambar, morning light, clean and simple
 seo_title: Medu Vada Recipe — Crispy South Indian Urad Dal Doughnut
 meta_description: Authentic medu vada: the South Indian urad dal fritter with a crispy exterior, airy interior, and the signature ring shape. With technique for fluffy batter.
@@ -61,21 +61,21 @@ The ring-shaping is the other technique to develop. Wet your palm, place a ball 
 
 ## Method
 
-1. **Soak the dal.** Wash the urad dal (500 g) in several changes of water until the water runs clear. Soak in plenty of cold water for at least 4 hours, or overnight. The dal will swell and turn slightly white.
+1. Soak the dal. Wash the urad dal (500 g) in several changes of water until the water runs clear. Soak in plenty of cold water for at least 4 hours, or overnight. The dal will swell and turn slightly white.
 
-2. **Grind the batter.** Drain the soaked dal very well; remove as much water as possible. Grind in a wet grinder or powerful blender with the minimum amount of water needed to keep the blades moving. Add water only a tablespoon at a time. The batter should be very thick, very smooth, and light, almost like a thick whipped cream. This process takes 8–10 minutes in a wet grinder. If using a blender, you may need to stop and scrape down frequently.
+2. Grind the batter. Drain the soaked dal very well; remove as much water as possible. Grind in a wet grinder or powerful blender with the minimum amount of water needed to keep the blades moving. Add water only a tablespoon at a time. The batter should be very thick, very smooth, and light, almost like a thick whipped cream. This process takes 8–10 minutes in a wet grinder. If using a blender, you may need to stop and scrape down frequently.
 
-3. **Test the batter.** Drop a small ball of batter into a glass of cold water. If it floats, the batter is ready. If it sinks, continue grinding with tiny additions of water.
+3. Test the batter. Drop a small ball of batter into a glass of cold water. If it floats, the batter is ready. If it sinks, continue grinding with tiny additions of water.
 
-4. **Season the batter.** Transfer the batter to a bowl. Add green chillies (20 g), ginger (20 g), onion (20 g), cumin seeds (10 g), cracked pepper, curry leaves (2 sprigs), coriander (20 g), and salt (5 g). Fold gently. Do not stir vigorously, which would knock out the air incorporated during grinding. The batter should remain thick and aerated.
+4. Season the batter. Transfer the batter to a bowl. Add green chillies (20 g), ginger (20 g), onion (20 g), cumin seeds (10 g), cracked pepper, curry leaves (2 sprigs), coriander (20 g), and salt (5 g). Fold gently. Do not stir vigorously, which would knock out the air incorporated during grinding. The batter should remain thick and aerated.
 
-5. **Heat the oil.** Pour oil into a deep pan to a depth of at least 6 cm. Heat to 175–180°C over medium-high heat. The oil should shimmer and a small drop of batter dropped in should sizzle immediately and rise to the surface.
+5. Heat the oil. Pour oil into a deep pan to a depth of at least 6 cm. Heat to 175–180°C over medium-high heat. The oil should shimmer and a small drop of batter dropped in should sizzle immediately and rise to the surface.
 
-6. **Shape the vadas.** Keep a bowl of water nearby. Wet one hand thoroughly. Place 2–3 tablespoons of batter on your wet palm and press into a disc about 6 cm across and 1.5 cm thick. Poke a hole through the center with a wet finger and widen it slightly. The hole will close somewhat during frying, so make it larger than you think necessary. Slide the vada off your palm directly into the oil with a confident flick of the wrist.
+6. Shape the vadas. Keep a bowl of water nearby. Wet one hand thoroughly. Place 2–3 tablespoons of batter on your wet palm and press into a disc about 6 cm across and 1.5 cm thick. Poke a hole through the center with a wet finger and widen it slightly. The hole will close somewhat during frying, so make it larger than you think necessary. Slide the vada off your palm directly into the oil with a confident flick of the wrist.
 
-7. **Fry.** Fry 3–4 at a time, turning once, for 3–4 minutes per side until evenly golden-brown. The interior should feel cooked through; pierce with a skewer if uncertain, and it should come out clean.
+7. Fry. Fry 3–4 at a time, turning once, for 3–4 minutes per side until evenly golden-brown. The interior should feel cooked through; pierce with a skewer if uncertain, and it should come out clean.
 
-8. **Drain and serve.** Remove with a slotted spoon and drain briefly on paper. Serve immediately with sambar and coconut chutney.
+8. Drain and serve. Remove with a slotted spoon and drain briefly on paper. Serve immediately with sambar and coconut chutney.
 
 ---
 

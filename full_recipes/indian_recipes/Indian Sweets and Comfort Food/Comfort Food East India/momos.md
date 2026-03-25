@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Northeast Indian / Tibetan-influenced
 course: Snack
 difficulty: Medium
-tags: Northeast India, Tibetan, dumplings, steamed, street food, chicken, vegetarian option
+tags: comfort food, indian, Northeast India, Tibetan, dumplings, steamed, street food, chicken, vegetarian option
 hero_image_prompt: A bamboo steamer basket open on a worn wooden table, momos arranged in a circle with their pleated tops, a small bowl of vivid red chilli sauce alongside, steam rising softly, natural side light from a window
 seo_title: Momos Recipe — Steamed Dumplings from Northeast India
 meta_description: Authentic momos with thin handmade wrappers and a juicy chicken or vegetable filling seasoned with ginger, garlic, and sesame. A Northeast India essential.
@@ -68,19 +68,19 @@ The filling must be wet enough to stay juicy after steaming. Dry mince makes dry
 
 ## Method
 
-1. **Make the dough.** Combine flour (500 g) and salt (1 tsp) in a large bowl. Add warm water gradually, mixing with your hands until a shaggy dough forms. Turn onto a surface and knead for 8–10 minutes until smooth and fairly stiff. It should feel like soft clay, not like bread dough. Brush lightly with oil, cover with a damp cloth, and rest for 30 minutes.
+1. Make the dough. Combine flour (500 g) and salt (1 tsp) in a large bowl. Add warm water gradually, mixing with your hands until a shaggy dough forms. Turn onto a surface and knead for 8–10 minutes until smooth and fairly stiff. It should feel like soft clay, not like bread dough. Brush lightly with oil, cover with a damp cloth, and rest for 30 minutes.
 
-2. **Make the filling.** Combine chicken mince (300 g), finely chopped cabbage (100 g), onion (50 g), ginger (30 g), garlic (6 cloves), spring onions (20 g), soy sauce (20 ml), sesame oil (10 ml), salt, and pepper (1 tsp). Mix well, really getting in with your hands to ensure everything is evenly distributed. The filling should feel moist. Taste and adjust salt. If using vegetable mince, squeeze out any excess moisture from the cabbage and mushroom before combining.
+2. Make the filling. Combine chicken mince (300 g), finely chopped cabbage (100 g), onion (50 g), ginger (30 g), garlic (6 cloves), spring onions (20 g), soy sauce (20 ml), sesame oil (10 ml), salt, and pepper (1 tsp). Mix well, really getting in with your hands to ensure everything is evenly distributed. The filling should feel moist. Taste and adjust salt. If using vegetable mince, squeeze out any excess moisture from the cabbage and mushroom before combining.
 
-3. **Portion the dough.** Divide the rested dough into small balls, roughly 15–18 g each (about the size of a large marble). Keep covered as you work.
+3. Portion the dough. Divide the rested dough into small balls, roughly 15–18 g each (about the size of a large marble). Keep covered as you work.
 
-4. **Roll the wrappers.** On a lightly floured surface, roll each ball into a thin circle about 8–9 cm in diameter. The center should be slightly thicker than the edges, which prevents tearing at the base when steaming. Roll a few at a time, keeping unused portions covered.
+4. Roll the wrappers. On a lightly floured surface, roll each ball into a thin circle about 8–9 cm in diameter. The center should be slightly thicker than the edges, which prevents tearing at the base when steaming. Roll a few at a time, keeping unused portions covered.
 
-5. **Fill and pleat.** Place a heaped teaspoon of filling (about 10–12 g) in the center of a wrapper. Lift the edge and begin pleating: pinch a small fold of dough between thumb and forefinger, then fold the next bit of dough over and pinch again, working around the circle to create a gathered, sealed top. Twist slightly at the top to seal completely. A half-moon fold sealed with a simple crimp along the edge is an equally valid alternative if pleating feels difficult.
+5. Fill and pleat. Place a heaped teaspoon of filling (about 10–12 g) in the center of a wrapper. Lift the edge and begin pleating: pinch a small fold of dough between thumb and forefinger, then fold the next bit of dough over and pinch again, working around the circle to create a gathered, sealed top. Twist slightly at the top to seal completely. A half-moon fold sealed with a simple crimp along the edge is an equally valid alternative if pleating feels difficult.
 
-6. **Steam.** Line a steamer basket with baking paper or cabbage leaves (to prevent sticking). Arrange momos with small gaps between them (they will expand). Steam over vigorously boiling water for 12–15 minutes. The skins will go from opaque white to translucent. Pierce one with a skewer; the juices should run clear.
+6. Steam. Line a steamer basket with baking paper or cabbage leaves (to prevent sticking). Arrange momos with small gaps between them (they will expand). Steam over vigorously boiling water for 12–15 minutes. The skins will go from opaque white to translucent. Pierce one with a skewer; the juices should run clear.
 
-7. **Serve immediately.** Momos deteriorate quickly as they cool; the skins toughen. Serve direct from the steamer with a sharp dipping sauce.
+7. Serve immediately. Momos deteriorate quickly as they cool; the skins toughen. Serve direct from the steamer with a sharp dipping sauce.
 
 ---
 

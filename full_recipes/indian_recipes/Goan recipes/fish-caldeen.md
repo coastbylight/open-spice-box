@@ -6,7 +6,7 @@ source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Main
 difficulty: Easy
-tags: Goan, fish, coconut milk, curry, mild, gluten-free, dairy-free, Portuguese influence
+tags: indian, Goan, fish, coconut milk, curry, mild, gluten-free, dairy-free, Portuguese influence
 hero_image_prompt: A wide shallow bowl of pale, ivory-gold fish caldeen — tender fish pieces in a thin, fragrant coconut milk broth with flecks of green chilli and sliced onion, photographed from above on a light linen surface with natural window light
 seo_title: Fish Caldeen — Goan Mild Coconut Milk Fish Curry
 meta_description: Fish caldeen: a mild Goan fish curry with fresh coconut milk, cumin, pepper, coriander, and a touch of vinegar — the pale, gentle counterpart to the boldly spiced Goan fish curry.
@@ -63,19 +63,19 @@ This is the food of Goan home kitchens, made quickly on weekday evenings, served
 
 ## Method
 
-1. **Salt (2 teaspoons) the fish.** Pat the fish pieces dry and season on both sides with a little salt. Set aside.
+1. Salt (2 teaspoons) the fish. Pat the fish pieces dry and season on both sides with a little salt. Set aside.
 
-2. **Make the coconut (150 g) milk.** Place the grated coconut in a blender with the cumin (¼ teaspoon), peppercorns, coriander seeds (½ teaspoon), turmeric (½ teaspoon), and 100 ml of water. Blend until smooth. Strain through a fine sieve, pressing well. This is the thick coconut milk. Return the pressed coconut to the blender with another 200 ml of water, blend again, and strain. This is the thin coconut milk. Keep the two extracts separate.
+2. Make the coconut (150 g) milk. Place the grated coconut in a blender with the cumin (¼ teaspoon), peppercorns, coriander seeds (½ teaspoon), turmeric (½ teaspoon), and 100 ml of water. Blend until smooth. Strain through a fine sieve, pressing well. This is the thick coconut milk. Return the pressed coconut to the blender with another 200 ml of water, blend again, and strain. This is the thin coconut milk. Keep the two extracts separate.
 
-3. **Fry the base.** Heat the oil in a wide pan over medium heat. Add the sliced onions (150 g) and fry for 6–7 minutes until soft and beginning to colour at the edges. Add the tomatoes (80 g) and cook for 3 minutes until softened.
+3. Fry the base. Heat the oil in a wide pan over medium heat. Add the sliced onions (150 g) and fry for 6–7 minutes until soft and beginning to colour at the edges. Add the tomatoes (80 g) and cook for 3 minutes until softened.
 
-4. **Build the curry.** Add the thin coconut milk to the pan. Bring to a gentle simmer and cook for 5 minutes.
+4. Build the curry. Add the thin coconut milk to the pan. Bring to a gentle simmer and cook for 5 minutes.
 
-5. **Cook the fish.** Add the salted fish pieces and the sliced green chillies (1–2 chillies) to the simmering broth. Cook over medium heat for 6–8 minutes, turning the fish gently once, until it is just cooked through. It should flake when pressed at its thickest point.
+5. Cook the fish. Add the salted fish pieces and the sliced green chillies (1–2 chillies) to the simmering broth. Cook over medium heat for 6–8 minutes, turning the fish gently once, until it is just cooked through. It should flake when pressed at its thickest point.
 
-6. **Add thick coconut milk and vinegar (10 ml).** Add the thick coconut milk and vinegar. Heat gently for 2 minutes. Do not boil after adding the thick coconut milk, or it will separate. Adjust salt.
+6. Add thick coconut milk and vinegar (10 ml). Add the thick coconut milk and vinegar. Heat gently for 2 minutes. Do not boil after adding the thick coconut milk, or it will separate. Adjust salt.
 
-7. **Serve immediately** with plain boiled rice.
+7. Serve immediately with plain boiled rice.
 
 ---
 

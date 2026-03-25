@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy
-tags: Punjabi, vegetarian, cauliflower, potato, dry sabzi, kadhai, weeknight, vegan
+tags: indian, Punjabi, vegetarian, cauliflower, potato, dry sabzi, kadhai, weeknight, vegan
 hero_image_prompt: A wide iron kadhai of aloo gobhi on a rustic wooden surface, the cauliflower florets golden at the edges and the potato dices coated in turmeric and coriander, scattered with fresh green coriander leaves, warm side light picking up the spiced surface
 seo_title: Aloo Gobhi Recipe — Punjabi Cauliflower and Potato Sabzi
 meta_description: Classic Punjabi aloo gobhi: cauliflower and potato cooked dry in a kadhai with cumin, turmeric, coriander, and fresh ginger until tender and slightly golden.
@@ -65,19 +65,19 @@ Serve with hot chapati or paratha and a simple dal for a complete Punjabi lunch.
 
 ## Method
 
-1. **Boil the potatoes (350 g).** Place the potatoes in a pot with cold water and a pinch of salt (¾ teaspoon). Bring to a boil and cook until just tender; a knife should meet slight resistance at the centre, not slide through completely. Drain, peel, and cut into 2 cm dice. Set aside.
+1. Boil the potatoes (350 g). Place the potatoes in a pot with cold water and a pinch of salt (¾ teaspoon). Bring to a boil and cook until just tender; a knife should meet slight resistance at the centre, not slide through completely. Drain, peel, and cut into 2 cm dice. Set aside.
 
-2. **Prepare the aromatics.** Chop the tomatoes (100 g). Slice the green chillies (2 small chillies). Finely chop the fresh ginger (10 g). Keep all three separate; they go in at different stages.
+2. Prepare the aromatics. Chop the tomatoes (100 g). Slice the green chillies (2 small chillies). Finely chop the fresh ginger (10 g). Keep all three separate; they go in at different stages.
 
-3. **Fry the spices.** Heat the oil in a wide kadhai or heavy-based pan over medium-high heat. Add the cumin seeds (¾ teaspoon) and wait. Within 30 seconds they will splutter and darken slightly, smelling nutty and sharp. Add the garlic paste (10 g) and stir-fry for 1 minute until it loses its raw smell and turns lightly golden at the edges.
+3. Fry the spices. Heat the oil in a wide kadhai or heavy-based pan over medium-high heat. Add the cumin seeds (¾ teaspoon) and wait. Within 30 seconds they will splutter and darken slightly, smelling nutty and sharp. Add the garlic paste (10 g) and stir-fry for 1 minute until it loses its raw smell and turns lightly golden at the edges.
 
-4. **Add the cauliflower (700 g).** Add the cauliflower florets to the pan and sprinkle over the turmeric (½ teaspoon), red chilli powder (½ teaspoon), coriander (20 g) powder (2 teaspoons), and salt. Stir well to coat every surface with the spiced oil. Reduce the heat to low, cover with a tight-fitting lid, and cook on dum for 12–15 minutes. The cauliflower will steam in its own moisture, becoming tender while picking up a little colour where it touches the pan. Check occasionally and stir gently. If it seems very dry and is catching, add 2 tablespoons of water.
+4. Add the cauliflower (700 g). Add the cauliflower florets to the pan and sprinkle over the turmeric (½ teaspoon), red chilli powder (½ teaspoon), coriander (20 g) powder (2 teaspoons), and salt. Stir well to coat every surface with the spiced oil. Reduce the heat to low, cover with a tight-fitting lid, and cook on dum for 12–15 minutes. The cauliflower will steam in its own moisture, becoming tender while picking up a little colour where it touches the pan. Check occasionally and stir gently. If it seems very dry and is catching, add 2 tablespoons of water.
 
-5. **Add tomato.** Remove the lid, increase the heat to medium, and add the chopped tomatoes. Stir and cook for 5 minutes until the tomatoes have broken down and their liquid has largely evaporated.
+5. Add tomato. Remove the lid, increase the heat to medium, and add the chopped tomatoes. Stir and cook for 5 minutes until the tomatoes have broken down and their liquid has largely evaporated.
 
-6. **Fold in the potatoes.** Add the diced boiled potato and the ginger paste (10 g). Mix gently; use a wide spatula rather than vigorous stirring to keep the florets intact. Add the chopped fresh ginger and green chillies. Taste and adjust seasoning. Cook for another 2–3 minutes, letting everything come together.
+6. Fold in the potatoes. Add the diced boiled potato and the ginger paste (10 g). Mix gently; use a wide spatula rather than vigorous stirring to keep the florets intact. Add the chopped fresh ginger and green chillies. Taste and adjust seasoning. Cook for another 2–3 minutes, letting everything come together.
 
-7. **Finish and serve.** Scatter the fresh coriander over the top just before serving.
+7. Finish and serve. Scatter the fresh coriander over the top just before serving.
 
 ---
 

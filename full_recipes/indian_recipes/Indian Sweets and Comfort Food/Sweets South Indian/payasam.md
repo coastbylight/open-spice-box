@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Tamil
 course: Dessert
 difficulty: Easy
-tags: [tamil, south india, dessert, rice pudding, kheer, saffron, cardamom, milk, almonds, vegetarian, gluten free, festival]
+tags: [indian, tamil, south india, dessert, rice pudding, kheer, saffron, cardamom, milk, almonds, vegetarian, gluten free, festival]
 hero_image_prompt: A wide clay pot of Tamil payasam, thick and ivory-white with a faint saffron yellow tint, a few almond slivers pressed into the surface and cardamom powder just dusted over, warm candlelight from the side
 seo_title: Payasam Recipe: Tamil Nadu Saffron and Cardamom Rice Pudding
 meta_description: Payasam: Tamil Nadu-style rice pudding made by reducing milk for 40 minutes with coarsely pounded rice, sweetened with sugar, fragrant with saffron and ground cardamom. Temple food, festival food, home food.

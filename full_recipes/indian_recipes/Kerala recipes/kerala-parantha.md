@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Bread
 difficulty: Intermediate
-tags: [kerala, bread, flatbread, parotta, layered, flaky, maida, egg, griddle]
+tags: [indian, kerala, bread, flatbread, parotta, layered, flaky, maida, egg, griddle]
 hero_image_prompt: Three Kerala parathas on a banana leaf, their surfaces golden and flaky, layers visible where one is torn open revealing the honeycomb interior, a light sheen of ghee on the surface, served alongside a small bowl of dark brown beef masala curry, set on a wooden table
 seo_title: Kerala Paratha (Parotta) — Flaky Layered Flatbread
 meta_description: Kerala Paratha — also called Parotta — is a flaky, multilayered flatbread made with maida, egg and milk, rested twice and cooked slowly on a griddle. The signature bread of Kerala's restaurant culture and home feasts.

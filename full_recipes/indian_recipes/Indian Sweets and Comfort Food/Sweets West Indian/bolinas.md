@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Easy
-tags: [goa, west india, dessert, cookies, coconut, egg, semolina, baked, portuguese, goan catholic, vanilla, tea time, vegetarian]
+tags: [indian, goa, west india, dessert, cookies, coconut, egg, semolina, baked, portuguese, goan catholic, vanilla, tea time, vegetarian]
 hero_image_prompt: A plate of bolinas, small golden-brown cookies arranged in a loose cluster, their surfaces slightly irregular and pale gold, one broken open to show the dense coconut-semolina interior, a cup of tea in the background, soft natural light
 seo_title: Bolinas Recipe — Goan Coconut and Semolina Tea Cookies
 meta_description: Bolinas are simple Goan Portuguese-influenced coconut, egg yolk, and semolina biscuits baked until golden — a classic Goan tea-time sweet made by cooking coconut in sugar syrup, then adding eggs, semolina, and vanilla.

@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy
-tags: Parsi, chicken, okra, bhindi, curry, Zoroastrian, gluten-free, South Asian
+tags: indian, Parsi, chicken, okra, bhindi, curry, Zoroastrian, gluten-free, South Asian
 hero_image_prompt: A wide bowl of Parsi chicken curry with dark, spiced tomato gravy, topped with crisp deep-fried okra strips standing upright as a garnish, photographed from the side with warm ambient light
 seo_title: Bheeda Ma Murgi — Parsi Chicken and Okra Curry
 meta_description: Bheeda ma murgi: Parsi chicken curry with onion, tomato, ginger-garlic, and whole spices, finished with deep-fried okra on top for texture and a distinctive Parsi touch.
@@ -66,15 +66,15 @@ The curry itself is a straightforward masala: onion and whole spices fried to go
 
 ## Method
 
-1. **Build the curry base.** Heat oil in a pot over medium heat. Add the bay leaf (1), cumin seeds (¼ teaspoon), coriander seeds (½ teaspoon), and whole red chilli. Let them crackle for 30 seconds. Add the sliced onions (150 g) and fry until light golden, about 8–10 minutes. Add chopped ginger (30 g) and garlic (30 g), stir for 2 minutes. Add turmeric (1 teaspoon), cumin powder (1 teaspoon), and salt (6 teaspoons, adjust to taste). Fry for 1 minute.
+1. Build the curry base. Heat oil in a pot over medium heat. Add the bay leaf (1), cumin seeds (¼ teaspoon), coriander seeds (½ teaspoon), and whole red chilli. Let them crackle for 30 seconds. Add the sliced onions (150 g) and fry until light golden, about 8–10 minutes. Add chopped ginger (30 g) and garlic (30 g), stir for 2 minutes. Add turmeric (1 teaspoon), cumin powder (1 teaspoon), and salt (6 teaspoons, adjust to taste). Fry for 1 minute.
 
-2. **Cook the tomatoes (200 g).** Add the chopped tomatoes and cook, stirring, for 6–8 minutes until completely softened and the oil rises to the surface.
+2. Cook the tomatoes (200 g). Add the chopped tomatoes and cook, stirring, for 6–8 minutes until completely softened and the oil rises to the surface.
 
-3. **Cook the chicken.** Add the chicken pieces and the green chillies (20 g). Stir to coat in the masala. Add enough water to just cover (about 150–200 ml). Bring to a boil, cover, and simmer for 25–30 minutes until the chicken is cooked through and the gravy is thick.
+3. Cook the chicken. Add the chicken pieces and the green chillies (20 g). Stir to coat in the masala. Add enough water to just cover (about 150–200 ml). Bring to a boil, cover, and simmer for 25–30 minutes until the chicken is cooked through and the gravy is thick.
 
-4. **Deep-fry the okra (200 g).** While the chicken cooks, heat oil for deep-frying in a kadhai. Fry the okra halves over high heat for 3–4 minutes until crisp and beginning to brown at the edges. Drain on kitchen paper. Do not salt until just before serving or they will soften.
+4. Deep-fry the okra (200 g). While the chicken cooks, heat oil for deep-frying in a kadhai. Fry the okra halves over high heat for 3–4 minutes until crisp and beginning to brown at the edges. Drain on kitchen paper. Do not salt until just before serving or they will soften.
 
-5. **Serve** the chicken curry in a wide bowl. Arrange the crisp-fried okra on top. Serve immediately with roti or rice.
+5. Serve the chicken curry in a wide bowl. Arrange the crisp-fried okra on top. Serve immediately with roti or rice.
 
 ---
 

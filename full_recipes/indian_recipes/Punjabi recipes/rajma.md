@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy
-tags: Punjabi, rajma, kidney beans, vegetarian, vegan, dal, comfort food, gluten-free, weeknight
+tags: indian, Punjabi, rajma, kidney beans, vegetarian, vegan, dal, comfort food, gluten-free, weeknight
 hero_image_prompt: A deep bowl of rajma, the dark red kidney beans in a thick rust-coloured gravy, garnished with a small pile of chopped fresh coriander and a few thin slices of raw ginger, on a worn clay surface with warm side light
 seo_title: Rajma Recipe — Authentic Punjabi Red Kidney Bean Curry
 meta_description: Classic Punjabi rajma: soaked red kidney beans cooked until tender and braised in a dark onion-tomato masala with whole roasted cumin and ginger.
@@ -63,15 +63,15 @@ Rajma is one of the most forgiving dishes in the repertoire. It holds well on th
 
 ## Method
 
-1. **Soak and boil the kidney beans.** Drain the soaked kidney beans and rinse under cold water. Place in a large pot and cover with fresh cold water by at least 5 cm, as kidney beans expand significantly during cooking. Bring to a vigorous boil and boil hard for at least 10 minutes (this is important for kidney beans; see notes below). Then reduce to a strong simmer, partially covered, and cook for 50–70 minutes until the beans are completely tender throughout. They should crush easily between two fingers with no resistance at the centre. Drain, reserving the cooking liquid.
+1. Soak and boil the kidney beans. Drain the soaked kidney beans and rinse under cold water. Place in a large pot and cover with fresh cold water by at least 5 cm, as kidney beans expand significantly during cooking. Bring to a vigorous boil and boil hard for at least 10 minutes (this is important for kidney beans; see notes below). Then reduce to a strong simmer, partially covered, and cook for 50–70 minutes until the beans are completely tender throughout. They should crush easily between two fingers with no resistance at the centre. Drain, reserving the cooking liquid.
 
-2. **Build the masala.** Heat the oil in a wide, heavy-based pan over medium-high heat. Add the chopped onions and fry, stirring regularly, for 10–12 minutes until deep golden brown. The onions should be genuinely dark and sweet-smelling. This is a richer masala base than a lighter dal. Add the ginger-garlic paste and stir for 2 minutes.
+2. Build the masala. Heat the oil in a wide, heavy-based pan over medium-high heat. Add the chopped onions and fry, stirring regularly, for 10–12 minutes until deep golden brown. The onions should be genuinely dark and sweet-smelling. This is a richer masala base than a lighter dal. Add the ginger-garlic paste and stir for 2 minutes.
 
-3. **Add chilli, spices, tomatoes (100 g).** Add the red chilli paste (25 g) and stir well for 1 minute. Add the cumin powder (¾ teaspoon) and coriander (14 g) powder (1 teaspoon). Stir for 30 seconds. Add the chopped tomatoes and stir to combine. Cook over medium heat for 8–10 minutes, mashing the tomatoes down and stirring frequently, until the oil begins to separate from the masala. The mixture will look slightly glossy and the oil will pool at the edges. This is the *cheenk* moment, and it means the masala is properly cooked.
+3. Add chilli, spices, tomatoes (100 g). Add the red chilli paste (25 g) and stir well for 1 minute. Add the cumin powder (¾ teaspoon) and coriander (14 g) powder (1 teaspoon). Stir for 30 seconds. Add the chopped tomatoes and stir to combine. Cook over medium heat for 8–10 minutes, mashing the tomatoes down and stirring frequently, until the oil begins to separate from the masala. The mixture will look slightly glossy and the oil will pool at the edges. This is the *cheenk* moment, and it means the masala is properly cooked.
 
-4. **Add the beans.** Add the cooked kidney beans to the masala. Stir to coat. Add the salt (¾ teaspoon) and 200–250 ml of the reserved bean cooking liquid (or water if you prefer a lighter gravy). Bring to a boil, then simmer uncovered for 15–20 minutes, pressing a few beans against the side of the pan with the back of a spoon as you stir. This partial mashing thickens the gravy naturally. Taste and adjust salt and chilli.
+4. Add the beans. Add the cooked kidney beans to the masala. Stir to coat. Add the salt (¾ teaspoon) and 200–250 ml of the reserved bean cooking liquid (or water if you prefer a lighter gravy). Bring to a boil, then simmer uncovered for 15–20 minutes, pressing a few beans against the side of the pan with the back of a spoon as you stir. This partial mashing thickens the gravy naturally. Taste and adjust salt and chilli.
 
-5. **Finish.** Turn the heat off. Stir through the fresh coriander, fresh ginger (3 g), and lemon juice. Serve immediately, with plain rice.
+5. Finish. Turn the heat off. Stir through the fresh coriander, fresh ginger (3 g), and lemon juice. Serve immediately, with plain rice.
 
 ---
 

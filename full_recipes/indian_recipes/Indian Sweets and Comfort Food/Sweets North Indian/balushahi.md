@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Dessert
 difficulty: Intermediate
-tags: [north india, dessert, pastry, ghee, curd, deep fried, sugar syrup, festival sweet, mithai, vegetarian]
+tags: [indian, north india, dessert, pastry, ghee, curd, deep fried, sugar syrup, festival sweet, mithai, vegetarian]
 hero_image_prompt: A plate of balushahi, round glazed pastry sweets with a central indentation, pale golden with a white sugar glaze that has set to a matte finish, one broken open to show the flaky interior, warm natural light
 seo_title: Balushahi Recipe - North Indian Flaky Ghee Pastry Sweet
 meta_description: Balushahi: North India's flaky deep-fried ghee pastry soaked in sugar syrup. Less sweet than gulab jamun, more complex. Traditional recipe with the critical light-hand kneading technique.

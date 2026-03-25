@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main / Side
 difficulty: Easy
-tags: [kerala, vegetarian, vegan, ishtu, stew, coconut-milk, vegetables, whole-spices, mild, gluten-free]
+tags: [indian, kerala, vegetarian, vegan, ishtu, stew, coconut-milk, vegetables, whole-spices, mild, gluten-free]
 hero_image_prompt: A white ceramic bowl of ivory-pale coconut milk vegetable stew, green beans and bright orange carrot dice visible in the broth, small cauliflower florets and pea-green peas, ginger juliennes floating at the surface, a small cinnamon stick visible, steam rising gently, set on a soft grey linen cloth
 seo_title: Vegetable Ishtu — Kerala Coconut Milk Vegetable Stew
 meta_description: Vegetable Ishtu is a mild, fragrant Kerala coconut milk stew with blanched vegetables, whole spices, green chilli and fresh ginger juliennes. Gentle, aromatic and complete with appam or pathiri.

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Bread
 difficulty: Easy
-tags: Rajasthani, bread, flatbread, roti, besan, gram flour, ajwain, vegetarian, vegan, tandoor
+tags: indian, Rajasthani, bread, flatbread, roti, besan, gram flour, ajwain, vegetarian, vegan, tandoor
 hero_image_prompt: Three missi rotis on a dark iron tawa, the surfaces mottled golden-brown with char marks from the tandoor, a piece broken open to show the speckled yellow-beige interior, with a small bowl of ghee and a scatter of fresh coriander on a dark stone surface
 seo_title: Missi Roti Recipe — Rajasthani Spiced Gram Flour Flatbread
 meta_description: Traditional Rajasthani missi roti: a spiced flatbread of gram flour and wheat dough with ajwain, cumin, green chilli, ginger, and coriander, cooked in a tandoor and finished with ghee.
@@ -61,15 +61,15 @@ Missi roti pairs with almost anything in the Rajasthani repertoire, but it is pa
 
 ## Method
 
-1. **Make the dough.** Combine the besan (175 g), wheat flour (70 g), cumin (½ teaspoon), ajwain (½ teaspoon), chopped green chilli, ginger (10 g), coriander (17 g), and salt (¾ teaspoon) in a wide bowl. Mix the dry ingredients together first, then add the warm water in stages, starting with 60 ml and adding more as needed, kneading as you go. The dough should be firm and smooth, slightly denser than a standard chapati dough. Gram flour absorbs water differently from wheat flour and the dough may feel slightly grainy at first; continue kneading for 5–6 minutes until it comes together into a cohesive ball. Cover with a damp cloth and rest for 10 minutes.
+1. Make the dough. Combine the besan (175 g), wheat flour (70 g), cumin (½ teaspoon), ajwain (½ teaspoon), chopped green chilli, ginger (10 g), coriander (17 g), and salt (¾ teaspoon) in a wide bowl. Mix the dry ingredients together first, then add the warm water in stages, starting with 60 ml and adding more as needed, kneading as you go. The dough should be firm and smooth, slightly denser than a standard chapati dough. Gram flour absorbs water differently from wheat flour and the dough may feel slightly grainy at first; continue kneading for 5–6 minutes until it comes together into a cohesive ball. Cover with a damp cloth and rest for 10 minutes.
 
-2. **Divide and roll.** Divide the rested dough into 10–12 equal balls (approximately 30–35 g each). Lightly dust your work surface with wheat flour. Roll each ball into a round approximately 3 mm thick (about the thickness of a thin pancake) and 15–17 cm in diameter. Missi roti is slightly thicker than regular chapati.
+2. Divide and roll. Divide the rested dough into 10–12 equal balls (approximately 30–35 g each). Lightly dust your work surface with wheat flour. Roll each ball into a round approximately 3 mm thick (about the thickness of a thin pancake) and 15–17 cm in diameter. Missi roti is slightly thicker than regular chapati.
 
-3. **Cook:**
+3. Cook:
    - *On a tawa or griddle:* Heat a cast-iron tawa or heavy frying pan over high heat until very hot. Place a rolled roti on the dry tawa. Cook for 1–1.5 minutes until the underside develops patches of golden-brown and the top surface shows dry spots forming. Flip and cook the other side for 1–1.5 minutes. For the traditional charred finish, hold the roti directly over a gas flame with tongs for 10–15 seconds on each side. It should blister and char in spots.
    - *In a tandoor:* Slap the rolled roti onto the inner wall of the tandoor. Cook for 2–3 minutes until the surface blisters and the bread pulls away from the wall.
 
-4. **Finish with ghee (1 teaspoon per roti).** Remove from heat and immediately apply a generous amount of ghee to one side. The hot roti will absorb it readily. Serve hot.
+4. Finish with ghee (1 teaspoon per roti). Remove from heat and immediately apply a generous amount of ghee to one side. The hot roti will absorb it readily. Serve hot.
 
 ---
 

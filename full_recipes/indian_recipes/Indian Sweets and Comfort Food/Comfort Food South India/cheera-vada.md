@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Snack / Street Food
 difficulty: Intermediate
-tags: [kerala, vada, urad dal, spinach, deep fried, snack, street food, gluten free, south india]
+tags: comfort food, [indian, kerala, vada, urad dal, spinach, deep fried, snack, street food, gluten free, south india]
 hero_image_prompt: Close-up of golden-brown cheera vadas stacked on a banana leaf, surfaces rough and lacy with flecks of green spinach visible through the crust, small bowl of white coconut chutney alongside, soft natural light, warm tones
 seo_title: Cheera Vada Recipe – Kerala Spinach and Urad Dal Fritters
 meta_description: Cheera vada are crispy, airy Kerala-style urad dal fritters folded with fresh spinach and curry leaves. Learn the traditional double-fry method for a genuinely shattering crust.

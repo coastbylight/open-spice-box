@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Dessert
 difficulty: Easy
-tags: [punjab, north india, dessert, wheat flour, boora, ghee, almonds, cashews, pistachio, cardamom, winter sweet, laddoo, vegetarian]
+tags: [indian, punjab, north india, dessert, wheat flour, boora, ghee, almonds, cashews, pistachio, cardamom, winter sweet, laddoo, vegetarian]
 hero_image_prompt: A cluster of pinni balls on a dark wooden board, pale golden-brown and slightly rough-surfaced, a cross-section showing the packed interior with visible nut pieces, cardamom-dusted, warm autumn light
 seo_title: Pinni Recipe - Punjabi Winter Wheat Flour and Boora Balls
 meta_description: Pinni are Punjabi winter sweets. Whole wheat flour roasted slowly in ghee until golden and fragrant, mixed with boora (raw sugar) and crushed nuts, shaped into balls. Simple, warming, and deeply satisfying.

@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Breakfast
 difficulty: Easy
-tags: Parsi, eggs, scrambled eggs, breakfast, quick, vegetarian, gluten-free, Zoroastrian
+tags: indian, Parsi, eggs, scrambled eggs, breakfast, quick, vegetarian, gluten-free, Zoroastrian
 hero_image_prompt: A wide pan of akuri — soft, gently scrambled spiced eggs with visible flecks of green chilli and coriander, a golden-yellow from turmeric, served alongside buttered toast, photographed from above on a dark surface in warm morning light
 seo_title: Akuri — Parsi Spiced Scrambled Eggs Recipe
 meta_description: Akuri: Parsi spiced scrambled eggs cooked with fried onion, tomato, green chilli, and turmeric — a breakfast staple of the Zoroastrian community, eaten with bread or roti.
@@ -58,15 +58,15 @@ Akuri is eaten with bread: toast, or the ladi pav that appears throughout Mumbai
 
 ## Method
 
-1. **Cook the onion (60 g) base.** Heat the oil in a pan over medium heat. Add the chopped onion and fry, stirring, for 4–5 minutes until golden and beginning to colour at the edges.
+1. Cook the onion (60 g) base. Heat the oil in a pan over medium heat. Add the chopped onion and fry, stirring, for 4–5 minutes until golden and beginning to colour at the edges.
 
-2. **Add tomatoes (100 g) and spices.** Add the chopped tomato, green chilli, red chilli powder (½ teaspoon), and turmeric (¼ teaspoon). Cook for 3–4 minutes, stirring, until the tomato has softened and the oil has returned to the surface. Season with salt.
+2. Add tomatoes (100 g) and spices. Add the chopped tomato, green chilli, red chilli powder (½ teaspoon), and turmeric (¼ teaspoon). Cook for 3–4 minutes, stirring, until the tomato has softened and the oil has returned to the surface. Season with salt.
 
-3. **Add the eggs (4).** Reduce heat to low. Crack the eggs directly into the pan and stir immediately and continuously with a spatula or wooden spoon, moving them around the pan without stopping.
+3. Add the eggs (4). Reduce heat to low. Crack the eggs directly into the pan and stir immediately and continuously with a spatula or wooden spoon, moving them around the pan without stopping.
 
-4. **Scramble gently.** Continue stirring over very low heat until the eggs are barely set. They should be soft, creamy, and just slightly runny in patches. Remove from heat immediately. The residual heat will continue to cook them for another 30 seconds.
+4. Scramble gently. Continue stirring over very low heat until the eggs are barely set. They should be soft, creamy, and just slightly runny in patches. Remove from heat immediately. The residual heat will continue to cook them for another 30 seconds.
 
-5. **Garnish and serve.** Scatter fresh coriander over the eggs and serve immediately with buttered toast or pav.
+5. Garnish and serve. Scatter fresh coriander over the eggs and serve immediately with buttered toast or pav.
 
 ---
 

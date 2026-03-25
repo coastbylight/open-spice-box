@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Dessert
 difficulty: Intermediate
-tags: [hyderabadi, south india, dessert, bread pudding, saffron, cardamom, khoya, milk, baked, festival, vegetarian]
+tags: [indian, hyderabadi, south india, dessert, bread pudding, saffron, cardamom, khoya, milk, baked, festival, vegetarian]
 hero_image_prompt: A terracotta baking dish of double ka meetha, the top surface golden-brown with scattered raisins and a visible saffron hue in the cream, one corner lifted to show the bread layers below, warm oven-golden light
 seo_title: Double Ka Meetha Recipe: Hyderabadi Saffron Bread Pudding
 meta_description: Double ka meetha: Hyderabadi bread pudding of ghee-fried bread soaked in saffron-cardamom-khoya thickened milk with sugar syrup, baked until the top turns golden. Named for Hyderabad's word for bread.

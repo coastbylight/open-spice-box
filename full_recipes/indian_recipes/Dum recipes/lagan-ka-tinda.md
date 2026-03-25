@@ -70,17 +70,17 @@ The result after thirty minutes of sealed heat is a vegetable dish that has full
 
 ## Method
 
-1. **Make the marinade.** In a large bowl, combine all marinade ingredients: Kashmiri chilli paste (25 g), coriander powder (6 teaspoons), ginger paste (50 g), garlic paste (50 g), salt (4 teaspoons), lime juice (1½ limes), oil, brown onion (100 g) paste (75 g), yogurt (250 g), mace (1 teaspoon), nutmeg (½ teaspoon), cardamom powder (1 teaspoon), turmeric (½ teaspoon), and green chilli paste (30 g). Mix until completely smooth.
+1. Make the marinade. In a large bowl, combine all marinade ingredients: Kashmiri chilli paste (25 g), coriander powder (6 teaspoons), ginger paste (50 g), garlic paste (50 g), salt (4 teaspoons), lime juice (1½ limes), oil, brown onion (100 g) paste (75 g), yogurt (250 g), mace (1 teaspoon), nutmeg (½ teaspoon), cardamom powder (1 teaspoon), turmeric (½ teaspoon), and green chilli paste (30 g). Mix until completely smooth.
 
-2. **Coat the tinda.** Add the prepared tinda to the marinade and toss to coat completely. Set aside for 15 minutes.
+2. Coat the tinda. Add the prepared tinda to the marinade and toss to coat completely. Set aside for 15 minutes.
 
-3. **Prepare the lagan.** Heat the ghee (150 g) in a lagan (or a wide, heavy, flat-bottomed pot) over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.
+3. Prepare the lagan. Heat the ghee (150 g) in a lagan (or a wide, heavy, flat-bottomed pot) over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.
 
-4. **Cook dum-style.** Add the marinated tinda along with all the marinade into the lagan. Stir once to combine with the onion. Reduce heat to very low. Seal tightly with foil pressed under the lid, then press the lid firmly over it.
+4. Cook dum-style. Add the marinated tinda along with all the marinade into the lagan. Stir once to combine with the onion. Reduce heat to very low. Seal tightly with foil pressed under the lid, then press the lid firmly over it.
 
-5. **Cook for 30 minutes** without lifting the lid. If using charcoal, place lit charcoal on the lid for a more authentic dum result.
+5. Cook for 30 minutes without lifting the lid. If using charcoal, place lit charcoal on the lid for a more authentic dum result.
 
-6. **Check and serve.** Open carefully away from yourself. The tinda should be completely tender when pierced with a knife, the sauce thick and coating. Adjust salt. Serve with khamiri roti or pilaf rice.
+6. Check and serve. Open carefully away from yourself. The tinda should be completely tender when pierced with a knife, the sauce thick and coating. Adjust salt. Serve with khamiri roti or pilaf rice.
 
 ---
 

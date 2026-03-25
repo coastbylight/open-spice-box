@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved
-tags: Hyderabadi, biryani, mutton, kachi, raw-cook, dum, saffron, celebration, gluten-free
+tags: andhra, indian, Hyderabadi, biryani, mutton, kachi, raw-cook, dum, saffron, celebration, gluten-free
 hero_image_prompt: An earthenware handi sealed at the rim with a ring of golden-brown baked dough, sitting on a charcoal-dusted surface in warm ochre light, a thin wisp of steam escaping one side
 seo_title: Kachi Biryani Recipe — Raw Mutton Dum Biryani the Traditional Way
 meta_description: Kachi biryani cooks raw marinated mutton and uncooked rice together in a sealed pot. One of India's most technically demanding and rewarding rice dishes.
@@ -81,17 +81,17 @@ The practical truth to keep in mind: the quality of the mutton matters more here
 
 ## Method
 
-1. **Marinate overnight.** In a large bowl, combine the mutton (1 kg) pieces with all the marinade ingredients — yogurt (150 g), ginger-garlic paste (3 tablespoons), fried onions, mint (100 g), coriander (100 g), green chillies (6 chillies), red chilli powder (2 teaspoons), garam masala (2 teaspoons), whole spices, lemon juice (2 tablespoons), and salt (2 teaspoons). Work everything together thoroughly with your hands. The marinade should be thick and fragrant. Cover tightly and refrigerate for a minimum of 8 hours, ideally overnight. By morning the mutton will have changed colour to a deep, rust-tinged burgundy and the whole spices will have perfumed the meat throughout.
+1. Marinate overnight. In a large bowl, combine the mutton (1 kg) pieces with all the marinade ingredients — yogurt (150 g), ginger-garlic paste (3 tablespoons), fried onions, mint (100 g), coriander (100 g), green chillies (6 chillies), red chilli powder (2 teaspoons), garam masala (2 teaspoons), whole spices, lemon juice (2 tablespoons), and salt (2 teaspoons). Work everything together thoroughly with your hands. The marinade should be thick and fragrant. Cover tightly and refrigerate for a minimum of 8 hours, ideally overnight. By morning the mutton will have changed colour to a deep, rust-tinged burgundy and the whole spices will have perfumed the meat throughout.
 
-2. **Prepare the pot.** Choose a heavy-based pot or handi — ideally with thick walls and a domed lid. The pot should be wide enough that the mutton sits in a relatively even layer, no more than 5–6 cm deep. This ensures even heat distribution during the dum.
+2. Prepare the pot. Choose a heavy-based pot or handi — ideally with thick walls and a domed lid. The pot should be wide enough that the mutton sits in a relatively even layer, no more than 5–6 cm deep. This ensures even heat distribution during the dum.
 
-3. **Layer the biryani.** Remove the marinated mutton from the refrigerator 30 minutes before cooking to bring it closer to room temperature. Spread the raw marinated mutton across the base of the pot in an even layer, including all the marinade juices — these become the cooking liquid. Spread the soaked, drained rice evenly over the mutton. Do not press or compact the rice. Drizzle the saffron (0.1 g) milk in streaks across the rice and add the kewra water (½ teaspoon). Pour the melted ghee (14 tablespoons / 180 ml) evenly over the surface.
+3. Layer the biryani. Remove the marinated mutton from the refrigerator 30 minutes before cooking to bring it closer to room temperature. Spread the raw marinated mutton across the base of the pot in an even layer, including all the marinade juices — these become the cooking liquid. Spread the soaked, drained rice evenly over the mutton. Do not press or compact the rice. Drizzle the saffron (0.1 g) milk in streaks across the rice and add the kewra water (½ teaspoon). Pour the melted ghee (14 tablespoons / 180 ml) evenly over the surface.
 
-4. **Seal the pot.** Roll the dough into a long rope and press it firmly around the rim of the pot, between the pot and the lid, creating an airtight seal. Ensure there are no gaps — press the dough firmly on both the pot lip and the underside of the lid.
+4. Seal the pot. Roll the dough into a long rope and press it firmly around the rim of the pot, between the pot and the lid, creating an airtight seal. Ensure there are no gaps — press the dough firmly on both the pot lip and the underside of the lid.
 
-5. **Cook.** Place the sealed pot over high heat for 15 minutes. You should hear the pot ticking and, after a few minutes, see steam struggling to push through the dough seal — this tells you pressure is building inside. After 15 minutes on high, reduce to the lowest possible heat and cook for a further 40–45 minutes. The dough seal should remain intact throughout. Do not be tempted to lift it.
+5. Cook. Place the sealed pot over high heat for 15 minutes. You should hear the pot ticking and, after a few minutes, see steam struggling to push through the dough seal — this tells you pressure is building inside. After 15 minutes on high, reduce to the lowest possible heat and cook for a further 40–45 minutes. The dough seal should remain intact throughout. Do not be tempted to lift it.
 
-6. **Rest and open.** Remove from heat and rest for 15 minutes with the seal still intact. Bring the pot to the table. Break the dough seal with a knife at the rim and lift the lid. The steam that rises will carry an extraordinary concentration of saffron, mace (2 blades), mint, and slow-rendered mutton. Using a wide, flat spoon, gently fold the biryani from the sides inward, lifting and turning the layers without breaking the rice grains.
+6. Rest and open. Remove from heat and rest for 15 minutes with the seal still intact. Bring the pot to the table. Break the dough seal with a knife at the rim and lift the lid. The steam that rises will carry an extraordinary concentration of saffron, mace (2 blades), mint, and slow-rendered mutton. Using a wide, flat spoon, gently fold the biryani from the sides inward, lifting and turning the layers without breaking the rice grains.
 
 ---
 

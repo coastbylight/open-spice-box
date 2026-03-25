@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Soup
 difficulty: Easy
-tags: Goan, soup, Portuguese, potato, spinach, vegetarian, mild, colonial
+tags: indian, Goan, soup, Portuguese, potato, spinach, vegetarian, mild, colonial
 hero_image_prompt: A pale green bowl of caldo verde — a creamy, jade-hued soup with small dark flecks of spinach, a thin swirl of oil on the surface, served on a worn linen cloth with a thick slice of bread on the side, soft afternoon light through a shuttered Goan window
 seo_title: Caldo Verde Recipe — Goa's Portuguese Potato and Spinach Soup
 meta_description: Goan caldo verde is a simplified adaptation of the Portuguese classic — potatoes cooked in chicken stock, blended smooth, and finished with spinach and milk. Simple, restorative, and quietly delicious.
@@ -60,15 +60,15 @@ The only thing to watch: do not let the soup boil after the milk goes in. A roll
 
 ## Method
 
-1. **Sweat the onion (1 medium onion).** Warm the oil in a medium heavy-bottomed pot over medium heat. Add the chopped onion and a pinch of salt, and cook gently, stirring occasionally, for 6–8 minutes until the onion is soft, translucent, and completely tender with no raw bite remaining. Do not allow it to colour; this soup should stay pale and clean-tasting.
+1. Sweat the onion (1 medium onion). Warm the oil in a medium heavy-bottomed pot over medium heat. Add the chopped onion and a pinch of salt, and cook gently, stirring occasionally, for 6–8 minutes until the onion is soft, translucent, and completely tender with no raw bite remaining. Do not allow it to colour; this soup should stay pale and clean-tasting.
 
-2. **Add stock and potatoes (300 g).** Pour in the chicken stock and bring to a simmer. Add the quartered potatoes. Cook, partially covered, until the potatoes are completely tender, about 15 minutes. A knife should slide through a potato piece with no resistance.
+2. Add stock and potatoes (300 g). Pour in the chicken stock and bring to a simmer. Add the quartered potatoes. Cook, partially covered, until the potatoes are completely tender, about 15 minutes. A knife should slide through a potato piece with no resistance.
 
-3. **Mash the potatoes.** Remove the cooked potato pieces with a slotted spoon. Pass them through a potato ricer, or mash them thoroughly with a fork. You want a smooth mash with no large lumps. Return the mashed potato to the pot and stir to incorporate into the stock. The soup will thicken noticeably.
+3. Mash the potatoes. Remove the cooked potato pieces with a slotted spoon. Pass them through a potato ricer, or mash them thoroughly with a fork. You want a smooth mash with no large lumps. Return the mashed potato to the pot and stir to incorporate into the stock. The soup will thicken noticeably.
 
-4. **Add the spinach.** Bring the thickened soup to a gentle simmer and add the spinach leaves (400 g). Stir and cook for 3–4 minutes, until the spinach is completely wilted and tender. The soup will turn a pale, muted green.
+4. Add the spinach. Bring the thickened soup to a gentle simmer and add the spinach leaves (400 g). Stir and cook for 3–4 minutes, until the spinach is completely wilted and tender. The soup will turn a pale, muted green.
 
-5. **Finish with milk.** Reduce the heat to very low. Pour in the milk and stir gently. Allow the soup to come just to the point of steaming, not boiling. Season with salt to taste. Serve immediately.
+5. Finish with milk. Reduce the heat to very low. Pour in the milk and stir gently. Allow the soup to come just to the point of steaming, not boiling. Season with salt to taste. Serve immediately.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Bread
 difficulty: Easy
-tags: [kerala, moplah, mappila, muslim, bread, flatbread, rice-flour, gluten-free, steam-cooked]
+tags: [indian, kerala, moplah, mappila, muslim, bread, flatbread, rice-flour, gluten-free, steam-cooked]
 hero_image_prompt: A stack of thin, white pathiri flatbreads on a banana leaf, their surfaces smooth and slightly matte, the edges papery thin, one broken open to show the soft, glutinous interior, a small bowl of deep red Kerala chicken curry placed beside them, set on a dark stone surface
 seo_title: Pathiri — Kerala Moplah Rice Flour Flatbreads
 meta_description: Pathiri are thin, soft rice flour flatbreads from Kerala's Moplah Muslim community. Made by cooking rice flour in boiling water into a dough, then rolled and cooked on a hot pan. Gluten-free and served with any Kerala curry.

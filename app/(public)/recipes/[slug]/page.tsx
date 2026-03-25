@@ -243,7 +243,7 @@ export default async function RecipeDetailPage({ params }: Props) {
               <ol className="space-y-6">
                 {r.instructions.map(step => (
                   <li key={step.step} className="flex gap-5">
-                    <span className="font-display text-3xl text-parchment-300 leading-none shrink-0 w-8 text-right select-none">
+                    <span className="font-display text-3xl text-charcoal-800 leading-none shrink-0 w-8 text-right select-none">
                       {step.step}
                     </span>
                     <p className="text-sm text-charcoal-700 leading-[1.8] pt-1">

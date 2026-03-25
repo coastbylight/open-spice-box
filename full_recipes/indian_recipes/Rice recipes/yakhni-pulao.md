@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Uttar Pradesh
 course: Main
 difficulty: Hard
-tags: UP, Awadhi, mutton, lamb, yakhni, bone stock, dum, kewra, celebration, gluten-free
+tags: indian, UP, Awadhi, mutton, lamb, yakhni, bone stock, dum, kewra, celebration, gluten-free
 hero_image_prompt: A wide degchi of yakhni pulao on a marble surface, the long basmati grains pale and glistening in white mutton stock, the bone-in lamb chops arranged on top, the pot sealed with dough showing around the rim, shot from above with soft ambient light
 seo_title: Yakhni Pulao Recipe — Awadhi Mutton Bone Stock Basmati Rice
 meta_description: Yakhni pulao: Awadhi mutton cooked in bone stock with whole spices, the strained stock enriched with marrow and used to cook basmati rice layered with pan-fried chops, sealed in dum.
@@ -87,31 +87,31 @@ The lamb chops are cooked separately (pan-fried in their own layer of ghee) and 
 
 **Make the yakhni:**
 
-1. **Wash the yakhni cuts (350 g).** Rinse the marrow bones, boti, and puth under cold running water (700 ml).
+1. Wash the yakhni cuts (350 g). Rinse the marrow bones, boti, and puth under cold running water (700 ml).
 
-2. **Cook the yakhni.** Heat 85 g of ghee (17 ml) in a large, wide pot over high heat. Add the garlic (3 cloves) water (10 ml) — let it sizzle and evaporate. Add the sliced onions (100 g) and fry for 12–15 minutes until deep golden brown. Remove the onions to a plate and set aside. Divide the remaining ghee into three portions mentally.
+2. Cook the yakhni. Heat 85 g of ghee (17 ml) in a large, wide pot over high heat. Add the garlic (3 cloves) water (10 ml) — let it sizzle and evaporate. Add the sliced onions (100 g) and fry for 12–15 minutes until deep golden brown. Remove the onions to a plate and set aside. Divide the remaining ghee into three portions mentally.
 
-3. **In two-thirds of the ghee (85 g) remaining in the pot:** Add 1 cinnamon stick, 3 brown cardamoms, the yakhni cuts, 5 whole cloves (5), ginger-garlic paste (optional), and salt (4 g). Stir well and cover. Cook for 10 minutes, turning the pieces to ensure even browning on all sides until lightly golden. Add enough cold water to cover by 4 cm (about 1 litre). Pressure cook for 45 minutes — first 20 minutes on high heat, then reduce to low for remaining 25 minutes. Allow to cool naturally.
+3. In two-thirds of the ghee (85 g) remaining in the pot: Add 1 cinnamon stick, 3 brown cardamoms, the yakhni cuts, 5 whole cloves (5), ginger-garlic paste (optional), and salt (4 g). Stir well and cover. Cook for 10 minutes, turning the pieces to ensure even browning on all sides until lightly golden. Add enough cold water to cover by 4 cm (about 1 litre). Pressure cook for 45 minutes — first 20 minutes on high heat, then reduce to low for remaining 25 minutes. Allow to cool naturally.
 
-4. **Extract the marrow and strain.** Remove the meat pieces from the stock. The meat on the yakhni cuts should be very soft — the flesh can be pulled away from the bones easily. Remove and set the flesh aside. Crack the marrow bones open or press the marrow out with a skewer into a small bowl. Push the marrow through a fine sieve into the stock to enrich it. Strain the entire stock through a muslin cloth or very fine strainer. You should have approximately 700–800 ml of clear, rich yakhni. Set aside.
+4. Extract the marrow and strain. Remove the meat pieces from the stock. The meat on the yakhni cuts should be very soft — the flesh can be pulled away from the bones easily. Remove and set the flesh aside. Crack the marrow bones open or press the marrow out with a skewer into a small bowl. Push the marrow through a fine sieve into the stock to enrich it. Strain the entire stock through a muslin cloth or very fine strainer. You should have approximately 700–800 ml of clear, rich yakhni. Set aside.
 
-5. **Finish the yakhni.** In a pot, combine the strained yakhni with 1 litre total liquid (add water to reach 1 litre if needed). Add the beaten yoghurt (50 g), red chilli powder (½ teaspoon), kewra jal (½ teaspoon), and black pepper (¼ teaspoon). Bring to a boil, skimming any foam or excess fat (2 tablespoons) from the surface. Season and check. Reserve 700 ml for cooking the rice.
+5. Finish the yakhni. In a pot, combine the strained yakhni with 1 litre total liquid (add water to reach 1 litre if needed). Add the beaten yoghurt (50 g), red chilli powder (½ teaspoon), kewra jal (½ teaspoon), and black pepper (¼ teaspoon). Bring to a boil, skimming any foam or excess fat (2 tablespoons) from the surface. Season and check. Reserve 700 ml for cooking the rice.
 
 **Prepare the chops:**
 
-6. **Pan-fry the chops.** In the remaining third of the ghee (or fresh ghee in a separate pan), cook the mutton chops (175 g) with the brown cardamom (1 pod), cinnamon, and salt (4 g) over medium heat. Turn occasionally to ensure even cooking, about 20–25 minutes total, until the chops are cooked through and golden on the outside. Set aside.
+6. Pan-fry the chops. In the remaining third of the ghee (or fresh ghee in a separate pan), cook the mutton chops (175 g) with the brown cardamom (1 pod), cinnamon, and salt (4 g) over medium heat. Turn occasionally to ensure even cooking, about 20–25 minutes total, until the chops are cooked through and golden on the outside. Set aside.
 
 **Cook the rice:**
 
-7. **Parboil the rice.** Rinse the basmati rice (350 g). In a large pot, bring plenty of salted water to a boil. Add the 2 tablespoons of fat skimmed from the yakhni, the whole cloves (10), and green cardamoms. Add the rice and par-cook: stir and cook for about 8 minutes, until the rice is three-quarters done (still slightly firm at the centre). Drain through a sieve immediately.
+7. Parboil the rice. Rinse the basmati rice (350 g). In a large pot, bring plenty of salted water to a boil. Add the 2 tablespoons of fat skimmed from the yakhni, the whole cloves (10), and green cardamoms. Add the rice and par-cook: stir and cook for about 8 minutes, until the rice is three-quarters done (still slightly firm at the centre). Drain through a sieve immediately.
 
 **Assemble and dum:**
 
-8. **Layer the pulao.** In a wide, greased degchi or deep pot, arrange alternating layers: begin with cooked yakhni meat pieces, then three-quarter-done rice, then chops, then more rice, until all ingredients are used. Pour approximately 400 ml of the finished yakhni stock over the top.
+8. Layer the pulao. In a wide, greased degchi or deep pot, arrange alternating layers: begin with cooked yakhni meat pieces, then three-quarter-done rice, then chops, then more rice, until all ingredients are used. Pour approximately 400 ml of the finished yakhni stock over the top.
 
-9. **Seal and dum.** Roll the wheat dough (100 g) into a rope and press to seal the lid. Cook on very low heat (using a heat diffuser if available) for 30 minutes. Remove from heat and rest, still sealed, for 10 minutes.
+9. Seal and dum. Roll the wheat dough (100 g) into a rope and press to seal the lid. Cook on very low heat (using a heat diffuser if available) for 30 minutes. Remove from heat and rest, still sealed, for 10 minutes.
 
-10. **Serve.** Break the seal at the table. Serve from one corner, scooping through all the layers.
+10. Serve. Break the seal at the table. Serve from one corner, scooping through all the layers.
 
 ---
 

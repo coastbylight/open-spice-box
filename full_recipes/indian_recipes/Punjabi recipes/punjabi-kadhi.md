@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium
-tags: Punjabi, kadhi, yoghurt, besan, pakoda, spinach, vegetarian, comfort food, slow-cooked
+tags: indian, Punjabi, kadhi, yoghurt, besan, pakoda, spinach, vegetarian, comfort food, slow-cooked
 hero_image_prompt: A wide bowl of Punjabi kadhi, the turmeric-yellow curd gravy thick and gently bubbling, several soft golden pakodas just visible beneath the surface, finished with a swirl of red oil, on a warm wooden surface with natural light
 seo_title: Punjabi Kadhi Recipe — Spiced Yoghurt Curry with Spinach Pakodas
 meta_description: Classic Punjabi kadhi: tangy beaten yoghurt thickened with besan, simmered slowly for an hour with spices, with crispy besan-spinach pakodas cooked in until soft.
@@ -79,23 +79,23 @@ This is a dish that rewards patience and suffers when rushed. Serve over plain b
 
 **Make the kadhi base:**
 
-1. **Beat the yoghurt (500 g).** Place the yoghurt in a large bowl. Add the besan (50 g), turmeric (¼ teaspoon), red chilli (¼ teaspoon) powder (¼ teaspoon), and salt (¾ teaspoon). Whisk vigorously until completely smooth. No lumps of besan should remain. This mixture will look quite thin at first. Set aside.
+1. Beat the yoghurt (500 g). Place the yoghurt in a large bowl. Add the besan (50 g), turmeric (¼ teaspoon), red chilli (¼ teaspoon) powder (¼ teaspoon), and salt (¾ teaspoon). Whisk vigorously until completely smooth. No lumps of besan should remain. This mixture will look quite thin at first. Set aside.
 
-2. **Build the masala.** Heat the oil in a large, wide, heavy-based pot over medium heat. Add the cumin (½ teaspoon) seeds (¾ teaspoon), coriander (2 teaspoons) seeds (½ teaspoon), and ajwain (½ teaspoon). When they splutter and darken, add the whole dried red chillies (2 g). Within 15 seconds, add the ginger-garlic paste and green chillies (3). Stir for 1 minute.
+2. Build the masala. Heat the oil in a large, wide, heavy-based pot over medium heat. Add the cumin (½ teaspoon) seeds (¾ teaspoon), coriander (2 teaspoons) seeds (½ teaspoon), and ajwain (½ teaspoon). When they splutter and darken, add the whole dried red chillies (2 g). Within 15 seconds, add the ginger-garlic paste and green chillies (3). Stir for 1 minute.
 
-3. **Add the onions.** Add the chopped onions and stir-fry for 5–6 minutes until softened but not browned.
+3. Add the onions. Add the chopped onions and stir-fry for 5–6 minutes until softened but not browned.
 
-4. **Add the yoghurt mixture.** Pour the yoghurt-besan mixture slowly into the pot, stirring constantly. Bring to a boil over medium-high heat. This is important. Once it boils, reduce to a gentle simmer. Cook uncovered, stirring occasionally, for 1 hour. The kadhi will thicken, deepen in colour, and lose its raw besan (85 g) flavour. At the 30-minute mark, taste it. It should taste pleasantly sour and slightly thick. At the 60-minute mark it should be fully cohesive, with no raw flour note. Adjust salt (¾ teaspoon).
+4. Add the yoghurt mixture. Pour the yoghurt-besan mixture slowly into the pot, stirring constantly. Bring to a boil over medium-high heat. This is important. Once it boils, reduce to a gentle simmer. Cook uncovered, stirring occasionally, for 1 hour. The kadhi will thicken, deepen in colour, and lose its raw besan (85 g) flavour. At the 30-minute mark, taste it. It should taste pleasantly sour and slightly thick. At the 60-minute mark it should be fully cohesive, with no raw flour note. Adjust salt (¾ teaspoon).
 
 **Make the pakodas:**
 
-5. **Make the batter.** Combine the besan, sliced onion (35 g), chopped spinach (35 g), cumin powder, ginger (3 g), green chilli (1 g), salt, red chilli powder, and coriander powder in a bowl. Add just enough water, a tablespoon at a time, to form a thick batter that holds its shape when scooped. It should be thicker than pancake batter and should hold a rough shape when dropped from a spoon.
+5. Make the batter. Combine the besan, sliced onion (35 g), chopped spinach (35 g), cumin powder, ginger (3 g), green chilli (1 g), salt, red chilli powder, and coriander powder in a bowl. Add just enough water, a tablespoon at a time, to form a thick batter that holds its shape when scooped. It should be thicker than pancake batter and should hold a rough shape when dropped from a spoon.
 
-6. **Fry the pakodas.** Heat sufficient oil for deep-frying in a separate pot to 170°C (or until a small drop of batter sizzles and rises to the surface immediately). Drop rounded tablespoons of batter into the oil. Do not overcrowd. Fry for 3–4 minutes, turning, until deep golden all over. Remove with a slotted spoon and drain on kitchen paper.
+6. Fry the pakodas. Heat sufficient oil for deep-frying in a separate pot to 170°C (or until a small drop of batter sizzles and rises to the surface immediately). Drop rounded tablespoons of batter into the oil. Do not overcrowd. Fry for 3–4 minutes, turning, until deep golden all over. Remove with a slotted spoon and drain on kitchen paper.
 
-7. **Add pakodas to kadhi.** When the kadhi has simmered for its full hour, add the fried pakodas to the pot. Bring back to a boil, then simmer for a further 5 minutes until the pakodas have absorbed some of the kadhi and swelled slightly.
+7. Add pakodas to kadhi. When the kadhi has simmered for its full hour, add the fried pakodas to the pot. Bring back to a boil, then simmer for a further 5 minutes until the pakodas have absorbed some of the kadhi and swelled slightly.
 
-8. **Final tempering.** In a small pan, heat 2 tablespoons of oil until very hot. Add 2–3 whole dried red chillies. Within 20 seconds they will darken and crisp. Pour this immediately over the finished kadhi. Serve at once.
+8. Final tempering. In a small pan, heat 2 tablespoons of oil until very hot. Add 2–3 whole dried red chillies. Within 20 seconds they will darken and crisp. Pour this immediately over the finished kadhi. Serve at once.
 
 ---
 

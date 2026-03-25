@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Hard
-tags: Rajasthani, rabbit, white gravy, cashew, cream, ghee, celebration, royal kitchen
+tags: indian, Rajasthani, rabbit, white gravy, cashew, cream, ghee, celebration, royal kitchen
 hero_image_prompt: A deep silver serving dish of khargosh ka mokul, the rabbit strips in a pale, ivory-cream gravy flecked with gold from the ghee, on a dark wood surface with a small bowl of saffron alongside, lit with gentle warm light
 seo_title: Khargosh Ka Mokul Recipe — Rajasthani Rabbit in White Onion and Cashew Gravy
 meta_description: Khargosh ka mokul: boneless rabbit strips braised in a delicate white gravy of fried onion, boiled onion paste, cashew, yoghurt, and cream — a Rajputana royal kitchen preparation.
@@ -71,27 +71,27 @@ This is occasion food. Take the time it deserves.
 
 **Prepare the pastes:**
 
-1. **Boiled onion (50 g) paste (50 g).** Roughly chop 2 medium onions and place in a small pot. Cover with water and boil for 20–25 minutes until completely soft and beginning to break apart. Drain and allow to cool slightly. Blend to a very smooth paste. Set aside.
+1. Boiled onion (50 g) paste (50 g). Roughly chop 2 medium onions and place in a small pot. Cover with water and boil for 20–25 minutes until completely soft and beginning to break apart. Drain and allow to cool slightly. Blend to a very smooth paste. Set aside.
 
-2. **Cashew paste (17 g).** Soak the cashews in enough hot water to cover for 20 minutes. Drain and blend with just enough fresh water to get the blender moving, to a completely smooth paste. Set aside.
+2. Cashew paste (17 g). Soak the cashews in enough hot water to cover for 20 minutes. Drain and blend with just enough fresh water to get the blender moving, to a completely smooth paste. Set aside.
 
 **Cook the rabbit:**
 
-3. **Bloom the whole spices.** Heat the ghee (35 g) in a wide, heavy-based pan over medium heat. Add the cloves (3–4), green cardamom, black peppercorns (½ teaspoon), bay leaf (1 g), and mace. Stir for 30–45 seconds until fragrant. The ghee should smell richly aromatic.
+3. Bloom the whole spices. Heat the ghee (35 g) in a wide, heavy-based pan over medium heat. Add the cloves (3–4), green cardamom, black peppercorns (½ teaspoon), bay leaf (1 g), and mace. Stir for 30–45 seconds until fragrant. The ghee should smell richly aromatic.
 
-4. **Fry the onions.** Add the finely chopped onion. Fry over medium heat, stirring often, for 8–10 minutes until softened and turning light golden. Translucent to just-golden, not deeply browned, which would colour the sauce.
+4. Fry the onions. Add the finely chopped onion. Fry over medium heat, stirring often, for 8–10 minutes until softened and turning light golden. Translucent to just-golden, not deeply browned, which would colour the sauce.
 
-5. **Add ginger-garlic and spices.** Add the ginger-garlic paste and stir for 2 minutes. Add the coriander powder (½ teaspoon), turmeric (¼ teaspoon), and red chilli powder (¼ teaspoon, just a hint) dissolved in 2 tablespoons of water. Stir and fry for 2 minutes until the fat begins to separate slightly.
+5. Add ginger-garlic and spices. Add the ginger-garlic paste and stir for 2 minutes. Add the coriander powder (½ teaspoon), turmeric (¼ teaspoon), and red chilli powder (¼ teaspoon, just a hint) dissolved in 2 tablespoons of water. Stir and fry for 2 minutes until the fat begins to separate slightly.
 
-6. **Add the onion paste and cashew paste.** Add the boiled onion paste and stir well, frying for 3–4 minutes until it integrates with the masala and the fat separates. Add the cashew paste and stir, again frying for 3–4 minutes until the fat separates once more. The masala will look thick and almost paste-like.
+6. Add the onion paste and cashew paste. Add the boiled onion paste and stir well, frying for 3–4 minutes until it integrates with the masala and the fat separates. Add the cashew paste and stir, again frying for 3–4 minutes until the fat separates once more. The masala will look thick and almost paste-like.
 
-7. **Add yoghurt (65 g).** Add the beaten yoghurt a little at a time, stirring constantly to prevent splitting. Cook for 3 minutes after adding all the yoghurt.
+7. Add yoghurt (65 g). Add the beaten yoghurt a little at a time, stirring constantly to prevent splitting. Cook for 3 minutes after adding all the yoghurt.
 
-8. **Add rabbit and cream (17 ml).** Add the rabbit strips and stir to coat in the masala. Add the cream and stir. Stir-fry for 4–5 minutes over medium heat.
+8. Add rabbit and cream (17 ml). Add the rabbit strips and stir to coat in the masala. Add the cream and stir. Stir-fry for 4–5 minutes over medium heat.
 
-9. **Add stock (150 ml) and braise.** Add the stock (or water) and bring to a boil. Add the salt (¾ teaspoon). Reduce to a gentle simmer, cover the pan, and cook for 20–25 minutes, stirring occasionally, until the rabbit is cooked through and tender and the gravy is thick and sauce-like. The rabbit strips should be firm but yielding when pressed.
+9. Add stock (150 ml) and braise. Add the stock (or water) and bring to a boil. Add the salt (¾ teaspoon). Reduce to a gentle simmer, cover the pan, and cook for 20–25 minutes, stirring occasionally, until the rabbit is cooked through and tender and the gravy is thick and sauce-like. The rabbit strips should be firm but yielding when pressed.
 
-10. **Adjust and serve.** Taste and adjust salt. The gravy should be pale ivory to cream-coloured, rich, and clinging. Transfer to a serving dish.
+10. Adjust and serve. Taste and adjust salt. The gravy should be pale ivory to cream-coloured, rich, and clinging. Transfer to a serving dish.
 
 ---
 

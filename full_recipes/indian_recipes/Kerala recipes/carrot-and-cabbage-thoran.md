@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Side
 difficulty: Easy
-tags: [kerala, vegetarian, vegan, thoran, coconut, dry-stir-fry, cabbage, carrot, mustard-seeds, quick]
+tags: [indian, kerala, vegetarian, vegan, thoran, coconut, dry-stir-fry, cabbage, carrot, mustard-seeds, quick]
 hero_image_prompt: A wide, shallow copper bowl filled with a bright dry stir-fry of shredded green cabbage and orange carrot, white grated coconut woven throughout, small dark mustard seeds visible, curry leaves crisped at the edges, the whole thing glowing with coconut oil, set on a banana leaf
 seo_title: Carrot and Cabbage Thoran — Kerala Dry Stir-Fry with Coconut
 meta_description: Carrot and Cabbage Thoran is a Kerala dry vegetable stir-fry with grated coconut, mustard seeds, curry leaves and shallots. Light, quick and vibrant — a staple of the Kerala sadya and everyday table.

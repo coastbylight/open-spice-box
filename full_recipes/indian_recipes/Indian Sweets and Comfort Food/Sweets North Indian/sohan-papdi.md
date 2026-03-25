@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Dessert
 difficulty: Advanced
-tags: [north india, dessert, gram flour, besan, ghee, sugar syrup, flaked, thread sweet, festival, diwali, mithai, vegetarian]
+tags: [indian, north india, dessert, gram flour, besan, ghee, sugar syrup, flaked, thread sweet, festival, diwali, mithai, vegetarian]
 hero_image_prompt: A close-up of sohan papdi pulled into a soft mound, its gossamer thread-like flakes catching the light, pale gold with a papery, almost translucent quality, a few crushed cardamom seeds scattered at the edge, soft diffuse light
 seo_title: Sohan Papdi Recipe - North India's Gossamer Thread-Like Gram Flour Sweet
 meta_description: Sohan papdi: North India's most distinctive sweet. Gram flour and flour roasted in ghee, combined with sugar syrup beaten into gossamer thread-like flakes as light as air. Made for Diwali and celebrations.

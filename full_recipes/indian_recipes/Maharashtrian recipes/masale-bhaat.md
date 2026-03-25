@@ -10,7 +10,7 @@ total_time: 1 hour
 difficulty: Intermediate
 cuisine: Maharashtrian
 course: Main Course
-tags: [rice, festive, vegetarian, maharashtrian, goda-masala, one-pot, gluten-free]
+tags: [indian, rice, festive, vegetarian, maharashtrian, goda-masala, one-pot, gluten-free]
 ingredients_key: [goda masala, basmati rice, dagad phool, brinjal, drumstick]
 hero_image_prompt: A clay pot of fragrant golden spiced rice studded with vegetables, topped with fresh grated coconut and coriander, with a small bowl of goda masala beside it, natural afternoon light, rustic Maharashtrian kitchen setting
 seo_title: Masale Bhaat Recipe – Authentic Maharashtrian Festive Spiced Rice

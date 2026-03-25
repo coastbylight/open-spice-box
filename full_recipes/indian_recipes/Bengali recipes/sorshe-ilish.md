@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Medium
-tags: Bengali, hilsa, ilish, mustard, fish, mustard oil, steam-cook, seasonal, gluten-free
+tags: indian, Bengali, hilsa, ilish, mustard, fish, mustard oil, steam-cook, seasonal, gluten-free
 hero_image_prompt: Three golden hilsa steaks in a shallow terracotta dish, the mustard sauce pale yellow with green chilli slivers and a dark circle of nigella seeds visible, a final gloss of raw mustard oil across the surface, shot in diffuse daylight on a banana leaf
 seo_title: Sorshe Ilish Recipe — Hilsa Fish in Bengali Mustard Sauce
 meta_description: Sorshe ilish: whole hilsa steaks steam-cooked in a sharp mustard and poppy seed paste with mustard oil. The defining dish of Bengali fish cookery, made at home.
@@ -76,19 +76,19 @@ A practical note: if hilsa is unavailable, this recipe will produce a compelling
 
 ## Method
 
-1. **Marinate the fish.** Pat the hilsa (1 kg) steaks dry. In a bowl, mix the turmeric (2 teaspoons) and salt (1 teaspoon) together and rub gently over each steak, coating all surfaces. Allow to marinate for at least 15 minutes while you make the paste.
+1. Marinate the fish. Pat the hilsa (1 kg) steaks dry. In a bowl, mix the turmeric (2 teaspoons) and salt (1 teaspoon) together and rub gently over each steak, coating all surfaces. Allow to marinate for at least 15 minutes while you make the paste.
 
-2. **Make the mustard-poppy paste.** Combine the yellow mustard (50 ml) seeds (50 g), black mustard seeds (30 g), and poppy seeds (30 g) in a small bowl. Add cold water to just cover and soak for 10 minutes to soften slightly — this helps the blending. Drain and transfer to a blender or grinding stone with the green chillies (4 chillies). Add 3–4 tablespoons of water and grind to a smooth paste. This takes time and patience; stop and scrape down the sides repeatedly. The paste should be fine, slightly creamy, and quite pungent when smelled up close. Add the grated coconut (2 tablespoons), yogurt (30 g), and red chilli powder (2 teaspoons) to the ground paste and mix well. Taste for sharpness — it should be bold and direct.
+2. Make the mustard-poppy paste. Combine the yellow mustard (50 ml) seeds (50 g), black mustard seeds (30 g), and poppy seeds (30 g) in a small bowl. Add cold water to just cover and soak for 10 minutes to soften slightly — this helps the blending. Drain and transfer to a blender or grinding stone with the green chillies (4 chillies). Add 3–4 tablespoons of water and grind to a smooth paste. This takes time and patience; stop and scrape down the sides repeatedly. The paste should be fine, slightly creamy, and quite pungent when smelled up close. Add the grated coconut (2 tablespoons), yogurt (30 g), and red chilli powder (2 teaspoons) to the ground paste and mix well. Taste for sharpness — it should be bold and direct.
 
-3. **Heat the mustard oil.** Pour the mustard oil into a wide, flat pan and heat over high heat until it just begins to smoke. You will see the first wisps of white smoke and the colour will lighten slightly. Remove from heat and allow to cool for 1–2 minutes. This step removes the raw bitterness of the oil and is essential in Bengali cooking. Return to medium heat.
+3. Heat the mustard oil. Pour the mustard oil into a wide, flat pan and heat over high heat until it just begins to smoke. You will see the first wisps of white smoke and the colour will lighten slightly. Remove from heat and allow to cool for 1–2 minutes. This step removes the raw bitterness of the oil and is essential in Bengali cooking. Return to medium heat.
 
-4. **Temper the oil.** Add the nigella seeds (2 g) to the cooled, heated mustard oil. They will sputter and pop within seconds, releasing a sharp, onion-like fragrance. Allow them to spit for 30 seconds.
+4. Temper the oil. Add the nigella seeds (2 g) to the cooled, heated mustard oil. They will sputter and pop within seconds, releasing a sharp, onion-like fragrance. Allow them to spit for 30 seconds.
 
-5. **Add the paste and fish.** Pour the mustard-poppy paste into the pan and stir for 2–3 minutes until the paste becomes fragrant and darkens very slightly. Add the marinated hilsa steaks in a single layer. Tuck the slit green chillies between the steaks. Add 100–125 ml of water around the edges of the pan to create a shallow cooking liquid. Add the sugar (2 teaspoons) and remaining salt (5 g).
+5. Add the paste and fish. Pour the mustard-poppy paste into the pan and stir for 2–3 minutes until the paste becomes fragrant and darkens very slightly. Add the marinated hilsa steaks in a single layer. Tuck the slit green chillies between the steaks. Add 100–125 ml of water around the edges of the pan to create a shallow cooking liquid. Add the sugar (2 teaspoons) and remaining salt (5 g).
 
-6. **Steam-cook.** Cover the pan tightly with a lid. Reduce heat to low and cook for 12–15 minutes. The fish should be cooked entirely by the gentle steam trapped under the lid. Do not turn the steaks, as hilsa is delicate and breaks easily. After 12 minutes, check by pressing the thickest steak gently. It should feel firm and flake at the edges.
+6. Steam-cook. Cover the pan tightly with a lid. Reduce heat to low and cook for 12–15 minutes. The fish should be cooked entirely by the gentle steam trapped under the lid. Do not turn the steaks, as hilsa is delicate and breaks easily. After 12 minutes, check by pressing the thickest steak gently. It should feel firm and flake at the edges.
 
-7. **Finish.** Remove the lid. Drizzle the raw mustard oil over the surface of the fish and sauce. Tilt the pan gently to incorporate. Serve immediately, directly from the pan if possible.
+7. Finish. Remove the lid. Drizzle the raw mustard oil over the surface of the fish and sauce. Tilt the pan gently to incorporate. Serve immediately, directly from the pan if possible.
 
 ---
 

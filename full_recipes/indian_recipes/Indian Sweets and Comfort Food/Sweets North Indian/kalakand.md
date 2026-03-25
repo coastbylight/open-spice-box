@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Dessert
 difficulty: Intermediate
-tags: [north india, rajasthan, alwar, dessert, milk fudge, mithai, cardamom, nuts, vegetarian, gluten free, festival sweet]
+tags: [indian, north india, rajasthan, alwar, dessert, milk fudge, mithai, cardamom, nuts, vegetarian, gluten free, festival sweet]
 hero_image_prompt: A square of kalakand on a white marble surface, its granular texture visible on the cut face, pale ivory with a slightly moist surface and a few scattered pistachio slivers pressed into the top, soft natural light
 seo_title: Kalakand Recipe - Alwar's Crumbly Grainy Milk Fudge
 meta_description: Kalakand is crumbly, grainy milk fudge from Alwar, Rajasthan. Made by partially curdling milk with tartaric acid to create a granular texture, then cooking down with sugar and cardamom until set.

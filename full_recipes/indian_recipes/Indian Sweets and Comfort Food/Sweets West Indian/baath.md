@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Easy
-tags: [goa, west india, dessert, cake, coconut, semolina, christmas, baked, portuguese, goan catholic, vanilla, vegetarian]
+tags: [indian, goa, west india, dessert, cake, coconut, semolina, christmas, baked, portuguese, goan catholic, vanilla, vegetarian]
 hero_image_prompt: A golden-brown baath cake on a white plate, its surface deeply glazed and slightly cracked at the edges, revealing a dense pale interior when cut, a few scattered fresh coconut shreds alongside, warm natural window light
 seo_title: Baath Recipe: Goan Christmas Coconut and Semolina Cake
 meta_description: Baath is Goan Christmas cake. Dense, slightly chewy, made from freshly ground coconut, semolina, eggs, butter, sugar, and vanilla. Rested for 4–5 hours before baking, then gratinated until deeply golden.

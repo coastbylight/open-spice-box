@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala (Syrian Christian)
 course: Dessert
 difficulty: Intermediate
-tags: [kerala, south india, dessert, egg yolk, sugar syrup, portuguese, syrian christian, festive, delicate, gluten free]
+tags: [indian, kerala, south india, dessert, egg yolk, sugar syrup, portuguese, syrian christian, festive, delicate, gluten free]
 hero_image_prompt: A plate of muttamala, delicate golden egg yolk threads in loose, flowing strands, glistening slightly from the sugar syrup, arranged in a small nest, soft natural light catching the translucent yellow colour
 seo_title: Muttamala Recipe: Kerala Egg Yolk Thread Sweet
 meta_description: Muttamala are Kerala's delicate egg yolk threads dropped through a perforated spoon into sugar syrup. A Portuguese-influenced Syrian Christian sweet forming golden, translucent strands. Fragrant with cardamom.

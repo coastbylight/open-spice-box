@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Indian
 course: Main Course, Vegetarian
 difficulty: Easy
-tags: [dum, bhindi, okra, vegetarian, mustard oil, capsicum, tomato, coal-cooked]
+tags: [indian, dum, bhindi, okra, vegetarian, mustard oil, capsicum, tomato, coal-cooked]
 hero_image_prompt: Whole fried okra glistening in mustard-oil sauce with bright red capsicum and soft tomato, served in a dark iron pan with a rustic coal-kissed lid to the side, warm golden light, overhead shot
 seo_title: Dum Bhindi Recipe — Okra Slow-Cooked with Coal in the Mughal Tradition
 meta_description: Dum Bhindi seals okra, capsicum, and tomato under a live coal lid, letting steam and heat work slowly until the vegetables meld into something far greater than their parts.

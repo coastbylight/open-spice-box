@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: South Indian (Kerala / Tamil Nadu)
 course: Snack
 difficulty: Intermediate
-tags: [kerala, tamil nadu, south india, snack, onion, urad dal, fried, vada, street food, vegetarian, gluten free]
+tags: comfort food, [indian, kerala, tamil nadu, south india, snack, onion, urad dal, fried, vada, street food, vegetarian, gluten free]
 hero_image_prompt: Three savala vadas on a banana leaf, golden-brown with visible onion strands at the jagged edges, one broken open to show the speckled interior, small bowl of coconut chutney alongside, warm side light
 seo_title: Savala Vada Recipe — Kerala Crispy Onion Urad Dal Fritters
 meta_description: Savala vada: crispy Kerala urad dal fritters loaded with sliced onion, green chilli, spinach, and curry leaves. The onion version of medu vada, lacy, fierce, and deeply satisfying.

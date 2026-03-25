@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: South Indian
 course: Snack
 difficulty: Easy
-tags: [south india, snack, urad dal, yogurt, curd, mustard seeds, curry leaves, fried, vegetarian, gluten free]
+tags: comfort food, [indian, south india, snack, urad dal, yogurt, curd, mustard seeds, curry leaves, fried, vegetarian, gluten free]
 hero_image_prompt: A shallow white bowl of dahi vadas, soft round fritters submerged in thick white yogurt, finished with a deep amber tempering of mustard and curry leaves pooled on top, close-up with soft natural light
 seo_title: Dahi Vada Recipe — Urad Dal Fritters Soaked in Spiced Yogurt
 meta_description: Dahi vada: soft urad dal fritters soaked in warm water then submerged in cool whisked curd, finished with a hot mustard and curry leaf tempering. The South Indian version, clean and restrained.

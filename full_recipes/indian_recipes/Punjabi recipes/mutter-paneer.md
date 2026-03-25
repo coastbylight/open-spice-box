@@ -82,19 +82,19 @@ The optional cream at the end is a Punjabi restaurant-kitchen habit. It rounds t
 
 ## Method
 
-1. **Bloom the cumin.** Heat the oil in a wide, heavy pan or karahi over medium-high heat. When the oil shimmers, add the cumin seeds (1 teaspoon). They should sizzle and splutter immediately, releasing a warm, nutty fragrance within 20–30 seconds. If they don't sizzle, the oil is not hot enough; wait another moment before proceeding.
+1. Bloom the cumin. Heat the oil in a wide, heavy pan or karahi over medium-high heat. When the oil shimmers, add the cumin seeds (1 teaspoon). They should sizzle and splutter immediately, releasing a warm, nutty fragrance within 20–30 seconds. If they don't sizzle, the oil is not hot enough; wait another moment before proceeding.
 
-2. **Cook the onions.** Add the finely chopped onion (1 medium onion) and a pinch of salt (2 teaspoons, or to taste). Stir to coat in the oil, then cook over medium heat, stirring regularly, for 8–10 minutes until the onions are soft and turning a light golden colour. They should smell sweet and slightly caramelised, not sharp and raw.
+2. Cook the onions. Add the finely chopped onion (1 medium onion) and a pinch of salt (2 teaspoons, or to taste). Stir to coat in the oil, then cook over medium heat, stirring regularly, for 8–10 minutes until the onions are soft and turning a light golden colour. They should smell sweet and slightly caramelised, not sharp and raw.
 
-3. **Add ginger garlic paste (1 heaped tablespoon).** Add the ginger garlic paste and stir through. Cook for 2–3 minutes, stirring constantly, until the paste darkens slightly and the raw, pungent smell softens into something warmer and more savoury.
+3. Add ginger garlic paste (1 heaped tablespoon). Add the ginger garlic paste and stir through. Cook for 2–3 minutes, stirring constantly, until the paste darkens slightly and the raw, pungent smell softens into something warmer and more savoury.
 
-4. **Build the masala.** Add the tomato puree (⅔ cup) and stir to combine. It will hiss as it hits the pan. Add the red chilli powder (2 teaspoons), coriander (20 g) powder (1 teaspoon), and turmeric (1 teaspoon). Stir everything together and cook over medium heat for 7–10 minutes, stirring frequently. The masala is ready when the oil begins to separate and pool at the edges; the tomatoes will have cooked through completely and the mixture will look glossy and dense. The colour will deepen to a rich rust red.
+4. Build the masala. Add the tomato puree (⅔ cup) and stir to combine. It will hiss as it hits the pan. Add the red chilli powder (2 teaspoons), coriander (20 g) powder (1 teaspoon), and turmeric (1 teaspoon). Stir everything together and cook over medium heat for 7–10 minutes, stirring frequently. The masala is ready when the oil begins to separate and pool at the edges; the tomatoes will have cooked through completely and the mixture will look glossy and dense. The colour will deepen to a rich rust red.
 
-5. **Add peas and water (100 ml).** Add the green peas (200 g) and stir to coat in the masala. Add 100 ml of water, stir, and bring to a simmer. Cover and cook for 5–6 minutes until the peas are just tender. Fresh peas will need a little longer than frozen.
+5. Add peas and water (100 ml). Add the green peas (200 g) and stir to coat in the masala. Add 100 ml of water, stir, and bring to a simmer. Cover and cook for 5–6 minutes until the peas are just tender. Fresh peas will need a little longer than frozen.
 
-6. **Add the paneer (300 g).** Add the paneer cubes, stirring gently so the cubes are coated in the masala without breaking. Simmer uncovered over low heat for 4–5 minutes, turning the cubes gently once or twice. The paneer will soften and take on the colour of the masala at its edges.
+6. Add the paneer (300 g). Add the paneer cubes, stirring gently so the cubes are coated in the masala without breaking. Simmer uncovered over low heat for 4–5 minutes, turning the cubes gently once or twice. The paneer will soften and take on the colour of the masala at its edges.
 
-7. **Finish and season.** Add the garam masala (1 teaspoon) and stir through. Taste for salt. If using cream (50 ml), add it now and stir gently over low heat for 1 minute; do not boil after adding cream. Scatter over the fresh coriander and serve immediately.
+7. Finish and season. Add the garam masala (1 teaspoon) and stir through. Taste for salt. If using cream (50 ml), add it now and stir gently over low heat for 1 minute; do not boil after adding cream. Scatter over the fresh coriander and serve immediately.
 
 ---
 

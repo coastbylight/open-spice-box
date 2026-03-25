@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved
-tags: Hyderabadi, Mughal, biryani, mutton, rice, dum cooking, saffron, celebration, gluten-free
+tags: andhra, indian, Hyderabadi, Mughal, biryani, mutton, rice, dum cooking, saffron, celebration, gluten-free
 hero_image_prompt: A copper handi lid just lifted at the table, releasing a billow of fragrant steam over layered saffron-orange and white rice flecked with golden fried onions, cashews, and halved boiled eggs, shot from slightly above on a dark stone surface with warm candlelight
 seo_title: Hyderabadi Biryani Recipe — Authentic Dum Method with Mutton
 meta_description: The definitive Hyderabadi dum biryani: tender mutton marinated in yogurt and saffron, layered with fragrant basmati, sealed and slow-cooked to perfection.
@@ -78,15 +78,15 @@ The single most important practical insight: do not rush the marinade. Two hours
 
 ## Method
 
-1. **Marinate the mutton (1 kg).** Combine the mutton pieces with the yogurt (150 g), ginger-garlic paste, red chilli powder (4 teaspoons), garam masala (2 teaspoons), lemon juice (1½ tablespoons), and salt (2 teaspoons) in a large bowl. Mix thoroughly, making sure every piece is well coated. Cover and refrigerate for at least 2 hours, or ideally overnight. The yogurt will start to tenderise the meat and the colour will deepen to a rich rust.
+1. Marinate the mutton (1 kg). Combine the mutton pieces with the yogurt (150 g), ginger-garlic paste, red chilli powder (4 teaspoons), garam masala (2 teaspoons), lemon juice (1½ tablespoons), and salt (2 teaspoons) in a large bowl. Mix thoroughly, making sure every piece is well coated. Cover and refrigerate for at least 2 hours, or ideally overnight. The yogurt will start to tenderise the meat and the colour will deepen to a rich rust.
 
-2. **Parboil the rice.** Bring a large pot of well-salted water to a rolling boil with the whole cloves (4–5 whole cloves), cinnamon (2 short sticks) sticks, and crushed cardamom (8–10 pods, lightly crushed) pods. Drain the soaked rice and add to the boiling water. Cook for 6–8 minutes, until the grains are about 70% cooked — they should be firm at the centre when pressed between your fingers. Drain immediately through a colander and spread on a tray to cool slightly. The grains should be separate and glistening.
+2. Parboil the rice. Bring a large pot of well-salted water to a rolling boil with the whole cloves (4–5 whole cloves), cinnamon (2 short sticks) sticks, and crushed cardamom (8–10 pods, lightly crushed) pods. Drain the soaked rice and add to the boiling water. Cook for 6–8 minutes, until the grains are about 70% cooked — they should be firm at the centre when pressed between your fingers. Drain immediately through a colander and spread on a tray to cool slightly. The grains should be separate and glistening.
 
-3. **Layer the biryani.** Choose a heavy-based pot or handi wide enough to hold the meat in a roughly even layer. Spread the marinated mutton across the base in a single layer. Scatter over half the fried onions (3 medium onions), half the mint (100 g), half the coriander (100 g), and all the slit green chillies (6–8 chillies). Spoon the parboiled rice evenly over the meat, building a gentle mound. Drizzle the saffron (0.1 g) milk in a few long streaks across the rice, leaving some grains white for contrast. Spoon the melted ghee (14 tablespoons / 180 ml) evenly across the surface and scatter over the remaining onions, mint, and coriander.
+3. Layer the biryani. Choose a heavy-based pot or handi wide enough to hold the meat in a roughly even layer. Spread the marinated mutton across the base in a single layer. Scatter over half the fried onions (3 medium onions), half the mint (100 g), half the coriander (100 g), and all the slit green chillies (6–8 chillies). Spoon the parboiled rice evenly over the meat, building a gentle mound. Drizzle the saffron (0.1 g) milk in a few long streaks across the rice, leaving some grains white for contrast. Spoon the melted ghee (14 tablespoons / 180 ml) evenly across the surface and scatter over the remaining onions, mint, and coriander.
 
-4. **Seal and dum cook.** Cover the pot with a tight-fitting lid. If your lid is not heavy, weigh it down or seal the rim with a stiff dough of flour and water pressed around the gap. Place the pot over high heat for 5 minutes until you see the first wisps of steam escaping, then reduce to the lowest possible heat. Cook for 25–30 minutes. The pot should tick with gentle heat, never roar. Resist the urge to lift the lid.
+4. Seal and dum cook. Cover the pot with a tight-fitting lid. If your lid is not heavy, weigh it down or seal the rim with a stiff dough of flour and water pressed around the gap. Place the pot over high heat for 5 minutes until you see the first wisps of steam escaping, then reduce to the lowest possible heat. Cook for 25–30 minutes. The pot should tick with gentle heat, never roar. Resist the urge to lift the lid.
 
-5. **Rest and serve.** Remove the pot from the heat and let it rest, still sealed, for 10 minutes. Open the lid at the table if possible. Using a long spoon or spatula, gently fold the layers from the sides — try to preserve distinct patches of white and saffron rice rather than mixing everything together. Arrange the halved boiled eggs (3 eggs) and fried cashews (100 g) over the top.
+5. Rest and serve. Remove the pot from the heat and let it rest, still sealed, for 10 minutes. Open the lid at the table if possible. Using a long spoon or spatula, gently fold the layers from the sides — try to preserve distinct patches of white and saffron rice rather than mixing everything together. Arrange the halved boiled eggs (3 eggs) and fried cashews (100 g) over the top.
 
 ---
 

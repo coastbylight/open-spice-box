@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Intermediate
-tags: [kashmiri, fish, radish, yogurt, whole-spices, freshwater, wazwan]
+tags: [indian, kashmiri, fish, radish, yogurt, whole-spices, freshwater, wazwan]
 hero_image_prompt: A dark clay bowl filled with pale golden yogurt-based curry, pieces of tender white fish and cubes of golden-fried radish nestled in the sauce, whole black cardamom pods visible, garnished with crumbled dried mint leaves, steam rising, set on a walnut wood surface with a folded copper spoon resting at the edge
 seo_title: Gaadh Muzh — Kashmiri Fish and Radish in Yogurt Sauce
 meta_description: Gaadh Muzh is a Kashmiri dish of freshwater fish and crispy fried radish simmered in a yogurt sauce fragrant with black cardamom, aniseed and dry mint. A quiet classic from the valley.

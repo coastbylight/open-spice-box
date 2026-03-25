@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Maharashtrian / Gujarati
 course: Dessert
 difficulty: Easy
-tags: [maharashtra, gujarat, west india, dessert, yogurt, curd, strained, saffron, cardamom, nuts, vegetarian, gluten free, summer sweet]
+tags: [indian, maharashtra, gujarat, west india, dessert, yogurt, curd, strained, saffron, cardamom, nuts, vegetarian, gluten free, summer sweet]
 hero_image_prompt: A small clay pot of shrikhand, pale gold from saffron, a pinch of cardamom powder at the surface, a few almond slivers pressed in, served chilled, a sprig of saffron resting on the rim, soft natural light
 seo_title: Shrikhand Recipe — Maharashtrian Strained Yogurt Dessert with Saffron
 meta_description: Shrikhand: Maharashtrian and Gujarati strained yogurt dessert — curd hung until all whey drains, mixed with sugar, saffron, cardamom, and nutmeg. Smooth, cold, intensely fragrant. Served at festivals and celebrations.

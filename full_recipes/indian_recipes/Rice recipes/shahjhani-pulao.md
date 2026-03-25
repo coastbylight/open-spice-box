@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Uttar Pradesh
 course: Main
 difficulty: Hard
-tags: UP, Mughal, chicken, saffron, layered, dum, biryani-style, celebration, cream, yoghurt, almonds
+tags: indian, UP, Mughal, chicken, saffron, layered, dum, biryani-style, celebration, cream, yoghurt, almonds
 hero_image_prompt: A wide degchi pot opened at the table to reveal shahjhani pulao — the white basmati grains layered with golden chicken, the surface touched with saffron gold and garnished with blanched almonds, the silver foil catching the light, steam rising from the opened seal
 seo_title: Shahjhani Pulao Recipe — Mughal Layered Chicken and Saffron Rice
 meta_description: Shahjhani pulao: a Mughal-style celebration rice of layered chicken and basmati, sealed with dough and cooked on dum with saffron, cream, yoghurt, and almonds.
@@ -80,19 +80,19 @@ The garnish (blanched whole almonds and silver vark) is the visual signature of 
 
 **Prepare the chicken:**
 
-1. **Brown the chicken (350 g).** Heat the ghee (35 g) in a wide, heavy-based pot. Add the onions (100 g), ginger (10 g), and garlic (7 g). Sauté over medium-high heat until the onions turn lightly golden — about 8 minutes. Add the chicken pieces, salt (1¼ teaspoons), and lightly crushed whole spices (cardamom, coriander (2 g), cloves (1 g)). Cook over medium heat, turning the chicken occasionally, and sprinkling a tablespoon of water at a time if the pot becomes dry, for 20–25 minutes until the chicken is evenly golden brown on all sides and cooked almost all the way through. Add 375 ml of water and cook until the meat is almost tender and most of the liquid has evaporated. The chicken should be coated in a thick, fragrant paste. Remove from heat.
+1. Brown the chicken (350 g). Heat the ghee (35 g) in a wide, heavy-based pot. Add the onions (100 g), ginger (10 g), and garlic (7 g). Sauté over medium-high heat until the onions turn lightly golden — about 8 minutes. Add the chicken pieces, salt (1¼ teaspoons), and lightly crushed whole spices (cardamom, coriander (2 g), cloves (1 g)). Cook over medium heat, turning the chicken occasionally, and sprinkling a tablespoon of water at a time if the pot becomes dry, for 20–25 minutes until the chicken is evenly golden brown on all sides and cooked almost all the way through. Add 375 ml of water and cook until the meat is almost tender and most of the liquid has evaporated. The chicken should be coated in a thick, fragrant paste. Remove from heat.
 
 **Prepare the rice:**
 
-2. **Rinse and soak.** Rinse the basmati in cold water and soak for 5 minutes. Drain.
+2. Rinse and soak. Rinse the basmati in cold water and soak for 5 minutes. Drain.
 
-3. **Par-cook the rice.** Heat the ghee (17 g) in a separate pot. Sauté the sliced onions (100 g) until light golden. Add the rice and whole spices (green cardamom, black cardamom, cinnamon, cloves (1 g)). Stir gently for 2 minutes. Add the stock and salt (4 g). Bring to a boil, then reduce and cook, covered, until three-quarters done — about 12 minutes. The rice should still have a slight firm core. Remove from heat, drain any excess liquid.
+3. Par-cook the rice. Heat the ghee (17 g) in a separate pot. Sauté the sliced onions (100 g) until light golden. Add the rice and whole spices (green cardamom, black cardamom, cinnamon, cloves (1 g)). Stir gently for 2 minutes. Add the stock and salt (4 g). Bring to a boil, then reduce and cook, covered, until three-quarters done — about 12 minutes. The rice should still have a slight firm core. Remove from heat, drain any excess liquid.
 
 **Assemble and dum:**
 
-4. **Grease the degchi or pot.** Lightly grease the base and sides of a large, wide pot (degchi) with ghee.
+4. Grease the degchi or pot. Lightly grease the base and sides of a large, wide pot (degchi) with ghee.
 
-5. **Layer the preparation.** Build the layers in this order:
+5. Layer the preparation. Build the layers in this order:
    - Layer 1: Half the beaten yoghurt, spread over the bottom
    - Layer 2: Half the three-quarter-cooked rice (one-quarter of the total rice)
    - Layer 3: Half the cooked chicken pieces
@@ -104,9 +104,9 @@ The garnish (blanched whole almonds and silver vark) is the visual signature of 
    - Layer 9: Remaining cream, poured over the top
    - Sprinkle the saffron water over the very top layer
 
-6. **Seal and dum.** Roll the whole wheat dough into a thin rope and press it around the rim of the pot, creating a seal. Press the lid firmly into the dough to seal completely. Alternatively, cover very tightly with heavy foil, pressing the edges to seal. Place over the lowest possible heat and cook for 45 minutes. The dough seal should feel set and the pot should be releasing minimal steam from any gaps.
+6. Seal and dum. Roll the whole wheat dough into a thin rope and press it around the rim of the pot, creating a seal. Press the lid firmly into the dough to seal completely. Alternatively, cover very tightly with heavy foil, pressing the edges to seal. Place over the lowest possible heat and cook for 45 minutes. The dough seal should feel set and the pot should be releasing minimal steam from any gaps.
 
-7. **Serve.** Remove from heat. Break the dough seal at the table for dramatic effect. Using a wide flat spatula, serve from one corner, scooping down through all the layers to include rice, chicken, and the layers of yoghurt and cream that have combined during dum cooking. Garnish each serving with blanched almonds (17 g) and, if using, a small piece of silver leaf placed gently on top.
+7. Serve. Remove from heat. Break the dough seal at the table for dramatic effect. Using a wide flat spatula, serve from one corner, scooping down through all the layers to include rice, chicken, and the layers of yoghurt and cream that have combined during dum cooking. Garnish each serving with blanched almonds (17 g) and, if using, a small piece of silver leaf placed gently on top.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Intermediate
-tags: [bengali, east india, dessert, crepe, pancake, coconut, khoya, almonds, raisins, makar sankranti, festival sweet, vegetarian]
+tags: [indian, bengali, east india, dessert, crepe, pancake, coconut, khoya, almonds, raisins, makar sankranti, festival sweet, vegetarian]
 hero_image_prompt: Two golden patishapta crepes rolled on a white plate, their ends open to reveal the golden-brown coconut and khoya filling, a few toasted almond slivers scattered alongside, warm morning light from the side
 seo_title: Patishapta Recipe - Bengali Coconut and Khoya Filled Crepes
 meta_description: Patishapta are thin Bengali rice flour and maida crepes made for Makar Sankranti, filled with a warm mixture of fresh coconut, khoya, almonds, and raisins, then deep fried and served with sweetened cream.

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Dessert / Rice
 difficulty: Easy
-tags: [maharashtrian, sweet, rice, coconut, jaggery, festival, narali-purnima, ghee, vegetarian]
+tags: [indian, maharashtrian, sweet, rice, coconut, jaggery, festival, narali-purnima, ghee, vegetarian]
 hero_image_prompt: A silver thali with a mound of ivory-golden sweet rice, each grain separate and glistening with ghee, flecked with dark raisins and aromatic cloves, fresh grated coconut folded through, a small leaf of banana under the rice, photographed in warm afternoon light on a brass surface
 seo_title: Narali Bhaat — Maharashtrian Sweet Coconut Rice for Narali Purnima
 meta_description: Narali Bhaat is a sweet rice dish made on Narali Purnima, the coconut full moon festival. Rice cooked with fresh coconut, jaggery, cloves, raisins and pure ghee — aromatic, gentle and deeply traditional.

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Dessert
 difficulty: Intermediate
-tags: [kerala, south india, dessert, payasam, onam, sadya, ada, coconut milk, jaggery, cashews, raisins, festival, vegetarian, gluten free]
+tags: [indian, kerala, south india, dessert, payasam, onam, sadya, ada, coconut milk, jaggery, cashews, raisins, festival, vegetarian, gluten free]
 hero_image_prompt: A deep brass uruli filled with ada pradaman, the payasam a rich amber-brown from jaggery, with cashews and raisins golden at the surface and soft rice ada pieces visible through the dark liquid, warm candlelight quality
 seo_title: Ada Pradaman Recipe: Kerala's Onam Sadya Payasam
 meta_description: Ada pradaman: Kerala's most celebratory payasam. Rice ada cooked in coconut milk with jaggery, finished with ghee-fried coconut, cashews, and raisins. The centrepiece of the Onam Sadya feast.

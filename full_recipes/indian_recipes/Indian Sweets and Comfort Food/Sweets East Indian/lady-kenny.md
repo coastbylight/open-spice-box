@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Intermediate
-tags: [bengali, kolkata, east india, dessert, chenna, paneer, semolina, syrup, colonial, fried, vegetarian]
+tags: [indian, bengali, kolkata, east india, dessert, chenna, paneer, semolina, syrup, colonial, fried, vegetarian]
 hero_image_prompt: A plate of lady kenny sweets, round golden-brown balls coated in a fine dusting of white castor sugar, one cut open to reveal a raisin inside, arranged on a dark plate with a few dried raisins scattered alongside, warm soft light
 seo_title: Lady Kenny Recipe - Kolkata Colonial Chenna and Semolina Sweets
 meta_description: Lady Kenny are Kolkata's colonial-era paneer-semolina balls stuffed with raisin, fried golden, soaked in sugar syrup, and rolled in castor sugar. Named after Lady Canning, wife of India's Governor-General.

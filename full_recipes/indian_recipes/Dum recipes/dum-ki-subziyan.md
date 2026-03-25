@@ -73,7 +73,7 @@ This is North Indian vegetable cooking at its most considered — a dish that ta
 
 ## Method
 
-1. **Blanch the vegetables separately.** Bring a large pot of salted water to a boil. Blanch each vegetable for the times below, then immediately drain and plunge into a bowl of iced water to stop the cooking. Drain again before use.
+1. Blanch the vegetables separately. Bring a large pot of salted water to a boil. Blanch each vegetable for the times below, then immediately drain and plunge into a bowl of iced water to stop the cooking. Drain again before use.
    - Carrots (100 g): 3 minutes
    - Potatoes (100 g): 3 minutes
    - Pumpkin (100 g): 2 minutes
@@ -81,19 +81,19 @@ This is North Indian vegetable cooking at its most considered — a dish that ta
    - Drumsticks (100 g): 10 minutes
    - Green peas (50 g): 2 minutes (or thaw from frozen)
 
-2. **Make the spiced yogurt.** In a bowl, whisk together the yogurt, coriander powder (1 teaspoon), Kashmiri chilli powder (1 teaspoon), and turmeric (½ teaspoon) until completely smooth and uniform in colour.
+2. Make the spiced yogurt. In a bowl, whisk together the yogurt, coriander powder (1 teaspoon), Kashmiri chilli powder (1 teaspoon), and turmeric (½ teaspoon) until completely smooth and uniform in colour.
 
-3. **Build the gravy.** Melt the ghee (50 g) in a handi or heavy pot over medium heat. Add the cumin seeds (½ teaspoon) and let them sizzle for 30 seconds. Add the sliced onions (150 g) and cook, stirring, for 10–12 minutes until light golden. Add the ginger (10 g) and garlic paste (15 g), stir for 2 minutes until the raw smell has gone.
+3. Build the gravy. Melt the ghee (50 g) in a handi or heavy pot over medium heat. Add the cumin seeds (½ teaspoon) and let them sizzle for 30 seconds. Add the sliced onions (150 g) and cook, stirring, for 10–12 minutes until light golden. Add the ginger (10 g) and garlic paste (15 g), stir for 2 minutes until the raw smell has gone.
 
-4. **Cook the yogurt.** Remove the pot from the heat momentarily, add the spiced yogurt in one go, and stir immediately. Return to medium heat and cook, stirring frequently, for 8–10 minutes until the yogurt is fully cooked and fat appears at the edges of the pan.
+4. Cook the yogurt. Remove the pot from the heat momentarily, add the spiced yogurt in one go, and stir immediately. Return to medium heat and cook, stirring frequently, for 8–10 minutes until the yogurt is fully cooked and fat appears at the edges of the pan.
 
-5. **Add stock.** Pour in the vegetable stock (600 ml) and salt (2 teaspoons). Bring to a boil, then reduce to a gentle simmer.
+5. Add stock. Pour in the vegetable stock (600 ml) and salt (2 teaspoons). Bring to a boil, then reduce to a gentle simmer.
 
-6. **Temper the vegetables.** Heat the mustard oil (50 ml) in a separate kadhai until it begins to smoke. Add all the blanched vegetables and stir-fry over high heat for 2–3 minutes until they are coated in the hot, peppery oil.
+6. Temper the vegetables. Heat the mustard oil (50 ml) in a separate kadhai until it begins to smoke. Add all the blanched vegetables and stir-fry over high heat for 2–3 minutes until they are coated in the hot, peppery oil.
 
-7. **Bring together.** Add the tempered vegetables to the simmering gravy. Bring back to a boil, then reduce heat and simmer for 8–10 minutes, stirring occasionally, until the gravy is a thick sauce consistency that coats the vegetables. Sprinkle over the black pepper (2 g), stir well, and adjust seasoning.
+7. Bring together. Add the tempered vegetables to the simmering gravy. Bring back to a boil, then reduce heat and simmer for 8–10 minutes, stirring occasionally, until the gravy is a thick sauce consistency that coats the vegetables. Sprinkle over the black pepper (2 g), stir well, and adjust seasoning.
 
-8. **Serve** immediately with roti or plain steamed rice.
+8. Serve immediately with roti or plain steamed rice.
 
 ---
 

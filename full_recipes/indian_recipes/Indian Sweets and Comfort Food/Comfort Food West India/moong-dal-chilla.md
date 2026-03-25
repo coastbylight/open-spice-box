@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Gujarati / North Indian
 course: Breakfast / Snack
 difficulty: Easy
-tags: [gujarat, north india, breakfast, snack, moong dal, pancake, paneer, gluten free, vegetarian, high protein, quick]
+tags: comfort food, [indian, gujarat, north india, breakfast, snack, moong dal, pancake, paneer, gluten free, vegetarian, high protein, quick]
 hero_image_prompt: Two golden moong dal chillas on a cast iron tawa, thin at the edges and lightly freckled, one folded into a half moon with grated paneer visible at the seam, small cups of green chutney and tamarind chutney alongside, morning light from the left
 seo_title: Moong Dal Chilla Recipe — Crispy Indian Moong Dal Pancakes with Paneer
 meta_description: Moong dal chilla: thin, crispy Indian pancakes from soaked moong dal batter, folded over grated paneer. A quick, protein-rich Gujarati breakfast ready in under 30 minutes.

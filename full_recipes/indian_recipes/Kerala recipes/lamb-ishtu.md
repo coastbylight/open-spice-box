@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main
 difficulty: Intermediate
-tags: [kerala, syrian-christian, lamb, coconut-milk, stew, mild, whole-spices, ginger, ishtu]
+tags: [indian, kerala, syrian-christian, lamb, coconut-milk, stew, mild, whole-spices, ginger, ishtu]
 hero_image_prompt: A white ceramic bowl of pale, ivory-colored coconut milk stew with tender lamb pieces, bright orange carrot dice, green beans, and slender ginger juliennes floating at the surface, a curl of cinnamon and a bay leaf visible, steam rising, set on a dark stone surface with a folded white cloth beside it
 seo_title: Lamb Ishtu — Kerala Syrian Christian Coconut Milk Stew
 meta_description: Lamb Ishtu is a mild, fragrant Kerala stew of lamb in coconut milk with whole spices, vegetables and ginger juliennes — a classic of the Syrian Christian table, served with appam or pathiri.

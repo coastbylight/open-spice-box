@@ -65,17 +65,17 @@ This is a weeknight-adaptable version of a dish that originated in a much more e
 
 ## Method
 
-1. **Make the marinade.** In a large bowl, combine the Kashmiri chilli paste (50 g), coriander powder (4 teaspoons), ginger paste (50 g), garlic paste (60 g), salt (4 teaspoons), lime juice (1½ limes), oil, brown onion paste (100 g), and whisked yogurt (300 g). Mix well. Add the mace (½ teaspoon), nutmeg (½ teaspoon), and half the cardamom powder (2 teaspoons). Stir to a uniform paste.
+1. Make the marinade. In a large bowl, combine the Kashmiri chilli paste (50 g), coriander powder (4 teaspoons), ginger paste (50 g), garlic paste (60 g), salt (4 teaspoons), lime juice (1½ limes), oil, brown onion paste (100 g), and whisked yogurt (300 g). Mix well. Add the mace (½ teaspoon), nutmeg (½ teaspoon), and half the cardamom powder (2 teaspoons). Stir to a uniform paste.
 
-2. **Marinate.** Add the mushrooms and toss to coat completely. Leave for 15 minutes at room temperature.
+2. Marinate. Add the mushrooms and toss to coat completely. Leave for 15 minutes at room temperature.
 
-3. **Sauté first.** Heat the ghee (150 g) in a heavy pot or degh over medium heat. Add the marinated mushrooms along with all the marinade. Cook, stirring gently, until the mixture comes to a boil and the yogurt is no longer raw — about 8–10 minutes.
+3. Sauté first. Heat the ghee (150 g) in a heavy pot or degh over medium heat. Add the marinated mushrooms along with all the marinade. Cook, stirring gently, until the mixture comes to a boil and the yogurt is no longer raw — about 8–10 minutes.
 
-4. **Seal and cook dum-style.** Reduce the heat to very low. Place a piece of foil over the pot, then press the lid on tightly to create a seal. Place the pot on a heat diffuser if available. Cook for 20–25 minutes without lifting the lid.
+4. Seal and cook dum-style. Reduce the heat to very low. Place a piece of foil over the pot, then press the lid on tightly to create a seal. Place the pot on a heat diffuser if available. Cook for 20–25 minutes without lifting the lid.
 
-5. **Finish.** Remove from heat. Carefully lift the lid away from you to avoid the steam. Sprinkle the remaining cardamom powder over the mushrooms and stir gently. Taste and adjust salt.
+5. Finish. Remove from heat. Carefully lift the lid away from you to avoid the steam. Sprinkle the remaining cardamom powder over the mushrooms and stir gently. Taste and adjust salt.
 
-6. **Serve immediately** with khamiri roti, naan, or pilaf rice.
+6. Serve immediately with khamiri roti, naan, or pilaf rice.
 
 ---
 

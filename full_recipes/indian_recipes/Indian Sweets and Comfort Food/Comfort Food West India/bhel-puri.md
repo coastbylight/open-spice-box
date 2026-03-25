@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Mumbai street food
 course: Street Food
 difficulty: Easy
-tags: Mumbai, Maharashtra, street food, chaat, puffed rice, vegetarian, vegan, no-cook
+tags: comfort food, indian, Mumbai, Maharashtra, street food, chaat, puffed rice, vegetarian, vegan, no-cook
 hero_image_prompt: A cone of newspaper or dried leaf holding a mound of bhel puri, puffed rice visible with flecks of green chutney and tamarind, the top scattered with sev and coriander, shot in bright natural light against a blurred busy street background
 seo_title: Bhel Puri Recipe — Mumbai Puffed Rice Chaat with Chutneys
 meta_description: Classic Mumbai bhel puri: puffed rice tossed with potato, onion, green and tamarind chutneys, sev, and chaat spices. Made and eaten in under 3 minutes.
@@ -73,17 +73,17 @@ The single most important rule: once assembled, bhel puri must be eaten immediat
 
 ## Method
 
-1. **Prepare the components.** Ensure all components are ready before starting: potato is boiled, cooled, and diced; onion (50 g) is chopped fine; chutneys are in small bowls with spoons. Once you start mixing, there is no pausing.
+1. Prepare the components. Ensure all components are ready before starting: potato is boiled, cooled, and diced; onion (50 g) is chopped fine; chutneys are in small bowls with spoons. Once you start mixing, there is no pausing.
 
-2. **Combine the dry components.** In a large bowl, combine the puffed rice (200 g) and sev (50 g) first. Toss lightly to mix.
+2. Combine the dry components. In a large bowl, combine the puffed rice (200 g) and sev (50 g) first. Toss lightly to mix.
 
-3. **Add potato, onion, and tomato (30 g).** Add the diced potato, onion, and tomato. Toss again.
+3. Add potato, onion, and tomato (30 g). Add the diced potato, onion, and tomato. Toss again.
 
-4. **Add chutneys and spices.** Add the green chutney (30 g) and tamarind chutney (30 g). Sprinkle over the chaat masala (2 tsp), cumin powder (2 tsp), red chilli powder (2 tsp; adjust to heat preference), and salt (5 g). Add the lemon juice (half a lemon). Toss thoroughly but gently. You want everything evenly distributed without crushing the puffed rice to dust.
+4. Add chutneys and spices. Add the green chutney (30 g) and tamarind chutney (30 g). Sprinkle over the chaat masala (2 tsp), cumin powder (2 tsp), red chilli powder (2 tsp; adjust to heat preference), and salt (5 g). Add the lemon juice (half a lemon). Toss thoroughly but gently. You want everything evenly distributed without crushing the puffed rice to dust.
 
-5. **Taste and adjust.** Take a quick taste. The bhel should be simultaneously sweet (tamarind), sharp (green chutney, lemon), salty, spicy, and earthy. Adjust any element you feel is missing. This is a deeply personal balance.
+5. Taste and adjust. Take a quick taste. The bhel should be simultaneously sweet (tamarind), sharp (green chutney, lemon), salty, spicy, and earthy. Adjust any element you feel is missing. This is a deeply personal balance.
 
-6. **Scatter and serve immediately.** Divide into individual portions. Scatter extra sev on top of each serving for an extra crunch layer, and add a few sprigs of coriander (20 g). Serve within 1–2 minutes of mixing.
+6. Scatter and serve immediately. Divide into individual portions. Scatter extra sev on top of each serving for an extra crunch layer, and add a few sprigs of coriander (20 g). Serve within 1–2 minutes of mixing.
 
 ---
 

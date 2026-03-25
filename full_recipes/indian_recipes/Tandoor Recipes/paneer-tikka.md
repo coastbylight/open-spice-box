@@ -12,7 +12,7 @@ total_time: 2 hours 35 minutes minimum
 difficulty: Easy
 cuisine: Punjabi / North Indian
 course: Starter / Appetiser
-tags: [Punjab, North India, paneer, tikka, tandoor, vegetarian, grilled, starter, yogurt marinade, Punjabi]
+tags: [indian, Punjab, North India, paneer, tikka, tandoor, vegetarian, grilled, starter, yogurt marinade, Punjabi]
 ingredients_key: [paneer, hung yogurt, Kashmiri red chilli, garam masala, chaat masala, kasuri methi]
 hero_image_prompt: Paneer tikka on skewers resting on a dark iron board, the paneer cubes vivid orange-red with charred edges and blistered surfaces, interspersed with lightly scorched green peppers and golden onion squares, mint chutney in a small white bowl alongside, lit with warm directional light from the side
 seo_title: Paneer Tikka Recipe — Authentic Punjabi Tandoor Grilled Paneer
@@ -81,19 +81,19 @@ Chaat masala, the tart and complex finishing powder, is not mixed into the marin
 
 ## Method
 
-1. **Make the hung yogurt (150 g).** The day before (or at least 4 hours before): line a fine-mesh sieve or colander with a doubled layer of muslin cloth. Pour in the full-fat yogurt and gather the cloth into a bundle. Suspend it over a deep bowl or tie it to a kitchen tap and refrigerate. After 4–6 hours — overnight for best results — the yogurt will have shed much of its whey and thickened to a dense, cream-like consistency. The firmer the hung yogurt, the better the marinade will cling.
+1. Make the hung yogurt (150 g). The day before (or at least 4 hours before): line a fine-mesh sieve or colander with a doubled layer of muslin cloth. Pour in the full-fat yogurt and gather the cloth into a bundle. Suspend it over a deep bowl or tie it to a kitchen tap and refrigerate. After 4–6 hours — overnight for best results — the yogurt will have shed much of its whey and thickened to a dense, cream-like consistency. The firmer the hung yogurt, the better the marinade will cling.
 
-2. **Make the marinade.** In a large bowl, combine the hung yogurt, ginger-garlic paste (20 g), Kashmiri red chilli powder (3 teaspoons — mild heat, vivid red colour), turmeric (1 teaspoon), cumin (1 teaspoon), coriander (1 teaspoon), garam masala (1 teaspoon), kasuri methi (crushed lightly between your palms to release its aroma), lemon juice (1 lemon), oil, and salt (2 teaspoons). Mix thoroughly until completely combined. The marinade should be thick, vivid orange-red, and fragrant — it should coat the back of a spoon cleanly.
+2. Make the marinade. In a large bowl, combine the hung yogurt, ginger-garlic paste (20 g), Kashmiri red chilli powder (3 teaspoons — mild heat, vivid red colour), turmeric (1 teaspoon), cumin (1 teaspoon), coriander (1 teaspoon), garam masala (1 teaspoon), kasuri methi (crushed lightly between your palms to release its aroma), lemon juice (1 lemon), oil, and salt (2 teaspoons). Mix thoroughly until completely combined. The marinade should be thick, vivid orange-red, and fragrant — it should coat the back of a spoon cleanly.
 
-3. **Marinate the paneer and vegetables.** Add the paneer cubes, bell pepper (100 g) squares, and onion (100 g) squares to the marinade. Toss carefully to coat every surface — be gentle with the paneer so it does not crumble. Cover the bowl and refrigerate for a minimum of 2 hours. The yogurt acid and salt will firm the paneer's outer surface slightly and the spices will begin to penetrate. Do not marinate for more than 8 hours, as prolonged acid contact can make the paneer's outer surface grainy.
+3. Marinate the paneer and vegetables. Add the paneer cubes, bell pepper (100 g) squares, and onion (100 g) squares to the marinade. Toss carefully to coat every surface — be gentle with the paneer so it does not crumble. Cover the bowl and refrigerate for a minimum of 2 hours. The yogurt acid and salt will firm the paneer's outer surface slightly and the spices will begin to penetrate. Do not marinate for more than 8 hours, as prolonged acid contact can make the paneer's outer surface grainy.
 
-4. **Preheat your cooking surface.** If using a tandoor: allow it to reach full heat (approximately 400–450°C). If using a grill or broiler: preheat to maximum heat (at least 250°C / 480°F). Allow the grill or grate to heat for a full 10 minutes — a cold surface is the single most common reason paneer tikka sticks and tears.
+4. Preheat your cooking surface. If using a tandoor: allow it to reach full heat (approximately 400–450°C). If using a grill or broiler: preheat to maximum heat (at least 250°C / 480°F). Allow the grill or grate to heat for a full 10 minutes — a cold surface is the single most common reason paneer tikka sticks and tears.
 
-5. **Skewer the tikka.** Thread the marinated items onto metal skewers, alternating paneer, pepper, and onion. Leave a small gap between each piece so heat can circulate around all surfaces. Do not pack the skewers tightly.
+5. Skewer the tikka. Thread the marinated items onto metal skewers, alternating paneer, pepper, and onion. Leave a small gap between each piece so heat can circulate around all surfaces. Do not pack the skewers tightly.
 
-6. **Cook.** If using a tandoor: cook for 10–12 minutes, rotating the skewers once halfway through, until the paneer edges are charred and the peppers are blistered with dark spots. If using a broiler or very hot grill: place the skewers 10 cm from the heat source and cook for 6–7 minutes on the first side. The marinade surface should look set, slightly dry, and beginning to char at the raised edges. Rotate the skewers and cook for a further 5–6 minutes on the second side. The paneer should have vivid charred edges, the peppers blistered and slightly softened, the onions tender and translucent with scorched edges.
+6. Cook. If using a tandoor: cook for 10–12 minutes, rotating the skewers once halfway through, until the paneer edges are charred and the peppers are blistered with dark spots. If using a broiler or very hot grill: place the skewers 10 cm from the heat source and cook for 6–7 minutes on the first side. The marinade surface should look set, slightly dry, and beginning to char at the raised edges. Rotate the skewers and cook for a further 5–6 minutes on the second side. The paneer should have vivid charred edges, the peppers blistered and slightly softened, the onions tender and translucent with scorched edges.
 
-7. **Serve immediately.** Remove from skewers onto a serving board. Sprinkle generously with chaat masala (1 teaspoon). Squeeze a lemon wedge over the entire platter. Serve with mint chutney on the side.
+7. Serve immediately. Remove from skewers onto a serving board. Sprinkle generously with chaat masala (1 teaspoon). Squeeze a lemon wedge over the entire platter. Serve with mint chutney on the side.
 
 ---
 

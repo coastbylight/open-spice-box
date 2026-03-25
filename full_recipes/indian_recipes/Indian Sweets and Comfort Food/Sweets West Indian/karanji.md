@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Dessert
 difficulty: Intermediate
-tags: [maharashtra, west india, dessert, karanji, gujiya, pastry, khoya, deep fried, diwali, holi, festival sweet, vegetarian]
+tags: [indian, maharashtra, west india, dessert, karanji, gujiya, pastry, khoya, deep fried, diwali, holi, festival sweet, vegetarian]
 hero_image_prompt: A plate of karanji, golden-brown crescent pastries with crimped and twisted edges, one broken open to reveal the dense khoya filling, arranged on a dark plate with a few scattered cardamom pods, warm natural light
 seo_title: Karanji Recipe — Maharashtrian Deep-Fried Khoya Crescent Pastry
 meta_description: Karanji are Maharashtrian half-moon pastries — ghee-enriched dough filled with fried khoya and sugar, sealed with a decorative twist, deep-fried until golden. The Diwali and Holi sweet also known as gujiya.

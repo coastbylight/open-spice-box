@@ -10,7 +10,7 @@ total_time: 1 hour 50 minutes
 difficulty: Intermediate
 cuisine: Kashmiri, Wazwan
 course: Main Course
-tags: [roganjosh, kashmiri lamb curry, wazwan, kashmiri red chilli, bone-in lamb, mustard oil, no tomato curry, festival dish, kashmiri cuisine, ratan jot]
+tags: [indian, roganjosh, kashmiri lamb curry, wazwan, kashmiri red chilli, bone-in lamb, mustard oil, no tomato curry, festival dish, kashmiri cuisine, ratan jot]
 ingredients_key: [lamb, mustard oil, kashmiri red chilli, yogurt, ratan jot]
 hero_image_prompt: Deep copper pot of Roganjosh on a dark wooden surface, vivid brick-red gravy glistening around bone-in lamb pieces, steam rising gently, whole spices visible in the sauce, dramatic side lighting, rich jewel-toned red and amber tones
 seo_title: Authentic Roganjosh Recipe — Kashmiri Lamb Curry from the Wazwan Tradition

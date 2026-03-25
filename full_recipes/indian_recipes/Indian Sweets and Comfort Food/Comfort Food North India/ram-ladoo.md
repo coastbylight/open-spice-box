@@ -6,7 +6,7 @@ source_name: Traditional Delhi Street Food
 cuisine: North Indian
 course: Snack
 difficulty: Medium
-tags: Delhi, street food, chaat, moong dal, fritters, vegetarian, vegan, North India, radish
+tags: comfort food, indian, Delhi, street food, chaat, moong dal, fritters, vegetarian, vegan, North India, radish
 hero_image_prompt: A bowl of ram ladoo — golden-brown moong dal fritters sitting on a bed of white grated radish drenched in bright green mint chutney and dark tamarind water, photographed from above on a dark surface in warm light
 seo_title: Ram Ladoo: Delhi Street Food Moong Dal Fritters with Radish and Chutney
 meta_description: Ram ladoo: Delhi's iconic moong dal fritters served on grated white radish soaked in tamarind water and mint chutney, a complete street-food chaat experience.
@@ -61,19 +61,19 @@ Ram ladoo is emphatically Delhi street food, sold from carts in Old Delhi and ne
 
 ## Method
 
-1. **Grind the dal.** Drain the soaked moong dal thoroughly. Transfer to a food processor or wet grinder and grind to a coarse paste, not completely smooth. Some texture is essential for the fritters to hold together. Add water only if absolutely necessary (1–2 tablespoons at most).
+1. Grind the dal. Drain the soaked moong dal thoroughly. Transfer to a food processor or wet grinder and grind to a coarse paste, not completely smooth. Some texture is essential for the fritters to hold together. Add water only if absolutely necessary (1–2 tablespoons at most).
 
-2. **Make the batter.** Transfer the ground dal to a bowl. Add the chopped onion (50 g), green chillies (25 g), coriander (25 g), and salt (2 teaspoons). Mix well. Beat the batter vigorously with your hand for 2 minutes. This incorporates air, making the fritters lighter.
+2. Make the batter. Transfer the ground dal to a bowl. Add the chopped onion (50 g), green chillies (25 g), coriander (25 g), and salt (2 teaspoons). Mix well. Beat the batter vigorously with your hand for 2 minutes. This incorporates air, making the fritters lighter.
 
-3. **Test a fritter.** Drop a small amount of batter into the oil before frying the batch. If it holds together and rises to the surface, the batter is correct. If it disintegrates, the dal may be too wet. Drain further, or add a teaspoon of besan (gram flour) to bind.
+3. Test a fritter. Drop a small amount of batter into the oil before frying the batch. If it holds together and rises to the surface, the batter is correct. If it disintegrates, the dal may be too wet. Drain further, or add a teaspoon of besan (gram flour) to bind.
 
-4. **Fry the ladoo.** Heat oil in a kadhai to 170°C (medium-high; a drop of batter should sizzle actively and rise). Using two wet spoons or a small scoop, shape rough dumplings and slide them into the oil in batches. Fry for 5–6 minutes, turning, until deep golden all over and cooked through. Drain on kitchen paper.
+4. Fry the ladoo. Heat oil in a kadhai to 170°C (medium-high; a drop of batter should sizzle actively and rise). Using two wet spoons or a small scoop, shape rough dumplings and slide them into the oil in batches. Fry for 5–6 minutes, turning, until deep golden all over and cooked through. Drain on kitchen paper.
 
-5. **Prepare the base.** Spread the grated radish (250 g) in individual serving bowls. Pour the tamarind water (100 ml) over the radish and let it soak for a minute.
+5. Prepare the base. Spread the grated radish (250 g) in individual serving bowls. Pour the tamarind water (100 ml) over the radish and let it soak for a minute.
 
-6. **Assemble.** Place 3–4 hot fritters on each portion of soaked radish. Drizzle generously with mint chutney (150 ml) and more tamarind water if desired.
+6. Assemble. Place 3–4 hot fritters on each portion of soaked radish. Drizzle generously with mint chutney (150 ml) and more tamarind water if desired.
 
-7. **Serve immediately.** The hot fritters against the cold radish is the experience.
+7. Serve immediately. The hot fritters against the cold radish is the experience.
 
 ---
 

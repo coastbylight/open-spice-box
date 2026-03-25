@@ -12,7 +12,7 @@ total_time: 2 hours
 difficulty: Medium
 cuisine: Maharashtrian
 course: Festive bread / Sweet
-tags: [Maharashtra, puran poli, chana dal, jaggery, festival, Holi, Gudi Padwa, vegetarian, sweet bread]
+tags: [maharashtrian, indian, Maharashtra, puran poli, chana dal, jaggery, festival, Holi, Gudi Padwa, vegetarian, sweet bread]
 ingredients_key: [chana dal, jaggery, cardamom, whole wheat flour]
 equipment_key: [pressure cooker, tawa or heavy griddle, rolling pin]
 hero_image_prompt: A stack of puran poli on a steel plate, their surfaces golden with ghee-cooked spots, the edges slightly crisped, one broken open to reveal the pale amber puran filling inside, a small bowl of warm ghee alongside, shot in warm afternoon light on a wooden surface
@@ -77,31 +77,31 @@ The practical insight for first-time makers: the dough should be soft almost to 
 
 **Make the dough**
 
-1. **Mix and knead.** Combine the whole wheat flour (300 g) and maida (30 g) in a wide bowl. Add the oil or ghee, turmeric, and a pinch of salt. Rub the fat into the flour with your fingers until it resembles coarse breadcrumbs. Add water gradually, mixing with one hand while the other holds the bowl, until a soft, pliable dough forms. The dough should feel slightly softer than standard roti dough. Nearly tacky, but not sticking to your palms. Knead for 5 minutes until smooth.
+1. Mix and knead. Combine the whole wheat flour (300 g) and maida (30 g) in a wide bowl. Add the oil or ghee, turmeric, and a pinch of salt. Rub the fat into the flour with your fingers until it resembles coarse breadcrumbs. Add water gradually, mixing with one hand while the other holds the bowl, until a soft, pliable dough forms. The dough should feel slightly softer than standard roti dough. Nearly tacky, but not sticking to your palms. Knead for 5 minutes until smooth.
 
-2. **Rest.** Cover the dough with a damp cloth and rest for 30 minutes. The resting allows the gluten to relax, which makes the dough far easier to roll thin around the filling without springing back.
+2. Rest. Cover the dough with a damp cloth and rest for 30 minutes. The resting allows the gluten to relax, which makes the dough far easier to roll thin around the filling without springing back.
 
 **Make the puran filling**
 
-3. **Pressure cook the dal.** Drain the soaked chana dal (300 g) and add to a pressure cooker with enough water to cover by 3 cm (about 500 ml). Pressure cook for 3–4 whistles on medium heat, until the dal is completely soft and easily mashed between two fingers, offering no resistance. Drain well in a sieve, pressing gently to remove excess water. A wet dal makes a wet puran; thorough draining matters.
+3. Pressure cook the dal. Drain the soaked chana dal (300 g) and add to a pressure cooker with enough water to cover by 3 cm (about 500 ml). Pressure cook for 3–4 whistles on medium heat, until the dal is completely soft and easily mashed between two fingers, offering no resistance. Drain well in a sieve, pressing gently to remove excess water. A wet dal makes a wet puran; thorough draining matters.
 
-4. **Cook with jaggery (250 g).** Transfer the drained dal to a wide, heavy-based pan. Add the grated jaggery. Cook over medium heat, stirring continuously. The jaggery will melt immediately and the mixture will become liquid and bubbly. Continue cooking and stirring, scraping the base of the pan to prevent sticking, as the mixture gradually thickens. After 15–20 minutes, the mixture should be quite thick: when you draw a spoon through it, the line should hold for a moment before closing. Mash any whole dal pieces as you stir.
+4. Cook with jaggery (250 g). Transfer the drained dal to a wide, heavy-based pan. Add the grated jaggery. Cook over medium heat, stirring continuously. The jaggery will melt immediately and the mixture will become liquid and bubbly. Continue cooking and stirring, scraping the base of the pan to prevent sticking, as the mixture gradually thickens. After 15–20 minutes, the mixture should be quite thick: when you draw a spoon through it, the line should hold for a moment before closing. Mash any whole dal pieces as you stir.
 
-5. **Test and dry completely.** The puran is ready when it pulls away cleanly from the sides of the pan and holds its shape when a portion is scooped onto a plate and allowed to cool for 30 seconds. If it spreads, continue cooking. Add the cardamom powder (1½ teaspoons) and nutmeg. Stir through. Remove from heat and allow to cool completely before shaping. Warm puran is sticky and difficult to work with.
+5. Test and dry completely. The puran is ready when it pulls away cleanly from the sides of the pan and holds its shape when a portion is scooped onto a plate and allowed to cool for 30 seconds. If it spreads, continue cooking. Add the cardamom powder (1½ teaspoons) and nutmeg. Stir through. Remove from heat and allow to cool completely before shaping. Warm puran is sticky and difficult to work with.
 
-6. **Divide.** Once cool, divide the puran into 12–14 equal balls, roughly the size of a large marble or a small golf ball. Set aside.
+6. Divide. Once cool, divide the puran into 12–14 equal balls, roughly the size of a large marble or a small golf ball. Set aside.
 
 **Assemble and cook**
 
-7. **Divide the dough.** Divide the rested dough into the same number of equal portions as the puran balls. Keep covered with the damp cloth when not in use.
+7. Divide the dough. Divide the rested dough into the same number of equal portions as the puran balls. Keep covered with the damp cloth when not in use.
 
-8. **Wrap and seal.** Working one at a time, flatten a dough portion between your palms into a small circle about 7–8 cm across. Place a puran ball in the center. Bring the edges of the dough up around the puran and pinch firmly to seal, like wrapping a dumpling. Press the sealed end gently downward so it sits flat. The puran should be entirely enclosed with no gaps.
+8. Wrap and seal. Working one at a time, flatten a dough portion between your palms into a small circle about 7–8 cm across. Place a puran ball in the center. Bring the edges of the dough up around the puran and pinch firmly to seal, like wrapping a dumpling. Press the sealed end gently downward so it sits flat. The puran should be entirely enclosed with no gaps.
 
-9. **Roll gently.** On a lightly floured surface, place the sealed ball seam-side down. Using a rolling pin, roll it out gently into a disc about 15–16 cm in diameter. Apply even, light pressure. Do not press hard. Turn the poli frequently to keep it round and to check that it is not sticking. If the filling breaks through, press the dough back and continue rolling from a different direction. The finished poli should be thin but not translucent.
+9. Roll gently. On a lightly floured surface, place the sealed ball seam-side down. Using a rolling pin, roll it out gently into a disc about 15–16 cm in diameter. Apply even, light pressure. Do not press hard. Turn the poli frequently to keep it round and to check that it is not sticking. If the filling breaks through, press the dough back and continue rolling from a different direction. The finished poli should be thin but not translucent.
 
-10. **Cook on tawa.** Heat a tawa or heavy griddle over medium heat. Place the poli on the tawa and cook until the underside shows small golden-brown spots, about 1–2 minutes. Flip, and add a small amount of ghee around the edges of the poli. It will sizzle. Press the poli gently with a flat spatula. Cook until the second side also shows golden spots and the poli feels dry and slightly puffed in places.
+10. Cook on tawa. Heat a tawa or heavy griddle over medium heat. Place the poli on the tawa and cook until the underside shows small golden-brown spots, about 1–2 minutes. Flip, and add a small amount of ghee around the edges of the poli. It will sizzle. Press the poli gently with a flat spatula. Cook until the second side also shows golden spots and the poli feels dry and slightly puffed in places.
 
-11. **Serve with ghee.** Remove from the tawa, place on a plate, and immediately drizzle with warm ghee. At festivals, the ghee is poured generously. There's a Maharashtrian saying that puran poli without ghee is incomplete, like a song without its final note. Serve immediately.
+11. Serve with ghee. Remove from the tawa, place on a plate, and immediately drizzle with warm ghee. At festivals, the ghee is poured generously. There's a Maharashtrian saying that puran poli without ghee is incomplete, like a song without its final note. Serve immediately.
 
 ---
 

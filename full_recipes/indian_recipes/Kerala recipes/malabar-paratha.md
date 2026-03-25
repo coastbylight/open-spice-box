@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Bread
 difficulty: Advanced
-tags: [kerala, malabar, mappila, muslim, bread, flatbread, layered, flaky, ghee, griddle, paratha]
+tags: [indian, kerala, malabar, mappila, muslim, bread, flatbread, layered, flaky, ghee, griddle, paratha]
 hero_image_prompt: A stack of three Malabar parathas on a steel plate, their surfaces burnished gold-brown, layers visibly separated at the torn edges, the honeycomb interior exposed where one is broken open, a small smear of ghee glistening on the surface, set on a dark wooden table with a copper vessel behind it
 seo_title: Malabar Paratha — North Kerala Flaky Layered Flatbread
 meta_description: Malabar Paratha is the iconic flatbread of Kerala's Mappila Muslim community — refined flour dough rested and coiled into layers, cooked slowly on a griddle with ghee until golden and flaky. A technique as much as a recipe.

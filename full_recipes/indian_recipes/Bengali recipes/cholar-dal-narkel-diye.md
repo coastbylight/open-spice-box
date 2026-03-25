@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Easy
-tags: Bengali, dal, chana dal, Bengal gram, coconut, narkel, festive, vegetarian, vegan, gluten-free, Durga Puja, celebration
+tags: indian, Bengali, dal, chana dal, Bengal gram, coconut, narkel, festive, vegetarian, vegan, gluten-free, Durga Puja, celebration
 hero_image_prompt: A white bowl of cholar dal, the golden-yellow split chickpeas in a lightly spiced broth, studded with pale coins of fresh coconut and plump raisins, a curl of dried red chilli and a bay leaf resting on the surface, a thread of ghee catching the light, shot in warm natural daylight on a saffron-yellow cotton cloth
 seo_title: Cholar Dal Narkel Diye Recipe — Bengali Bengal Gram Dal with Coconut
 meta_description: Cholar dal narkel diye: festive Bengali split chickpea dal with fresh coconut, raisins, and warm whole spices. The dal that accompanies luchi at every Bengali celebration.
@@ -80,21 +80,21 @@ Ghee is the appropriate fat here. The dish is not a mustard-oil preparation. It 
 
 ## Method
 
-1. **Parboil the dal.** Drain the soaked chana dal (250 g) and transfer to a medium saucepan. Add the litre (1) of water, the turmeric (1 teaspoon), and 1 teaspoon of salt (1 teaspoon). Bring to a boil over high heat, skimming any foam that rises to the surface in the first few minutes. Reduce to a steady simmer and cook, partially covered, for 25–30 minutes. The dal is ready when each grain is fully tender with no chalky centre (test by pressing one between your fingers) but still holds its shape. It should not be dissolving into the water. Drain and reserve, keeping about 200 ml of the cooking liquid.
+1. Parboil the dal. Drain the soaked chana dal (250 g) and transfer to a medium saucepan. Add the litre (1) of water, the turmeric (1 teaspoon), and 1 teaspoon of salt (1 teaspoon). Bring to a boil over high heat, skimming any foam that rises to the surface in the first few minutes. Reduce to a steady simmer and cook, partially covered, for 25–30 minutes. The dal is ready when each grain is fully tender with no chalky centre (test by pressing one between your fingers) but still holds its shape. It should not be dissolving into the water. Drain and reserve, keeping about 200 ml of the cooking liquid.
 
-2. **Fry the coconut (80 g).** In a wide, heavy-based pan, heat 1 tablespoon of the ghee (3 tablespoons) over medium heat. Add the coconut slivers and fry, stirring frequently, for 3–4 minutes until they are golden-brown and fragrant. Remove and set aside. The coconut should be toasty and slightly caramelised at the edges but not burned.
+2. Fry the coconut (80 g). In a wide, heavy-based pan, heat 1 tablespoon of the ghee (3 tablespoons) over medium heat. Add the coconut slivers and fry, stirring frequently, for 3–4 minutes until they are golden-brown and fragrant. Remove and set aside. The coconut should be toasty and slightly caramelised at the edges but not burned.
 
-3. **Plump the raisins (40 g).** In the same pan with the remaining fat, add the raisins briefly and stir for 30–40 seconds until they puff up and swell. Remove and set aside with the coconut.
+3. Plump the raisins (40 g). In the same pan with the remaining fat, add the raisins briefly and stir for 30–40 seconds until they puff up and swell. Remove and set aside with the coconut.
 
-4. **Make the temper.** Add the remaining 2 tablespoons of ghee (1 tablespoon) to the pan over medium heat. When it shimmers and becomes fragrant, add the dried red chillies (2) and bay leaves (2). They will sizzle and release their fragrance within 30 seconds. Add the cumin (1 teaspoon) seeds (1 teaspoon) — they will pop and sputter. Then add the cinnamon stick (1), cracked cardamom pods (3), and cloves (3). Stir everything for 30–45 seconds until the whole spices are fragrant and the oil around them is aromatic.
+4. Make the temper. Add the remaining 2 tablespoons of ghee (1 tablespoon) to the pan over medium heat. When it shimmers and becomes fragrant, add the dried red chillies (2) and bay leaves (2). They will sizzle and release their fragrance within 30 seconds. Add the cumin (1 teaspoon) seeds (1 teaspoon) — they will pop and sputter. Then add the cinnamon stick (1), cracked cardamom pods (3), and cloves (3). Stir everything for 30–45 seconds until the whole spices are fragrant and the oil around them is aromatic.
 
-5. **Add ginger and powdered spices.** Add the grated ginger and stir for 30 seconds until it softens. Add the cumin powder, coriander powder (1 teaspoon), and red chilli powder (½ teaspoon). Stir for 45 seconds over medium heat. The powders will bloom in the ghee, darkening slightly and releasing their full fragrance.
+5. Add ginger and powdered spices. Add the grated ginger and stir for 30 seconds until it softens. Add the cumin powder, coriander powder (1 teaspoon), and red chilli powder (½ teaspoon). Stir for 45 seconds over medium heat. The powders will bloom in the ghee, darkening slightly and releasing their full fragrance.
 
-6. **Combine.** Add the cooked chana dal to the pan. Pour in approximately 150 ml of the reserved cooking liquid (or fresh warm water). You are looking for a consistency slightly thicker than soup but not dry; the dal should move freely in its broth. Add the slit green chillies, sugar (1 teaspoon), and remaining salt to taste. Stir gently to combine without breaking the dal grains. Cook uncovered over low heat for 5–7 minutes, stirring occasionally, until the liquid has reduced slightly and the flavours have integrated.
+6. Combine. Add the cooked chana dal to the pan. Pour in approximately 150 ml of the reserved cooking liquid (or fresh warm water). You are looking for a consistency slightly thicker than soup but not dry; the dal should move freely in its broth. Add the slit green chillies, sugar (1 teaspoon), and remaining salt to taste. Stir gently to combine without breaking the dal grains. Cook uncovered over low heat for 5–7 minutes, stirring occasionally, until the liquid has reduced slightly and the flavours have integrated.
 
-7. **Add the coconut and raisins.** Stir in the fried coconut pieces and plumped raisins. Reserve a few pieces of coconut for garnishing. Cook for a further 2–3 minutes so the coconut and raisins warm through and begin to share their sweetness with the broth.
+7. Add the coconut and raisins. Stir in the fried coconut pieces and plumped raisins. Reserve a few pieces of coconut for garnishing. Cook for a further 2–3 minutes so the coconut and raisins warm through and begin to share their sweetness with the broth.
 
-8. **Finish.** Taste for salt, sugar, and spice — adjust as needed. Drizzle the final tablespoon of ghee over the surface. Add a pinch of garam masala. Serve immediately, garnished with the reserved coconut pieces.
+8. Finish. Taste for salt, sugar, and spice — adjust as needed. Drizzle the final tablespoon of ghee over the surface. Add a pinch of garam masala. Serve immediately, garnished with the reserved coconut pieces.
 
 ---
 

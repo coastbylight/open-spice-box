@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Main / Side
 difficulty: Easy
-tags: [maharashtrian, dal, toor-dal, vegetarian, everyday, comfort-food, gluten-free, vegan-adaptable]
+tags: [indian, maharashtrian, dal, toor-dal, vegetarian, everyday, comfort-food, gluten-free, vegan-adaptable]
 hero_image_prompt: A wide, shallow brass bowl filled with pale golden toor dal — thin-bodied and clear, with a gentle gleam from a pool of melted ghee in the center, a small pinch of turmeric visible in the color, set on a hand-woven cloth on a stone surface, a mound of white rice visible behind it
 seo_title: Varan — The Essential Maharashtrian Toor Dal
 meta_description: Varan is Maharashtra's most fundamental dal — toor dal cooked with turmeric, asafoetida and jaggery, served over rice with pure ghee. As elemental as cooking gets.

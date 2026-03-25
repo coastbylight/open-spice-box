@@ -10,7 +10,7 @@ total_time: 45 minutes
 difficulty: Intermediate
 cuisine: Parsi
 course: Main Course
-tags: [fish, parsi, steamed, banana-leaf, coconut-chutney, celebration, gluten-free, dairy-free]
+tags: [indian, fish, parsi, steamed, banana-leaf, coconut-chutney, celebration, gluten-free, dairy-free]
 ingredients_key: [pomfret, banana leaf, fresh coconut, fresh coriander, green chilli]
 hero_image_prompt: A banana leaf parcel of steamed fish being gently unwrapped on a white plate, revealing vibrant green coconut-herb chutney coating the fish, steam rising, a bowl of white rice alongside, clean natural light on a wooden surface
 seo_title: Patrani Machi Recipe – Parsi Steamed Fish in Banana Leaf

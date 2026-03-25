@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy
-tags: Parsi, vegetarian, vegan, sweet and sour, stew, vinegar, Zoroastrian, gluten-free
+tags: indian, Parsi, vegetarian, vegan, sweet and sour, stew, vinegar, Zoroastrian, gluten-free
 hero_image_prompt: A wide pot of khattu meethu estew — an assortment of golden-fried vegetables in a thin, amber-tinted sweet-sour broth with visible pieces of tomato and green chilli, photographed from above on a worn wooden surface in warm natural light
 seo_title: Khattu Meethu Estew — Parsi Sweet and Sour Vegetable Stew
 meta_description: Khattu meethu estew: a Parsi sweet-sour vegetable stew of individually fried seasonal vegetables combined with onion, tomato, vinegar, and sugar in a fragrant broth.
@@ -66,15 +66,15 @@ What results is a dish with particular depth: each vegetable is already slightly
 
 ## Method
 
-1. **Individually fry the vegetables.** In a wide pan with enough oil for shallow-frying, fry each vegetable separately over medium-high heat until lightly golden on the outside, roughly 3–5 minutes each depending on size. Set each aside. The peas (250 g) and fresh herbs do not need frying.
+1. Individually fry the vegetables. In a wide pan with enough oil for shallow-frying, fry each vegetable separately over medium-high heat until lightly golden on the outside, roughly 3–5 minutes each depending on size. Set each aside. The peas (250 g) and fresh herbs do not need frying.
 
-2. **Make the base.** Heat 2 tablespoons of oil in a wide pot. Add the sliced onions (150 g) and fry until light golden, about 8 minutes. Add the ginger (30 g), garlic (10 g), green chilli, and mint (30 g). Stir for 2 minutes. Add the chopped tomatoes (150 g) and cook for 5 minutes until softened.
+2. Make the base. Heat 2 tablespoons of oil in a wide pot. Add the sliced onions (150 g) and fry until light golden, about 8 minutes. Add the ginger (30 g), garlic (10 g), green chilli, and mint (30 g). Stir for 2 minutes. Add the chopped tomatoes (150 g) and cook for 5 minutes until softened.
 
-3. **Combine.** Add all the individually fried vegetables to the pot and stir gently to coat. Add the coriander leaves (20 g). Mix well.
+3. Combine. Add all the individually fried vegetables to the pot and stir gently to coat. Add the coriander leaves (20 g). Mix well.
 
-4. **Season.** Add the vinegar (30 ml), sugar (2 teaspoons), and salt (2 teaspoons). Stir and simmer over low heat for 5 minutes until everything is warmed through and the flavours have integrated. Taste: the stew should be pleasantly sour-sweet-savoury.
+4. Season. Add the vinegar (30 ml), sugar (2 teaspoons), and salt (2 teaspoons). Stir and simmer over low heat for 5 minutes until everything is warmed through and the flavours have integrated. Taste: the stew should be pleasantly sour-sweet-savoury.
 
-5. **Serve** with roti, rice, or bread.
+5. Serve with roti, rice, or bread.
 
 ---
 

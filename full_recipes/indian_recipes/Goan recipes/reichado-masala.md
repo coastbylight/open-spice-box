@@ -6,7 +6,7 @@ source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Condiment
 difficulty: Easy
-tags: Goan, masala, condiment, paste, dried chilli, vinegar, Portuguese influence, vegan, gluten-free
+tags: indian, Goan, masala, condiment, paste, dried chilli, vinegar, Portuguese influence, vegan, gluten-free
 hero_image_prompt: A small dark glass jar of deep brick-red reichado masala paste, surrounded by dried red chillies, a few garlic cloves, and a small stick of cinnamon on a worn wooden board, photographed in close-up with warm side light
 seo_title: Reichado Masala Recipe — Traditional Goan Red Chilli Paste
 meta_description: Reichado masala: the foundational Goan spice paste of dried chillies, garlic, vinegar, tamarind, and roasted spices — used to stuff, coat, and flavour fish and meat dishes.
@@ -60,15 +60,15 @@ The result, ground together with patience until completely smooth, is a paste th
 
 ## Method
 
-1. **Soak the tamarind.** Break the tamarind block (30 g) into the warm water and leave for 10 minutes, squeezing and working it into the water. Strain through a sieve, pressing well, to extract a smooth, dark pulp. Discard the fibres and seeds.
+1. Soak the tamarind. Break the tamarind block (30 g) into the warm water and leave for 10 minutes, squeezing and working it into the water. Strain through a sieve, pressing well, to extract a smooth, dark pulp. Discard the fibres and seeds.
 
-2. **Roast the whole spices.** In a dry frying pan over very low heat, add the coriander seeds (2 teaspoons), cumin (½ teaspoon), cloves (4–5), and cinnamon (1 short stick). Toast gently, stirring constantly, for 4–5 minutes until fragrant. The spices should be aromatic and a shade or two darker — but must not turn dark brown or black, which would make them bitter. Remove immediately from the pan onto a cool plate.
+2. Roast the whole spices. In a dry frying pan over very low heat, add the coriander seeds (2 teaspoons), cumin (½ teaspoon), cloves (4–5), and cinnamon (1 short stick). Toast gently, stirring constantly, for 4–5 minutes until fragrant. The spices should be aromatic and a shade or two darker — but must not turn dark brown or black, which would make them bitter. Remove immediately from the pan onto a cool plate.
 
-3. **Combine and grind.** Transfer the roasted spices to a blender or spice grinder. Add the dried red chillies (10–15 chillies, depending on size and heat level), peppercorns, garlic (10–12 cloves), turmeric (½ teaspoon), sugar (1 teaspoon), tamarind pulp, and vinegar. Blend to a completely smooth, fine paste. If the blender is struggling, add a tablespoon of water at a time to get it moving — but keep the paste thick.
+3. Combine and grind. Transfer the roasted spices to a blender or spice grinder. Add the dried red chillies (10–15 chillies, depending on size and heat level), peppercorns, garlic (10–12 cloves), turmeric (½ teaspoon), sugar (1 teaspoon), tamarind pulp, and vinegar. Blend to a completely smooth, fine paste. If the blender is struggling, add a tablespoon of water at a time to get it moving — but keep the paste thick.
 
-4. **Taste and adjust.** The paste should be intensely hot, sour, aromatic, and slightly sweet. Adjust with a little more sugar if too sharp, or more vinegar if it needs brightness. Taste with caution — it is concentrated.
+4. Taste and adjust. The paste should be intensely hot, sour, aromatic, and slightly sweet. Adjust with a little more sugar if too sharp, or more vinegar if it needs brightness. Taste with caution — it is concentrated.
 
-5. **Store** in a clean glass jar in the refrigerator for up to 4 weeks.
+5. Store in a clean glass jar in the refrigerator for up to 4 weeks.
 
 ---
 

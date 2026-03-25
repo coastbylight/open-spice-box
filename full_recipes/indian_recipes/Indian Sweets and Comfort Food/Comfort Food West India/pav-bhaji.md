@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Mumbai street food
 course: Main
 difficulty: Easy
-tags: Mumbai, Maharashtra, street food, vegetarian, vegetable curry, butter, pav, comfort food
+tags: indian, Mumbai, Maharashtra, street food, vegetarian, vegetable curry, butter, pav, comfort food
 hero_image_prompt: A large iron tawa with vivid orange-red pav bhaji being pressed and stirred, butter melting into it, beside two halved pav buns toasting on the same tawa, shot from above with warm evening light, steam rising
 seo_title: Pav Bhaji Recipe — Mumbai Street-Style Buttery Vegetable Curry
 meta_description: Authentic Mumbai pav bhaji: mixed vegetables mashed into a spiced, buttery curry with pav bhaji masala, served with butter-toasted pav buns. The complete recipe.
@@ -71,21 +71,21 @@ The quality of your pav bhaji masala matters. Brands vary significantly. A good 
 
 ## Method
 
-1. **Boil the vegetables.** Boil the cauliflower (200 g) florets until completely soft — softer than you'd cook them for serving, about 12–15 minutes. The peas (100 g) need only 3–4 minutes. Drain both. Mash the potato completely. Mash or finely crush the cauliflower too — there should be no large pieces of cauliflower remaining.
+1. Boil the vegetables. Boil the cauliflower (200 g) florets until completely soft — softer than you'd cook them for serving, about 12–15 minutes. The peas (100 g) need only 3–4 minutes. Drain both. Mash the potato completely. Mash or finely crush the cauliflower too — there should be no large pieces of cauliflower remaining.
 
-2. **Start the bhaji base.** Heat a large wide pan, tawa, or flat-bottomed pan over medium-high heat. Add 3 tablespoons of butter (50 g). When it foams, add the onions. Cook, stirring, for 8–10 minutes until the onions are deep golden and beginning to soften toward translucency. Don't rush this stage. The caramelised onion (200 g) is the flavour foundation.
+2. Start the bhaji base. Heat a large wide pan, tawa, or flat-bottomed pan over medium-high heat. Add 3 tablespoons of butter (50 g). When it foams, add the onions. Cook, stirring, for 8–10 minutes until the onions are deep golden and beginning to soften toward translucency. Don't rush this stage. The caramelised onion (200 g) is the flavour foundation.
 
-3. **Add aromatics and tomatoes (200 g).** Add ginger-garlic paste (20 g) and stir for 1–2 minutes until fragrant. Add capsicum (30 g) and cook for 2 minutes. Add tomatoes, turmeric (5 g), and red chilli powder (10 g). Cook on medium-high heat, pressing and stirring, for 8–10 minutes until the tomatoes have completely broken down and the mixture looks jammy and is beginning to leave the pan sides.
+3. Add aromatics and tomatoes (200 g). Add ginger-garlic paste (20 g) and stir for 1–2 minutes until fragrant. Add capsicum (30 g) and cook for 2 minutes. Add tomatoes, turmeric (5 g), and red chilli powder (10 g). Cook on medium-high heat, pressing and stirring, for 8–10 minutes until the tomatoes have completely broken down and the mixture looks jammy and is beginning to leave the pan sides.
 
-4. **Add the vegetables.** Add the mashed potato, cauliflower, and peas. Mix thoroughly into the tomato base. Add pav bhaji masala (20 g) and salt (10 g). Mix well.
+4. Add the vegetables. Add the mashed potato, cauliflower, and peas. Mix thoroughly into the tomato base. Add pav bhaji masala (20 g) and salt (10 g). Mix well.
 
-5. **Bhuno the bhaji.** This is the key technique. Increase heat to high. Press the bhaji flat against the pan with the back of the spatula, hold for 30 seconds, then fold it back over itself and press again. Continue this pressing-and-folding motion for 8–10 minutes. The bhaji will deepen in colour, develop small browned bits throughout, and lose excess moisture. Add splashes of water (2–3 tablespoons at a time) when the mixture sticks, scraping the caramelised bits off the base and incorporating them. That is flavour. Add butter (30 g) in 2–3 more generous knobs as you work.
+5. Bhuno the bhaji. This is the key technique. Increase heat to high. Press the bhaji flat against the pan with the back of the spatula, hold for 30 seconds, then fold it back over itself and press again. Continue this pressing-and-folding motion for 8–10 minutes. The bhaji will deepen in colour, develop small browned bits throughout, and lose excess moisture. Add splashes of water (2–3 tablespoons at a time) when the mixture sticks, scraping the caramelised bits off the base and incorporating them. That is flavour. Add butter (30 g) in 2–3 more generous knobs as you work.
 
-6. **Finish.** Add lemon juice (20 ml), taste, and adjust salt and pav bhaji masala. The bhaji should be thick, vivid red-orange, glossy from the butter, and deeply seasoned. Scatter with fresh coriander (20 g).
+6. Finish. Add lemon juice (20 ml), taste, and adjust salt and pav bhaji masala. The bhaji should be thick, vivid red-orange, glossy from the butter, and deeply seasoned. Scatter with fresh coriander (20 g).
 
-7. **Toast the pav.** Mix softened butter with a pinch each of pav bhaji masala and red chilli powder. Heat a flat pan. Spread spiced butter on the cut faces of the pav. Toast, cut side down, until golden and slightly charred at the edges.
+7. Toast the pav. Mix softened butter with a pinch each of pav bhaji masala and red chilli powder. Heat a flat pan. Spread spiced butter on the cut faces of the pav. Toast, cut side down, until golden and slightly charred at the edges.
 
-8. **Serve.** Plate the bhaji with a knob of butter melting over it, coriander scattered on top, and the toasted pav alongside. Provide lemon wedges and finely chopped raw onion.
+8. Serve. Plate the bhaji with a knob of butter melting over it, coriander scattered on top, and the toasted pav alongside. Provide lemon wedges and finely chopped raw onion.
 
 ---
 

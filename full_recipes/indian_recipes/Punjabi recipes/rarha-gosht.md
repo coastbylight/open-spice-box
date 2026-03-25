@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Hard
-tags: Punjabi, lamb, mutton, bone-in, boti, naali, marrow, slow-cooked, weekend dish, celebration
+tags: indian, Punjabi, lamb, mutton, bone-in, boti, naali, marrow, slow-cooked, weekend dish, celebration
 hero_image_prompt: A wide, heavy iron pan of rarha gosht on a rough stone surface, bone-in lamb pieces and marrow bones in a deep brown-red masala, the surface glistening with rendered fat, ginger julienne and fresh coriander scattered over the top, dramatic side lighting
 seo_title: Rarha Gosht Recipe — Punjabi Triple-Cut Lamb in Deep Spiced Masala
 meta_description: Authentic rarha gosht: lamb boti, chops, and naali marrow bones marinated in yoghurt and braised with whole spices, Kashmiri chilli, and fresh tomato to a rich, deeply layered gravy.
@@ -78,27 +78,27 @@ This is weekend cooking. The bhunao technique requires attention. Not constant, 
 
 ## Method
 
-1. **Marinate the lamb.** Whisk the yoghurt (50 g) well. Combine all the lamb pieces in a large bowl. Add half the ginger (7 g) paste (20 g), half the garlic paste (13 g), the whisked yoghurt, and a pinch of salt (¾ teaspoon). Mix thoroughly so every piece is coated. Cover and refrigerate for at least 2 hours, or overnight.
+1. Marinate the lamb. Whisk the yoghurt (50 g) well. Combine all the lamb pieces in a large bowl. Add half the ginger (7 g) paste (20 g), half the garlic paste (13 g), the whisked yoghurt, and a pinch of salt (¾ teaspoon). Mix thoroughly so every piece is coated. Cover and refrigerate for at least 2 hours, or overnight.
 
-2. **Dry-roast the spices.** In a dry frying pan over low-medium heat, roast the cumin seeds (7 g), stirring constantly, until they darken slightly and smell nutty, about 3 minutes. Tip onto a plate to cool. Repeat with the coriander (10 g) seeds (5 g). Once cooled, grind both separately or together to a coarse powder using a spice grinder or mortar. Set aside.
+2. Dry-roast the spices. In a dry frying pan over low-medium heat, roast the cumin seeds (7 g), stirring constantly, until they darken slightly and smell nutty, about 3 minutes. Tip onto a plate to cool. Repeat with the coriander (10 g) seeds (5 g). Once cooled, grind both separately or together to a coarse powder using a spice grinder or mortar. Set aside.
 
-3. **Bloom the whole spices.** Heat the oil in a large, wide heavy-based pot over medium-high heat. Add the green cardamom (4 pods), black cardamom (2 pods), cloves (6 cloves), cinnamon, and bay leaves. Stir for 30–45 seconds until fragrant.
+3. Bloom the whole spices. Heat the oil in a large, wide heavy-based pot over medium-high heat. Add the green cardamom (4 pods), black cardamom (2 pods), cloves (6 cloves), cinnamon, and bay leaves. Stir for 30–45 seconds until fragrant.
 
-4. **Fry the onions.** Add the finely chopped onions and fry over medium-high heat, stirring regularly, for 12–15 minutes until deep golden brown. Add the remaining ginger and garlic pastes and stir for 2 minutes.
+4. Fry the onions. Add the finely chopped onions and fry over medium-high heat, stirring regularly, for 12–15 minutes until deep golden brown. Add the remaining ginger and garlic pastes and stir for 2 minutes.
 
-5. **Add the Kashmiri chilli.** Add the Kashmiri chilli powder (1 teaspoon) and stir for 30 seconds. The oil should turn a deep brick red.
+5. Add the Kashmiri chilli. Add the Kashmiri chilli powder (1 teaspoon) and stir for 30 seconds. The oil should turn a deep brick red.
 
-6. **First bhunao.** Add all the marinated lamb with its marinade to the pot. Stir well to coat everything in the masala. Bring to a boil over high heat, then cook over medium-high heat, stirring every few minutes, until all the liquid from the marinade has completely evaporated and the mixture has reduced to a thick, dry masala clinging to the meat, about 15–18 minutes. This is the first *bhunao*.
+6. First bhunao. Add all the marinated lamb with its marinade to the pot. Stir well to coat everything in the masala. Bring to a boil over high heat, then cook over medium-high heat, stirring every few minutes, until all the liquid from the marinade has completely evaporated and the mixture has reduced to a thick, dry masala clinging to the meat, about 15–18 minutes. This is the first *bhunao*.
 
-7. **Second bhunao.** Add 100 ml of water to the pot. Stir well, scraping up any stuck bits. Bring back to a boil and again cook, stirring regularly, until the liquid has completely dried, another 12–15 minutes. The meat should look deep, almost charred at the edges where it rests against the pan.
+7. Second bhunao. Add 100 ml of water to the pot. Stir well, scraping up any stuck bits. Bring back to a boil and again cook, stirring regularly, until the liquid has completely dried, another 12–15 minutes. The meat should look deep, almost charred at the edges where it rests against the pan.
 
-8. **Third bhunao.** Repeat once more: add another 100 ml of water, bring to a boil, and cook until dry. At this stage the masala should be deeply fragrant, the lamb well coloured, and the oil beginning to separate and pool around the pieces.
+8. Third bhunao. Repeat once more: add another 100 ml of water, bring to a boil, and cook until dry. At this stage the masala should be deeply fragrant, the lamb well coloured, and the oil beginning to separate and pool around the pieces.
 
-9. **Add tomatoes and yoghurt (50 g).** Add the chopped tomatoes and stir well. Cook for 5 minutes until the tomatoes break down. Add the whisked yoghurt a little at a time, stirring constantly. Once incorporated, stir and cook for 3–4 minutes.
+9. Add tomatoes and yoghurt (50 g). Add the chopped tomatoes and stir well. Cook for 5 minutes until the tomatoes break down. Add the whisked yoghurt a little at a time, stirring constantly. Once incorporated, stir and cook for 3–4 minutes.
 
-10. **Final braise.** Add 300–400 ml of hot water to bring the pot to a loose curry consistency. Add the salt. Bring to a boil, then reduce to a slow simmer. Cover and cook for 30–35 minutes until all the lamb pieces are completely tender. The boti should be soft and yielding, and the marrow should have melted from the naali bones into the gravy.
+10. Final braise. Add 300–400 ml of hot water to bring the pot to a loose curry consistency. Add the salt. Bring to a boil, then reduce to a slow simmer. Cover and cook for 30–35 minutes until all the lamb pieces are completely tender. The boti should be soft and yielding, and the marrow should have melted from the naali bones into the gravy.
 
-11. **Finish.** Add the roasted ground cumin and coriander powder. Stir through. Taste and adjust salt. Scatter the ginger julienne, green chillies (2), and fresh coriander over the top. Serve immediately.
+11. Finish. Add the roasted ground cumin and coriander powder. Stir through. Taste and adjust salt. Scatter the ginger julienne, green chillies (2), and fresh coriander over the top. Serve immediately.
 
 ---
 

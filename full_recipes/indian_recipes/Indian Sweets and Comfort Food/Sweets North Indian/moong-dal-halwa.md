@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani / North Indian
 course: Dessert
 difficulty: Intermediate
-tags: [rajasthan, north india, dessert, halwa, moong dal, ghee, almonds, pistachio, cardamom, winter sweet, festival, vegetarian, gluten free]
+tags: [indian, rajasthan, north india, dessert, halwa, moong dal, ghee, almonds, pistachio, cardamom, winter sweet, festival, vegetarian, gluten free]
 hero_image_prompt: A wide shallow bowl of moong dal halwa, deep amber-gold in colour, glistening with ghee at the surface, scattered with toasted almond slivers and green pistachio, steam visible, served in a dark ceramic bowl, warm candlelight-quality light
 seo_title: Moong Dal Halwa Recipe - Rajasthani Winter Moong Dal Halwa
 meta_description: Moong dal halwa: Rajasthani winter halwa of soaked moong dal ground to a paste, slow-roasted in ghee until fragrant, then cooked with sugar syrup, almonds, pistachio, and cardamom. Rich, patient, extraordinary.

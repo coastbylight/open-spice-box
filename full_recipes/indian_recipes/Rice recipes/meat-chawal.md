@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium
-tags: Punjabi, rice, mutton, lamb, one-pot, ghee, tomato, weeknight, gluten-free
+tags: indian, Punjabi, rice, mutton, lamb, one-pot, ghee, tomato, weeknight, gluten-free
 hero_image_prompt: A deep heavy pot of meat chawal, the long-grain rice and lamb pieces cooked together into a single fragrant preparation, the surface golden with ghee and dotted with slit green chillies, on a dark cast-iron surface with warm side light
 seo_title: Meat Chawal Recipe — Punjabi One-Pot Mutton and Rice
 meta_description: Punjabi meat chawal: mutton browned with whole spices, dry spices, and tomato, then cooked together with soaked basmati rice and brown onions until the rice absorbs the spiced meat stock.
@@ -66,21 +66,21 @@ Meat chawal is a satisfying weeknight meal that punches well above its simplicit
 
 ## Method
 
-1. **Soak the rice.** Rinse the basmati in cold water, then soak in fresh cold water for 30 minutes. Drain through a sieve and set aside.
+1. Soak the rice. Rinse the basmati in cold water, then soak in fresh cold water for 30 minutes. Drain through a sieve and set aside.
 
-2. **Prepare the brown onions.** If you don't have pre-made birista: thinly slice 2 medium onions. Heat 3–4 tablespoons of oil or ghee (70 g) in a wide pan over medium-high heat and fry the onions, stirring frequently, for 15–18 minutes until deep golden-brown and slightly crispy. Remove with a slotted spoon and spread on kitchen paper. They will crisp further as they cool.
+2. Prepare the brown onions. If you don't have pre-made birista: thinly slice 2 medium onions. Heat 3–4 tablespoons of oil or ghee (70 g) in a wide pan over medium-high heat and fry the onions, stirring frequently, for 15–18 minutes until deep golden-brown and slightly crispy. Remove with a slotted spoon and spread on kitchen paper. They will crisp further as they cool.
 
-3. **Brown the meat.** Heat the ghee in a large, heavy-based pot over high heat. Add the whole spices (bay leaves (1 g), cardamom, cloves (3), cinnamon) and stir for 20 seconds. Add the mutton (260 g) pieces and sauté over high heat, turning, for 8–10 minutes until the pieces are brown on multiple surfaces.
+3. Brown the meat. Heat the ghee in a large, heavy-based pot over high heat. Add the whole spices (bay leaves (1 g), cardamom, cloves (3), cinnamon) and stir for 20 seconds. Add the mutton (260 g) pieces and sauté over high heat, turning, for 8–10 minutes until the pieces are brown on multiple surfaces.
 
-4. **Add the dry spices.** Add the ginger (14 g), garlic, cumin seeds (1 teaspoon), turmeric (¼ teaspoon), and red chilli powder (1½ teaspoons). Stir well and continue to cook for 2–3 minutes.
+4. Add the dry spices. Add the ginger (14 g), garlic, cumin seeds (1 teaspoon), turmeric (¼ teaspoon), and red chilli powder (1½ teaspoons). Stir well and continue to cook for 2–3 minutes.
 
-5. **Add tomatoes (175 g) and braise.** Add the tomatoes. Stir to combine and cook for 5 minutes until the tomatoes break down. Add 400 ml of water, bring to a boil, then reduce to a steady simmer. Cover and cook for 25–30 minutes until the mutton is three-quarters done: tender but still with a slight resistance at the bone.
+5. Add tomatoes (175 g) and braise. Add the tomatoes. Stir to combine and cook for 5 minutes until the tomatoes break down. Add 400 ml of water, bring to a boil, then reduce to a steady simmer. Cover and cook for 25–30 minutes until the mutton is three-quarters done: tender but still with a slight resistance at the bone.
 
-6. **Add rice and onions.** Check the liquid level in the pot — there should be about 350 ml of liquid remaining (enough to cook the rice). If there is too little, add hot water. Add the slit green chillies (3), the drained soaked rice, and the fried brown onions (70 g). Stir once gently to distribute everything.
+6. Add rice and onions. Check the liquid level in the pot — there should be about 350 ml of liquid remaining (enough to cook the rice). If there is too little, add hot water. Add the slit green chillies (3), the drained soaked rice, and the fried brown onions (70 g). Stir once gently to distribute everything.
 
-7. **Final cook.** Bring back to a boil, then reduce to the lowest heat. Cover tightly and cook for 20–25 minutes until the rice has absorbed all the liquid and both rice and meat are fully cooked. Do not stir during this stage — the steam needs to circulate undisturbed.
+7. Final cook. Bring back to a boil, then reduce to the lowest heat. Cover tightly and cook for 20–25 minutes until the rice has absorbed all the liquid and both rice and meat are fully cooked. Do not stir during this stage — the steam needs to circulate undisturbed.
 
-8. **Rest and serve.** Remove from heat, rest covered for 5 minutes. Serve directly from the pot, using a wide spoon to scoop through all the layers.
+8. Rest and serve. Remove from heat, rest covered for 5 minutes. Serve directly from the pot, using a wide spoon to scoop through all the layers.
 
 ---
 

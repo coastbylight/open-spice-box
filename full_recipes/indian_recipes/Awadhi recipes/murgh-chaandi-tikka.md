@@ -6,7 +6,7 @@ source_name: Traditional Awadhi Recipe
 cuisine: Awadhi
 course: Starter
 difficulty: Medium
-tags: Awadhi, Lucknow, tandoor, chicken, white marinade, kebab, appetiser, Mughal, silver warq
+tags: indian, Awadhi, Lucknow, tandoor, chicken, white marinade, kebab, appetiser, Mughal, silver warq
 hero_image_prompt: A plate of pale golden chicken tikka pieces, each draped with a thin veil of glistening edible silver leaf, garnished with wisps of green coriander and sliced green chilli, photographed on a dark stone surface with soft directional light catching the shimmer of the warq
 seo_title: Murgh Chaandi Tikka — Awadhi White-Marinated Chicken Tikka Recipe
 meta_description: Awadhi murgh chaandi tikka: chicken breast marinated in hung yogurt, cheese, cream and cardamom, roasted in a tandoor and finished with a silver warq.
@@ -71,17 +71,17 @@ At home without a tandoor, a very hot oven with the grill on at the end achieves
 
 ## Method
 
-1. **Prepare the marinade.** In a bowl, combine the hung yogurt (40 g), grated cheese, cream (30 ml), ginger-garlic paste (15 g), shahi jeera (¼ teaspoon), white pepper (¼ teaspoon), salt (¾ teaspoon), and ground cardamom. Mix until smooth. Add the chicken chunks and turn to coat thoroughly. Cover and refrigerate for at least 2 hours, or up to overnight.
+1. Prepare the marinade. In a bowl, combine the hung yogurt (40 g), grated cheese, cream (30 ml), ginger-garlic paste (15 g), shahi jeera (¼ teaspoon), white pepper (¼ teaspoon), salt (¾ teaspoon), and ground cardamom. Mix until smooth. Add the chicken chunks and turn to coat thoroughly. Cover and refrigerate for at least 2 hours, or up to overnight.
 
-2. **To cook in a tandoor or charcoal grill:** Thread the chicken onto skewers. Cook over intense heat for 10–12 minutes, turning once or twice, until the exterior is pale gold and the chicken is almost cooked through but still slightly undercooked in the centre.
+2. To cook in a tandoor or charcoal grill: Thread the chicken onto skewers. Cook over intense heat for 10–12 minutes, turning once or twice, until the exterior is pale gold and the chicken is almost cooked through but still slightly undercooked in the centre.
 
-3. **To cook in an oven:** Preheat to 240°C (220°C fan). Place the marinated chicken on a wire rack set over a foil-lined tray. Roast for 15 minutes until the exterior is set and beginning to colour.
+3. To cook in an oven: Preheat to 240°C (220°C fan). Place the marinated chicken on a wire rack set over a foil-lined tray. Roast for 15 minutes until the exterior is set and beginning to colour.
 
-4. **Apply the cream (25 ml) finish.** Mix the cream, coriander (15 g), and green chilli. Remove the chicken from the heat momentarily and brush or spoon this mixture generously over each piece. Return to the tandoor or oven — switch to grill if using an oven — and cook for a further 5–7 minutes until the surface is lacquered and lightly burnished at the edges.
+4. Apply the cream (25 ml) finish. Mix the cream, coriander (15 g), and green chilli. Remove the chicken from the heat momentarily and brush or spoon this mixture generously over each piece. Return to the tandoor or oven — switch to grill if using an oven — and cook for a further 5–7 minutes until the surface is lacquered and lightly burnished at the edges.
 
-5. **Rest briefly and apply warq.** Transfer the chicken to a warm serving plate. Squeeze over the lemon juice. If using silver warq, lay a sheet gently over the hot tikka pieces immediately before serving — the residual heat will help it adhere. Handle warq with extreme care; it is delicate.
+5. Rest briefly and apply warq. Transfer the chicken to a warm serving plate. Squeeze over the lemon juice. If using silver warq, lay a sheet gently over the hot tikka pieces immediately before serving — the residual heat will help it adhere. Handle warq with extreme care; it is delicate.
 
-6. **Serve immediately** with raw onion rings, lemon wedges, and a fresh mint chutney alongside.
+6. Serve immediately with raw onion rings, lemon wedges, and a fresh mint chutney alongside.
 
 ---
 

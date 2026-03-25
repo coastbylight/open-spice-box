@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: South Indian (Karnataka)
 course: Snack
 difficulty: Easy
-tags: [karnataka, south india, snack, urad dal, fried, bonda, mysore, vegetarian, gluten free, street food]
+tags: comfort food, [indian, karnataka, south india, snack, urad dal, fried, bonda, mysore, vegetarian, gluten free, street food]
 hero_image_prompt: A cluster of golden mysore bondas heaped in a stainless steel plate, surfaces blistered and deeply golden-brown, irregular and puffed, a small steel cup of coconut chutney alongside, warm ambient light from above
 seo_title: Mysore Bonda Recipe — Crispy Urad Dal Dumplings from Karnataka
 meta_description: Mysore bonda: the classic South Karnataka deep-fried urad dal dumpling. Pillowy inside, golden outside. Served at Mysore coffee houses for generations. Traditional recipe with technique notes.

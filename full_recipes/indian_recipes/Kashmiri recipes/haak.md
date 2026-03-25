@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main / Side
 difficulty: Easy
-tags: [kashmiri-pandit, vegetarian, greens, saag, collard-greens, mustard-oil, no-onion, no-garlic, everyday]
+tags: [indian, kashmiri-pandit, vegetarian, greens, saag, collard-greens, mustard-oil, no-onion, no-garlic, everyday]
 hero_image_prompt: A wide shallow copper vessel filled with dark, glossy braised greens in a thin, rust-colored broth, the leaves tender and collapsed, a slick of golden mustard oil visible at the surface, dried lentil dumplings tucked among the greens, set on a worn stone surface with a small bowl of steamed rice nearby
 seo_title: Haak — The Essential Kashmiri Pandit Braised Greens
 meta_description: Haak is the most elemental dish of the Kashmiri Pandit kitchen — collard greens or saag cooked in smoking mustard oil with asafoetida and minimal spices. No onion, no garlic. Pure and grounding.

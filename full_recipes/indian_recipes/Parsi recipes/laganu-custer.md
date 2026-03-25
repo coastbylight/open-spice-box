@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Medium
-tags: Parsi, custard, baked, khoya, cardamom, rose water, Zoroastrian, dessert, celebration
+tags: indian, Parsi, custard, baked, khoya, cardamom, rose water, Zoroastrian, dessert, celebration
 hero_image_prompt: A golden-brown Parsi custard in a round baking dish, its surface baked to a warm bronze with a slight wobble in the centre, garnished with slivered almonds and cashewnuts, photographed from above on a dark marble surface
 seo_title: Laganu Custer — Parsi Baked Bread and Khoya Custard
 meta_description: Laganu custer: a traditional Parsi baked custard of milk, bread, khoya, eggs, cream, cardamom, mace, and rose water — a celebration dessert from Zoroastrian cuisine.
@@ -58,17 +58,17 @@ What results is a dense, slightly firm custard. Less silky than a French crème 
 
 ## Method
 
-1. **Reduce the milk.** Place the milk and sugar (200 g) in a heavy pot over medium-low heat. Simmer, stirring occasionally, for 20–25 minutes until reduced by roughly half and thickened slightly.
+1. Reduce the milk. Place the milk and sugar (200 g) in a heavy pot over medium-low heat. Simmer, stirring occasionally, for 20–25 minutes until reduced by roughly half and thickened slightly.
 
-2. **Soak the bread (2 slices).** Tear the bread into pieces and soak in the cream (200 ml) until completely saturated, about 5 minutes. Add the cream-soaked bread to the reduced milk and stir well, cooking for another 5 minutes until the bread has broken down and the mixture has thickened. Remove from heat and cool to room temperature.
+2. Soak the bread (2 slices). Tear the bread into pieces and soak in the cream (200 ml) until completely saturated, about 5 minutes. Add the cream-soaked bread to the reduced milk and stir well, cooking for another 5 minutes until the bread has broken down and the mixture has thickened. Remove from heat and cool to room temperature.
 
-3. **Preheat oven** to 175°C (155°C fan).
+3. Preheat oven to 175°C (155°C fan).
 
-4. **Add eggs (3) and aromatics.** Stir the beaten eggs into the cooled milk mixture. Cool is essential, or the eggs will scramble. Add the butter (20 g), vanilla, rose water (2 ml), cardamom (¼ teaspoon), and mace (¼ teaspoon). Mix well.
+4. Add eggs (3) and aromatics. Stir the beaten eggs into the cooled milk mixture. Cool is essential, or the eggs will scramble. Add the butter (20 g), vanilla, rose water (2 ml), cardamom (¼ teaspoon), and mace (¼ teaspoon). Mix well.
 
-5. **Bake.** Pour into a buttered baking dish. Scatter the chopped nuts over the top. Bake for 25–30 minutes until the top is golden brown and the custard is just set. It should have a very slight wobble in the centre.
+5. Bake. Pour into a buttered baking dish. Scatter the chopped nuts over the top. Bake for 25–30 minutes until the top is golden brown and the custard is just set. It should have a very slight wobble in the centre.
 
-6. **Cool** to room temperature before serving, or serve slightly warm.
+6. Cool to room temperature before serving, or serve slightly warm.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Sauce
 difficulty: Medium
-tags: Rajasthani, sauce, base, yellow gravy, cashew, yoghurt, besan, vegetarian, gluten-free, mild
+tags: indian, Rajasthani, sauce, base, yellow gravy, cashew, yoghurt, besan, vegetarian, gluten-free, mild
 hero_image_prompt: A small steel pot of yellow gravy, the sauce a vivid golden yellow from turmeric, smooth and slightly glossy, with a slow bubble breaking the surface, on a worn stone counter with warm natural light
 seo_title: Yellow Gravy Recipe — Rajasthani Golden Onion, Cashew, and Yoghurt Sauce Base
 meta_description: Rajasthani yellow gravy: a golden, mildly spiced sauce of fried onion, cashew paste, yoghurt and besan thickened together, strained to a smooth, versatile base for vegetarian preparations.
@@ -62,25 +62,25 @@ The finished gravy is mild, fragrant, slightly nutty, and entirely versatile. Ma
 
 ## Method
 
-1. **Make cashew paste (35 g).** Soak 35 g of raw cashews in enough hot water to cover for 20 minutes. Drain, then blend with just enough fresh cold water to get the blender moving, to a completely smooth paste with no graininess. Set aside.
+1. Make cashew paste (35 g). Soak 35 g of raw cashews in enough hot water to cover for 20 minutes. Drain, then blend with just enough fresh cold water to get the blender moving, to a completely smooth paste with no graininess. Set aside.
 
-2. **Make the yoghurt-besan mixture.** Whisk the besan (17 g) into the beaten yoghurt (65 g) until completely smooth. No lumps. Set aside.
+2. Make the yoghurt-besan mixture. Whisk the besan (17 g) into the beaten yoghurt (65 g) until completely smooth. No lumps. Set aside.
 
-3. **Bloom and remove whole spices.** Heat the oil in a wide, heavy-based pot over medium heat. Add the whole garam masala (2 g): cinnamon, cardamom, cloves, and bay leaf. Stir for 30–45 seconds until fragrant. Using a slotted spoon, remove and discard all the whole spices. Leave the spice-flavoured oil in the pan.
+3. Bloom and remove whole spices. Heat the oil in a wide, heavy-based pot over medium heat. Add the whole garam masala (2 g): cinnamon, cardamom, cloves, and bay leaf. Stir for 30–45 seconds until fragrant. Using a slotted spoon, remove and discard all the whole spices. Leave the spice-flavoured oil in the pan.
 
-4. **Cook the onions.** Add the sliced onions to the spiced oil. Cook over medium heat, stirring regularly, for 8–10 minutes until the onions are fully softened and translucent but not golden. The moment they begin to colour, the finished gravy will turn from golden to brown.
+4. Cook the onions. Add the sliced onions to the spiced oil. Cook over medium heat, stirring regularly, for 8–10 minutes until the onions are fully softened and translucent but not golden. The moment they begin to colour, the finished gravy will turn from golden to brown.
 
-5. **Add ginger-garlic and spices.** Add the ginger-garlic paste (17 g) and stir for 1–2 minutes. Add the turmeric (¼ teaspoon), roasted cumin powder (¾ teaspoon), coriander powder (1 teaspoon), and salt (¾ teaspoon). Stir for 1 minute.
+5. Add ginger-garlic and spices. Add the ginger-garlic paste (17 g) and stir for 1–2 minutes. Add the turmeric (¼ teaspoon), roasted cumin powder (¾ teaspoon), coriander powder (1 teaspoon), and salt (¾ teaspoon). Stir for 1 minute.
 
-6. **Add cashew paste.** Add the cashew paste and stir well. Cook for 3–4 minutes, stirring constantly, until the fat begins to separate slightly from the paste.
+6. Add cashew paste. Add the cashew paste and stir well. Cook for 3–4 minutes, stirring constantly, until the fat begins to separate slightly from the paste.
 
-7. **Add the yoghurt-besan mixture.** Remove the pan from the heat momentarily. Add the yoghurt-besan mixture and stir immediately. Return to low heat. Cook, stirring constantly, for 8–10 minutes until the mixture thickens and the besan smell has cooked out. The raw grain smell should be gone and the gravy should smell fragrant and slightly nutty. The oil will eventually begin to separate and appear at the edges.
+7. Add the yoghurt-besan mixture. Remove the pan from the heat momentarily. Add the yoghurt-besan mixture and stir immediately. Return to low heat. Cook, stirring constantly, for 8–10 minutes until the mixture thickens and the besan smell has cooked out. The raw grain smell should be gone and the gravy should smell fragrant and slightly nutty. The oil will eventually begin to separate and appear at the edges.
 
-8. **Strain.** Pass the gravy through a fine-mesh sieve or strainer, pressing firmly to extract all the liquid. Reserve the strained solids.
+8. Strain. Pass the gravy through a fine-mesh sieve or strainer, pressing firmly to extract all the liquid. Reserve the strained solids.
 
-9. **Blend and re-strain the solids.** Transfer the pressed solids to a blender. Add 100–150 ml of water and blend until completely smooth. Pass this purée through the same sieve into the strained gravy, pressing to extract as much as possible. Discard only the fibre that cannot be pushed through.
+9. Blend and re-strain the solids. Transfer the pressed solids to a blender. Add 100–150 ml of water and blend until completely smooth. Pass this purée through the same sieve into the strained gravy, pressing to extract as much as possible. Discard only the fibre that cannot be pushed through.
 
-10. **Final heat.** Return the combined gravy to the pot. Heat gently for 5 minutes, stirring. Taste and adjust salt. The finished gravy should be smooth, pale golden-yellow, and thick enough to coat a spoon. Store or use immediately.
+10. Final heat. Return the combined gravy to the pot. Heat gently for 5 minutes, stirring. Taste and adjust salt. The finished gravy should be smooth, pale golden-yellow, and thick enough to coat a spoon. Store or use immediately.
 
 ---
 

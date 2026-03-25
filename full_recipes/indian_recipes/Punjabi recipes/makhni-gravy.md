@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Sauce
 difficulty: Easy
-tags: Punjabi, sauce, base, tomato, butter, cream, makhni, restaurant-style, gluten-free, vegetarian
+tags: indian, Punjabi, sauce, base, tomato, butter, cream, makhni, restaurant-style, gluten-free, vegetarian
 hero_image_prompt: A small saucepan of deep, rust-orange makhni gravy, smooth and glossy, a ribbon of cream just swirled in and not yet mixed, with a knob of butter melting on the surface, warm kitchen light from the side
 seo_title: Makhni Gravy Recipe — Authentic Punjabi Tomato Butter Sauce Base
 meta_description: The foundational Punjabi makhni gravy: tomatoes slow-cooked with whole spices and ginger-garlic, strained to a velvety sauce, finished with butter, cream, and kasoori methi.
@@ -65,17 +65,17 @@ This recipe makes a batch of the basic gravy to be used as the base in makhni pr
 
 ## Method
 
-1. **Cook the tomatoes (700 g).** Place the roughly chopped tomatoes in a heavy-based pot. Add 500 ml of water, the ginger (3 g) paste (5 g), garlic paste (5 g), chopped green chillies (2), and whole cloves (3–4) and green cardamom. Bring to a boil over high heat, then reduce to a steady simmer. Cook uncovered for 20–25 minutes, stirring occasionally, until the tomatoes have completely collapsed and the mixture has reduced to a thick, pulpy sauce. The liquid should have reduced by roughly half.
+1. Cook the tomatoes (700 g). Place the roughly chopped tomatoes in a heavy-based pot. Add 500 ml of water, the ginger (3 g) paste (5 g), garlic paste (5 g), chopped green chillies (2), and whole cloves (3–4) and green cardamom. Bring to a boil over high heat, then reduce to a steady simmer. Cook uncovered for 20–25 minutes, stirring occasionally, until the tomatoes have completely collapsed and the mixture has reduced to a thick, pulpy sauce. The liquid should have reduced by roughly half.
 
-2. **Strain.** Pass the cooked tomato mixture through a fine-mesh sieve or a food mill, pressing firmly to extract all the liquid and pulp. Discard the skins, seeds, and whole spices. The strained sauce should be smooth and deeply coloured.
+2. Strain. Pass the cooked tomato mixture through a fine-mesh sieve or a food mill, pressing firmly to extract all the liquid and pulp. Discard the skins, seeds, and whole spices. The strained sauce should be smooth and deeply coloured.
 
-3. **Reduce.** Return the strained sauce to the pot over medium heat. Bring to a boil and cook, stirring regularly, until it has reduced to your preferred consistency; the sauce should coat a spoon thickly and hold a line when you draw your finger through. This takes another 8–10 minutes.
+3. Reduce. Return the strained sauce to the pot over medium heat. Bring to a boil and cook, stirring regularly, until it has reduced to your preferred consistency; the sauce should coat a spoon thickly and hold a line when you draw your finger through. This takes another 8–10 minutes.
 
-4. **Season and finish.** Reduce the heat to low. Add the salt (½ teaspoon) and red chilli powder (½ teaspoon). Stir in the butter (35 g) in pieces, swirling or stirring until fully melted and incorporated. Add the cream (2 tablespoons) and stir through. Rub the kasoori methi (½ teaspoon) between your palms and add; the heat of your hands releases its aroma before it goes into the pot.
+4. Season and finish. Reduce the heat to low. Add the salt (½ teaspoon) and red chilli powder (½ teaspoon). Stir in the butter (35 g) in pieces, swirling or stirring until fully melted and incorporated. Add the cream (2 tablespoons) and stir through. Rub the kasoori methi (½ teaspoon) between your palms and add; the heat of your hands releases its aroma before it goes into the pot.
 
-5. **Taste and correct.** Taste the gravy. It should be rich, slightly sweet from the tomatoes, with a clean tomato flavour and the warm finish of butter. If it tastes sharp or sour, add the honey (1 teaspoon) and stir through. If it tastes flat, add a small pinch more salt.
+5. Taste and correct. Taste the gravy. It should be rich, slightly sweet from the tomatoes, with a clean tomato flavour and the warm finish of butter. If it tastes sharp or sour, add the honey (1 teaspoon) and stir through. If it tastes flat, add a small pinch more salt.
 
-6. **Finish and store (or use immediately).** The makhni gravy is now ready to use. Finish with the ginger julienne and slit green chillies if using it immediately as a finished dish. If storing for later use, allow to cool completely before refrigerating or freezing; add the julienne and chillies only when using.
+6. Finish and store (or use immediately). The makhni gravy is now ready to use. Finish with the ginger julienne and slit green chillies if using it immediately as a finished dish. If storing for later use, allow to cool completely before refrigerating or freezing; add the julienne and chillies only when using.
 
 ---
 

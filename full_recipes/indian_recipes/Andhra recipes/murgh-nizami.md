@@ -6,7 +6,7 @@ source_name: Traditional Hyderabadi Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Medium
-tags: Hyderabadi, Andhra, chicken, nuts, coconut, yogurt, Mughal, gluten-free, Deccan
+tags: indian, Hyderabadi, Andhra, chicken, nuts, coconut, yogurt, Mughal, gluten-free, Deccan
 hero_image_prompt: A wide karahi of murgh nizami, bone-in chicken pieces coated in a thick, golden-brown sauce studded with fragments of pounded peanut and fried coconut, garnished with a scatter of fresh coriander and mint, photographed from above on a worn wooden surface in warm side light
 seo_title: Murgh Nizami — Hyderabadi Chicken with Nuts, Seeds, and Fried Coconut
 meta_description: Murgh Nizami: Hyderabadi chicken cooked in a thick sauce of crushed peanuts, sesame, sunflower seeds, and deep-fried coconut, finished with yogurt and fresh herbs.
@@ -66,17 +66,17 @@ The method is straightforward but requires patience at two points: the yogurt mu
 
 ## Method
 
-1. **Fry the coconut (50 g).** In a small pan, heat enough oil to shallow-fry the grated coconut. Fry over medium-high heat, stirring frequently, until deep golden — it should be uniformly toasted and smell nutty, not burnt. Drain on kitchen paper and set aside.
+1. Fry the coconut (50 g). In a small pan, heat enough oil to shallow-fry the grated coconut. Fry over medium-high heat, stirring frequently, until deep golden — it should be uniformly toasted and smell nutty, not burnt. Drain on kitchen paper and set aside.
 
-2. **Build the onion (100 g) base.** Heat the ghee (100 g) in a heavy pot or handi over medium heat. Add the chopped onion and cook, stirring, for 12–15 minutes until a deep golden brown. Add the ginger paste (50 g) and garlic paste (50 g), stir for 2 minutes, then add the green chillies (2–3 chillies) and turmeric (½ teaspoon). Cook for another 2 minutes.
+2. Build the onion (100 g) base. Heat the ghee (100 g) in a heavy pot or handi over medium heat. Add the chopped onion and cook, stirring, for 12–15 minutes until a deep golden brown. Add the ginger paste (50 g) and garlic paste (50 g), stir for 2 minutes, then add the green chillies (2–3 chillies) and turmeric (½ teaspoon). Cook for another 2 minutes.
 
-3. **Add the nuts and seeds.** Add the crushed peanuts (30 g), sesame seeds (10 g), sunflower seeds (10 g), and fried coconut. Stir everything together and fry for 3–4 minutes, until the nuts are fragrant and beginning to darken slightly.
+3. Add the nuts and seeds. Add the crushed peanuts (30 g), sesame seeds (10 g), sunflower seeds (10 g), and fried coconut. Stir everything together and fry for 3–4 minutes, until the nuts are fragrant and beginning to darken slightly.
 
-4. **Cook the yogurt.** Increase the heat to high. Add the whisked yogurt in one go and stir vigorously and constantly — cooking on high heat prevents the yogurt from splitting. Continue stirring and cooking for 8–10 minutes until the yogurt is fully incorporated, the rawness is gone, and the ghee visibly separates and rises to the surface. This separation signals the masala is properly cooked.
+4. Cook the yogurt. Increase the heat to high. Add the whisked yogurt in one go and stir vigorously and constantly — cooking on high heat prevents the yogurt from splitting. Continue stirring and cooking for 8–10 minutes until the yogurt is fully incorporated, the rawness is gone, and the ghee visibly separates and rises to the surface. This separation signals the masala is properly cooked.
 
-5. **Add chicken (800 g) and simmer.** Add the chicken pieces and salt (2 teaspoons). Stir to coat well. Pour in enough hot water to just cover the chicken (about 200–250 ml). Bring to a boil, then reduce heat, cover, and simmer for 25–30 minutes until the chicken is completely tender and cooked through, the sauce has thickened, and the ghee has risen again.
+5. Add chicken (800 g) and simmer. Add the chicken pieces and salt (2 teaspoons). Stir to coat well. Pour in enough hot water to just cover the chicken (about 200–250 ml). Bring to a boil, then reduce heat, cover, and simmer for 25–30 minutes until the chicken is completely tender and cooked through, the sauce has thickened, and the ghee has risen again.
 
-6. **Finish.** Sprinkle over the garam masala (2 teaspoons) and lemon juice (1 large lemon). Stir through the fresh coriander (20 g) and mint (20 g). Taste and adjust salt. Serve immediately.
+6. Finish. Sprinkle over the garam masala (2 teaspoons) and lemon juice (1 large lemon). Stir through the fresh coriander (20 g) and mint (20 g). Taste and adjust salt. Serve immediately.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Involved
-tags: Goan, dessert, coconut, jaggery, rice flour, festive, Christmas, stirred, confection
+tags: indian, Goan, dessert, coconut, jaggery, rice flour, festive, Christmas, stirred, confection
 hero_image_prompt: Thick dark-brown squares of dodol arranged on a tray lined with banana leaf, the surface gleaming with a faint oily sheen, scattered whole and halved cashew nuts visible within each piece, natural light from a high Goan window casting warm amber tones across the scene
 seo_title: Dodol Recipe — Goa's Traditional Christmas Coconut and Palm Jaggery Sweet
 meta_description: Dodol is the Goan Christmas confection made from coconut milk, palm jaggery and rice flour — stirred for hours until dense, glossy and pulling from the sides. The full recipe with technique notes and variations.
@@ -59,23 +59,23 @@ This is not a recipe for a rushed afternoon. It rewards a clear morning, a stron
 
 ## Method
 
-1. **Extract the coconut milk.** Grate the fresh coconut. Place the grated coconut in a muslin cloth or fine strainer, add 150 ml warm water, squeeze and press to extract the first pressing (the thick milk). Set aside. Return the pressed coconut to the cloth, add 600 ml water, squeeze again for the thin milk. You should have approximately 600–700 ml thick milk and 1 litre thin milk.
+1. Extract the coconut milk. Grate the fresh coconut. Place the grated coconut in a muslin cloth or fine strainer, add 150 ml warm water, squeeze and press to extract the first pressing (the thick milk). Set aside. Return the pressed coconut to the cloth, add 600 ml water, squeeze again for the thin milk. You should have approximately 600–700 ml thick milk and 1 litre thin milk.
 
-2. **Make the flour mixture.** In a heavy-bottomed, large, deep pan, whisk together the rice flour (500 g) and the thin coconut milk until fully combined with no lumps. This is your base.
+2. Make the flour mixture. In a heavy-bottomed, large, deep pan, whisk together the rice flour (500 g) and the thin coconut milk until fully combined with no lumps. This is your base.
 
-3. **Begin cooking.** Place the pan over medium heat. Begin stirring immediately, using a long-handled wooden spoon or paddle. Do not stop. As the mixture heats, it will begin to thicken. Within 5–8 minutes it will go from liquid to a thick, uniform porridge. Keep stirring: the bottom and edges will catch if neglected.
+3. Begin cooking. Place the pan over medium heat. Begin stirring immediately, using a long-handled wooden spoon or paddle. Do not stop. As the mixture heats, it will begin to thicken. Within 5–8 minutes it will go from liquid to a thick, uniform porridge. Keep stirring: the bottom and edges will catch if neglected.
 
-4. **Add the jaggery.** Once the mixture has thickened to a smooth porridge, add the palm jaggery (2 kg). Stir continuously as the jaggery melts and incorporates. The mixture will loosen slightly as the jaggery dissolves, then begin to thicken again. The colour will shift from pale to dark brown. Watch it deepen with each passing minute.
+4. Add the jaggery. Once the mixture has thickened to a smooth porridge, add the palm jaggery (2 kg). Stir continuously as the jaggery melts and incorporates. The mixture will loosen slightly as the jaggery dissolves, then begin to thicken again. The colour will shift from pale to dark brown. Watch it deepen with each passing minute.
 
-5. **Add the thick coconut milk.** About 5 minutes after the jaggery is fully incorporated, pour in the thick coconut milk in a slow, steady stream, stirring all the while. The mixture will again loosen momentarily, then begin the long process of reducing and thickening again.
+5. Add the thick coconut milk. About 5 minutes after the jaggery is fully incorporated, pour in the thick coconut milk in a slow, steady stream, stirring all the while. The mixture will again loosen momentarily, then begin the long process of reducing and thickening again.
 
-6. **Add the cashews.** After 5 minutes of stirring with the thick milk incorporated, add the chopped cashews. Continue stirring.
+6. Add the cashews. After 5 minutes of stirring with the thick milk incorporated, add the chopped cashews. Continue stirring.
 
-7. **The long stir.** This is the heart of the recipe. Continue stirring continuously over medium heat for 1.5 to 2 hours. You are looking for two signs that the dodol is ready: first, the mixture will begin to pull away from the sides and bottom of the pan cleanly as you stir (you will hear a different, slightly sucking sound as the paddle moves); second, small droplets of oil will begin to appear and pool at the surface and edges of the mixture. These are fats released from the coconut milk as the water evaporates. Both signs together mean the dodol is done. Reduce heat to low in the final 20 minutes to avoid scorching the base.
+7. The long stir. This is the heart of the recipe. Continue stirring continuously over medium heat for 1.5 to 2 hours. You are looking for two signs that the dodol is ready: first, the mixture will begin to pull away from the sides and bottom of the pan cleanly as you stir (you will hear a different, slightly sucking sound as the paddle moves); second, small droplets of oil will begin to appear and pool at the surface and edges of the mixture. These are fats released from the coconut milk as the water evaporates. Both signs together mean the dodol is done. Reduce heat to low in the final 20 minutes to avoid scorching the base.
 
-8. **Pour and set.** Lightly grease a flat tray or baking dish with coconut oil. Pour the hot dodol in and spread to an even layer approximately 2.5–3 cm thick. Do not refrigerate. Allow to cool completely at room temperature, at least 4 hours, preferably overnight.
+8. Pour and set. Lightly grease a flat tray or baking dish with coconut oil. Pour the hot dodol in and spread to an even layer approximately 2.5–3 cm thick. Do not refrigerate. Allow to cool completely at room temperature, at least 4 hours, preferably overnight.
 
-9. **Cut.** Once set, the dodol will be firm but yielding. Cut into squares or diamond shapes with a lightly oiled knife. The pieces should hold their shape cleanly.
+9. Cut. Once set, the dodol will be firm but yielding. Cut into squares or diamond shapes with a lightly oiled knife. The pieces should hold their shape cleanly.
 
 ---
 

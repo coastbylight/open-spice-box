@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Medium
-tags: Goan, chicken, coriander, green masala, African-influenced, grill, pan-fry, Catholic Goan, gluten-free
+tags: indian, Goan, chicken, coriander, green masala, African-influenced, grill, pan-fry, Catholic Goan, gluten-free
 hero_image_prompt: Two charred, deeply green chicken pieces on a cast-iron grill pan, the exterior darkened with char marks and glistening, the vivid green of the cafreal paste visible through the sear marks, served with a quartered lime and a small bowl of chilli sauce, shot close on a slate surface with strong directional light
 seo_title: Galinha Cafreal Recipe — Goan Green Spice Chicken from the African Tradition
 meta_description: Galinha cafreal: Goan chicken marinated overnight in a vivid green coriander and chilli paste, grilled or pan-fried until charred and fragrant. A rare dish with African roots.
@@ -70,17 +70,17 @@ Marinate overnight, at minimum four hours. The coriander's volatile aromatics pe
 
 ## Method
 
-1. **Make the cafreal paste.** Combine the coriander, ginger (30 g), garlic, green chillies (4 chillies), turmeric (1 teaspoon), garam masala (¾ teaspoon), lemon juice (1½ tablespoons), and salt (2 teaspoons) in a blender. Add 2–3 tablespoons of water — just enough to help the blades catch the mixture. Blend to a completely smooth, vibrant green paste. The paste should be thick and deeply fragrant. You should be able to smell the coriander and raw garlic together, sharp and herbal, before you've even opened the blender lid. Taste the paste: it should be well-seasoned, bright with lemon, and noticeably hot from the green chillies.
+1. Make the cafreal paste. Combine the coriander, ginger (30 g), garlic, green chillies (4 chillies), turmeric (1 teaspoon), garam masala (¾ teaspoon), lemon juice (1½ tablespoons), and salt (2 teaspoons) in a blender. Add 2–3 tablespoons of water — just enough to help the blades catch the mixture. Blend to a completely smooth, vibrant green paste. The paste should be thick and deeply fragrant. You should be able to smell the coriander and raw garlic together, sharp and herbal, before you've even opened the blender lid. Taste the paste: it should be well-seasoned, bright with lemon, and noticeably hot from the green chillies.
 
-2. **Score and marinate the chicken (1 kg).** Using a sharp knife, make 3–4 deep diagonal scores through the skin and into the flesh on each chicken piece. This allows the paste to penetrate past the surface into the meat. Coat the chicken thoroughly with the green paste, working it into the scored cuts and under the skin where possible. Place in a covered container and refrigerate for at least 4 hours, ideally overnight. The chicken will turn a deep, vibrant green.
+2. Score and marinate the chicken (1 kg). Using a sharp knife, make 3–4 deep diagonal scores through the skin and into the flesh on each chicken piece. This allows the paste to penetrate past the surface into the meat. Coat the chicken thoroughly with the green paste, working it into the scored cuts and under the skin where possible. Place in a covered container and refrigerate for at least 4 hours, ideally overnight. The chicken will turn a deep, vibrant green.
 
-3. **Bring to temperature.** Remove the chicken from the refrigerator 30 minutes before cooking. Cold chicken placed directly in a hot pan dramatically extends cooking time and produces uneven results, with the exterior overcooked before the interior reaches temperature.
+3. Bring to temperature. Remove the chicken from the refrigerator 30 minutes before cooking. Cold chicken placed directly in a hot pan dramatically extends cooking time and produces uneven results, with the exterior overcooked before the interior reaches temperature.
 
-4. **Cook — grill method.** Heat a grill pan or barbecue grill to high. Brush or spray the grill with a little oil. Place the chicken pieces skin-side down. Cook without moving for 6–8 minutes until the first side is deeply charred with visible grill marks and the paste has caramelised. Turn and cook for a further 6–8 minutes. For thicker pieces (whole thighs, drumsticks), reduce heat to medium after charring and continue cooking, turning occasionally, until cooked through. The juices should run clear when the thickest part is pierced.
+4. Cook — grill method. Heat a grill pan or barbecue grill to high. Brush or spray the grill with a little oil. Place the chicken pieces skin-side down. Cook without moving for 6–8 minutes until the first side is deeply charred with visible grill marks and the paste has caramelised. Turn and cook for a further 6–8 minutes. For thicker pieces (whole thighs, drumsticks), reduce heat to medium after charring and continue cooking, turning occasionally, until cooked through. The juices should run clear when the thickest part is pierced.
 
-4. **Cook — pan-fry method.** Heat the oil in a large, heavy frying pan or cast-iron skillet over medium-high heat. When the oil shimmers and begins to smoke very slightly, add the chicken pieces skin-side down. Do not crowd the pan. Work in two batches if necessary. Cook for 6–8 minutes without moving until a deep, dark crust forms. Turn and cook for 6–8 minutes on the other side. Reduce heat to medium, cover with a lid, and cook for a further 8–10 minutes until fully cooked through.
+4. Cook — pan-fry method. Heat the oil in a large, heavy frying pan or cast-iron skillet over medium-high heat. When the oil shimmers and begins to smoke very slightly, add the chicken pieces skin-side down. Do not crowd the pan. Work in two batches if necessary. Cook for 6–8 minutes without moving until a deep, dark crust forms. Turn and cook for 6–8 minutes on the other side. Reduce heat to medium, cover with a lid, and cook for a further 8–10 minutes until fully cooked through.
 
-5. **Rest and serve.** Allow the chicken to rest for 5 minutes before serving. This allows the juices to redistribute and the paste coating to settle slightly. Serve with lemon wedges and chilli sauce alongside.
+5. Rest and serve. Allow the chicken to rest for 5 minutes before serving. This allows the juices to redistribute and the paste coating to settle slightly. Serve with lemon wedges and chilli sauce alongside.
 
 ---
 

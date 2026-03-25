@@ -67,17 +67,17 @@ Smoking the mustard oil before using it is a traditional technique that removes 
 
 ## Method
 
-1. **Marinate the fish.** Combine all marinade ingredients with the fish. Toss to coat thoroughly. Leave for 30 minutes.
+1. Marinate the fish. Combine all marinade ingredients with the fish. Toss to coat thoroughly. Leave for 30 minutes.
 
-2. **Smoke the mustard oil (200 ml).** Heat the mustard oil in a wide pan until it begins to smoke. Remove from heat and let cool for 2 minutes. This removes the raw pungency.
+2. Smoke the mustard oil (200 ml). Heat the mustard oil in a wide pan until it begins to smoke. Remove from heat and let cool for 2 minutes. This removes the raw pungency.
 
-3. **Deep-fry the fish.** Return the oil to high heat. Deep-fry the besan-coated fish pieces until golden and crisp, about 4–5 minutes. Drain on kitchen paper. Set aside.
+3. Deep-fry the fish. Return the oil to high heat. Deep-fry the besan-coated fish pieces until golden and crisp, about 4–5 minutes. Drain on kitchen paper. Set aside.
 
-4. **Make the curry.** In 3 tablespoons of the same oil, add the ajwain (10 g) seeds. Stir for 30 seconds. Add the chopped onions (300 g) and fry over medium heat to golden brown, about 12 minutes. Add ginger (15 g), garlic (10 g), and green chillies (10 g). Stir for 2 minutes. Add Kashmiri chilli powder (15 g) and salt dissolved in a little water. Add chopped tomatoes (200 g) and cook until oil surfaces, about 8 minutes.
+4. Make the curry. In 3 tablespoons of the same oil, add the ajwain (10 g) seeds. Stir for 30 seconds. Add the chopped onions (300 g) and fry over medium heat to golden brown, about 12 minutes. Add ginger (15 g), garlic (10 g), and green chillies (10 g). Stir for 2 minutes. Add Kashmiri chilli powder (15 g) and salt dissolved in a little water. Add chopped tomatoes (200 g) and cook until oil surfaces, about 8 minutes.
 
-5. **Add fish and simmer.** Add the fried fish pieces to the masala. Pour in enough hot water to cover (about 300 ml). Bring to a boil, then simmer for 15–20 minutes until the gravy is thick and the fish has absorbed the masala. Adjust seasoning.
+5. Add fish and simmer. Add the fried fish pieces to the masala. Pour in enough hot water to cover (about 300 ml). Bring to a boil, then simmer for 15–20 minutes until the gravy is thick and the fish has absorbed the masala. Adjust seasoning.
 
-6. **Serve** with rice or chapatti.
+6. Serve with rice or chapatti.
 
 ---
 

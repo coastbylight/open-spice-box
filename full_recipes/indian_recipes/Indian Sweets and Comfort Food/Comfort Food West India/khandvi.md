@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Gujarati
 course: Snack
 difficulty: Involved
-tags: Gujarat, snack, besan, buttermilk, rolled, gluten-free, vegetarian, tea-time
+tags: comfort food, indian, Gujarat, snack, besan, buttermilk, rolled, gluten-free, vegetarian, tea-time
 hero_image_prompt: Small neat khandvi rolls arranged on a white plate, pale yellow and tightly wound, scattered with bright green coriander, white sesame seeds, and a few curry leaves, photographed from slightly above with clean natural window light
 seo_title: Khandvi Recipe — How to Make Perfect Gujarati Rolled Chickpea Snacks
 meta_description: Khandvi: Gujarat's silky besan and buttermilk snack rolled into delicate cylinders and tempered with mustard, sesame, and curry leaves. Technique-focused recipe.
@@ -68,23 +68,23 @@ Khandvi is a tea-time food, a hospitality food. The thing you make to demonstrat
 
 ## Method
 
-1. **Prepare your surfaces.** Before beginning the batter, lightly grease 3–4 large flat surfaces: the backs of baking trays, large flat plates, a clean marble slab, or a laminate worktop. Have a palette knife or thin flat spatula ready. Speed matters when spreading the cooked batter, so everything must be organised in advance.
+1. Prepare your surfaces. Before beginning the batter, lightly grease 3–4 large flat surfaces: the backs of baking trays, large flat plates, a clean marble slab, or a laminate worktop. Have a palette knife or thin flat spatula ready. Speed matters when spreading the cooked batter, so everything must be organised in advance.
 
-2. **Make the batter.** Whisk together the besan and buttermilk (500 ml) until absolutely smooth, with no lumps at all. Whisk vigorously, or blitz briefly in a blender. Add turmeric (1 tsp), ginger paste (1 tsp), and salt (½ tsp). Mix again. The batter should be fluid and thin at this stage, like a thin pancake batter.
+2. Make the batter. Whisk together the besan and buttermilk (500 ml) until absolutely smooth, with no lumps at all. Whisk vigorously, or blitz briefly in a blender. Add turmeric (1 tsp), ginger paste (1 tsp), and salt (½ tsp). Mix again. The batter should be fluid and thin at this stage, like a thin pancake batter.
 
-3. **Cook the batter.** Pour the batter into a heavy-bottomed pan (non-stick is helpful). Cook over medium heat, stirring continuously and vigorously with a wooden spoon or whisk. Do not stop stirring. The mixture will stick and burn if left unattended. As it heats, it will begin to thicken, slowly at first, then more rapidly.
+3. Cook the batter. Pour the batter into a heavy-bottomed pan (non-stick is helpful). Cook over medium heat, stirring continuously and vigorously with a wooden spoon or whisk. Do not stop stirring. The mixture will stick and burn if left unattended. As it heats, it will begin to thicken, slowly at first, then more rapidly.
 
-4. **Test for readiness.** After 8–10 minutes, the mixture will be very thick and will pull away from the sides of the pan. Test: spread a small amount (about a teaspoon) on one of your greased surfaces and wait 30 seconds. Try to peel it up. If it tears, cook for another 2 minutes and test again. If it comes up cleanly and holds its shape, the batter is ready.
+4. Test for readiness. After 8–10 minutes, the mixture will be very thick and will pull away from the sides of the pan. Test: spread a small amount (about a teaspoon) on one of your greased surfaces and wait 30 seconds. Try to peel it up. If it tears, cook for another 2 minutes and test again. If it comes up cleanly and holds its shape, the batter is ready.
 
-5. **Spread immediately.** Working quickly (the batter sets fast as it cools), spread thin layers of the batter on your prepared surfaces using a palette knife or the back of a spoon. Each layer should be about 2–3 mm thick, spread as evenly and as thin as possible. Work in wide, sweeping strokes. You are aiming for a thin, even sheet.
+5. Spread immediately. Working quickly (the batter sets fast as it cools), spread thin layers of the batter on your prepared surfaces using a palette knife or the back of a spoon. Each layer should be about 2–3 mm thick, spread as evenly and as thin as possible. Work in wide, sweeping strokes. You are aiming for a thin, even sheet.
 
-6. **Cool briefly.** Allow the spread batter to cool for 2–3 minutes. It should be firm to the touch and no longer sticky. If it feels wet or sticky, wait another minute.
+6. Cool briefly. Allow the spread batter to cool for 2–3 minutes. It should be firm to the touch and no longer sticky. If it feels wet or sticky, wait another minute.
 
-7. **Cut and roll.** Use a knife or pizza cutter to score the spread batter into strips about 5–6 cm wide. Starting from one end of each strip, roll it up tightly into a cylinder. The roll should be firm and hold its shape. If it tears, the batter needed slightly more cooking; if it crumbles, it was slightly overcooked (still edible; you can press the pieces together). Arrange the rolls on a serving plate.
+7. Cut and roll. Use a knife or pizza cutter to score the spread batter into strips about 5–6 cm wide. Starting from one end of each strip, roll it up tightly into a cylinder. The roll should be firm and hold its shape. If it tears, the batter needed slightly more cooking; if it crumbles, it was slightly overcooked (still edible; you can press the pieces together). Arrange the rolls on a serving plate.
 
-8. **Make the tempering.** Heat the oil in a small pan over medium-high heat. Add mustard seeds (1 tsp); when they begin to pop, add sesame seeds (5 g) and stir for 20 seconds until they turn faintly golden. Add curry leaves (10 g) and green chillies (5 g); they will sizzle and crisp immediately. Pour this tempering immediately over the arranged khandvi rolls.
+8. Make the tempering. Heat the oil in a small pan over medium-high heat. Add mustard seeds (1 tsp); when they begin to pop, add sesame seeds (5 g) and stir for 20 seconds until they turn faintly golden. Add curry leaves (10 g) and green chillies (5 g); they will sizzle and crisp immediately. Pour this tempering immediately over the arranged khandvi rolls.
 
-9. **Garnish and serve.** Scatter grated coconut (20 g) and fresh coriander (20 g) over the rolls. Allow to rest for 2–3 minutes so the tempering flavours settle before serving.
+9. Garnish and serve. Scatter grated coconut (20 g) and fresh coriander (20 g) over the rolls. Allow to rest for 2–3 minutes so the tempering flavours settle before serving.
 
 ---
 

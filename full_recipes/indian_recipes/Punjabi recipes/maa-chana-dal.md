@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy
-tags: Punjabi, dal, lentils, urad dal, chana dal, vegetarian, vegan, weeknight, comfort food
+tags: indian, Punjabi, dal, lentils, urad dal, chana dal, vegetarian, vegan, weeknight, comfort food
 hero_image_prompt: A deep terracotta bowl of maa chana dal, the thick lentils pale gold with flecks of tomato, topped with a drizzle of oil and scattered with fresh coriander, on a worn wooden table with warm evening light
 seo_title: Maa Chana Dal Recipe — Punjabi Split Black Lentil and Chickpea Dal
 meta_description: Punjabi maa chana dal: urad dal chilka and chana dal soaked, boiled until tender, then finished with a golden onion-tomato masala and fresh coriander.
@@ -65,21 +65,21 @@ The finishing garnish (green coriander, fresh ginger, green chilli) is important
 
 ## Method
 
-1. **Soak the lentils.** Soak the urad dal chilka (175 g) and chana dal (85 g) in separate bowls of cold water for 30 minutes. Drain and rinse both.
+1. Soak the lentils. Soak the urad dal chilka (175 g) and chana dal (85 g) in separate bowls of cold water for 30 minutes. Drain and rinse both.
 
-2. **Boil the lentils.** Place the urad dal and chana dal in separate pots (or together if sizes are similar; the chana dal takes a little longer). Cover with plenty of fresh cold water and bring to a boil. Add the salt (¾ teaspoon) to the urad dal pot. Cook at a steady simmer until both are completely tender: the urad dal should be completely soft and beginning to break apart; the chana dal should be soft through but just holding its shape, about 25–30 minutes. Drain and combine. Set aside.
+2. Boil the lentils. Place the urad dal and chana dal in separate pots (or together if sizes are similar; the chana dal takes a little longer). Cover with plenty of fresh cold water and bring to a boil. Add the salt (¾ teaspoon) to the urad dal pot. Cook at a steady simmer until both are completely tender: the urad dal should be completely soft and beginning to break apart; the chana dal should be soft through but just holding its shape, about 25–30 minutes. Drain and combine. Set aside.
 
-3. **Chop aromatics.** Finely chop the onions, tomatoes (35 g), fresh ginger (10 g), and green chillies (2) while the lentils cook.
+3. Chop aromatics. Finely chop the onions, tomatoes (35 g), fresh ginger (10 g), and green chillies (2) while the lentils cook.
 
-4. **Build the masala.** Heat the oil in a wide kadhai over medium heat. Add the cumin seeds (¾ teaspoon); when they splutter and darken, add the chopped garlic (10 g). Stir and fry for 1–2 minutes until the garlic is golden at the edges. Watch carefully, as chopped garlic burns quickly. Add the sliced onions and stir-fry for 8 minutes until softened and lightly golden but not deeply browned.
+4. Build the masala. Heat the oil in a wide kadhai over medium heat. Add the cumin seeds (¾ teaspoon); when they splutter and darken, add the chopped garlic (10 g). Stir and fry for 1–2 minutes until the garlic is golden at the edges. Watch carefully, as chopped garlic burns quickly. Add the sliced onions and stir-fry for 8 minutes until softened and lightly golden but not deeply browned.
 
-5. **Add spice pastes.** Add the ginger paste (10 g) and garlic paste (10 g) and stir for 1 minute. Add the red chilli powder (½ teaspoon), turmeric (½ teaspoon), and coriander (20 g) powder (2 teaspoons). Stir for 30 seconds.
+5. Add spice pastes. Add the ginger paste (10 g) and garlic paste (10 g) and stir for 1 minute. Add the red chilli powder (½ teaspoon), turmeric (½ teaspoon), and coriander (20 g) powder (2 teaspoons). Stir for 30 seconds.
 
-6. **Add tomatoes.** Add the chopped tomatoes and stir well. Cook for 4–5 minutes until the tomatoes have broken down and the masala looks glossy and cohesive.
+6. Add tomatoes. Add the chopped tomatoes and stir well. Cook for 4–5 minutes until the tomatoes have broken down and the masala looks glossy and cohesive.
 
-7. **Combine and finish.** Add the drained cooked lentils to the masala. Mix well with a light hand; the goal is to bring the lentils and masala together while lightly mashing some of the urad dal to give the finished dish body and cohesion without puréeing it entirely. Bring to a boil, then simmer for 8–10 minutes to allow the lentils and masala to fully integrate. Taste and adjust salt.
+7. Combine and finish. Add the drained cooked lentils to the masala. Mix well with a light hand; the goal is to bring the lentils and masala together while lightly mashing some of the urad dal to give the finished dish body and cohesion without puréeing it entirely. Bring to a boil, then simmer for 8–10 minutes to allow the lentils and masala to fully integrate. Taste and adjust salt.
 
-8. **Serve.** Transfer to a serving bowl. Scatter the chopped fresh ginger, green chillies, and fresh coriander over the top immediately before serving.
+8. Serve. Transfer to a serving bowl. Scatter the chopped fresh ginger, green chillies, and fresh coriander over the top immediately before serving.
 
 ---
 

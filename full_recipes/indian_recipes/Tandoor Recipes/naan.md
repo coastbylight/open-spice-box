@@ -12,7 +12,7 @@ total_time: 1 hour 45 minutes minimum
 difficulty: Easy
 cuisine: North Indian / Tandoor
 course: Bread / Side
-tags: [tandoor, North India, bread, flatbread, leavened, naan, ghee, cast iron, Punjabi, vegetarian]
+tags: [indian, tandoor, North India, bread, flatbread, leavened, naan, ghee, cast iron, Punjabi, vegetarian]
 ingredients_key: [maida, all-purpose flour, yogurt, yeast, ghee, nigella seeds]
 hero_image_prompt: Two freshly made naans on a dark cast-iron surface, their surfaces puffed and blistered with dark brown char spots, brushed with melted ghee that pools in the hollows, a scattering of nigella seeds pressed into one surface, steam still rising, lit with warm amber light from above-left
 seo_title: Naan Recipe — Soft Leavened Indian Flatbread Made at Home
@@ -75,21 +75,21 @@ Resist rolling the naan into a perfect circle. The teardrop or irregular oval sh
 
 ## Method
 
-1. **Activate the yeast.** In a small bowl or jug, combine the warm water (150 ml), sugar (2 teaspoons), and active dry yeast (1¾ teaspoons). Stir briefly and leave for 8–10 minutes. The mixture should become foamy and smell yeasty — a crown of froth at the surface tells you the yeast is alive and active. If nothing happens after 10 minutes, your water may have been too hot or the yeast too old. Start again with fresh yeast.
+1. Activate the yeast. In a small bowl or jug, combine the warm water (150 ml), sugar (2 teaspoons), and active dry yeast (1¾ teaspoons). Stir briefly and leave for 8–10 minutes. The mixture should become foamy and smell yeasty — a crown of froth at the surface tells you the yeast is alive and active. If nothing happens after 10 minutes, your water may have been too hot or the yeast too old. Start again with fresh yeast.
 
-2. **Make the dough.** Combine the flour and salt (1 teaspoon) in a large bowl and make a well in the centre. Add the yogurt, oil, and the activated yeast mixture. Mix with one hand, drawing the flour from the edges of the well, until a shaggy dough comes together. Turn out onto a lightly floured surface and knead firmly for 8–10 minutes, pushing the dough away with the heel of your hand, folding it back, and turning a quarter turn each time. The finished dough should be smooth, elastic, and slightly tacky — it will spring back when pressed. If it sticks aggressively, dust lightly with flour; if it tears, keep kneading.
+2. Make the dough. Combine the flour and salt (1 teaspoon) in a large bowl and make a well in the centre. Add the yogurt, oil, and the activated yeast mixture. Mix with one hand, drawing the flour from the edges of the well, until a shaggy dough comes together. Turn out onto a lightly floured surface and knead firmly for 8–10 minutes, pushing the dough away with the heel of your hand, folding it back, and turning a quarter turn each time. The finished dough should be smooth, elastic, and slightly tacky — it will spring back when pressed. If it sticks aggressively, dust lightly with flour; if it tears, keep kneading.
 
-3. **First prove.** Shape the dough into a ball, rub the surface lightly with oil, and return to the bowl. Cover with a damp cloth or cling film. Leave in a warm place for 1–2 hours until the dough has doubled in size. In a cooler kitchen this may take up to 2½ hours; in a warm one, the dough may be ready in 45–60 minutes.
+3. First prove. Shape the dough into a ball, rub the surface lightly with oil, and return to the bowl. Cover with a damp cloth or cling film. Leave in a warm place for 1–2 hours until the dough has doubled in size. In a cooler kitchen this may take up to 2½ hours; in a warm one, the dough may be ready in 45–60 minutes.
 
-4. **Divide and shape.** Punch down the proved dough to release the gas, then turn out onto a lightly floured surface. Divide into 8 equal pieces (about 85–90 g each). Roll each piece into a smooth ball. Cover with a cloth and allow to rest for 10 minutes — this brief rest relaxes the gluten and makes shaping considerably easier.
+4. Divide and shape. Punch down the proved dough to release the gas, then turn out onto a lightly floured surface. Divide into 8 equal pieces (about 85–90 g each). Roll each piece into a smooth ball. Cover with a cloth and allow to rest for 10 minutes — this brief rest relaxes the gluten and makes shaping considerably easier.
 
-5. **Roll the naan.** On a lightly floured surface, roll or stretch each ball into a teardrop or irregular oval shape approximately 22–24 cm long and 12–14 cm at its widest point, about 4–5 mm thick. The shape should be thicker at the rounded end and taper toward a slight point at the other. If using nigella seeds, press a small pinch onto the surface of each shaped naan and roll over once to press them in.
+5. Roll the naan. On a lightly floured surface, roll or stretch each ball into a teardrop or irregular oval shape approximately 22–24 cm long and 12–14 cm at its widest point, about 4–5 mm thick. The shape should be thicker at the rounded end and taper toward a slight point at the other. If using nigella seeds, press a small pinch onto the surface of each shaped naan and roll over once to press them in.
 
-6. **Cook — cast-iron pan method.** Place a heavy cast-iron pan or tawa over the highest possible heat and preheat for a full 8–10 minutes until the surface is intensely hot — a few drops of water flicked on should evaporate instantly with a sharp hiss. Do not add oil. Lay one shaped naan flat on the dry pan. Immediately cover with a lid or an inverted tray and cook for 60–90 seconds. Bubbles will form and rise across the surface; the steam trapped under the lid inflates the bread from within. Remove the lid. The surface should be puffed and beginning to set. Flip the naan with tongs and cook the second side, uncovered, for a further 45–60 seconds, until dark blistered spots — genuinely dark brown to black at their centres, not merely golden — have formed. Remove from the pan.
+6. Cook — cast-iron pan method. Place a heavy cast-iron pan or tawa over the highest possible heat and preheat for a full 8–10 minutes until the surface is intensely hot — a few drops of water flicked on should evaporate instantly with a sharp hiss. Do not add oil. Lay one shaped naan flat on the dry pan. Immediately cover with a lid or an inverted tray and cook for 60–90 seconds. Bubbles will form and rise across the surface; the steam trapped under the lid inflates the bread from within. Remove the lid. The surface should be puffed and beginning to set. Flip the naan with tongs and cook the second side, uncovered, for a further 45–60 seconds, until dark blistered spots — genuinely dark brown to black at their centres, not merely golden — have formed. Remove from the pan.
 
-7. **Brush with ghee or butter immediately.** As each naan comes off the pan, brush generously with melted butter or ghee while still steaming hot. The hot surface absorbs the fat immediately, transforming the texture from dry to glossy and rich. Stack finished naans in a clean cloth to stay warm while you cook the remaining ones.
+7. Brush with ghee or butter immediately. As each naan comes off the pan, brush generously with melted butter or ghee while still steaming hot. The hot surface absorbs the fat immediately, transforming the texture from dry to glossy and rich. Stack finished naans in a clean cloth to stay warm while you cook the remaining ones.
 
-8. **Serve hot.** Naan is at its best within the first five minutes. Once it cools, the surface softens to a less interesting uniformity.
+8. Serve hot. Naan is at its best within the first five minutes. Once it cools, the surface softens to a less interesting uniformity.
 
 ---
 

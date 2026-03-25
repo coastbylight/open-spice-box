@@ -100,6 +100,82 @@ function parseAtAGlance(sections) {
 
 // ─── Ingredients Parser ───────────────────────────────────────────────────────
 
+const KNOWN_UNITS = new Set([
+  'g','kg','ml','l','L',
+  'tsp','tbsp','cup','cups','oz','fl oz','lb','lbs',
+  'pinch','pinches','handful','handfuls',
+  'piece','pieces','pcs','slice','slices',
+  'clove','cloves','sprig','sprigs','leaf','leaves',
+  'pod','pods','stalk','stalks','bunch','bunches',
+  'whole','half','halves','inch','cm','stick','sticks',
+  'gram','grams','kilogram','kilograms',
+  'milliliter','milliliters','millilitre','millilitres',
+  'liter','liters','litre','litres',
+  'teaspoon','teaspoons','tablespoon','tablespoons',
+  'ounce','ounces','pound','pounds',
+  'pint','quart','qt',
+])
+
+// Normalize long-form units to abbreviations for consistent DB storage
+const UNIT_NORMALIZE = {
+  'gram':'g','grams':'g','kilogram':'kg','kilograms':'kg',
+  'milliliter':'ml','milliliters':'ml','millilitre':'ml','millilitres':'ml',
+  'liter':'L','liters':'L','litre':'L','litres':'L','l':'L',
+  'teaspoon':'tsp','teaspoons':'tsp',
+  'tablespoon':'tbsp','tablespoons':'tbsp',
+  'ounce':'oz','ounces':'oz',
+  'pound':'lb','pounds':'lb','lbs':'lb',
+  'cups':'cup',
+}
+
+function parseIngredientLine(text) {
+  const optional = /\(optional\)/i.test(text)
+  let cleaned = text.replace(/\(optional\)/gi, '').trim()
+
+  // Split prep note at last comma (e.g. "chicken thighs, boneless and skinned")
+  let prep_note = null
+  const commaIdx = cleaned.lastIndexOf(',')
+  if (commaIdx > 0) {
+    const afterComma = cleaned.slice(commaIdx + 1).trim()
+    // Only treat as prep note if it's descriptive (not a unit or number)
+    if (afterComma && !/^\d/.test(afterComma) && !KNOWN_UNITS.has(afterComma.toLowerCase())) {
+      prep_note = afterComma
+      cleaned = cleaned.slice(0, commaIdx).trim()
+    }
+  }
+
+  // Match amount + unit at the start of the line
+  // Patterns: "150 g", "1/2 cup", "1½ tbsp", "2-3", "1 1/2 tsp"
+  const amountPattern = /^([\d]+[\d\/½¼¾⅓⅔⅛⅜⅝⅞\s]*(?:\/\d+)?(?:\s*[–-]\s*\d+(?:\/\d+)?)?)\s+/
+  const match = cleaned.match(amountPattern)
+
+  if (match) {
+    const amount = match[1].trim()
+    const rest = cleaned.slice(match[0].length)
+
+    // Check if the next word is a known unit
+    const unitMatch = rest.match(/^(fl\s+oz|[a-zA-Z]+)\b\s*/)
+    if (unitMatch) {
+      const rawUnit = unitMatch[1].trim().toLowerCase()
+      const normalizedRaw = rawUnit.replace(/\s+/g, ' ')
+      if (KNOWN_UNITS.has(normalizedRaw)) {
+        const unit = UNIT_NORMALIZE[normalizedRaw] || normalizedRaw
+        const ingredient = rest.slice(unitMatch[0].length).trim()
+        // If ingredient is empty, the "unit" was actually part of the ingredient name
+        if (ingredient) {
+          return { amount, unit, ingredient, prep_note, optional }
+        }
+      }
+    }
+
+    // No unit found — it's a count (e.g. "3 green chillies")
+    return { amount, unit: null, ingredient: rest.trim(), prep_note, optional }
+  }
+
+  // No amount found — entire line is the ingredient
+  return { amount: null, unit: null, ingredient: cleaned, prep_note, optional }
+}
+
 function parseIngredients(sections) {
   const raw = sections['Ingredients'] || ''
   const lines = raw.split('\n')
@@ -110,13 +186,7 @@ function parseIngredients(sections) {
     const text = line.slice(2).trim()
     if (!text) continue
 
-    ingredients.push({
-      amount: null,
-      unit: null,
-      ingredient: text,
-      prep_note: null,
-      optional: false,
-    })
+    ingredients.push(parseIngredientLine(text))
   }
 
   return ingredients

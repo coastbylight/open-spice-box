@@ -12,7 +12,7 @@ total_time: 1 hour 45 minutes
 difficulty: Medium
 cuisine: Kashmiri
 course: Main / Starter
-tags: [Kashmiri, Wazwan, lamb, ribs, fried, mustard oil, fennel, milk-braised, festive, gluten-free]
+tags: [indian, Kashmiri, Wazwan, lamb, ribs, fried, mustard oil, fennel, milk-braised, festive, gluten-free]
 ingredients_key: [lamb ribs, mustard oil, milk, fennel powder, dried ginger]
 equipment_key: [wide heavy pan, tongs]
 hero_image_prompt: A platter of Tabak Maas — deep golden lamb ribs with a crisp, spice-stained crust, arranged on a copper thali, a scattering of fennel seeds and a small bowl of chutney alongside, moody warm light from the side casting long shadows
@@ -75,17 +75,17 @@ The practical insight: do not rush the liquid-evaporation stage. Let it happen o
 
 ## Method
 
-1. **Set up the braise.** In a wide, heavy-based pan (large enough to hold the ribs in a single layer or close to it) combine the lamb ribs (1 kg), milk, mustard oil (100 ml), fennel powder (5 g), dried ginger powder (3 g), turmeric (3 g), cardamom (3 g), cinnamon (2 g), cloves (3 g), and salt (5 g). Pour over enough cold water to just cover the ribs. The liquid should come up to the level of the meat.
+1. Set up the braise. In a wide, heavy-based pan (large enough to hold the ribs in a single layer or close to it) combine the lamb ribs (1 kg), milk, mustard oil (100 ml), fennel powder (5 g), dried ginger powder (3 g), turmeric (3 g), cardamom (3 g), cinnamon (2 g), cloves (3 g), and salt (5 g). Pour over enough cold water to just cover the ribs. The liquid should come up to the level of the meat.
 
-2. **Cook on high heat.** Bring to a full boil over high heat, then reduce to a vigorous simmer. Do not cover. The liquid should bubble actively, not gently. Stir occasionally to ensure the ribs are not sticking and that the spices are evenly distributed. As the liquid reduces, baste the ribs with the spiced liquid. This stage takes 45–60 minutes.
+2. Cook on high heat. Bring to a full boil over high heat, then reduce to a vigorous simmer. Do not cover. The liquid should bubble actively, not gently. Stir occasionally to ensure the ribs are not sticking and that the spices are evenly distributed. As the liquid reduces, baste the ribs with the spiced liquid. This stage takes 45–60 minutes.
 
-3. **Watch the transition.** As the liquid approaches complete evaporation, reduce the heat to medium and watch closely. The remaining liquid will become silky and spiced-oil-rich. You will see it thickening, turning from watery to glossy. When the last of the liquid is gone, the ribs will be coated in a golden, spiced residue. The sound will shift from a wet simmer to a dry sizzle.
+3. Watch the transition. As the liquid approaches complete evaporation, reduce the heat to medium and watch closely. The remaining liquid will become silky and spiced-oil-rich. You will see it thickening, turning from watery to glossy. When the last of the liquid is gone, the ribs will be coated in a golden, spiced residue. The sound will shift from a wet simmer to a dry sizzle.
 
-4. **Fry in their own fat.** Once all liquid is evaporated, the ribs will begin to fry in the mustard oil and rendered lamb fat. Turn them with tongs to expose all surfaces. If the pan seems dry, add the ghee (2 tablespoons) now. Fry over medium-high heat, turning every 3–4 minutes, until the ribs are deep golden and slightly crisp on the exterior: the edges should have color, the bone ends slightly darkened, the surface fragrant and lacquered with spice. This takes 15–20 minutes.
+4. Fry in their own fat. Once all liquid is evaporated, the ribs will begin to fry in the mustard oil and rendered lamb fat. Turn them with tongs to expose all surfaces. If the pan seems dry, add the ghee (2 tablespoons) now. Fry over medium-high heat, turning every 3–4 minutes, until the ribs are deep golden and slightly crisp on the exterior: the edges should have color, the bone ends slightly darkened, the surface fragrant and lacquered with spice. This takes 15–20 minutes.
 
-5. **Finish with garam masala (3 g).** Remove from heat. Scatter over the garam masala and toss briefly so it coats the ribs. Taste for salt.
+5. Finish with garam masala (3 g). Remove from heat. Scatter over the garam masala and toss briefly so it coats the ribs. Taste for salt.
 
-6. **Serve immediately.** Tabak Maas is served hot, ideally as a first course before a larger Kashmiri meal.
+6. Serve immediately. Tabak Maas is served hot, ideally as a first course before a larger Kashmiri meal.
 
 ---
 

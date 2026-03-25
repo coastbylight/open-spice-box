@@ -12,7 +12,7 @@ total_time: 5–9 hours minimum
 difficulty: Medium
 cuisine: Punjabi / North Indian
 course: Main / Starter
-tags: [Punjab, North India, chicken, tandoor, grilled, Kashmiri chilli, yogurt marinade, Moti Mahal, Delhi, classic]
+tags: [indian, Punjab, North India, chicken, tandoor, grilled, Kashmiri chilli, yogurt marinade, Moti Mahal, Delhi, classic]
 ingredients_key: [whole chicken or jointed pieces, yogurt, Kashmiri red chilli powder, ginger-garlic paste, garam masala, chaat masala]
 hero_image_prompt: Tandoori murgh on a cast-iron platter — two vivid orange-red jointed chicken pieces with charred scored skin, juicy and glistening, garnished with thin white raw onion rings, charred green chillies, and lemon halves, a deep green mint chutney in a small bowl, warm dramatic light from the side casting long shadows
 seo_title: Tandoori Murgh Recipe — Authentic Punjabi Tandoori Chicken from Moti Mahal
@@ -80,25 +80,25 @@ The most common home-cook error is under-heating the grill. Tandoori murgh cooke
 
 ## Method
 
-1. **Score the chicken deeply.** Pat the chicken pieces completely dry with kitchen paper. Using a sharp knife, cut deep slashes through the skin and into the flesh of each piece — 2–3 parallel cuts across each thigh or drumstick, and 3 cuts across each breast piece. These cuts should reach close to the bone on the thicker parts; they are not decorative scoring. They are the channels through which both marinades will reach the interior. Run your finger along each cut to open it slightly.
+1. Score the chicken deeply. Pat the chicken pieces completely dry with kitchen paper. Using a sharp knife, cut deep slashes through the skin and into the flesh of each piece — 2–3 parallel cuts across each thigh or drumstick, and 3 cuts across each breast piece. These cuts should reach close to the bone on the thicker parts; they are not decorative scoring. They are the channels through which both marinades will reach the interior. Run your finger along each cut to open it slightly.
 
-2. **First marinade.** Rub the lemon juice (½ large lemon) and salt (5 g) thoroughly into all surfaces of the chicken, working the mixture firmly into the scored cuts. Set aside at room temperature for 30 minutes. The lemon juice begins to denature the surface proteins and the salt draws a small amount of moisture to the surface, which helps the second marinade adhere.
+2. First marinade. Rub the lemon juice (½ large lemon) and salt (5 g) thoroughly into all surfaces of the chicken, working the mixture firmly into the scored cuts. Set aside at room temperature for 30 minutes. The lemon juice begins to denature the surface proteins and the salt draws a small amount of moisture to the surface, which helps the second marinade adhere.
 
-3. **Make the second marinade.** In a large bowl, combine the yogurt, ginger-garlic paste (20 g), Kashmiri chilli powder (4 teaspoons — this is the defining spice of the dish), cumin (1 teaspoon), coriander (1 teaspoon), garam masala (1 teaspoon), turmeric (1 teaspoon), oil, and salt (1 teaspoon). Mix thoroughly until completely uniform — a vivid, deep orange-red paste. Taste: it should be intensely spiced and savoury, with the Kashmiri chilli providing colour and warmth rather than sharp heat.
+3. Make the second marinade. In a large bowl, combine the yogurt, ginger-garlic paste (20 g), Kashmiri chilli powder (4 teaspoons — this is the defining spice of the dish), cumin (1 teaspoon), coriander (1 teaspoon), garam masala (1 teaspoon), turmeric (1 teaspoon), oil, and salt (1 teaspoon). Mix thoroughly until completely uniform — a vivid, deep orange-red paste. Taste: it should be intensely spiced and savoury, with the Kashmiri chilli providing colour and warmth rather than sharp heat.
 
-4. **Marinate the chicken.** Pat the lemon-marinated chicken briefly dry — this helps the second marinade stick. Add the chicken to the red marinade and coat every surface thoroughly, pressing the marinade firmly into the scored cuts with your fingers. The cuts should be packed with marinade, not merely coated on the surface. Cover and refrigerate for a minimum of 4 hours; 8 hours is noticeably better. The yogurt acid works slowly and deeply, tenderising the muscle fibres and carrying the spice flavour into the interior. Do not marinate for more than 12 hours, as prolonged acid contact can make the surface mealy.
+4. Marinate the chicken. Pat the lemon-marinated chicken briefly dry — this helps the second marinade stick. Add the chicken to the red marinade and coat every surface thoroughly, pressing the marinade firmly into the scored cuts with your fingers. The cuts should be packed with marinade, not merely coated on the surface. Cover and refrigerate for a minimum of 4 hours; 8 hours is noticeably better. The yogurt acid works slowly and deeply, tenderising the muscle fibres and carrying the spice flavour into the interior. Do not marinate for more than 12 hours, as prolonged acid contact can make the surface mealy.
 
-5. **Bring to room temperature.** Remove the marinated chicken from the refrigerator 30–45 minutes before cooking. Cold chicken placed under a hot grill will cook unevenly — the surface will overcook before the inside reaches temperature.
+5. Bring to room temperature. Remove the marinated chicken from the refrigerator 30–45 minutes before cooking. Cold chicken placed under a hot grill will cook unevenly — the surface will overcook before the inside reaches temperature.
 
-6. **Preheat your cooking surface.** If using a grill or broiler: preheat to maximum heat (250–280°C / 480–535°F). Allow it to heat for a full 10–15 minutes. Place a wire rack over a foil-lined roasting tin to catch the dripping marinade. If using a tandoor: allow to reach full heat (400–450°C).
+6. Preheat your cooking surface. If using a grill or broiler: preheat to maximum heat (250–280°C / 480–535°F). Allow it to heat for a full 10–15 minutes. Place a wire rack over a foil-lined roasting tin to catch the dripping marinade. If using a tandoor: allow to reach full heat (400–450°C).
 
-7. **Cook the chicken.** Place the chicken pieces on the hot rack, scored side up, 10–12 cm from the heat source. Cook on high heat for 10–12 minutes. The marinade surface should be setting, drying, and beginning to char at the raised edges and the tips of the scoring. The colour will deepen from orange-red to a darker, slightly burnished red-brown at the charred points.
+7. Cook the chicken. Place the chicken pieces on the hot rack, scored side up, 10–12 cm from the heat source. Cook on high heat for 10–12 minutes. The marinade surface should be setting, drying, and beginning to char at the raised edges and the tips of the scoring. The colour will deepen from orange-red to a darker, slightly burnished red-brown at the charred points.
 
-8. **Baste and finish cooking.** Brush the chicken lightly with oil. Using tongs, flip each piece. Cook for a further 8–10 minutes on the second side, basting once more with oil during this stage. The chicken is done when the internal temperature at the thickest part (not touching bone) reads 74°C / 165°F, the juices run clear when the flesh is pierced at its thickest point, and the edges are visibly charred. The scoring cuts should show deep orange-red marinade inside and slight char at their edges.
+8. Baste and finish cooking. Brush the chicken lightly with oil. Using tongs, flip each piece. Cook for a further 8–10 minutes on the second side, basting once more with oil during this stage. The chicken is done when the internal temperature at the thickest part (not touching bone) reads 74°C / 165°F, the juices run clear when the flesh is pierced at its thickest point, and the edges are visibly charred. The scoring cuts should show deep orange-red marinade inside and slight char at their edges.
 
-9. **Rest briefly.** Remove from the grill and allow to rest for 3–5 minutes on the rack before plating. The residual heat continues to work gently while the juices settle.
+9. Rest briefly. Remove from the grill and allow to rest for 3–5 minutes on the rack before plating. The residual heat continues to work gently while the juices settle.
 
-10. **Finish and serve.** Squeeze a lemon wedge over the chicken and dust with chaat masala (5 g). Serve on a platter or board with raw onion rings (soaked briefly in ice water to reduce sharpness), charred green chillies, lemon halves, and fresh mint-coriander chutney. Naan alongside is traditional.
+10. Finish and serve. Squeeze a lemon wedge over the chicken and dust with chaat masala (5 g). Serve on a platter or board with raw onion rings (soaked briefly in ice water to reduce sharpness), charred green chillies, lemon halves, and fresh mint-coriander chutney. Naan alongside is traditional.
 
 ---
 

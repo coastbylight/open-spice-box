@@ -12,7 +12,7 @@ total_time: 4 hours 35 minutes minimum
 difficulty: Easy
 cuisine: North Indian / Tandoor
 course: Starter / Appetiser
-tags: [tandoor, North India, chicken, kebab, cream, white kebab, mild, grilled, starter, Mughal-influenced]
+tags: [indian, tandoor, North India, chicken, kebab, cream, white kebab, mild, grilled, starter, Mughal-influenced]
 ingredients_key: [chicken breast or thigh, cream cheese, heavy cream, cashew paste, cardamom, mace]
 hero_image_prompt: Pale ivory-gold murgh malai kebabs on long skewers resting on a dark slate board, their surface lightly golden and moist with butter basting, served with thin rings of raw white onion, lemon wedges, and a small bowl of bright green mint chutney, lit with warm side light
 seo_title: Murgh Malai Kebab Recipe — Creamy North Indian Chicken Kebab
@@ -78,21 +78,21 @@ The practical note worth carrying: the most important thing you can do is resist
 
 ## Method
 
-1. **First marinade — the tenderising stage.** Pat the chicken pieces completely dry with kitchen paper. Toss with the lemon juice (1 large lemon) and 5 g of salt (1 teaspoon). Massage the lemon and salt into the surface of every piece. Set aside at room temperature for 20 minutes. This brief acid marinade begins to denature the surface proteins, opening the chicken's texture to absorb the richer second marinade more deeply.
+1. First marinade — the tenderising stage. Pat the chicken pieces completely dry with kitchen paper. Toss with the lemon juice (1 large lemon) and 5 g of salt (1 teaspoon). Massage the lemon and salt into the surface of every piece. Set aside at room temperature for 20 minutes. This brief acid marinade begins to denature the surface proteins, opening the chicken's texture to absorb the richer second marinade more deeply.
 
-2. **Make the cashew paste (20 g).** Drain the soaked cashews and transfer to a small blender. Add just enough cold water to get the blender moving — about 2–3 tablespoons. Blend at high speed for 2–3 minutes until completely smooth, with no visible cashew pieces and a consistency like smooth nut butter (30 g). Set aside.
+2. Make the cashew paste (20 g). Drain the soaked cashews and transfer to a small blender. Add just enough cold water to get the blender moving — about 2–3 tablespoons. Blend at high speed for 2–3 minutes until completely smooth, with no visible cashew pieces and a consistency like smooth nut butter (30 g). Set aside.
 
-3. **Make the malai marinade.** In a large bowl, combine the cream cheese (or hung yogurt), heavy cream (100 ml), ginger-garlic paste (30 g), green chilli paste (20 g), cashew paste, white pepper (1 teaspoon), cardamom powder (1 teaspoon, freshly ground from pods for best flavour), mace powder (1 teaspoon), and salt (2 teaspoons). Mix thoroughly until you have a smooth, uniform, pale cream-coloured marinade with no lumps remaining. Taste: it should be creamy, gently spiced, faintly sour from the cream cheese, and mildly warm from the pepper and chilli.
+3. Make the malai marinade. In a large bowl, combine the cream cheese (or hung yogurt), heavy cream (100 ml), ginger-garlic paste (30 g), green chilli paste (20 g), cashew paste, white pepper (1 teaspoon), cardamom powder (1 teaspoon, freshly ground from pods for best flavour), mace powder (1 teaspoon), and salt (2 teaspoons). Mix thoroughly until you have a smooth, uniform, pale cream-coloured marinade with no lumps remaining. Taste: it should be creamy, gently spiced, faintly sour from the cream cheese, and mildly warm from the pepper and chilli.
 
-4. **Marinate the chicken.** Pat the lemon-marinated chicken dry once more, then add to the cream marinade. Toss to coat every surface thoroughly, pressing the marinade firmly into the chicken. Cover and refrigerate for a minimum of 4 hours. Overnight marination (10–12 hours) produces noticeably more tender, flavourful results — the cream proteins and acids work gradually and deeply.
+4. Marinate the chicken. Pat the lemon-marinated chicken dry once more, then add to the cream marinade. Toss to coat every surface thoroughly, pressing the marinade firmly into the chicken. Cover and refrigerate for a minimum of 4 hours. Overnight marination (10–12 hours) produces noticeably more tender, flavourful results — the cream proteins and acids work gradually and deeply.
 
-5. **Skewer the chicken.** Thread the marinated chicken pieces onto metal skewers, pressing them together with no gaps. Wipe away any excess marinade that might drip and burn — a thin, even coating is what you want.
+5. Skewer the chicken. Thread the marinated chicken pieces onto metal skewers, pressing them together with no gaps. Wipe away any excess marinade that might drip and burn — a thin, even coating is what you want.
 
-6. **Cook.** If using a tandoor: cook at high heat for 12–14 minutes, rotating the skewers once, until the surface is pale gold and lightly moist. If using a grill or broiler: preheat to high (250°C / 480°F). Place the skewered chicken 15 cm from the element. Cook for 8–9 minutes on the first side, then flip and cook for 6–7 minutes on the second side. The surface should be set and lightly golden — you are looking for the marinade to puff, dry slightly at the surface, and develop a faint golden blush. The edges may show very slight browning, but there should be no black char. The interior should be just cooked through and still moist.
+6. Cook. If using a tandoor: cook at high heat for 12–14 minutes, rotating the skewers once, until the surface is pale gold and lightly moist. If using a grill or broiler: preheat to high (250°C / 480°F). Place the skewered chicken 15 cm from the element. Cook for 8–9 minutes on the first side, then flip and cook for 6–7 minutes on the second side. The surface should be set and lightly golden — you are looking for the marinade to puff, dry slightly at the surface, and develop a faint golden blush. The edges may show very slight browning, but there should be no black char. The interior should be just cooked through and still moist.
 
-7. **Baste and rest.** Remove the skewers from the heat. Brush generously with melted butter while the kebabs are still hot. Allow to rest on the skewers for 2 minutes.
+7. Baste and rest. Remove the skewers from the heat. Brush generously with melted butter while the kebabs are still hot. Allow to rest on the skewers for 2 minutes.
 
-8. **Serve immediately** with mint chutney, sliced raw onion, and lemon wedges.
+8. Serve immediately with mint chutney, sliced raw onion, and lemon wedges.
 
 ---
 

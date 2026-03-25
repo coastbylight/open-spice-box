@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Medium
-tags: Bengali, prawns, coconut milk, seafood, mustard oil, celebration, gluten-free, dairy-free
+tags: indian, Bengali, prawns, coconut milk, seafood, mustard oil, celebration, gluten-free, dairy-free
 hero_image_prompt: Six large shell-on tiger prawns in a golden coconut sauce in a wide black iron karahi, the sauce glossy with a slight sheen of mustard oil, whole cardamom and cinnamon visible, shot warm and close against a dark wooden surface with evening light
 seo_title: Chingri Malai Curry Recipe — Bengali Tiger Prawn Coconut Curry
 meta_description: Chingri malai curry: tiger prawns in a fragrant, mildly spiced coconut milk sauce with mustard oil. A Bengali celebration dish of elegant simplicity.
@@ -76,21 +76,21 @@ Chingri malai curry is a celebration dish in Bengal, prepared for pujas, wedding
 
 ## Method
 
-1. **Marinate the prawns.** Toss the prawns with 1 teaspoon of turmeric (2 teaspoons) and ½ teaspoon of salt (10 g). Mix gently and set aside while you prepare the sauce.
+1. Marinate the prawns. Toss the prawns with 1 teaspoon of turmeric (2 teaspoons) and ½ teaspoon of salt (10 g). Mix gently and set aside while you prepare the sauce.
 
-2. **Heat the mustard oil (50 ml).** Heat the mustard oil in a wide, heavy pan or karahi over high heat until it smokes lightly. The colour will lighten and a few wisps of white smoke will appear. Remove from heat and allow to cool for 1 minute. Return to medium-high heat. This smoking step is standard in Bengali cooking and removes the raw sharpness of the oil.
+2. Heat the mustard oil (50 ml). Heat the mustard oil in a wide, heavy pan or karahi over high heat until it smokes lightly. The colour will lighten and a few wisps of white smoke will appear. Remove from heat and allow to cool for 1 minute. Return to medium-high heat. This smoking step is standard in Bengali cooking and removes the raw sharpness of the oil.
 
-3. **Fry the prawns briefly.** Add the marinated prawns to the hot oil in a single layer. Fry for 60–90 seconds per side, just until they turn pink on the outside. Do not fully cook them here; they should still be translucent at the centre. Remove and set aside. This step seals the surface of the prawns and adds a slight caramelised sweetness.
+3. Fry the prawns briefly. Add the marinated prawns to the hot oil in a single layer. Fry for 60–90 seconds per side, just until they turn pink on the outside. Do not fully cook them here; they should still be translucent at the centre. Remove and set aside. This step seals the surface of the prawns and adds a slight caramelised sweetness.
 
-4. **Build the sauce base.** In the same pan with the remaining oil, add the bay leaves (2 leaves), cardamom (3–4 pods, lightly crushed), cinnamon (1 short stick), and cloves (3–4 cloves). They will sputter and release their fragrance in about 30 seconds. Add the finely chopped onion (2 medium onions) and a pinch of salt. Cook over medium heat, stirring regularly, for 12–15 minutes until the onions are soft and turning golden. Add the ginger paste (2 tablespoons) and garlic paste (2 tablespoons) and cook for 3 minutes, stirring constantly, until the raw smell disappears.
+4. Build the sauce base. In the same pan with the remaining oil, add the bay leaves (2 leaves), cardamom (3–4 pods, lightly crushed), cinnamon (1 short stick), and cloves (3–4 cloves). They will sputter and release their fragrance in about 30 seconds. Add the finely chopped onion (2 medium onions) and a pinch of salt. Cook over medium heat, stirring regularly, for 12–15 minutes until the onions are soft and turning golden. Add the ginger paste (2 tablespoons) and garlic paste (2 tablespoons) and cook for 3 minutes, stirring constantly, until the raw smell disappears.
 
-5. **Add tomato (1 small tomato) and spices.** Add the chopped tomato and cook for 3–4 minutes until softened and beginning to break down. Add the red chilli powder (2 teaspoons) and remaining turmeric (2 teaspoons). Stir through and cook for 2 minutes until the spices are fragrant and the oil begins to separate around the edges.
+5. Add tomato (1 small tomato) and spices. Add the chopped tomato and cook for 3–4 minutes until softened and beginning to break down. Add the red chilli powder (2 teaspoons) and remaining turmeric (2 teaspoons). Stir through and cook for 2 minutes until the spices are fragrant and the oil begins to separate around the edges.
 
-6. **Add the coconut milk.** Pour in the coconut milk gradually, stirring as you pour. Bring to a gentle simmer. Do not boil vigorously, as coconut milk can split. Add the slit green chillies (4 chillies), sugar (2 teaspoons), and remaining salt. Simmer for 5 minutes, stirring occasionally, until the sauce has thickened slightly and the coconut milk flavour has mellowed and integrated.
+6. Add the coconut milk. Pour in the coconut milk gradually, stirring as you pour. Bring to a gentle simmer. Do not boil vigorously, as coconut milk can split. Add the slit green chillies (4 chillies), sugar (2 teaspoons), and remaining salt. Simmer for 5 minutes, stirring occasionally, until the sauce has thickened slightly and the coconut milk flavour has mellowed and integrated.
 
-7. **Return the prawns.** Add the partly cooked prawns to the sauce. Stir gently to coat them in the sauce. Cover and cook for 4–5 minutes over low-medium heat until the prawns are fully cooked through. The flesh should be white and opaque throughout and the tails curled into a C shape.
+7. Return the prawns. Add the partly cooked prawns to the sauce. Stir gently to coat them in the sauce. Cover and cook for 4–5 minutes over low-medium heat until the prawns are fully cooked through. The flesh should be white and opaque throughout and the tails curled into a C shape.
 
-8. **Finish.** Add the ghee (2 teaspoons) and stir through. Taste for salt and sugar balance. Serve immediately. Prawns continue to cook in residual heat.
+8. Finish. Add the ghee (2 teaspoons) and stir through. Taste for salt and sugar balance. Serve immediately. Prawns continue to cook in residual heat.
 
 ---
 

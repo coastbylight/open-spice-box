@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Side
 difficulty: Easy
-tags: Bengali, aubergine, eggplant, pan-fried, mustard oil, vegetarian, vegan, gluten-free, quick, side dish
+tags: indian, Bengali, aubergine, eggplant, pan-fried, mustard oil, vegetarian, vegan, gluten-free, quick, side dish
 hero_image_prompt: Four golden-brown aubergine rounds on a white ceramic plate, the edges deeply caramelised and crisp, the centres tender, a faint sheen of mustard oil across the surface, shot in warm afternoon light on a dark stone surface with a small bowl of turmeric powder in the background
 seo_title: Begun Bhaja Recipe — Bengali Pan-Fried Aubergine with Mustard Oil
 meta_description: Begun bhaja: Bengali spiced aubergine slices pan-fried in mustard oil until deeply golden. A staple side dish that appears on every Bengali thali.
@@ -64,17 +64,17 @@ The oil must be mustard oil, heated to smoking. This is the step most cooks rush
 
 ## Method
 
-1. **Prepare the aubergine (1).** Cut the aubergine into rounds approximately 1 cm thick. Lay them in a single layer on a tray or plate. Combine the turmeric (1 teaspoon), salt (1 teaspoon), red chilli powder (½ teaspoon), and cumin powder (1 teaspoon) in a small bowl and mix together. Dust both sides of each aubergine round evenly with the spice mixture, patting gently so it adheres. Allow the seasoned slices to rest for 15 minutes. They will release a small amount of moisture, which concentrates the flavour and helps the spice coating stick through the frying.
+1. Prepare the aubergine (1). Cut the aubergine into rounds approximately 1 cm thick. Lay them in a single layer on a tray or plate. Combine the turmeric (1 teaspoon), salt (1 teaspoon), red chilli powder (½ teaspoon), and cumin powder (1 teaspoon) in a small bowl and mix together. Dust both sides of each aubergine round evenly with the spice mixture, patting gently so it adheres. Allow the seasoned slices to rest for 15 minutes. They will release a small amount of moisture, which concentrates the flavour and helps the spice coating stick through the frying.
 
-2. **Heat the mustard oil.** Pour the mustard oil into a wide, heavy-based pan — a cast-iron skillet or a flat-based karahi works best. Heat over high heat until the oil just begins to smoke, watching for the first wisps of white smoke and the slight lightening of the oil's colour. Remove from heat briefly, then return to medium-high heat.
+2. Heat the mustard oil. Pour the mustard oil into a wide, heavy-based pan — a cast-iron skillet or a flat-based karahi works best. Heat over high heat until the oil just begins to smoke, watching for the first wisps of white smoke and the slight lightening of the oil's colour. Remove from heat briefly, then return to medium-high heat.
 
-3. **Fry the first side.** Place the aubergine rounds in the hot oil in a single layer without overlapping. Cook in batches if necessary. Do not move them for the first 3–4 minutes. Let them sit and develop a proper golden crust on the underside. You will hear a steady sizzle; if it drops to a murmur, increase the heat slightly. After 3–4 minutes, check the underside by lifting one round with a spatula. It should be a deep golden-brown, with a slightly crisped, almost caramelised edge.
+3. Fry the first side. Place the aubergine rounds in the hot oil in a single layer without overlapping. Cook in batches if necessary. Do not move them for the first 3–4 minutes. Let them sit and develop a proper golden crust on the underside. You will hear a steady sizzle; if it drops to a murmur, increase the heat slightly. After 3–4 minutes, check the underside by lifting one round with a spatula. It should be a deep golden-brown, with a slightly crisped, almost caramelised edge.
 
-4. **Fry the second side.** Flip each round carefully with a flat spatula. The second side takes slightly less time, 2–3 minutes, as the aubergine is already partway cooked through from the first side's heat. Add the slit green chillies to the pan alongside the aubergine for this second frying if using. The chillies will blister and soften in the oil.
+4. Fry the second side. Flip each round carefully with a flat spatula. The second side takes slightly less time, 2–3 minutes, as the aubergine is already partway cooked through from the first side's heat. Add the slit green chillies to the pan alongside the aubergine for this second frying if using. The chillies will blister and soften in the oil.
 
-5. **Check and drain.** The rounds are done when both sides are deep golden-brown with crisped edges and the centre yields easily to a light press. It should feel soft, not resistant. Transfer to a plate lined with kitchen paper and allow to drain for 1 minute.
+5. Check and drain. The rounds are done when both sides are deep golden-brown with crisped edges and the centre yields easily to a light press. It should feel soft, not resistant. Transfer to a plate lined with kitchen paper and allow to drain for 1 minute.
 
-6. **Serve.** Taste one piece and adjust salt if needed. Serve immediately while the edges are still crisp. Begun bhaja loses its crispness quickly and is best eaten within a few minutes of leaving the pan.
+6. Serve. Taste one piece and adjust salt if needed. Serve immediately while the edges are still crisp. Begun bhaja loses its crispness quickly and is best eaten within a few minutes of leaving the pan.
 
 ---
 

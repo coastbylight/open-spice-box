@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Medium
-tags: Kashmiri, rice, lamb, saffron, fennel, one-pot, ghee, celebration, gluten-free
+tags: indian, Kashmiri, rice, lamb, saffron, fennel, one-pot, ghee, celebration, gluten-free
 hero_image_prompt: A deep copper handi of syun pulao, the long rice grains pale golden with saffron, lamb pieces visible beneath the surface, the fragrant steam just visible rising, on a dark stone surface with warm afternoon light
 seo_title: Syun Pulao Recipe — Kashmiri Lamb and Saffron Rice
 meta_description: Kashmiri syun pulao: lamb pressure-cooked with fennel, dry ginger, and spices, the meat removed and the fragrant stock used to cook saffron-scented basmati rice with fried onion.
@@ -64,23 +64,23 @@ Fennel powder and dry ginger (*soonth*) are the two Kashmiri spices that most di
 
 ## Method
 
-1. **Soak the rice.** Rinse the basmati in cold water until the water runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain and set aside.
+1. Soak the rice. Rinse the basmati in cold water until the water runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain and set aside.
 
-2. **Pressure cook the lamb (260 g).** Place the lamb pieces in a pressure cooker with the dry ginger powder (¼ teaspoon), fennel powder (¾ teaspoon), turmeric (¼ teaspoon), salt (4 g), and 500 ml of water. Pressure cook for 10 minutes on medium pressure (or on high pressure for 7 minutes). Allow the pressure to release naturally. The lamb should be cooked through and tender. Remove the lamb pieces and set aside. Strain the cooking stock and measure — you need approximately 500–550 ml of stock for the rice. Add water if you have less; if you have significantly more, reduce briefly over high heat.
+2. Pressure cook the lamb (260 g). Place the lamb pieces in a pressure cooker with the dry ginger powder (¼ teaspoon), fennel powder (¾ teaspoon), turmeric (¼ teaspoon), salt (4 g), and 500 ml of water. Pressure cook for 10 minutes on medium pressure (or on high pressure for 7 minutes). Allow the pressure to release naturally. The lamb should be cooked through and tender. Remove the lamb pieces and set aside. Strain the cooking stock and measure — you need approximately 500–550 ml of stock for the rice. Add water if you have less; if you have significantly more, reduce briefly over high heat.
 
-3. **Bloom the saffron.** Place the saffron threads (1 g) in a small bowl and add 3 tablespoons of warm (not boiling) water. Allow to steep for 10 minutes.
+3. Bloom the saffron. Place the saffron threads (1 g) in a small bowl and add 3 tablespoons of warm (not boiling) water. Allow to steep for 10 minutes.
 
-4. **Fry the onions (100 g).** Heat the ghee (35 g) in a wide, heavy-based handi or pot over medium-high heat. Add the sliced onions and fry, stirring frequently, for 12–15 minutes until deep golden brown. Remove half the fried onions to a plate for garnishing at the end — leave the rest in the pot.
+4. Fry the onions (100 g). Heat the ghee (35 g) in a wide, heavy-based handi or pot over medium-high heat. Add the sliced onions and fry, stirring frequently, for 12–15 minutes until deep golden brown. Remove half the fried onions to a plate for garnishing at the end — leave the rest in the pot.
 
-5. **Add whole spices and lamb.** Add the black cardamom, bay leaf (1 g), and cinnamon stick (3 cm) to the onions remaining in the pot. Stir for 30 seconds. Add the cooked lamb pieces and stir to coat in the onion and ghee. Fry for 3–4 minutes until the lamb surfaces are slightly golden.
+5. Add whole spices and lamb. Add the black cardamom, bay leaf (1 g), and cinnamon stick (3 cm) to the onions remaining in the pot. Stir for 30 seconds. Add the cooked lamb pieces and stir to coat in the onion and ghee. Fry for 3–4 minutes until the lamb surfaces are slightly golden.
 
-6. **Add rice and stock.** Add the drained soaked rice and stir gently through the lamb and onion. Pour in the lamb stock. Add the saffron water. Bring to a boil, then reduce to a gentle simmer.
+6. Add rice and stock. Add the drained soaked rice and stir gently through the lamb and onion. Pour in the lamb stock. Add the saffron water. Bring to a boil, then reduce to a gentle simmer.
 
-7. **Cook on slow fire.** Cover the pot tightly. Cook on the lowest possible heat for 25–30 minutes until the rice has absorbed all the stock and is fully cooked. Do not open the lid during cooking.
+7. Cook on slow fire. Cover the pot tightly. Cook on the lowest possible heat for 25–30 minutes until the rice has absorbed all the stock and is fully cooked. Do not open the lid during cooking.
 
-8. **Finish with shahi jeera (½ teaspoon).** In a very small pan, heat 1 teaspoon of ghee until hot. Add the shahi jeera (caraway seeds) and fry for 20–30 seconds until fragrant — they will darken slightly. Remove from heat.
+8. Finish with shahi jeera (½ teaspoon). In a very small pan, heat 1 teaspoon of ghee until hot. Add the shahi jeera (caraway seeds) and fry for 20–30 seconds until fragrant — they will darken slightly. Remove from heat.
 
-9. **Serve.** Uncover the pulao and gently fluff the top layer of rice with a fork. Drizzle the shahi jeera and ghee over the surface. Scatter the reserved fried onions on top. Serve immediately.
+9. Serve. Uncover the pulao and gently fluff the top layer of rice with a fork. Drizzle the shahi jeera and ghee over the surface. Scatter the reserved fried onions on top. Serve immediately.
 
 ---
 

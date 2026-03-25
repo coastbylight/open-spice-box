@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Indian, Mughlai
 course: Main Course
 difficulty: Intermediate
-tags: [dum, quail, bateyr, spinach, hara masala, green sauce, Mughlai, ghee, game birds]
+tags: [indian, dum, quail, bateyr, spinach, hara masala, green sauce, Mughlai, ghee, game birds]
 hero_image_prompt: Small golden-skinned quail nestled in a brilliant emerald-green spinach and herb sauce, scattered with whole mint leaves and pickled onions, served in a dark copper handi, dramatic side lighting, close-up
 seo_title: Dum Ka Bateyr Hara Masala — Quail in Green Herb Sauce, Slow-Cooked
 meta_description: Bateyr hara masala pairs delicate marinated quail with a vivid green spinach, coriander and mint sauce. The dum finish deepens every layer without dulling the brightness.

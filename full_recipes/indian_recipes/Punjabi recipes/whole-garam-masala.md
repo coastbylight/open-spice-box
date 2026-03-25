@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Condiment
 difficulty: Easy
-tags: Punjabi, spice blend, garam masala, pantry staple, foundational, ground spice, gluten-free, vegan
+tags: indian, Punjabi, spice blend, garam masala, pantry staple, foundational, ground spice, gluten-free, vegan
 hero_image_prompt: A wide shallow bowl of freshly ground garam masala, the powder a warm brown-grey with visible flecks of black pepper and the pale gold of ground cardamom, on a dark stone surface with a small heap of whole mixed spices beside it, lit with cool natural light
 seo_title: Whole Garam Masala Recipe — Authentic Punjabi Spice Blend
 meta_description: House-made Punjabi garam masala: eleven whole spices slow-dried and ground to a fragrant powder — the foundational spice blend for Punjabi cooking.
@@ -75,13 +75,13 @@ The slow-drying process (four days over a low tandoor in the original profession
 
 ## Method
 
-1. **Dry the spices.** Preheat the oven to its lowest setting, ideally 50–60°C (120–140°F), which is a "dehydrate" or "warm" setting if your oven has one. Spread all the whole spices in a single layer on a baking sheet lined with parchment. Place in the oven and dry for 30–45 minutes until all the spices feel completely dry to the touch and crackle when broken. Stir or turn them once halfway through. The bay (2 g) leaves (30 g) should be fully crisp; the cardamom pods (100 g) should feel dry and light. Allow to cool completely.
+1. Dry the spices. Preheat the oven to its lowest setting, ideally 50–60°C (120–140°F), which is a "dehydrate" or "warm" setting if your oven has one. Spread all the whole spices in a single layer on a baking sheet lined with parchment. Place in the oven and dry for 30–45 minutes until all the spices feel completely dry to the touch and crackle when broken. Stir or turn them once halfway through. The bay (2 g) leaves (30 g) should be fully crisp; the cardamom pods (100 g) should feel dry and light. Allow to cool completely.
 
    *Alternatively (stovetop):* Dry-roast the spices in a wide, heavy-based pan over the lowest heat, stirring gently and constantly, for 8–10 minutes until they are fragrant and feel completely dry. Do not let them colour significantly. You are drying, not toasting. Cool completely before grinding.
 
-2. **Grind.** Working in batches if necessary, grind the dried spices in a spice grinder or high-powered blender to a fine, even powder. The cardamom pods (90 g) can be ground with the husks. The fibrous husk adds little flavour but grinding smoothly takes patience; alternatively, split the pods and use seeds only for a finer result. Pass the ground masala through a fine sieve to remove any fibrous cardamom husk pieces that haven't ground completely.
+2. Grind. Working in batches if necessary, grind the dried spices in a spice grinder or high-powered blender to a fine, even powder. The cardamom pods (90 g) can be ground with the husks. The fibrous husk adds little flavour but grinding smoothly takes patience; alternatively, split the pods and use seeds only for a finer result. Pass the ground masala through a fine sieve to remove any fibrous cardamom husk pieces that haven't ground completely.
 
-3. **Store.** Transfer to a clean, dry, airtight jar. Label with the date. Store away from direct light and heat.
+3. Store. Transfer to a clean, dry, airtight jar. Label with the date. Store away from direct light and heat.
 
 ---
 

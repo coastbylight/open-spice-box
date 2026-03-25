@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Main / Side
 difficulty: Easy
-tags: [maharashtrian, vegetarian, besan, chickpea-flour, onion, everyday, comfort-food, quick]
+tags: [indian, maharashtrian, vegetarian, besan, chickpea-flour, onion, everyday, comfort-food, quick]
 hero_image_prompt: A wide earthenware plate with a mound of golden-yellow, glossy besan pitley flecked with mustard seeds and curry leaves, a light drizzle of oil on top, served alongside a piece of jowar bhakri on a weathered wooden surface, a few coriander leaves scattered over the surface
 seo_title: Kandyache Pitley — Maharashtrian Onion Besan Preparation
 meta_description: Kandyache Pitley is a Maharashtrian comfort dish of chickpea flour cooked with onion, garlic, mustard seeds and curry leaves into a smooth, thick paste. Everyday food at its most grounding.

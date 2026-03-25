@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved
-tags: Hyderabadi, Andhra, lamb, korma, yogurt, saffron, Mughal, slow-cook, gluten-free
+tags: indian, Hyderabadi, Andhra, lamb, korma, yogurt, saffron, Mughal, slow-cook, gluten-free
 hero_image_prompt: A wide copper serving bowl of rich, amber-hued korma, lamb pieces half-submerged in a glossy, ivory-tinged sauce flecked with gold from saffron, a few whole green cardamom pods resting on the surface, scattered with fresh coriander and mint, shot from slightly above on a dark stone surface with warm, raking light from one side
 seo_title: Hyderabadi Lamb Korma Recipe — Authentic Nizam's Slow-Braised Lamb
 meta_description: Hyderabadi lamb korma: slow-braised lamb in yogurt, chironji, almonds, and poppy seed paste with saffron. A dish from the Nizam's kitchen, made for the home cook.
@@ -77,29 +77,29 @@ The potatoes are traditional and important. They absorb the spiced ghee and sauc
 
 ## Method
 
-1. **Make the nut paste.** After soaking the chironji (100 g) and poppy seeds (30 g), drain and combine them with the blanched almonds (50 g) and dry coconut. Add 4–5 tablespoons of water (200 ml) and blend to a smooth, thick paste — the texture of marzipan. Set aside.
+1. Make the nut paste. After soaking the chironji (100 g) and poppy seeds (30 g), drain and combine them with the blanched almonds (50 g) and dry coconut. Add 4–5 tablespoons of water (200 ml) and blend to a smooth, thick paste — the texture of marzipan. Set aside.
 
-2. **Make the hara masala paste.** Blend the fresh coriander (200 g), mint (100 g), and green chillies (6–8 medium) with a splash of water to a smooth bright-green paste. Set aside.
+2. Make the hara masala paste. Blend the fresh coriander (200 g), mint (100 g), and green chillies (6–8 medium) with a splash of water to a smooth bright-green paste. Set aside.
 
-3. **Fry the potatoes.** Heat the ghee (7 tablespoons) in a large, heavy-bottomed pot (a Dutch oven or a heavy karahi) over medium-high heat. Add the potato quarters and fry, turning occasionally, for 8–10 minutes until golden on most surfaces and just beginning to soften at the edges. Remove with a slotted spoon and set aside on a plate. Leave the ghee in the pot.
+3. Fry the potatoes. Heat the ghee (7 tablespoons) in a large, heavy-bottomed pot (a Dutch oven or a heavy karahi) over medium-high heat. Add the potato quarters and fry, turning occasionally, for 8–10 minutes until golden on most surfaces and just beginning to soften at the edges. Remove with a slotted spoon and set aside on a plate. Leave the ghee in the pot.
 
-4. **Bloom the whole spices.** In the same ghee over medium heat, add the cardamom and cinnamon (1 stick). Let them sizzle for 30–45 seconds — they will puff slightly and begin to release their fragrance into the fat.
+4. Bloom the whole spices. In the same ghee over medium heat, add the cardamom and cinnamon (1 stick). Let them sizzle for 30–45 seconds — they will puff slightly and begin to release their fragrance into the fat.
 
-5. **Caramelise the onions.** Add the sliced onions to the pot and increase the heat to medium-high. Cook, stirring regularly, for 18–22 minutes until they are a deep, even golden brown and smell faintly of caramel. Do not rush this — pale onions will give a flat, raw-tasting korma.
+5. Caramelise the onions. Add the sliced onions to the pot and increase the heat to medium-high. Cook, stirring regularly, for 18–22 minutes until they are a deep, even golden brown and smell faintly of caramel. Do not rush this — pale onions will give a flat, raw-tasting korma.
 
-6. **Build the base.** Reduce the heat to medium. Add the ginger-garlic paste (2 teaspoons) and turmeric (¼ teaspoon) and stir constantly for 1–2 minutes until the raw smell of garlic gives way to something sweet and rounded. Add the red chilli powder (2 teaspoons) and stir for another 30 seconds.
+6. Build the base. Reduce the heat to medium. Add the ginger-garlic paste (2 teaspoons) and turmeric (¼ teaspoon) and stir constantly for 1–2 minutes until the raw smell of garlic gives way to something sweet and rounded. Add the red chilli powder (2 teaspoons) and stir for another 30 seconds.
 
-7. **Cook in the yogurt.** Beat the red chilli powder into the yogurt before adding, then pour the yogurt into the pot in a slow, steady stream, stirring continuously as you pour. This prevents the yogurt from splitting. Continue to cook over medium heat, stirring frequently, for 12–15 minutes until the ghee separates and floats in orange-red pools on the surface of the mixture. This separation is the sign that the base is fully cooked and ready for the meat.
+7. Cook in the yogurt. Beat the red chilli powder into the yogurt before adding, then pour the yogurt into the pot in a slow, steady stream, stirring continuously as you pour. This prevents the yogurt from splitting. Continue to cook over medium heat, stirring frequently, for 12–15 minutes until the ghee separates and floats in orange-red pools on the surface of the mixture. This separation is the sign that the base is fully cooked and ready for the meat.
 
-8. **Add the lamb.** Increase the heat to medium-high and add the lamb pieces. Sauté, turning the pieces to coat them thoroughly in the base, for 6–8 minutes until the lamb is sealed on all surfaces and the mixture is fragrant and beginning to stick slightly to the base of the pot. Add the caraway seeds (20 g) and stir through.
+8. Add the lamb. Increase the heat to medium-high and add the lamb pieces. Sauté, turning the pieces to coat them thoroughly in the base, for 6–8 minutes until the lamb is sealed on all surfaces and the mixture is fragrant and beginning to stick slightly to the base of the pot. Add the caraway seeds (20 g) and stir through.
 
-9. **Add the hara masala.** Stir in the hara masala paste and cook for 3–4 minutes, stirring, as it loses its raw brightness and melds with the base. The colour of the mixture will shift toward a warm olive-green.
+9. Add the hara masala. Stir in the hara masala paste and cook for 3–4 minutes, stirring, as it loses its raw brightness and melds with the base. The colour of the mixture will shift toward a warm olive-green.
 
-10. **Add the nut paste and water.** Stir in the ground nut-spice paste, then add 200 ml of water and the salt (2 teaspoons). Stir everything together and bring to a gentle simmer. Reduce the heat to low, cover partially, and cook for 40–50 minutes, stirring every 10 minutes and adding small splashes of water as needed if the gravy begins to stick. The lamb is ready when it is tender enough that a piece yields easily to gentle pressure but still holds its shape.
+10. Add the nut paste and water. Stir in the ground nut-spice paste, then add 200 ml of water and the salt (2 teaspoons). Stir everything together and bring to a gentle simmer. Reduce the heat to low, cover partially, and cook for 40–50 minutes, stirring every 10 minutes and adding small splashes of water as needed if the gravy begins to stick. The lamb is ready when it is tender enough that a piece yields easily to gentle pressure but still holds its shape.
 
-11. **Wait for ghee to surface, then add potatoes and saffron.** When the ghee rises again to the surface of the gravy — the second signal that the base is fully cooked and the flavours have integrated — add the fried potatoes and the saffron steeped in warm water. Stir gently, cover, and continue cooking for a further 15–20 minutes until the potatoes are completely cooked through and have absorbed the spiced gravy.
+11. Wait for ghee to surface, then add potatoes and saffron. When the ghee rises again to the surface of the gravy — the second signal that the base is fully cooked and the flavours have integrated — add the fried potatoes and the saffron steeped in warm water. Stir gently, cover, and continue cooking for a further 15–20 minutes until the potatoes are completely cooked through and have absorbed the spiced gravy.
 
-12. **Taste and serve.** Adjust for salt. The gravy should be thick, glossy, and coating — not watery. If it is too loose, remove the lid and cook over medium heat for a few minutes to reduce. Serve immediately.
+12. Taste and serve. Adjust for salt. The gravy should be thick, glossy, and coating — not watery. If it is too loose, remove the lid and cook over medium heat for a few minutes to reduce. Serve immediately.
 
 ---
 

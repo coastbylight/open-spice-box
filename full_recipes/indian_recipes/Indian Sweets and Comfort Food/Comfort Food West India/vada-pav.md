@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Mumbai street food
 course: Street Food
 difficulty: Medium
-tags: Mumbai, Maharashtra, street food, potato, fried, sandwich, besan, vegetarian
+tags: comfort food, indian, Mumbai, Maharashtra, street food, potato, fried, sandwich, besan, vegetarian
 hero_image_prompt: A vada pav held in two hands against a blurred Mumbai street background, the pav cut open and generously spread with green chutney, the golden vada visible in the center, dry garlic chutney dusted over the top, natural daylight, candid composition
 seo_title: Vada Pav Recipe — Mumbai's Famous Spiced Potato Street Sandwich
 meta_description: Authentic vada pav: spiced potato balls in a crisp besan shell, loaded with green, tamarind, and dry garlic chutneys in soft pav. Mumbai's definitive street food.
@@ -80,19 +80,19 @@ The vada filling is improved enormously by using a potato that has been boiled a
 
 ## Method
 
-1. **Make the vada filling.** Heat 1 tablespoon of oil in a pan over medium heat. Add mustard seeds (10 g) and let them pop and sputter for 30 seconds. Add curry leaves (20 g) — they will sizzle and crisp immediately. Add ginger (20 g), garlic (3 cloves), and green chillies (20 g); cook for 1 minute until fragrant. Add turmeric (10 g) and stir for 10 seconds. Remove from heat.
+1. Make the vada filling. Heat 1 tablespoon of oil in a pan over medium heat. Add mustard seeds (10 g) and let them pop and sputter for 30 seconds. Add curry leaves (20 g) — they will sizzle and crisp immediately. Add ginger (20 g), garlic (3 cloves), and green chillies (20 g); cook for 1 minute until fragrant. Add turmeric (10 g) and stir for 10 seconds. Remove from heat.
 
-2. **Mash and season.** Mash the cooled boiled potatoes (1 kg) to a smooth consistency — a few small lumps are acceptable but avoid large chunks. Add the tempered spice mixture, fresh coriander (20 g), and salt (5 g). Mix well. Taste and adjust salt. The filling should be fragrant with mustard and curry leaf, mildly hot, and properly seasoned.
+2. Mash and season. Mash the cooled boiled potatoes (1 kg) to a smooth consistency — a few small lumps are acceptable but avoid large chunks. Add the tempered spice mixture, fresh coriander (20 g), and salt (5 g). Mix well. Taste and adjust salt. The filling should be fragrant with mustard and curry leaf, mildly hot, and properly seasoned.
 
-3. **Shape the vadas.** Divide the potato mixture into 8 equal portions (approximately 130 g each). Roll each into a smooth ball between your palms. Place on a tray and refrigerate for 15 minutes to firm up, which helps them hold their shape during coating and frying.
+3. Shape the vadas. Divide the potato mixture into 8 equal portions (approximately 130 g each). Roll each into a smooth ball between your palms. Place on a tray and refrigerate for 15 minutes to firm up, which helps them hold their shape during coating and frying.
 
-4. **Make the batter.** Whisk together besan, turmeric (5 g), red chilli powder (5 g), ajwain (1 tsp), and salt (1 tsp). Add cold water gradually to form a thick, smooth batter — it should coat the back of a spoon heavily. Rest for 5 minutes.
+4. Make the batter. Whisk together besan, turmeric (5 g), red chilli powder (5 g), ajwain (1 tsp), and salt (1 tsp). Add cold water gradually to form a thick, smooth batter — it should coat the back of a spoon heavily. Rest for 5 minutes.
 
-5. **Coat and fry the vadas.** Heat oil in a deep pan to 175°C. Working one at a time, dip each potato ball into the batter, turning to coat completely and thickly. Lower gently into the oil. Fry 2–3 at a time for 4–5 minutes, turning, until the batter is deeply golden and the coating feels firm. Remove with a slotted spoon and drain.
+5. Coat and fry the vadas. Heat oil in a deep pan to 175°C. Working one at a time, dip each potato ball into the batter, turning to coat completely and thickly. Lower gently into the oil. Fry 2–3 at a time for 4–5 minutes, turning, until the batter is deeply golden and the coating feels firm. Remove with a slotted spoon and drain.
 
-6. **Toast the pav.** Heat a flat pan or tawa. Spread a small amount of butter on the cut faces of the pav. Toast, cut side down, until golden and lightly crisped on the inside.
+6. Toast the pav. Heat a flat pan or tawa. Spread a small amount of butter on the cut faces of the pav. Toast, cut side down, until golden and lightly crisped on the inside.
 
-7. **Assemble.** Spread green chutney generously on one face of the pav, tamarind chutney on the other. Dust or smear dry garlic chutney over the vada or directly inside the pav. Insert the hot vada, close the pav around it, and serve immediately.
+7. Assemble. Spread green chutney generously on one face of the pav, tamarind chutney on the other. Dust or smear dry garlic chutney over the vada or directly inside the pav. Insert the hot vada, close the pav around it, and serve immediately.
 
 ---
 

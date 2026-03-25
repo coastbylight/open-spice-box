@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Hard
-tags: Rajasthani, lamb, mutton, Mathania chilli, red curry, ghee, smoky, fiery, celebration, traditional
+tags: indian, Rajasthani, lamb, mutton, Mathania chilli, red curry, ghee, smoky, fiery, celebration, traditional
 hero_image_prompt: A heavy cast-iron pot of laal maans, the lamb pieces in a fiery deep-red gravy, the surface glossed with pools of clarified ghee, a char-blackened chilli just visible at the edge, on a stone surface with dramatic side light and the faint suggestion of smoke
 seo_title: Laal Maans Recipe — Authentic Rajasthani Red Lamb Curry with Mathania Chillies
 meta_description: Traditional Rajasthani laal maans: bone-in lamb marinated in yoghurt and braised with Mathania chillies and ghee in a fiery red gravy, finished with coal-smoked whole chillies.
@@ -68,23 +68,23 @@ The coal-smoking finish at the end (burning a piece of natural charcoal with clo
 
 ## Method
 
-1. **Marinate the lamb.** Combine the lamb with half the yoghurt (100 g), half the ginger-garlic paste (33 g), half the Mathania chilli paste (50 g), and a pinch of salt (7 g). Mix well and leave to marinate for at least 2 hours, preferably overnight in the refrigerator.
+1. Marinate the lamb. Combine the lamb with half the yoghurt (100 g), half the ginger-garlic paste (33 g), half the Mathania chilli paste (50 g), and a pinch of salt (7 g). Mix well and leave to marinate for at least 2 hours, preferably overnight in the refrigerator.
 
-2. **Prepare the chilli paste.** If using whole dried Mathania chillies: soak 12–15 large dried chillies in warm water for 30 minutes, drain, and blend with a tablespoon of water to a smooth paste. Set aside.
+2. Prepare the chilli paste. If using whole dried Mathania chillies: soak 12–15 large dried chillies in warm water for 30 minutes, drain, and blend with a tablespoon of water to a smooth paste. Set aside.
 
-3. **Bloom the spices.** Heat the ghee (65 g) in a large, heavy-based pot over medium-high heat. Add the cinnamon, bay leaf (1 g), and black cardamom. Stir for 30 seconds. Do not add the cloves (3–4) yet. They go in with the dhungar at the end.
+3. Bloom the spices. Heat the ghee (65 g) in a large, heavy-based pot over medium-high heat. Add the cinnamon, bay leaf (1 g), and black cardamom. Stir for 30 seconds. Do not add the cloves (3–4) yet. They go in with the dhungar at the end.
 
-4. **Fry and crush the onions (130 g).** Add the chopped onions and fry over medium-high heat, stirring frequently, for 12–15 minutes until deep golden brown. Add the chopped garlic (13 g) and stir for 2 minutes. Now, crush the onions. Using a heavy spoon or potato masher, press down on the fried onions in the pan, adding 2–3 tablespoons of hot water to help, mashing until roughly crushed. This creates a denser masala base than leaving the onions whole.
+4. Fry and crush the onions (130 g). Add the chopped onions and fry over medium-high heat, stirring frequently, for 12–15 minutes until deep golden brown. Add the chopped garlic (13 g) and stir for 2 minutes. Now, crush the onions. Using a heavy spoon or potato masher, press down on the fried onions in the pan, adding 2–3 tablespoons of hot water to help, mashing until roughly crushed. This creates a denser masala base than leaving the onions whole.
 
-5. **First bhunao.** Add the marinated lamb with all its marinade to the pot. Stir well. Over medium-high heat, cook uncovered, stirring regularly, until all the marinade moisture has completely evaporated, about 15–18 minutes. The meat should be clinging with dry, sticky masala.
+5. First bhunao. Add the marinated lamb with all its marinade to the pot. Stir well. Over medium-high heat, cook uncovered, stirring regularly, until all the marinade moisture has completely evaporated, about 15–18 minutes. The meat should be clinging with dry, sticky masala.
 
-6. **Add remaining chilli, paste, coriander, yoghurt.** Add the remaining Mathania chilli paste, remaining ginger-garlic paste, coriander powder (6 teaspoons), and remaining yoghurt. Stir well. Again cook until this moisture is completely reduced and the meat is coated in thick, dry masala, another 10–12 minutes.
+6. Add remaining chilli, paste, coriander, yoghurt. Add the remaining Mathania chilli paste, remaining ginger-garlic paste, coriander powder (6 teaspoons), and remaining yoghurt. Stir well. Again cook until this moisture is completely reduced and the meat is coated in thick, dry masala, another 10–12 minutes.
 
-7. **Braise.** Add 400–500 ml of hot water. Stir well, scraping the base of the pot. Bring to a boil, then reduce to a strong simmer. Cook, partially covered, for 30–35 minutes until the lamb is approximately three-quarters cooked, just beginning to yield but still with some resistance.
+7. Braise. Add 400–500 ml of hot water. Stir well, scraping the base of the pot. Bring to a boil, then reduce to a strong simmer. Cook, partially covered, for 30–35 minutes until the lamb is approximately three-quarters cooked, just beginning to yield but still with some resistance.
 
-8. **Remove the lamb, finish the gravy.** Remove the lamb pieces to a plate. Add the tomato purée (100 ml) to the gravy and cook over medium heat for 5–6 minutes until it integrates and the gravy deepens in colour. Return the lamb to the pot, stir, and cook for a further 10 minutes until fully cooked through. Add the clove powder (0.5 g). Taste and adjust salt. The oil (ghee) should be visible and pooling on the surface.
+8. Remove the lamb, finish the gravy. Remove the lamb pieces to a plate. Add the tomato purée (100 ml) to the gravy and cook over medium heat for 5–6 minutes until it integrates and the gravy deepens in colour. Return the lamb to the pot, stir, and cook for a further 10 minutes until fully cooked through. Add the clove powder (0.5 g). Taste and adjust salt. The oil (ghee) should be visible and pooling on the surface.
 
-9. **Dhungar (coal smoking).** Have a small piece of natural charcoal ready. Using tongs, hold it directly over a gas flame until it glows red-hot (about 5 minutes). Place a small heatproof cup or a piece of foil formed into a cup in the centre of the pot, among the lamb. Place the glowing charcoal in the cup. Add 2–3 cloves and pour 1 teaspoon of ghee over the charcoal. It will immediately begin to smoke. Cover the pot tightly with its lid and leave for 2–3 minutes to trap the smoke. Remove the charcoal cup and lid. Serve immediately.
+9. Dhungar (coal smoking). Have a small piece of natural charcoal ready. Using tongs, hold it directly over a gas flame until it glows red-hot (about 5 minutes). Place a small heatproof cup or a piece of foil formed into a cup in the centre of the pot, among the lamb. Place the glowing charcoal in the cup. Add 2–3 cloves and pour 1 teaspoon of ghee over the charcoal. It will immediately begin to smoke. Cover the pot tightly with its lid and leave for 2–3 minutes to trap the smoke. Remove the charcoal cup and lid. Serve immediately.
 
 ---
 

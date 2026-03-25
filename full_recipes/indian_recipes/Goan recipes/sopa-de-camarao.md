@@ -6,7 +6,7 @@ source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Starter
 difficulty: Easy
-tags: Goan, prawns, soup, Portuguese influence, bisque, gluten-free, seafood
+tags: indian, Goan, prawns, soup, Portuguese influence, bisque, gluten-free, seafood
 hero_image_prompt: A pale ivory bowl of sopa de camarão, a smooth, velvety prawn and potato soup with golden tones, garnished with a small poached prawn and a scattering of fine herbs, photographed from above on a white marble surface in soft natural light
 seo_title: Sopa de Camarão — Goan Prawn Soup (Portuguese-Style)
 meta_description: Sopa de camarão: a Goan-Portuguese prawn bisque of potato, onion, and rich prawn stock, finished with butter and egg yolk for a velvety, luxurious texture.
@@ -57,17 +57,17 @@ This is not an everyday dish but it is not complicated. Techniques that are unus
 
 ## Method
 
-1. **Make the prawn stock.** Bring 1 litre of water to a boil in a pot. Add the whole prawns (200 g) and cook for 5–6 minutes until pink and cooked through. Remove the prawns with a slotted spoon and peel them, setting the peeled flesh aside. Return the shells to the pot and simmer for a further 10 minutes. Strain through a fine sieve — this is your prawn stock. Discard the shells. Roughly chop the peeled prawn meat.
+1. Make the prawn stock. Bring 1 litre of water to a boil in a pot. Add the whole prawns (200 g) and cook for 5–6 minutes until pink and cooked through. Remove the prawns with a slotted spoon and peel them, setting the peeled flesh aside. Return the shells to the pot and simmer for a further 10 minutes. Strain through a fine sieve — this is your prawn stock. Discard the shells. Roughly chop the peeled prawn meat.
 
-2. **Cook the potato and onion.** Place the quartered potatoes (500 g) and sliced onions (300 g) in a pot with the prawn stock. Bring to a boil and cook for 15–18 minutes until the potatoes are completely tender when pierced.
+2. Cook the potato and onion. Place the quartered potatoes (500 g) and sliced onions (300 g) in a pot with the prawn stock. Bring to a boil and cook for 15–18 minutes until the potatoes are completely tender when pierced.
 
-3. **Sieve for smoothness.** Pass the cooked potato and onion through a fine sieve or food mill, pressing well. Return the sieved purée to the stock in the pot — this creates the body of the soup. Stir to combine.
+3. Sieve for smoothness. Pass the cooked potato and onion through a fine sieve or food mill, pressing well. Return the sieved purée to the stock in the pot — this creates the body of the soup. Stir to combine.
 
-4. **Add prawns and butter (30 g).** Add the chopped prawn meat to the pot. Return to a gentle heat and bring almost to a simmer. Add the butter, a small piece at a time, stirring to incorporate each piece before adding the next. The soup should be glossy and slightly enriched.
+4. Add prawns and butter (30 g). Add the chopped prawn meat to the pot. Return to a gentle heat and bring almost to a simmer. Add the butter, a small piece at a time, stirring to incorporate each piece before adding the next. The soup should be glossy and slightly enriched.
 
-5. **Finish with egg liaison.** In a small bowl, whisk the egg yolks (2) with the milk until combined. Remove the soup from the heat. Ladle a couple of spoonfuls of the hot soup into the egg-milk mixture, whisking constantly to temper it (this prevents the eggs from scrambling). Pour the tempered mixture back into the soup pot, stirring gently. Do not return to a boil.
+5. Finish with egg liaison. In a small bowl, whisk the egg yolks (2) with the milk until combined. Remove the soup from the heat. Ladle a couple of spoonfuls of the hot soup into the egg-milk mixture, whisking constantly to temper it (this prevents the eggs from scrambling). Pour the tempered mixture back into the soup pot, stirring gently. Do not return to a boil.
 
-6. **Season and serve.** Taste and adjust salt (2 teaspoons). Serve immediately in warmed bowls.
+6. Season and serve. Taste and adjust salt (2 teaspoons). Serve immediately in warmed bowls.
 
 ---
 

@@ -12,7 +12,7 @@ total_time: Approximately 20–24 hours (mostly hands-off)
 difficulty: Medium
 cuisine: Tamil Nadu / South Indian
 course: Breakfast / Tiffin
-tags: [Tamil Nadu, South India, idli, fermented, steamed, rice, urad dal, breakfast, gluten-free, vegan]
+tags: [indian, Tamil Nadu, South India, idli, fermented, steamed, rice, urad dal, breakfast, gluten-free, vegan]
 ingredients_key: [parboiled rice, urad dal, poha, fenugreek seeds]
 equipment_key: [wet grinder or blender, idli steamer, idli moulds]
 hero_image_prompt: A plate of six white, cloud-soft idlis served on a banana leaf with a small bowl of golden sambar and bright green coconut chutney, lit with soft morning light from the side, a few curry leaves scattered nearby
@@ -69,21 +69,21 @@ The practical insight worth holding: fermentation temperature matters more than 
 
 ## Method
 
-1. **Soak the grains.** Rinse the parboiled rice (300 g) under cold water until it runs clear. Place in a large bowl with fresh cold water and soak for 6 hours. In a separate bowl, combine the urad dal (100 g), poha (30 g), and fenugreek seeds (1 teaspoon). Cover with cold water and soak for 6 hours. Keep both bowls at room temperature.
+1. Soak the grains. Rinse the parboiled rice (300 g) under cold water until it runs clear. Place in a large bowl with fresh cold water and soak for 6 hours. In a separate bowl, combine the urad dal (100 g), poha (30 g), and fenugreek seeds (1 teaspoon). Cover with cold water and soak for 6 hours. Keep both bowls at room temperature.
 
-2. **Grind the urad dal.** Drain the urad dal mixture and transfer to a wet grinder or high-powered blender. Add cold water in small additions — start with about 50 ml — and grind continuously for 15–20 minutes, scraping down the sides periodically. The finished batter should be extraordinarily smooth, light, and airy: it should look and feel almost like a stiff mousse, clinging to a spoon in soft peaks. Cold water (even a few ice cubes added to a blender) helps prevent the motor from heating the batter and killing the natural cultures. Transfer to a large, deep bowl.
+2. Grind the urad dal. Drain the urad dal mixture and transfer to a wet grinder or high-powered blender. Add cold water in small additions — start with about 50 ml — and grind continuously for 15–20 minutes, scraping down the sides periodically. The finished batter should be extraordinarily smooth, light, and airy: it should look and feel almost like a stiff mousse, clinging to a spoon in soft peaks. Cold water (even a few ice cubes added to a blender) helps prevent the motor from heating the batter and killing the natural cultures. Transfer to a large, deep bowl.
 
-3. **Grind the rice.** Drain the soaked rice and transfer to the grinder or blender. Add cold water gradually (about 80–100 ml in total) and grind to a slightly coarse, gritty texture — not as smooth as the dal batter. This gentle coarseness is deliberate: it gives the idly a faint bite and helps the steamed cake hold its shape.
+3. Grind the rice. Drain the soaked rice and transfer to the grinder or blender. Add cold water gradually (about 80–100 ml in total) and grind to a slightly coarse, gritty texture — not as smooth as the dal batter. This gentle coarseness is deliberate: it gives the idly a faint bite and helps the steamed cake hold its shape.
 
-4. **Combine and ferment.** Add the ground rice batter to the urad dal batter in the large bowl. Add the salt (1 teaspoon). Using your clean hand, mix the two batters together thoroughly with a circular folding motion for 2–3 minutes — this hand-mixing is not just practical, the warmth of your hand and the motion itself encourage aeration and the introduction of wild yeasts from your skin, which contributes to fermentation. The combined batter should feel slightly thick and airy. Cover the bowl with a loose lid or cloth and leave in a warm place (ideally 28–32°C) for 8–12 hours. The batter is ready when it has risen noticeably, the surface looks domed and slightly porous, and it smells gently sour.
+4. Combine and ferment. Add the ground rice batter to the urad dal batter in the large bowl. Add the salt (1 teaspoon). Using your clean hand, mix the two batters together thoroughly with a circular folding motion for 2–3 minutes — this hand-mixing is not just practical, the warmth of your hand and the motion itself encourage aeration and the introduction of wild yeasts from your skin, which contributes to fermentation. The combined batter should feel slightly thick and airy. Cover the bowl with a loose lid or cloth and leave in a warm place (ideally 28–32°C) for 8–12 hours. The batter is ready when it has risen noticeably, the surface looks domed and slightly porous, and it smells gently sour.
 
-5. **Prepare for steaming.** Lightly grease each hollow of the idli moulds with a little oil or ghee. Fill each hollow to about three-quarters full with fermented batter — the idlis will expand slightly as they steam. Do not overfill.
+5. Prepare for steaming. Lightly grease each hollow of the idli moulds with a little oil or ghee. Fill each hollow to about three-quarters full with fermented batter — the idlis will expand slightly as they steam. Do not overfill.
 
-6. **Steam.** Pour water into the base of your idli steamer or a large pot with a tight-fitting lid. Bring to a rolling boil. Stack the filled idli plates into the steamer rack, lower the rack into the steamer, cover tightly, and steam on high heat for 10–12 minutes. The idlis are done when a toothpick inserted into the centre of one comes out clean, and the surface of each idli looks set and faintly shiny.
+6. Steam. Pour water into the base of your idli steamer or a large pot with a tight-fitting lid. Bring to a rolling boil. Stack the filled idli plates into the steamer rack, lower the rack into the steamer, cover tightly, and steam on high heat for 10–12 minutes. The idlis are done when a toothpick inserted into the centre of one comes out clean, and the surface of each idli looks set and faintly shiny.
 
-7. **Rest and unmould.** Remove the rack from the steamer and allow the idlis to rest for 2 minutes — this brief rest allows the steam trapped inside to settle and makes unmoulding cleaner. Use a small wet spoon or spatula to gently ease each idli out. The finished idly should be perfectly round, cloud-white, and spring back very slightly when pressed.
+7. Rest and unmould. Remove the rack from the steamer and allow the idlis to rest for 2 minutes — this brief rest allows the steam trapped inside to settle and makes unmoulding cleaner. Use a small wet spoon or spatula to gently ease each idli out. The finished idly should be perfectly round, cloud-white, and spring back very slightly when pressed.
 
-8. **Serve immediately** with sambar and coconut chutney alongside.
+8. Serve immediately with sambar and coconut chutney alongside.
 
 ---
 

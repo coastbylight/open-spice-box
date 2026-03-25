@@ -10,7 +10,7 @@ total_time: 1 hour 15 minutes (plus marinating)
 difficulty: Intermediate
 cuisine: Punjabi / Delhi
 course: Main Course
-tags: [chicken, butter, cream, tomato, punjabi, delhi, restaurant-style, tandoor, popular]
+tags: [indian, chicken, butter, cream, tomato, punjabi, delhi, restaurant-style, tandoor, popular]
 ingredients_key: [chicken, butter, tomato, cream, kasuri methi, cashews, garam masala]
 hero_image_prompt: A deep copper bowl of butter chicken sauce, glossy and deep terracotta-orange, with pieces of charred tandoori chicken half-submerged, a curl of cream swirled on top, green coriander, a warm tandoori roti leaning against the bowl, moody warm light
 seo_title: Murgh Makhni Recipe – Authentic Butter Chicken from Moti Mahal, Delhi

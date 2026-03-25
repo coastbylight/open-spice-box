@@ -10,7 +10,7 @@ yield: 4 servings
 prep_time: 20 minutes
 cook_time: 50 minutes
 total_time: 1 hour 10 minutes
-tags: [kashmiri dum aloo, kashmiri brahmin recipe, no onion no garlic, baby potatoes, dum cooking, mustard oil, kashmiri chilli, vegetarian kashmiri, satvik]
+tags: [indian, kashmiri dum aloo, kashmiri brahmin recipe, no onion no garlic, baby potatoes, dum cooking, mustard oil, kashmiri chilli, vegetarian kashmiri, satvik]
 ingredients_key: [baby potatoes, mustard oil, kashmiri red chilli, yogurt, fennel powder]
 hero_image_prompt: Kashmiri Dum Aloo in a copper karahi, whole baby potatoes coated in vivid crimson-red gravy, dramatic overhead angle, steam rising, mustard oil glisten visible on the surface, rustic dark stone background, warm side lighting
 seo_title: Kashmiri Dum Aloo Recipe — Authentic Brahmin Style with No Onion or Garlic

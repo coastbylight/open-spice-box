@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy
-tags: Punjabi, vegetarian, aubergine, eggplant, roasted, smoky, kadhai, vegan, weeknight
+tags: indian, Punjabi, vegetarian, aubergine, eggplant, roasted, smoky, kadhai, vegan, weeknight
 hero_image_prompt: A serving bowl of baingan ka bhartha, the smoky aubergine mash a deep burnished brown with flecks of tomato red and green coriander, on a worn stone surface with a small pile of hot chapati beside it, lit with warm amber light
 seo_title: Baingan Ka Bhartha Recipe — Punjabi Roasted Aubergine
 meta_description: Authentic Punjabi baingan ka bhartha: whole aubergine fire-roasted until smoky, then mashed and cooked with onion, tomato, and spices in a hot kadhai.
@@ -64,19 +64,19 @@ If you do not have a gas hob or tandoor, a very hot oven grill will char the aub
 
 ## Method
 
-1. **Roast the aubergine.** Place the whole aubergines directly over the open flame of a gas hob on medium-high heat. Turn every 2–3 minutes with tongs until the skin is completely blackened and the aubergine feels soft and collapsed throughout; this takes 12–18 minutes depending on size. The aubergine should feel very soft when pressed gently and may leak juice. Transfer to a plate and allow to cool until handleable.
+1. Roast the aubergine. Place the whole aubergines directly over the open flame of a gas hob on medium-high heat. Turn every 2–3 minutes with tongs until the skin is completely blackened and the aubergine feels soft and collapsed throughout; this takes 12–18 minutes depending on size. The aubergine should feel very soft when pressed gently and may leak juice. Transfer to a plate and allow to cool until handleable.
 
-2. **Peel and mash.** Peel away and discard the charred skin; it should come off easily in large pieces. Remove and discard the stem. Place the roasted flesh in a bowl and mash coarsely with a fork. Do not over-process; a slightly textured mash is more interesting than a smooth purée.
+2. Peel and mash. Peel away and discard the charred skin; it should come off easily in large pieces. Remove and discard the stem. Place the roasted flesh in a bowl and mash coarsely with a fork. Do not over-process; a slightly textured mash is more interesting than a smooth purée.
 
-3. **Build the masala.** Heat the oil in a wide kadhai over medium heat. Add the cumin seeds (¾ teaspoon); when they splutter and darken, add the sliced onions. Fry, stirring regularly, until the onions are light golden brown, about 8 minutes. Add the ginger-garlic paste and stir for 1 minute until fragrant. Add the red chilli powder (½ teaspoon) and coriander (8 g) powder (1 teaspoon), stir for 30 seconds.
+3. Build the masala. Heat the oil in a wide kadhai over medium heat. Add the cumin seeds (¾ teaspoon); when they splutter and darken, add the sliced onions. Fry, stirring regularly, until the onions are light golden brown, about 8 minutes. Add the ginger-garlic paste and stir for 1 minute until fragrant. Add the red chilli powder (½ teaspoon) and coriander (8 g) powder (1 teaspoon), stir for 30 seconds.
 
-4. **Add tomatoes (100 g).** Add the chopped tomatoes to the pan and cook, mashing them down with the back of the spoon, for 5–6 minutes until the tomatoes are completely broken down and the oil begins to separate and pool at the edges of the masala. This is the sign the masala is properly cooked.
+4. Add tomatoes (100 g). Add the chopped tomatoes to the pan and cook, mashing them down with the back of the spoon, for 5–6 minutes until the tomatoes are completely broken down and the oil begins to separate and pool at the edges of the masala. This is the sign the masala is properly cooked.
 
-5. **Fold in the aubergine.** Add the mashed roasted aubergine and the salt (¾ teaspoon) to the masala. Mix well, pressing and folding, until thoroughly combined. Cook for a further 3–4 minutes on medium heat, stirring regularly.
+5. Fold in the aubergine. Add the mashed roasted aubergine and the salt (¾ teaspoon) to the masala. Mix well, pressing and folding, until thoroughly combined. Cook for a further 3–4 minutes on medium heat, stirring regularly.
 
-6. **Finish.** Add the garam masala (½ teaspoon) and stir through. Taste and adjust salt. Turn the heat off.
+6. Finish. Add the garam masala (½ teaspoon) and stir through. Taste and adjust salt. Turn the heat off.
 
-7. **Serve.** Transfer to a serving dish. Scatter the diced raw onion (70 g) over the top, followed by the green chillies (1–2 small) and fresh coriander. Serve immediately.
+7. Serve. Transfer to a serving dish. Scatter the diced raw onion (70 g) over the top, followed by the green chillies (1–2 small) and fresh coriander. Serve immediately.
 
 ---
 

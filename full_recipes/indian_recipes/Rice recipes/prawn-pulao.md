@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Medium
-tags: Goan, rice, prawn, seafood, basmati, ghee, pulao, coastal, gluten-free
+tags: indian, Goan, rice, prawn, seafood, basmati, ghee, pulao, coastal, gluten-free
 hero_image_prompt: A wide serving platter of prawn pulao, the long basmati grains pale and slightly pink from the prawn stock, a few whole prawns arranged over the top and garnished with a sprig of coriander, on a wooden surface with bright coastal light
 seo_title: Prawn Pulao Recipe — Goan Basmati Rice in Prawn Stock
 meta_description: Goan prawn pulao: basmati rice fried in ghee with bay leaf, peppercorn, tomato, and green chilli, then cooked in rich prawn stock with fresh prawns until fragrant and tender.
@@ -66,19 +66,19 @@ The technique is straightforward: ghee, whole spices, tomato, green chilli, rice
 
 ## Method
 
-1. **Make the prawn stock (350 ml).** Peel the prawns (300 g) and set the flesh aside in the refrigerator. Place the shells and heads in a small pot with 600 ml cold water (600 ml), the peppercorns (¼ teaspoon), and the bay (1 g) leaf (1). Bring to a boil, then simmer uncovered for 15–20 minutes until reduced by roughly a third. Strain and discard the solids. Season the stock lightly with salt (¼ teaspoon, plus salt in stock). You should have approximately 400 ml; measure out 350 ml for the pulao.
+1. Make the prawn stock (350 ml). Peel the prawns (300 g) and set the flesh aside in the refrigerator. Place the shells and heads in a small pot with 600 ml cold water (600 ml), the peppercorns (¼ teaspoon), and the bay (1 g) leaf (1). Bring to a boil, then simmer uncovered for 15–20 minutes until reduced by roughly a third. Strain and discard the solids. Season the stock lightly with salt (¼ teaspoon, plus salt in stock). You should have approximately 400 ml; measure out 350 ml for the pulao.
 
-2. **Soak the rice.** Rinse the basmati in cold water until the water runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain through a sieve.
+2. Soak the rice. Rinse the basmati in cold water until the water runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain through a sieve.
 
-3. **Build the base.** Heat 35 g of ghee (50 g) in a wide, heavy-based pot with a lid over medium heat. Add the bay leaves, whole peppercorns (¼ teaspoon), and cloves (3). Stir for 20 seconds. Add the chopped tomatoes (65 g) and slit green chillies (2). Cook for 3–4 minutes until the tomatoes soften.
+3. Build the base. Heat 35 g of ghee (50 g) in a wide, heavy-based pot with a lid over medium heat. Add the bay leaves, whole peppercorns (¼ teaspoon), and cloves (3). Stir for 20 seconds. Add the chopped tomatoes (65 g) and slit green chillies (2). Cook for 3–4 minutes until the tomatoes soften.
 
-4. **Fry the rice.** Add the drained soaked rice to the pot. Stir and fry, turning the rice in the ghee and tomato mixture, for 2–3 minutes until the grains are well coated and separated.
+4. Fry the rice. Add the drained soaked rice to the pot. Stir and fry, turning the rice in the ghee and tomato mixture, for 2–3 minutes until the grains are well coated and separated.
 
-5. **Add stock, prawns, and cook.** Add the 350 ml of prawn stock and the salt. Stir once. Reserve 4–6 of the largest prawns for garnish. Add the remaining prawns to the pot. Bring to a boil over high heat, then reduce to the lowest simmer. Cover tightly and cook for 18–20 minutes until the rice has absorbed all the stock and is cooked through. The prawns will be cooked through by this point.
+5. Add stock, prawns, and cook. Add the 350 ml of prawn stock and the salt. Stir once. Reserve 4–6 of the largest prawns for garnish. Add the remaining prawns to the pot. Bring to a boil over high heat, then reduce to the lowest simmer. Cover tightly and cook for 18–20 minutes until the rice has absorbed all the stock and is cooked through. The prawns will be cooked through by this point.
 
-6. **Fry the garnish prawns.** While the rice cooks, heat the remaining 15 g of ghee in a small pan over high heat. Add the reserved large prawns with a pinch of salt. Fry for 1–2 minutes each side until pink, lightly golden, and cooked through. Set aside.
+6. Fry the garnish prawns. While the rice cooks, heat the remaining 15 g of ghee in a small pan over high heat. Add the reserved large prawns with a pinch of salt. Fry for 1–2 minutes each side until pink, lightly golden, and cooked through. Set aside.
 
-7. **Serve.** Gently fluff the pulao with a fork. Transfer to a serving platter and arrange the fried prawns over the top.
+7. Serve. Gently fluff the pulao with a fork. Transfer to a serving platter and arrange the fried prawns over the top.
 
 ---
 

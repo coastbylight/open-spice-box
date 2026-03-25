@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Andhra / Telugu
 course: Dessert
 difficulty: Intermediate
-tags: [andhra, telugu, south india, dessert, rice, jaggery, sesame, deep fried, sankranti, festival sweet, vegetarian, gluten free]
+tags: [indian, andhra, telugu, south india, dessert, rice, jaggery, sesame, deep fried, sankranti, festival sweet, vegetarian, gluten free]
 hero_image_prompt: A stack of ariselu on a dark ceramic plate, their sesame-crusted surfaces deep brown and slightly irregular, one broken open to show the dense rice-jaggery interior, warm side light revealing the texture
 seo_title: Ariselu Recipe: Andhra Telugu Sankranti Festival Sweet
 meta_description: Ariselu are Andhra deep-fried rice and jaggery rounds crusted with sesame seeds. A Sankranti festival sweet requiring soaked rice and precise jaggery syrup work. Rich, dense, and distinctly Telugu.

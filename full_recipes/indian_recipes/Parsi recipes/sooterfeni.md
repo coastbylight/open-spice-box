@@ -6,7 +6,7 @@ source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Medium
-tags: Parsi, dessert, phyllo, saffron, pistachio, fried, sugar syrup, Zoroastrian, celebration
+tags: indian, Parsi, dessert, phyllo, saffron, pistachio, fried, sugar syrup, Zoroastrian, celebration
 hero_image_prompt: A plate of sooterfeni — delicate golden circles of fried shredded pastry soaked in saffron-golden syrup, sprinkled with bright green pistachios and cardamom, photographed from above on a dark plate with warm light
 seo_title: Sooterfeni — Parsi Fried Shredded Phyllo in Saffron Syrup
 meta_description: Sooterfeni: Parsi celebration dessert of shredded phyllo twisted into circles, flash-fried in ghee, then soaked in saffron sugar syrup and garnished with pistachios and almonds.
@@ -59,17 +59,17 @@ The critical instruction in the original recipe is emphatic: do not let the past
 
 ## Method
 
-1. **Make the sugar (500 g) syrup.** Combine sugar and water (300 ml) in a pot. Bring to a boil and simmer, without stirring, until it reaches single-string consistency. Stir in the steeped saffron and cardamom powder (1 g). Remove from heat and allow to cool until warm (not hot).
+1. Make the sugar (500 g) syrup. Combine sugar and water (300 ml) in a pot. Bring to a boil and simmer, without stirring, until it reaches single-string consistency. Stir in the steeped saffron and cardamom powder (1 g). Remove from heat and allow to cool until warm (not hot).
 
-2. **Shape the pastry.** Take a small handful of shredded phyllo (400 g) strands at a time. Twist them loosely into a small round circle (about 6 cm diameter), like a small bird's nest. The texture should be loose rather than compressed. This allows the ghee to circulate during frying.
+2. Shape the pastry. Take a small handful of shredded phyllo (400 g) strands at a time. Twist them loosely into a small round circle (about 6 cm diameter), like a small bird's nest. The texture should be loose rather than compressed. This allows the ghee to circulate during frying.
 
-3. **Fry.** Heat the ghee in a wide deep pan to 170°C. Place a shaped circle in a perforated spoon or spider strainer. Lower into the hot ghee and fry for exactly 30 seconds. The pastry should be barely set, still pale, and just beginning to crisp. Remove immediately. It must not turn golden or brown.
+3. Fry. Heat the ghee in a wide deep pan to 170°C. Place a shaped circle in a perforated spoon or spider strainer. Lower into the hot ghee and fry for exactly 30 seconds. The pastry should be barely set, still pale, and just beginning to crisp. Remove immediately. It must not turn golden or brown.
 
-4. **Soak.** Hold the fried circle above the syrup for a moment to drain any excess ghee, then dip thoroughly in the warm syrup for 1 minute, turning to coat. Remove, hold above the syrup for 30 seconds to drain, then transfer to a serving tray.
+4. Soak. Hold the fried circle above the syrup for a moment to drain any excess ghee, then dip thoroughly in the warm syrup for 1 minute, turning to coat. Remove, hold above the syrup for 30 seconds to drain, then transfer to a serving tray.
 
-5. **Garnish.** Sprinkle each piece with chopped pistachios (30 g), slivered almonds (30 g), and a pinch of cardamom while still warm.
+5. Garnish. Sprinkle each piece with chopped pistachios (30 g), slivered almonds (30 g), and a pinch of cardamom while still warm.
 
-6. **Cool to room temperature** before serving.
+6. Cool to room temperature before serving.
 
 ---
 

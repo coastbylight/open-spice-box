@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Snack
 difficulty: Medium
-tags: Awadhi, Lucknow, kebab, mutton, mince, chana dal, shallow-fry, appetiser, Mughal
+tags: indian, Awadhi, Lucknow, kebab, mutton, mince, chana dal, shallow-fry, appetiser, Mughal
 hero_image_prompt: A plate of four deep-golden shammi kebabs on a marble surface, each slightly burnished at the edges, served with a small bowl of mint chutney and rings of raw onion, lit with warm side light that reveals the fine texture of each patty
 seo_title: Shammi Kebab Recipe — Authentic Awadhi Mutton and Dal Patties
 meta_description: Lucknowi shammi kebabs: minced mutton cooked with chana dal and whole spices, ground to a silky paste, shaped into patties, and shallow-fried until golden.
@@ -74,17 +74,17 @@ Awadhi cooking is characterised by this kind of considered layering — the outs
 
 ## Method
 
-1. **Cook the mince and dal.** Place the mutton mince (500 g), chana dal (50 g), ginger (30 g), garlic, red chilli powder (4 teaspoons), garam masala (¾ teaspoon), cinnamon (1 short stick) stick, cloves (6–8 cloves), cardamom (4–5 pods) pods, caraway seeds (¾ teaspoon), and salt (1 teaspoon) in a heavy pot. Add just enough water to barely cover (about 200–250 ml). Bring to a boil, then reduce to a steady simmer. Cook uncovered, stirring occasionally, for 30–40 minutes until the mutton is completely cooked through, the chana dal is completely soft and beginning to break apart, and virtually all the liquid has evaporated. The mixture should be quite dry — if moisture remains, increase heat and cook off the excess, stirring constantly to prevent sticking. Allow to cool to room temperature.
+1. Cook the mince and dal. Place the mutton mince (500 g), chana dal (50 g), ginger (30 g), garlic, red chilli powder (4 teaspoons), garam masala (¾ teaspoon), cinnamon (1 short stick) stick, cloves (6–8 cloves), cardamom (4–5 pods) pods, caraway seeds (¾ teaspoon), and salt (1 teaspoon) in a heavy pot. Add just enough water to barely cover (about 200–250 ml). Bring to a boil, then reduce to a steady simmer. Cook uncovered, stirring occasionally, for 30–40 minutes until the mutton is completely cooked through, the chana dal is completely soft and beginning to break apart, and virtually all the liquid has evaporated. The mixture should be quite dry — if moisture remains, increase heat and cook off the excess, stirring constantly to prevent sticking. Allow to cool to room temperature.
 
-2. **Grind to a paste.** Transfer the cooled mixture to a food processor. Process continuously for 3–4 minutes, stopping to scrape down the sides, until you have a completely smooth, fine paste. There should be no visible pieces of chana dal or mince — the texture should feel almost silky when a small amount is pressed between your fingers. If the paste seems too loose, refrigerate for 20 minutes to firm up.
+2. Grind to a paste. Transfer the cooled mixture to a food processor. Process continuously for 3–4 minutes, stopping to scrape down the sides, until you have a completely smooth, fine paste. There should be no visible pieces of chana dal or mince — the texture should feel almost silky when a small amount is pressed between your fingers. If the paste seems too loose, refrigerate for 20 minutes to firm up.
 
-3. **Make the stuffing.** Combine the finely chopped onion (50 g), mint (20 g), coriander (30 g), and green chillies (4 chillies) in a small bowl. Mix well and set aside.
+3. Make the stuffing. Combine the finely chopped onion (50 g), mint (20 g), coriander (30 g), and green chillies (4 chillies) in a small bowl. Mix well and set aside.
 
-4. **Shape the kebabs.** Divide the kebab paste into 16–18 equal portions. Take one portion, flatten it into a small disc in your palm, and place a small amount of stuffing (about ¾ teaspoon) in the centre. Fold the edges of the disc up around the stuffing and press together to seal, then gently flatten into a smooth, even patty about 1.5 cm thick and 6 cm across. Repeat with remaining portions. If the paste is sticking to your hands, dampen them lightly with water.
+4. Shape the kebabs. Divide the kebab paste into 16–18 equal portions. Take one portion, flatten it into a small disc in your palm, and place a small amount of stuffing (about ¾ teaspoon) in the centre. Fold the edges of the disc up around the stuffing and press together to seal, then gently flatten into a smooth, even patty about 1.5 cm thick and 6 cm across. Repeat with remaining portions. If the paste is sticking to your hands, dampen them lightly with water.
 
-5. **Coat and fry.** Heat the oil in a wide flat pan over medium heat. Dip each shaped kebab into the beaten egg on both sides. Place in the hot oil without crowding — work in batches if necessary. Fry for 3–4 minutes on the first side until a deep golden crust forms, then carefully flip and fry for 2–3 minutes on the second side. The kebab should be uniformly golden-brown and heated through. Drain on kitchen paper.
+5. Coat and fry. Heat the oil in a wide flat pan over medium heat. Dip each shaped kebab into the beaten egg on both sides. Place in the hot oil without crowding — work in batches if necessary. Fry for 3–4 minutes on the first side until a deep golden crust forms, then carefully flip and fry for 2–3 minutes on the second side. The kebab should be uniformly golden-brown and heated through. Drain on kitchen paper.
 
-6. **Serve immediately** — shammi kebabs lose their delicacy quickly. They are at their best in the first few minutes out of the pan.
+6. Serve immediately — shammi kebabs lose their delicacy quickly. They are at their best in the first few minutes out of the pan.
 
 ---
 

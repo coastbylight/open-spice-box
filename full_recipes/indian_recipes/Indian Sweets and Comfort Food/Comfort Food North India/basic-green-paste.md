@@ -6,7 +6,7 @@ source_name: Traditional North Indian Recipe
 cuisine: North Indian
 course: Condiment
 difficulty: Easy
-tags: condiment, green chutney, coriander, mint, chilli, vegan, gluten-free, North Indian, base
+tags: comfort food, condiment, green chutney, coriander, mint, chilli, vegan, gluten-free, North Indian, base
 hero_image_prompt: A small glass jar of vivid green paste — deep herb-green with a slightly coarse texture — surrounded by fresh coriander sprigs, mint leaves, and whole green chillies on a white marble surface in bright natural light
 seo_title: Basic Green Paste: North Indian Coriander Mint Chilli Paste
 meta_description: Basic green paste: the foundational North Indian coriander, mint, ginger, and green chilli paste, used as a chutney, marinade base, and flavouring for countless dishes.
@@ -54,13 +54,13 @@ The proportions here (roughly equal parts coriander and mint, with substantial g
 
 ## Method
 
-1. **Wash the herbs thoroughly.** Fresh coriander (300 g) and mint (200 g) often carry grit. Wash in several changes of cold water and shake or spin dry.
+1. Wash the herbs thoroughly. Fresh coriander (300 g) and mint (200 g) often carry grit. Wash in several changes of cold water and shake or spin dry.
 
-2. **Blend.** Place the coriander, mint, ginger (90 g), and green chillies (100 g) in a blender. Add 1–2 tablespoons of water, just enough to get the blender moving. Blend, stopping to scrape down the sides, until a smooth, fine paste forms. Add water a tablespoon at a time only if needed; a drier paste has a more concentrated flavour and longer shelf life.
+2. Blend. Place the coriander, mint, ginger (90 g), and green chillies (100 g) in a blender. Add 1–2 tablespoons of water, just enough to get the blender moving. Blend, stopping to scrape down the sides, until a smooth, fine paste forms. Add water a tablespoon at a time only if needed; a drier paste has a more concentrated flavour and longer shelf life.
 
-3. **Taste and adjust.** Taste for heat (add more chilli if wanted), sharpness (add a small piece more ginger), and herb balance. The paste should be bright, very green, and boldly seasoned.
+3. Taste and adjust. Taste for heat (add more chilli if wanted), sharpness (add a small piece more ginger), and herb balance. The paste should be bright, very green, and boldly seasoned.
 
-4. **Store** immediately in a sealed glass jar in the refrigerator.
+4. Store immediately in a sealed glass jar in the refrigerator.
 
 ---
 

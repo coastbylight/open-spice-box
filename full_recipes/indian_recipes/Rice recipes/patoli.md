@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Medium
-tags: Goan, sweet, rice flour, coconut, jaggery, cardamom, steamed, turmeric leaf, traditional, vegan
+tags: indian, Goan, sweet, rice flour, coconut, jaggery, cardamom, steamed, turmeric leaf, traditional, vegan
 hero_image_prompt: Two patolis on a dark stone surface, the turmeric leaves folded around their rice-flour parcels, a small corner opened to reveal the pale rice casing and dark brown jaggery-coconut filling, with a moist steam rising slightly, lit with warm natural light
 seo_title: Patoli Recipe — Goan Steamed Rice and Coconut Sweet in Turmeric Leaves
 meta_description: Traditional Goan patoli: fresh turmeric leaves coated with rice flour batter, filled with grated coconut and jaggery, folded and steamed until the leaf imparts its aromatic fragrance to the sweet rice parcels.
@@ -64,17 +64,17 @@ In Goa, patoli is served warm, directly from the steamer, as a festival sweet. A
 
 ## Method
 
-1. **Make the filling.** Combine the grated jaggery (18 g), grated coconut, and ground cardamom (2 g) in a small bowl. Mix well. The jaggery will soften into the coconut as you mix. Set aside.
+1. Make the filling. Combine the grated jaggery (18 g), grated coconut, and ground cardamom (2 g) in a small bowl. Mix well. The jaggery will soften into the coconut as you mix. Set aside.
 
-2. **Make the batter.** Combine the rice flour (70 g) and salt in a bowl. Add the warm water gradually, whisking or stirring, until you have a thick, spreadable batter — similar in consistency to thick porridge or cream of wheat. It should spread easily but hold its shape when applied to the leaf. Adjust with more water or flour if needed.
+2. Make the batter. Combine the rice flour (70 g) and salt in a bowl. Add the warm water gradually, whisking or stirring, until you have a thick, spreadable batter — similar in consistency to thick porridge or cream of wheat. It should spread easily but hold its shape when applied to the leaf. Adjust with more water or flour if needed.
 
-3. **Prepare the leaves.** Wipe each turmeric (5) leaf clean with a damp cloth. Lightly brush the inner (lighter, slightly concave) side of each leaf with a thin layer of neutral oil.
+3. Prepare the leaves. Wipe each turmeric (5) leaf clean with a damp cloth. Lightly brush the inner (lighter, slightly concave) side of each leaf with a thin layer of neutral oil.
 
-4. **Assemble.** Working one leaf at a time, spread a thin, even layer of the rice flour batter over the entire inner surface of the leaf, leaving a 1 cm border at the edges. The layer should be about 3–4 mm thick. Place 1–2 teaspoons of the coconut-jaggery filling in a line down the centre of the battered leaf. Fold the leaf in half lengthways, pressing the edges gently together to enclose the filling within the batter.
+4. Assemble. Working one leaf at a time, spread a thin, even layer of the rice flour batter over the entire inner surface of the leaf, leaving a 1 cm border at the edges. The layer should be about 3–4 mm thick. Place 1–2 teaspoons of the coconut-jaggery filling in a line down the centre of the battered leaf. Fold the leaf in half lengthways, pressing the edges gently together to enclose the filling within the batter.
 
-5. **Steam.** Arrange the folded patolis in a steamer basket in a single layer, fold-side down. Steam over boiling water for 12–15 minutes until the rice flour batter is cooked through. It should feel firm and set to the touch, not soft or wet when gently pressed through the leaf.
+5. Steam. Arrange the folded patolis in a steamer basket in a single layer, fold-side down. Steam over boiling water for 12–15 minutes until the rice flour batter is cooked through. It should feel firm and set to the touch, not soft or wet when gently pressed through the leaf.
 
-6. **Serve.** Allow to cool slightly for 2–3 minutes. The patoli can be served folded or opened — unfold the leaf to eat, peeling it away from the now-set rice casing. The inner surface of the leaf will have transferred its fragrance to the rice casing throughout.
+6. Serve. Allow to cool slightly for 2–3 minutes. The patoli can be served folded or opened — unfold the leaf to eat, peeling it away from the now-set rice casing. The inner surface of the leaf will have transferred its fragrance to the rice casing throughout.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Involved
-tags: Goan, pork, Portuguese, festive, slow-cooked, Catholic, spiced, roast
+tags: indian, Goan, pork, Portuguese, festive, slow-cooked, Catholic, spiced, roast
 hero_image_prompt: A platter of sliced asada de leitão — golden-edged pork with a dark spiced crust, arranged over a pool of pan juices, garnished with a simple salad of sliced onions and tomato, warm candlelight from one side, a terracotta tile background suggesting a Goan Catholic home
 seo_title: Asada de Leitão Recipe — Goan Portuguese Spiced Roast Pork Leg
 meta_description: Asada de Leitão is the festive Goan Catholic slow-roasted pork leg — rubbed with cumin, cloves, ginger, garlic and jaggery, rested overnight and finished in ghee. The full traditional method.
@@ -63,19 +63,19 @@ A simple green salad alongside is traditional: sliced tomato, onion, cucumber, a
 
 ## Method
 
-1. **Prepare the meat.** Wash the pork leg (1 kg) and pat dry. Using a sharp knife or skewer, prick the surface all over (especially through any skin or thick fat) so the marinade can penetrate. Rub salt (1 tbsp) into the surface and into the pricks. Set aside while you make the paste.
+1. Prepare the meat. Wash the pork leg (1 kg) and pat dry. Using a sharp knife or skewer, prick the surface all over (especially through any skin or thick fat) so the marinade can penetrate. Rub salt (1 tbsp) into the surface and into the pricks. Set aside while you make the paste.
 
-2. **Make the spice paste.** Combine the cumin (1½ tsp), peppercorns (1 tsp), turmeric (¾ tsp), cloves (5–6 whole cloves), cinnamon (one 5 cm stick), jaggery (50 g), ginger (50 g), and garlic in a blender or stone grinder. Add a very small amount of water, just enough to get the blender moving, and grind to a smooth, dense paste. The paste should be deep brown, fragrant with cumin, and slightly sweet from the jaggery.
+2. Make the spice paste. Combine the cumin (1½ tsp), peppercorns (1 tsp), turmeric (¾ tsp), cloves (5–6 whole cloves), cinnamon (one 5 cm stick), jaggery (50 g), ginger (50 g), and garlic in a blender or stone grinder. Add a very small amount of water, just enough to get the blender moving, and grind to a smooth, dense paste. The paste should be deep brown, fragrant with cumin, and slightly sweet from the jaggery.
 
-3. **Marinate.** Spread the spice paste all over the pork leg, pressing it into the pricks and working it into any crevices around the bone. Sprinkle the vinegar over the surface and rub in. Leave at room temperature for 1 hour minimum, or cover and refrigerate overnight. If refrigerating, bring to room temperature for 30 minutes before cooking.
+3. Marinate. Spread the spice paste all over the pork leg, pressing it into the pricks and working it into any crevices around the bone. Sprinkle the vinegar over the surface and rub in. Leave at room temperature for 1 hour minimum, or cover and refrigerate overnight. If refrigerating, bring to room temperature for 30 minutes before cooking.
 
-4. **First cooking: slow braise.** Place a heavy-bottomed pan or Dutch oven over the lowest possible flame. Add the ghee (50 g), then arrange the leg in the pan. Allow the meat to sear gently on the underside, about 5–6 minutes, before turning. Add 3–4 tablespoons of water to the pan. Cover tightly and cook on the lowest heat, turning the leg every 15–20 minutes, for approximately 1 hour to 1 hour 15 minutes. The water will evaporate slowly; add another small splash if the pan looks dry before the meat is cooked. The leg is done when it is tender through to the bone: a skewer should pass through the thickest part with no resistance, and the juices should run clear.
+4. First cooking: slow braise. Place a heavy-bottomed pan or Dutch oven over the lowest possible flame. Add the ghee (50 g), then arrange the leg in the pan. Allow the meat to sear gently on the underside, about 5–6 minutes, before turning. Add 3–4 tablespoons of water to the pan. Cover tightly and cook on the lowest heat, turning the leg every 15–20 minutes, for approximately 1 hour to 1 hour 15 minutes. The water will evaporate slowly; add another small splash if the pan looks dry before the meat is cooked. The leg is done when it is tender through to the bone: a skewer should pass through the thickest part with no resistance, and the juices should run clear.
 
-5. **Reduce the pan juices.** Remove the lid and allow any remaining liquid to reduce until the pan juices are thick and syrupy and the spice paste has begun to re-adhere to the surface of the meat, about 5–8 minutes. Watch carefully here. The jaggery in the paste can catch and burn; keep the flame very low.
+5. Reduce the pan juices. Remove the lid and allow any remaining liquid to reduce until the pan juices are thick and syrupy and the spice paste has begun to re-adhere to the surface of the meat, about 5–8 minutes. Watch carefully here. The jaggery in the paste can catch and burn; keep the flame very low.
 
-6. **Final fry.** Remove the leg from the pan and rest it on a board. Pour off any excess fat from the pan. Slice the meat cleanly from the bone in thick, generous pieces. Return a knob of ghee to the pan over medium-high heat and fry the sliced meat in batches until each piece has a golden, slightly crisped edge, about 2 minutes per side.
+6. Final fry. Remove the leg from the pan and rest it on a board. Pour off any excess fat from the pan. Slice the meat cleanly from the bone in thick, generous pieces. Return a knob of ghee to the pan over medium-high heat and fry the sliced meat in batches until each piece has a golden, slightly crisped edge, about 2 minutes per side.
 
-7. **Serve.** Arrange the sliced meat on a platter and spoon the remaining pan juices over. Serve with a simple salad and rice or fresh bread.
+7. Serve. Arrange the sliced meat on a platter and spoon the remaining pan juices over. Serve with a simple salad and rice or fresh bread.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Side
 difficulty: Easy
-tags: Punjabi, rice, basmati, cumin, pulao, vegetarian, whole spices, ghee, side dish
+tags: indian, Punjabi, rice, basmati, cumin, pulao, vegetarian, whole spices, ghee, side dish
 hero_image_prompt: A wide serving platter of jeera pulao, the long-grain basmati grains separate and glistening with ghee, flecked with golden fried onion and whole dark spices, on a pale marble surface with soft natural light
 seo_title: Jeera Pulao Recipe — Punjabi Cumin Rice with Ghee and Whole Spices
 meta_description: Fragrant jeera pulao: basmati rice toasted in ghee with cumin, whole garam masala, and golden fried onion, then cooked by absorption until every grain is separate.
@@ -62,21 +62,21 @@ Jeera pulao is the natural companion to any curry with substantial gravy, and to
 
 ## Method
 
-1. **Soak the rice.** Rinse the basmati rice (350 g) in cold water until the water runs mostly clear, about 3–4 changes. Cover with fresh cold water and soak for 30 minutes. Drain through a fine sieve and set aside.
+1. Soak the rice. Rinse the basmati rice (350 g) in cold water until the water runs mostly clear, about 3–4 changes. Cover with fresh cold water and soak for 30 minutes. Drain through a fine sieve and set aside.
 
-2. **Slice the onion (35 g).** Slice the onion very thinly and evenly; uniform slices fry at the same rate.
+2. Slice the onion (35 g). Slice the onion very thinly and evenly; uniform slices fry at the same rate.
 
-3. **Bloom the spices.** Heat the ghee (35 g) in a wide, heavy-based pot with a tight-fitting lid over medium heat. Add the whole garam masala (the green cardamom, bay leaf (1 g), cloves (3–4 cloves), black cardamom, and cinnamon stick (3 cm)). Stir for 30 seconds until the spices are fragrant and the bay leaf has softened slightly.
+3. Bloom the spices. Heat the ghee (35 g) in a wide, heavy-based pot with a tight-fitting lid over medium heat. Add the whole garam masala (the green cardamom, bay leaf (1 g), cloves (3–4 cloves), black cardamom, and cinnamon stick (3 cm)). Stir for 30 seconds until the spices are fragrant and the bay leaf has softened slightly.
 
-4. **Fry the cumin and onion.** Add the cumin seeds (½ teaspoon) and stir until they splutter and darken slightly, about 20 seconds. Add the sliced onions and increase the heat to medium-high. Fry, stirring regularly, for 8–10 minutes until the onions are evenly deep golden brown. Do not rush this; the caramelised onion is a primary flavour in the finished rice.
+4. Fry the cumin and onion. Add the cumin seeds (½ teaspoon) and stir until they splutter and darken slightly, about 20 seconds. Add the sliced onions and increase the heat to medium-high. Fry, stirring regularly, for 8–10 minutes until the onions are evenly deep golden brown. Do not rush this; the caramelised onion is a primary flavour in the finished rice.
 
-5. **Add chilli and rice.** Add the Kashmiri chilli powder (¼ teaspoon) and stir for 15 seconds. Add the drained soaked rice. Using a wide spatula or your hand, fold the rice very gently through the ghee and aromatics; the goal is to coat every grain with ghee without breaking the delicate soaked grains. Stir with a very light hand.
+5. Add chilli and rice. Add the Kashmiri chilli powder (¼ teaspoon) and stir for 15 seconds. Add the drained soaked rice. Using a wide spatula or your hand, fold the rice very gently through the ghee and aromatics; the goal is to coat every grain with ghee without breaking the delicate soaked grains. Stir with a very light hand.
 
-6. **Add water and salt (¾ teaspoon).** Add 600 ml of hot (just-boiled) water to the rice. Add the salt. Stir once, bring to a boil over high heat, then reduce to a gentle simmer. Cook uncovered, watching carefully, until the water level drops to just barely covering the rice; the surface will appear to have a thin layer of water with steam rising through it.
+6. Add water and salt (¾ teaspoon). Add 600 ml of hot (just-boiled) water to the rice. Add the salt. Stir once, bring to a boil over high heat, then reduce to a gentle simmer. Cook uncovered, watching carefully, until the water level drops to just barely covering the rice; the surface will appear to have a thin layer of water with steam rising through it.
 
-7. **Cover and finish on dum.** Place a clean folded kitchen cloth over the pot, then cover tightly with the lid (the cloth sits between pot and lid). Reduce heat to the lowest setting and cook for 20–25 minutes. Do not lift the lid during this time.
+7. Cover and finish on dum. Place a clean folded kitchen cloth over the pot, then cover tightly with the lid (the cloth sits between pot and lid). Reduce heat to the lowest setting and cook for 20–25 minutes. Do not lift the lid during this time.
 
-8. **Rest and serve.** Remove the pot from heat and allow to rest, still covered, for 5 minutes. Uncover, and gently fluff the rice with a fork; the grains should be separate, long, and fragrant with ghee and cumin. Serve immediately.
+8. Rest and serve. Remove the pot from heat and allow to rest, still covered, for 5 minutes. Uncover, and gently fluff the rice with a fork; the grains should be separate, long, and fragrant with ghee and cumin. Serve immediately.
 
 ---
 

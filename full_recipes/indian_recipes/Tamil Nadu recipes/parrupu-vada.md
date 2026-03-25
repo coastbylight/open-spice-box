@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Tamil
 course: Snack / Starter
 difficulty: Easy
-tags: [tamil, snack, fritter, chana-dal, fried, vada, street-food, vegetarian, vegan, gluten-free]
+tags: [indian, tamil, snack, fritter, chana-dal, fried, vada, street-food, vegetarian, vegan, gluten-free]
 hero_image_prompt: Six dark, deeply golden parrupu vadas on a square of banana leaf, their surfaces rough and cratered from the coarse-ground dal, edges deeply caramelized, a small mound of green coriander-coconut chutney beside them, a fresh halved lime visible, photographed from above on a dark stone surface
 seo_title: Parrupu Vada — Tamil Nadu Crispy Chana Dal Fritters
 meta_description: Parrupu Vada are Tamil Nadu's crispy chana dal fritters — soaked dal coarsely ground with onion, ginger, green chilli, fennel seeds and hing, then fried on medium flame until deeply crisp. A staple temple offering and street snack.

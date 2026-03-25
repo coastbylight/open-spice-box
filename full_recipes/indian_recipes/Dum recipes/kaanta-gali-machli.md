@@ -63,19 +63,19 @@ There are few precise analogues for this in Western cooking. It is its own thing
 
 ## Method
 
-1. **Fry the fish.** Heat mustard oil (125 ml) in a large tawa or frying pan. When hot (500 ml) and beginning to smoke, add the whole cleaned fish and fry on both sides until golden and firm — about 3–4 minutes per side.
+1. Fry the fish. Heat mustard oil (125 ml) in a large tawa or frying pan. When hot (500 ml) and beginning to smoke, add the whole cleaned fish and fry on both sides until golden and firm — about 3–4 minutes per side.
 
-2. **Loosen the skin.** Immediately lower the fried fish into the hot water for 1 minute, then transfer to the ice water for 5 minutes. This temperature shock makes the skin easy to peel.
+2. Loosen the skin. Immediately lower the fried fish into the hot water for 1 minute, then transfer to the ice water for 5 minutes. This temperature shock makes the skin easy to peel.
 
-3. **Remove the skin.** Lift the fish from the cold water and gently peel away the skin. It should come off cleanly. Carefully slit the fish lengthwise along the belly to create a pocket for the stuffing.
+3. Remove the skin. Lift the fish from the cold water and gently peel away the skin. It should come off cleanly. Carefully slit the fish lengthwise along the belly to create a pocket for the stuffing.
 
-4. **Make the masala.** Heat the ghee (200 g) in a heavy pan. Fry the sliced onions (1 kg) over medium heat until deeply golden and sweet, about 20 minutes. Add grated or pounded ginger (30 g), garlic (50 g) juice, red chilli powder (10 g), garam masala (5 g), and salt (10 g). Stir for 2 minutes. Add the curd and cook over medium heat, stirring, until the fat separates from the mixture. Remove from heat.
+4. Make the masala. Heat the ghee (200 g) in a heavy pan. Fry the sliced onions (1 kg) over medium heat until deeply golden and sweet, about 20 minutes. Add grated or pounded ginger (30 g), garlic (50 g) juice, red chilli powder (10 g), garam masala (5 g), and salt (10 g). Stir for 2 minutes. Add the curd and cook over medium heat, stirring, until the fat separates from the mixture. Remove from heat.
 
-5. **Stuff the fish.** Fill the cavity of the fish generously with the masala, working it in gently. Lay half of the remaining masala in the base of a heavy patili (a deep pot). Place the stuffed fish on top and cover with the remaining masala.
+5. Stuff the fish. Fill the cavity of the fish generously with the masala, working it in gently. Lay half of the remaining masala in the base of a heavy patili (a deep pot). Place the stuffed fish on top and cover with the remaining masala.
 
-6. **Seal and slow-cook.** Seal the patili tightly — use foil pressed under the lid, or seal with dough if available. Cook on the lowest possible flame for 6–7 hours. Do not lift the lid.
+6. Seal and slow-cook. Seal the patili tightly — use foil pressed under the lid, or seal with dough if available. Cook on the lowest possible flame for 6–7 hours. Do not lift the lid.
 
-7. **Serve hot** with chapattis, spooning the thick, reduced masala over each portion.
+7. Serve hot with chapattis, spooning the thick, reduced masala over each portion.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Medium
-tags: Awadhi, Mughal, vegetarian, cauliflower, korma, cashew, saffron, celebration, gluten-free
+tags: indian, Awadhi, Mughal, vegetarian, cauliflower, korma, cashew, saffron, celebration, gluten-free
 hero_image_prompt: A whole golden-bronze cauliflower sitting in a pool of creamy saffron sauce in a wide copper serving dish, the florets deeply coloured from braising, with a thread of cream and scattered rose petals, shot from above on a dark carved wooden table
 seo_title: Gobhi Mussallam Recipe — Whole Cauliflower Braised in Mughal Korma Sauce
 meta_description: Gobhi mussallam: a whole cauliflower braised in a rich Mughal-style cashew and saffron gravy. A stunning centrepiece dish from the Awadhi vegetarian tradition.
@@ -76,19 +76,19 @@ The practical key is to score the cauliflower before parboiling — radial cuts 
 
 ## Method
 
-1. **Prepare the cauliflower.** With a small sharp knife, make 4–6 radial scores from the base of the cauliflower about halfway up the head. These cuts should be roughly 1 cm deep and evenly spaced around the circumference. This allows the cooking sauce to penetrate into the interior. Bring a large pot of salted water to a boil. Carefully lower the whole cauliflower (1 large head) in head-first and parboil for 8–10 minutes until it is just tender when a skewer is inserted into the thickest part — it should feel resistance but not be hard. Drain and allow to cool slightly, upside down, so any excess water drains from the scores.
+1. Prepare the cauliflower. With a small sharp knife, make 4–6 radial scores from the base of the cauliflower about halfway up the head. These cuts should be roughly 1 cm deep and evenly spaced around the circumference. This allows the cooking sauce to penetrate into the interior. Bring a large pot of salted water to a boil. Carefully lower the whole cauliflower (1 large head) in head-first and parboil for 8–10 minutes until it is just tender when a skewer is inserted into the thickest part — it should feel resistance but not be hard. Drain and allow to cool slightly, upside down, so any excess water drains from the scores.
 
-2. **Make the cashew paste.** While the cauliflower parboils, soak the cashews (50 g) in warm water for 15–20 minutes. Drain and blend with 3–4 tablespoons of fresh water to a completely smooth, pale paste. Set aside.
+2. Make the cashew paste. While the cauliflower parboils, soak the cashews (50 g) in warm water for 15–20 minutes. Drain and blend with 3–4 tablespoons of fresh water to a completely smooth, pale paste. Set aside.
 
-3. **Brown the onions.** In a wide, heavy pot large enough to hold the whole cauliflower with a lid on top, melt the ghee (3½ tablespoons) over medium-high heat. Add the sliced onions with a pinch of salt (2 teaspoons) and cook, stirring regularly, for 18–22 minutes until deep golden-brown and sweet-smelling. Remove a small amount and set aside for garnishing.
+3. Brown the onions. In a wide, heavy pot large enough to hold the whole cauliflower with a lid on top, melt the ghee (3½ tablespoons) over medium-high heat. Add the sliced onions with a pinch of salt (2 teaspoons) and cook, stirring regularly, for 18–22 minutes until deep golden-brown and sweet-smelling. Remove a small amount and set aside for garnishing.
 
-4. **Build the sauce.** Add the ginger-garlic paste (2 tablespoons) and cook for 2–3 minutes until the raw smell disappears. Add the chopped tomato (1 small tomato) and cook for 3–4 minutes until softened and the mixture begins to dry out. Add the red chilli powder (4 teaspoons), coriander powder (2 teaspoons), and turmeric (1 teaspoon); stir for 1 minute. Add the beaten yogurt (100 g) in three additions, stirring until each addition is fully incorporated before adding the next. Add the cashew paste and stir through. Add 200 ml of warm water and bring to a gentle simmer. Cook for 5 minutes until the sauce is smooth and fragrant.
+4. Build the sauce. Add the ginger-garlic paste (2 tablespoons) and cook for 2–3 minutes until the raw smell disappears. Add the chopped tomato (1 small tomato) and cook for 3–4 minutes until softened and the mixture begins to dry out. Add the red chilli powder (4 teaspoons), coriander powder (2 teaspoons), and turmeric (1 teaspoon); stir for 1 minute. Add the beaten yogurt (100 g) in three additions, stirring until each addition is fully incorporated before adding the next. Add the cashew paste and stir through. Add 200 ml of warm water and bring to a gentle simmer. Cook for 5 minutes until the sauce is smooth and fragrant.
 
-5. **Braise the cauliflower.** Gently lower the parboiled cauliflower, score-side down, into the sauce. The sauce should come about halfway up the sides of the cauliflower — add a little more water if needed. Spoon sauce generously over the top of the cauliflower. Cover with a lid and braise over low heat for 20–25 minutes, spooning sauce over the cauliflower every 5–6 minutes, until the cauliflower is completely tender and has taken on the deep amber colour of the sauce on its outer surfaces.
+5. Braise the cauliflower. Gently lower the parboiled cauliflower, score-side down, into the sauce. The sauce should come about halfway up the sides of the cauliflower — add a little more water if needed. Spoon sauce generously over the top of the cauliflower. Cover with a lid and braise over low heat for 20–25 minutes, spooning sauce over the cauliflower every 5–6 minutes, until the cauliflower is completely tender and has taken on the deep amber colour of the sauce on its outer surfaces.
 
-6. **Finish.** Stir the cream (2 tablespoons) into the sauce around the cauliflower. Remove from heat. Drizzle the saffron (3 g) milk over the cauliflower and add the kewra water (2 teaspoons) to the sauce. Stir gently. Taste for salt.
+6. Finish. Stir the cream (2 tablespoons) into the sauce around the cauliflower. Remove from heat. Drizzle the saffron (3 g) milk over the cauliflower and add the kewra water (2 teaspoons) to the sauce. Stir gently. Taste for salt.
 
-7. **Serve whole** — carry the pot to the table if possible, or transfer the whole cauliflower carefully to a serving dish and pour the sauce around it. Garnish with the reserved fried onions and a thread of cream if desired.
+7. Serve whole — carry the pot to the table if possible, or transfer the whole cauliflower carefully to a serving dish and pour the sauce around it. Garnish with the reserved fried onions and a thread of cream if desired.
 
 ---
 

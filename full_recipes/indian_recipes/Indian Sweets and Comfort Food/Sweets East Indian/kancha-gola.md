@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Easy
-tags: [bengali, east india, dessert, chenna, sandesh, fresh cheese, condensed milk, cardamom, no bake, vegetarian]
+tags: [indian, bengali, east india, dessert, chenna, sandesh, fresh cheese, condensed milk, cardamom, no bake, vegetarian]
 hero_image_prompt: A small plate of kancha gola sandesh balls arranged in a loose cluster, pale ivory coloured with a slightly granular surface, a few green cardamom pods scattered alongside, soft diffused natural light
 seo_title: Kancha Gola Recipe - Bengali Fresh Chenna Sandesh
 meta_description: Kancha gola is Bengali fresh sandesh made by curdling milk with curd, cooking with condensed milk and cardamom until sticky, then rolling into balls. Granular, not smooth. Distinctly different from classic sandesh.

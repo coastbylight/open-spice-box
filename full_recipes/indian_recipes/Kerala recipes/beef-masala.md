@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main
 difficulty: Intermediate
-tags: [kerala, beef, coconut-milk, coconut-oil, shallots, fennel, syrian-christian, malabar, spiced]
+tags: [indian, kerala, beef, coconut-milk, coconut-oil, shallots, fennel, syrian-christian, malabar, spiced]
 hero_image_prompt: A wide black iron pan with deeply caramelized, mahogany-colored beef juliennes coated in a thick, dark masala crust, sliced shallots and green chillies scattered through, the surface gleaming with coconut oil, curry leaves crisped at the edges, photographed close and warm on a banana leaf with a small bowl of steamed rice beside it
 seo_title: Kerala Beef Masala — Slow-Braised Beef with Coconut Oil and Crushed Shallots
 meta_description: Kerala Beef Masala is a slow-braised beef dish in coconut milk and coconut oil, with crushed shallots, saunf, black pepper and whole spices. Central to Kerala's Syrian Christian and Hindu Malabar communities.

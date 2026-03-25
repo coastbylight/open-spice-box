@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: North Indian street food
 course: Street Food
 difficulty: Easy
-tags: North India, street food, potato, fried, vegetarian, chaat, snack
+tags: comfort food, indian, North India, street food, potato, fried, vegetarian, chaat, snack
 hero_image_prompt: Four golden aloo tikkis on a cast-iron pan, edges crisped, the surface richly browned, served with a pool of vivid green chutney and a spoon of tamarind sauce, warm overhead light, dark pan surface
 seo_title: Aloo Ki Tikki Recipe — Crispy North Indian Potato Patties
 meta_description: Aloo ki tikki: the classic North Indian potato patty, spiced with amchoor and cumin, shallow-fried to a deep golden crust with a soft, fragrant center.
@@ -62,15 +62,15 @@ Cornflour is the binder. Just enough to hold the patties together in the pan; to
 
 ## Method
 
-1. **Mash the potatoes (1 kg).** While the boiled potatoes are still warm but not hot, pass them through a potato ricer or mash thoroughly with a masher until absolutely smooth, with no lumps at all. Spread on a plate and allow to cool completely. (If the potato is warm when you add cornflour (50 g) and shape, the tikkis will be sticky and difficult to handle.)
+1. Mash the potatoes (1 kg). While the boiled potatoes are still warm but not hot, pass them through a potato ricer or mash thoroughly with a masher until absolutely smooth, with no lumps at all. Spread on a plate and allow to cool completely. (If the potato is warm when you add cornflour (50 g) and shape, the tikkis will be sticky and difficult to handle.)
 
-2. **Mix the filling.** Transfer the cooled mashed potato to a bowl. Add cornflour, green chillies (20 g), ginger (20 g), cumin powder (2 tsp), coriander powder (2 tsp), garam masala (1 tsp), amchoor (1 tsp), fresh coriander (20 g), and salt (5 g). Mix thoroughly with your hands until everything is evenly combined. Taste the mixture and adjust salt and amchoor. It should be properly seasoned with a distinct tang.
+2. Mix the filling. Transfer the cooled mashed potato to a bowl. Add cornflour, green chillies (20 g), ginger (20 g), cumin powder (2 tsp), coriander powder (2 tsp), garam masala (1 tsp), amchoor (1 tsp), fresh coriander (20 g), and salt (5 g). Mix thoroughly with your hands until everything is evenly combined. Taste the mixture and adjust salt and amchoor. It should be properly seasoned with a distinct tang.
 
-3. **Shape the tikkis.** Divide the mixture into 10–12 equal portions (about 100 g each). Roll each into a smooth ball between your palms, then flatten to a disc about 7–8 cm across and 1.5 cm thick. Smooth the edges with your fingertips. If the mixture is sticky, wet your hands lightly.
+3. Shape the tikkis. Divide the mixture into 10–12 equal portions (about 100 g each). Roll each into a smooth ball between your palms, then flatten to a disc about 7–8 cm across and 1.5 cm thick. Smooth the edges with your fingertips. If the mixture is sticky, wet your hands lightly.
 
-4. **Fry the tikkis.** Heat a wide, flat pan or tawa over medium heat. Add enough oil to generously coat the surface, about 2–3 tablespoons. When the oil is hot and shimmering, lay the tikkis in the pan without crowding. Cook undisturbed for 4–5 minutes until the underside is deeply golden, a rich amber-brown rather than pale gold. Carefully flip and cook the other side for another 4–5 minutes. The tikki should feel firm and set; if it feels soft, it needs more time.
+4. Fry the tikkis. Heat a wide, flat pan or tawa over medium heat. Add enough oil to generously coat the surface, about 2–3 tablespoons. When the oil is hot and shimmering, lay the tikkis in the pan without crowding. Cook undisturbed for 4–5 minutes until the underside is deeply golden, a rich amber-brown rather than pale gold. Carefully flip and cook the other side for another 4–5 minutes. The tikki should feel firm and set; if it feels soft, it needs more time.
 
-5. **Drain and serve.** Transfer to a wire rack briefly. Serve hot with chutneys alongside.
+5. Drain and serve. Transfer to a wire rack briefly. Serve hot with chutneys alongside.
 
 ---
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Snack
 difficulty: Easy
-tags: North India, street food, fried, besan, vegetarian, monsoon, snack, fritter
+tags: comfort food, indian, North India, street food, fried, besan, vegetarian, monsoon, snack, fritter
 hero_image_prompt: A platter of pakoras — onion, potato, and spinach — piled loosely on a brass plate, vivid golden-brown, steam rising, a small bowl of green chutney at the edge, moody overcast light from a window, condensation on a glass of chai nearby
 seo_title: Pakora Recipe: Crispy Indian Chickpea Batter Fritters
 meta_description: The essential pakora recipe: a thick, spiced besan batter coating onions, potato slices, or spinach and fried until deeply golden and crisp. Perfect with chai.
@@ -68,15 +68,15 @@ Temperature is the other variable. Oil that isn't hot enough produces pakoras th
 
 ## Method
 
-1. **Make the batter.** Sift the besan into a large bowl to remove any lumps. Add cumin seeds (1 tsp), ajwain (1 tsp), red chilli powder (1 tsp), salt (1 tsp), and grated ginger (10 g) if using. Add cold water gradually, whisking as you go, until the batter is smooth and thick. It should coat the back of a spoon and fall off in thick ribbons, not thin streams. Rest for 5 minutes; the besan will absorb the water slightly and the batter will thicken a little.
+1. Make the batter. Sift the besan into a large bowl to remove any lumps. Add cumin seeds (1 tsp), ajwain (1 tsp), red chilli powder (1 tsp), salt (1 tsp), and grated ginger (10 g) if using. Add cold water gradually, whisking as you go, until the batter is smooth and thick. It should coat the back of a spoon and fall off in thick ribbons, not thin streams. Rest for 5 minutes; the besan will absorb the water slightly and the batter will thicken a little.
 
-2. **Prepare the vegetables.** For onion (200 g) pakoras: separate the rings and toss through the batter, ensuring each ring is well coated. You want the batter to fill the rings somewhat so that the onion and batter fuse into a cohesive fritter rather than a battered ring. For potato (100 g) slices: pat dry with paper, then coat individually. For spinach (50 g): wash, dry completely (wet spinach will splatter violently in oil), and dip to coat.
+2. Prepare the vegetables. For onion (200 g) pakoras: separate the rings and toss through the batter, ensuring each ring is well coated. You want the batter to fill the rings somewhat so that the onion and batter fuse into a cohesive fritter rather than a battered ring. For potato (100 g) slices: pat dry with paper, then coat individually. For spinach (50 g): wash, dry completely (wet spinach will splatter violently in oil), and dip to coat.
 
-3. **Heat the oil.** Pour oil into a deep pan or karahi to a depth of at least 5 cm. Heat over medium-high heat to approximately 175°C. To test without a thermometer: drop a small ball of batter into the oil. If it sinks, rises immediately to the surface, and begins sizzling vigorously, the oil is ready. If it sits on the bottom, the oil is too cold.
+3. Heat the oil. Pour oil into a deep pan or karahi to a depth of at least 5 cm. Heat over medium-high heat to approximately 175°C. To test without a thermometer: drop a small ball of batter into the oil. If it sinks, rises immediately to the surface, and begins sizzling vigorously, the oil is ready. If it sits on the bottom, the oil is too cold.
 
-4. **Fry in batches.** Lower battered vegetables gently into the oil (use a spoon or your fingers carefully). Do not crowd the pan; overcrowding drops the oil temperature and leads to greasy, pale fritters. Fry for 3–4 minutes, turning once or twice, until deeply golden and crisp all over. Onion pakoras will darken quickly; potato rounds need the full time to cook through.
+4. Fry in batches. Lower battered vegetables gently into the oil (use a spoon or your fingers carefully). Do not crowd the pan; overcrowding drops the oil temperature and leads to greasy, pale fritters. Fry for 3–4 minutes, turning once or twice, until deeply golden and crisp all over. Onion pakoras will darken quickly; potato rounds need the full time to cook through.
 
-5. **Drain and serve immediately.** Remove with a slotted spoon and drain on paper for 30 seconds. Serve at once. Pakoras lose their crispness within minutes of leaving the oil.
+5. Drain and serve immediately. Remove with a slotted spoon and drain on paper for 30 seconds. Serve at once. Pakoras lose their crispness within minutes of leaving the oil.
 
 ---
 

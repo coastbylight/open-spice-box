@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Side
 difficulty: Easy
-tags: Punjabi, rice, basmati, onion, whole spices, vegetarian, vegan, side dish
+tags: indian, Punjabi, rice, basmati, onion, whole spices, vegetarian, vegan, side dish
 hero_image_prompt: A mound of piyazi chawal on a serving platter, the long basmati grains tinged golden from the deeply fried onions, strands of caramelised onion woven through the rice, with a few whole dark spices visible, on a stone surface with warm amber light
 seo_title: Piyazi Chawal Recipe — Punjabi Caramelised Onion Rice
 meta_description: Piyazi chawal: basmati rice cooked with a generous quantity of deeply caramelised onion and whole spices — a simple, deeply flavoured Punjabi side dish.
@@ -57,19 +57,19 @@ The technique is the familiar Punjabi absorption method: oil, whole spices, onio
 
 ## Method
 
-1. **Soak the rice.** Rinse the basmati in cold water until the water runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain through a sieve.
+1. Soak the rice. Rinse the basmati in cold water until the water runs mostly clear. Cover with fresh cold water and soak for 30 minutes. Drain through a sieve.
 
-2. **Bloom the whole spices.** Heat the oil in a wide, heavy-based pot over medium-high heat. Add the cloves (3–4), cinnamon, and black cardamom pods (2 pods). Stir for 30 seconds until fragrant.
+2. Bloom the whole spices. Heat the oil in a wide, heavy-based pot over medium-high heat. Add the cloves (3–4), cinnamon, and black cardamom pods (2 pods). Stir for 30 seconds until fragrant.
 
-3. **Fry the onions.** Add the cumin seeds (1½ teaspoons) and let them splutter for 20 seconds. Add the thinly sliced onions. This is the critical step: cook the onions over medium-high heat, stirring frequently, for 15–18 minutes until they are deep golden brown — genuinely dark, sweet-smelling, and greatly reduced in volume. They should look almost jammy at the edges. This is more onion (2 large onions) and more frying time than most rice recipes call for; do not rush it.
+3. Fry the onions. Add the cumin seeds (1½ teaspoons) and let them splutter for 20 seconds. Add the thinly sliced onions. This is the critical step: cook the onions over medium-high heat, stirring frequently, for 15–18 minutes until they are deep golden brown — genuinely dark, sweet-smelling, and greatly reduced in volume. They should look almost jammy at the edges. This is more onion (2 large onions) and more frying time than most rice recipes call for; do not rush it.
 
-4. **Add rice.** Add the drained soaked rice and salt (1½ teaspoons). Fold very gently to combine — the oil-coated onion will streak through the rice, which is correct. Stir for 1–2 minutes until the rice is warmed.
+4. Add rice. Add the drained soaked rice and salt (1½ teaspoons). Fold very gently to combine — the oil-coated onion will streak through the rice, which is correct. Stir for 1–2 minutes until the rice is warmed.
 
-5. **Add water and cook.** Add 600 ml of hot water. Stir once, bring to a boil, then reduce to the lowest simmer. Cook uncovered until the water drops just below the rice surface — about 6–8 minutes.
+5. Add water and cook. Add 600 ml of hot water. Stir once, bring to a boil, then reduce to the lowest simmer. Cook uncovered until the water drops just below the rice surface — about 6–8 minutes.
 
-6. **Dum finish.** Place a clean folded kitchen cloth over the pot and cover tightly with the lid. Cook on the lowest heat for 20–22 minutes. Do not lift the lid.
+6. Dum finish. Place a clean folded kitchen cloth over the pot and cover tightly with the lid. Cook on the lowest heat for 20–22 minutes. Do not lift the lid.
 
-7. **Rest and serve.** Remove from heat, rest covered for 5 minutes. Uncover and fluff gently with a fork. The rice should be deeply golden-tinged, the onion strands woven through every handful.
+7. Rest and serve. Remove from heat, rest covered for 5 minutes. Uncover and fluff gently with a fork. The rice should be deeply golden-tinged, the onion strands woven through every handful.
 
 ---
 

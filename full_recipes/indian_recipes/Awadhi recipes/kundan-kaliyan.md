@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main Course
 difficulty: Advanced
-tags: [mutton, gold leaf, sone ka warq, awadhi, lucknow, court cuisine, saffron, balai, dum, mughlai, festive]
+tags: [indian, mutton, gold leaf, sone ka warq, awadhi, lucknow, court cuisine, saffron, balai, dum, mughlai, festive]
 hero_image_prompt: A shallow white dish holding tender square pieces of mutton draped in shimmering edible gold leaf, resting in a pale, silky, saffron-tinted gravy that catches the light, a single thread of saffron floating on the surface, overhead natural light
 seo_title: Kundan Kaliyan — Awadhi Mutton with Edible Gold Leaf and Saffron Gravy
 meta_description: The legendary Awadhi court dish — mutton carved into neat pieces, cooked in a strained saffron-balai gravy, five pieces draped in gold leaf, the rest stirred into the sauce until it shimmers like liquid gold.
@@ -76,29 +76,29 @@ The gold leaf itself is tasteless and harmless — its role is purely visual and
 
 ## Method
 
-1. **Blanch the mutton.** Place mutton pieces in a pot of cold water. Bring to a boil and blanch for 8–10 minutes. Drain, rinse under cold water, and pat dry. The blanching firms the meat and clarifies the final gravy.
+1. Blanch the mutton. Place mutton pieces in a pot of cold water. Bring to a boil and blanch for 8–10 minutes. Drain, rinse under cold water, and pat dry. The blanching firms the meat and clarifies the final gravy.
 
-2. **Carve the mutton.** Cut the blanched mutton into neat square or round portions of roughly even size. Uniformity matters here — this is a dish that values symmetry. Set aside.
+2. Carve the mutton. Cut the blanched mutton into neat square or round portions of roughly even size. Uniformity matters here — this is a dish that values symmetry. Set aside.
 
-3. **Fry and crush the onions (250 g).** Heat the ghee (150 g) in a heavy *deghchi* or wide pot. Add the sliced onions and fry over medium heat until deep golden brown — this will take 20–25 minutes. Remove the onions with a slotted spoon and crush or grind them to a fine paste while still warm.
+3. Fry and crush the onions (250 g). Heat the ghee (150 g) in a heavy *deghchi* or wide pot. Add the sliced onions and fry over medium heat until deep golden brown — this will take 20–25 minutes. Remove the onions with a slotted spoon and crush or grind them to a fine paste while still warm.
 
-4. **Prepare the ginger (25 g) and garlic (25 g).** Grate or blend the ginger to a paste. Squeeze the garlic through a fine press or blend and pass through a sieve — you want garlic *juice* rather than paste, to keep the gravy pale and clean.
+4. Prepare the ginger (25 g) and garlic (25 g). Grate or blend the ginger to a paste. Squeeze the garlic through a fine press or blend and pass through a sieve — you want garlic *juice* rather than paste, to keep the gravy pale and clean.
 
-5. **Begin cooking the mutton.** In the same ghee (add a little more if needed), place the carved mutton pieces and the fried onion paste. Add the ginger paste and garlic juice. Fry over medium-high heat for 10 minutes, turning the mutton to colour all sides.
+5. Begin cooking the mutton. In the same ghee (add a little more if needed), place the carved mutton pieces and the fried onion paste. Add the ginger paste and garlic juice. Fry over medium-high heat for 10 minutes, turning the mutton to colour all sides.
 
-6. **Add powdered spices.** Sprinkle in the coriander powder (5 g), turmeric (5 g), red chilli powder (5 g), and salt (10 g). Stir for 5 minutes over medium heat until the spices are thoroughly coated on the mutton and the raw smell has cooked out.
+6. Add powdered spices. Sprinkle in the coriander powder (5 g), turmeric (5 g), red chilli powder (5 g), and salt (10 g). Stir for 5 minutes over medium heat until the spices are thoroughly coated on the mutton and the raw smell has cooked out.
 
-7. **Add curd (150 g) slowly.** This is the most important step. Reduce heat to low. Add the beaten curd one tablespoon at a time, stirring constantly after each addition. Do not rush — each addition must be fully absorbed before the next goes in. Continue until all the curd is incorporated. Increase heat slightly and fry until the ghee visibly separates and pools at the edges of the pan. The mutton and spices will look dry and darkened at this point.
+7. Add curd (150 g) slowly. This is the most important step. Reduce heat to low. Add the beaten curd one tablespoon at a time, stirring constantly after each addition. Do not rush — each addition must be fully absorbed before the next goes in. Continue until all the curd is incorporated. Increase heat slightly and fry until the ghee visibly separates and pools at the edges of the pan. The mutton and spices will look dry and darkened at this point.
 
-8. **Finish cooking the mutton.** Add one cup of water and the ground garam masala. Stir to combine. Cover tightly and cook on low heat until the mutton is completely tender — about 20–30 minutes. Test by pressing a piece between your fingers; it should yield without resistance.
+8. Finish cooking the mutton. Add one cup of water and the ground garam masala. Stir to combine. Cover tightly and cook on low heat until the mutton is completely tender — about 20–30 minutes. Test by pressing a piece between your fingers; it should yield without resistance.
 
-9. **Separate mutton and strain the gravy.** Remove the mutton pieces carefully and set aside. Pour the remaining gravy through a muslin cloth or very fine sieve into a clean pot, pressing gently to extract all the liquid. What you are left with should be a smooth, deeply flavoured sauce with no fibrous remnants.
+9. Separate mutton and strain the gravy. Remove the mutton pieces carefully and set aside. Pour the remaining gravy through a muslin cloth or very fine sieve into a clean pot, pressing gently to extract all the liquid. What you are left with should be a smooth, deeply flavoured sauce with no fibrous remnants.
 
-10. **Enrich the gravy.** Mash the balai (100 g) until smooth and whisk it into the strained gravy. Add the saffron (0.1 g) water. Place over low heat and stir until the gravy is warm and emulsified — pale gold, faintly fragrant.
+10. Enrich the gravy. Mash the balai (100 g) until smooth and whisk it into the strained gravy. Add the saffron (0.1 g) water. Place over low heat and stir until the gravy is warm and emulsified — pale gold, faintly fragrant.
 
-11. **Reunite and warm.** Add the reserved mutton pieces to the gravy. Cook on low flame for 5 minutes, just to let the meat absorb the finishing flavours. Taste and adjust salt.
+11. Reunite and warm. Add the reserved mutton pieces to the gravy. Cook on low flame for 5 minutes, just to let the meat absorb the finishing flavours. Taste and adjust salt.
 
-12. **Plate with gold.** Arrange the mutton pieces in a shallow serving dish. Drape one sheet of gold leaf carefully over each of the five prominent pieces — the leaf is extremely delicate; use a small brush or the backing paper to lift and lay it. Take the remaining gold leaf sheets and crumble or break them gently into the gravy, then stir with a fork until the gravy shimmers with dispersed flecks of gold. Pour the gleaming gravy around and over the plated mutton. Serve immediately.
+12. Plate with gold. Arrange the mutton pieces in a shallow serving dish. Drape one sheet of gold leaf carefully over each of the five prominent pieces — the leaf is extremely delicate; use a small brush or the backing paper to lift and lay it. Take the remaining gold leaf sheets and crumble or break them gently into the gravy, then stir with a fork until the gravy shimmers with dispersed flecks of gold. Pour the gleaming gravy around and over the plated mutton. Serve immediately.
 
 ---
 

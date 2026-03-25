@@ -6,7 +6,7 @@ source_name: Traditional Awadhi Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Involved
-tags: Awadhi, lamb, dum, nuts, coconut, poppy seeds, Mughal, gluten-free, special occasion, kewra
+tags: indian, Awadhi, lamb, dum, nuts, coconut, poppy seeds, Mughal, gluten-free, special occasion, kewra
 hero_image_prompt: A wide handi opened to reveal dark, glossy lamb pieces bathed in a rich golden-brown sauce of ground nuts and spices, the surface lacquered with clarified butter, garnished with green coriander, photographed from above on a stone surface in warm, raking light
 seo_title: Lehm e Murgan — Awadhi Lamb in Spiced Nut and Coconut Paste
 meta_description: Lehm e murgan: Awadhi lamb cooked in a majoon of fried cashews, chironji, poppy seeds, and coconut, with a bouquet garni of whole spices, finished with kewra water.
@@ -79,25 +79,25 @@ The result is a lamb dish unlike a standard korma: richer and nuttier, with a co
 
 ## Method
 
-1. **Marinate the lamb.** Combine lemon juice (20 ml) and salt (10 g) in a bowl. Add the lamb pieces, mix to coat, and marinate for 15 minutes.
+1. Marinate the lamb. Combine lemon juice (20 ml) and salt (10 g) in a bowl. Add the lamb pieces, mix to coat, and marinate for 15 minutes.
 
-2. **Make the bouquet garni.** Place all the whole spices in a small square of muslin cloth and tie securely with kitchen string, leaving enough string to hang over the rim of the cooking vessel.
+2. Make the bouquet garni. Place all the whole spices in a small square of muslin cloth and tie securely with kitchen string, leaving enough string to hang over the rim of the cooking vessel.
 
-3. **Make the majoon.** Heat enough ghee in a frying pan for shallow-frying. Fry the cashewnuts (30 g) over medium heat until golden, then remove. In the same oil, fry the chironji (10 g) until pale golden, remove. Fry the poppy seeds (30 g) briefly until just fragrant, remove. Finally, fry the desiccated coconut (50 g) until golden and nutty-smelling, remove. Cool all the fried ingredients, then transfer to a blender with 30 ml water and blend to a completely smooth paste. Set aside.
+3. Make the majoon. Heat enough ghee in a frying pan for shallow-frying. Fry the cashewnuts (30 g) over medium heat until golden, then remove. In the same oil, fry the chironji (10 g) until pale golden, remove. Fry the poppy seeds (30 g) briefly until just fragrant, remove. Finally, fry the desiccated coconut (50 g) until golden and nutty-smelling, remove. Cool all the fried ingredients, then transfer to a blender with 30 ml water and blend to a completely smooth paste. Set aside.
 
-4. **Prepare the onions.** Peel and halve the onion (for the 60g): slice half and blend the other half to a smooth paste. Keep separate.
+4. Prepare the onions. Peel and halve the onion (for the 60g): slice half and blend the other half to a smooth paste. Keep separate.
 
-5. **Sear the lamb.** Heat the remaining ghee in a heavy handi. Increase to high heat, drain the lamb pieces to remove the marinade, and add to the hot ghee. Sear for 1½–2 minutes per side to create a golden crust. Remove and set aside.
+5. Sear the lamb. Heat the remaining ghee in a heavy handi. Increase to high heat, drain the lamb pieces to remove the marinade, and add to the hot ghee. Sear for 1½–2 minutes per side to create a golden crust. Remove and set aside.
 
-6. **Build the gravy.** Reduce heat to medium. Add the sliced onions to the handi and sauté until golden. Add the seared lamb back in, along with the garam masala (if using), and stir for 1 minute. Add the onion paste, garlic paste (10 g), and ginger paste (10 g), and fry for 1 minute.
+6. Build the gravy. Reduce heat to medium. Add the sliced onions to the handi and sauté until golden. Add the seared lamb back in, along with the garam masala (if using), and stir for 1 minute. Add the onion paste, garlic paste (10 g), and ginger paste (10 g), and fry for 1 minute.
 
-7. **Add yogurt.** Remove the handi from heat momentarily. Stir in the whisked yogurt with coriander powder (½ teaspoon) and red chilli powder (5 g). Return to heat and add the bouquet garni (tying the string to the handle to keep the spice bundle suspended in the gravy). Fry until the fat leaves the sides of the gravy, stirring constantly.
+7. Add yogurt. Remove the handi from heat momentarily. Stir in the whisked yogurt with coriander powder (½ teaspoon) and red chilli powder (5 g). Return to heat and add the bouquet garni (tying the string to the handle to keep the spice bundle suspended in the gravy). Fry until the fat leaves the sides of the gravy, stirring constantly.
 
-8. **Braise with stock.** Add the lamb stock (600 ml) and bring to a boil. Cover and simmer over medium heat, stirring occasionally, for 35–40 minutes until the lamb is cooked through.
+8. Braise with stock. Add the lamb stock (600 ml) and bring to a boil. Cover and simmer over medium heat, stirring occasionally, for 35–40 minutes until the lamb is cooked through.
 
-9. **Add the majoon.** Reduce heat to low. Stir in the nut paste and cover. Simmer for 5 minutes, stirring occasionally. Then reduce to the very lowest heat, add the black pepper (5 g), stir, cover, and cook for 10 minutes more.
+9. Add the majoon. Reduce heat to low. Stir in the nut paste and cover. Simmer for 5 minutes, stirring occasionally. Then reduce to the very lowest heat, add the black pepper (5 g), stir, cover, and cook for 10 minutes more.
 
-10. **Finish.** Remove from heat. Discard the bouquet garni. Add the kewra water (10 ml), stir, and adjust seasoning. Garnish with coriander and green chillies. Serve with roomali roti.
+10. Finish. Remove from heat. Discard the bouquet garni. Add the kewra water (10 ml), stir, and adjust seasoning. Garnish with coriander and green chillies. Serve with roomali roti.
 
 ---
 

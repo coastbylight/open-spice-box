@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Dessert
 difficulty: Advanced
-tags: [rajasthan, north india, dessert, ghevar, festival sweet, teej, sawan, maida, ghee, sugar syrup, rabdi, nuts, saffron, vegetarian]
+tags: [indian, rajasthan, north india, dessert, ghevar, festival sweet, teej, sawan, maida, ghee, sugar syrup, rabdi, nuts, saffron, vegetarian]
 hero_image_prompt: A golden ghevar disc on a dark plate, its lacy honeycomb surface visible, topped with a generous layer of thickened rabdi cream and scattered with blanched almond slivers, pistachio, and a few dried rose petals, warm side light
 seo_title: Ghevar Recipe - Rajasthani Lacy Festival Sweet with Rabdi
 meta_description: Ghevar is Rajasthan's lacy disc-shaped festival sweet. Maida batter poured in a thin stream into hot ghee, soaked in sugar syrup, topped with saffron rabdi and nuts. A Teej and Sawan specialty.

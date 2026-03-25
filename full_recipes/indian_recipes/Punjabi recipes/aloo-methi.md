@@ -10,7 +10,7 @@ total_time: 50 minutes
 difficulty: Easy
 cuisine: Punjabi, North Indian
 course: Main, Side
-tags: [vegetarian, vegan, gluten-free, winter, fenugreek, potato, Punjab, dry curry]
+tags: [indian, punjabi, vegetarian, vegan, gluten-free, winter, fenugreek, potato, Punjab, dry curry]
 ingredients_key: [fresh fenugreek leaves, potato, cumin, amchoor]
 hero_image_prompt: A rustic iron kadai filled with golden cubed potatoes and dark wilted fenugreek leaves, glistening with oil, photographed in warm morning light on a worn wooden surface with a small bowl of amchoor powder alongside
 seo_title: Aloo Methi Recipe — Punjabi Potatoes with Fresh Fenugreek

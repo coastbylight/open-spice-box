@@ -1,8 +1,33 @@
 # Current State — Ancient Pantry
 
-_Last updated: 2026-03-24_
+_Last updated: 2026-03-25_
 
 ## What Was Just Completed
+
+**66 Chinese and Korean recipes added** — 41 Chinese and 25 Korean recipe files created in `full_recipes/chinese_recipes/` and `full_recipes/korean_recipes/`, bringing total recipe count to **250**.
+
+- Each recipe sourced from 3 authentic URLs per dish (first URL as main pillar, unique elements from sources 2 and 3 merged where they improved the recipe)
+- All recipes follow the Ancient Pantry format: YAML frontmatter, headnote (180-320 words), At a Glance table, Ingredients, Method with sensory cues, Why This Works, Ingredient & Health Notes (research vs tradition clearly distinguished), Substitutions, Serving Suggestions, Storage, Source Acknowledgment
+- SEO metadata (seo_title, meta_description, hero_image_prompt) on every recipe
+- At least 4 internal links per recipe using `[Name](/recipes/slug)` format
+- Chinese recipes organized into soups (7), noodles (6), dim sum (6), roast/BBQ (6), stir-fries & misc (16)
+- Korean recipes organized into soups/jjigae (10), mains (8), kimchi/sides (3+), porridges (2), teas (2)
+
+**Cuisine origin tags added to all recipes** — Added missing `chinese` tag to 21 Chinese recipe files, `korean` tag to 13 Korean recipe files, and `indian` tag to 145 Indian recipe files. Also fixed missing regional tags: `andhra` (3 files), `maharashtrian` (1), `punjabi` (1), `rice` (2), `comfort food` (20). Both bracket (`tags: [...]`) and non-bracket (`tags: ...`) YAML formats handled.
+
+**Ingredient parser upgraded** — `scripts/load-full-recipes.mjs` `parseIngredients()` rewritten to properly extract structured `amount`, `unit`, `ingredient`, and `prep_note` fields from ingredient lines. Previous parser stored everything as raw text with `amount: null` and `unit: null`, which meant the metric/imperial toggle had no effect. New parser recognizes all metric units (g, kg, ml, L), imperial units (tsp, tbsp, cup, oz, lb), count-based units (clove, sprig, piece), and normalizes long-form units to abbreviations (e.g. "tablespoon" → "tbsp").
+
+**All new recipe ingredients converted to metric** — All 66 Chinese/Korean recipe files updated to use metric measurements (g, ml, kg, L) in the Ingredients section. Proteins in grams, liquids in ml/L, spices in grams, dry goods in grams, count items kept as counts. Non-ingredient sections (Method, Substitutions, etc.) retain imperial references. The frontend `unit-conversion.ts` converter handles displaying imperial (tsp/tbsp/cup/oz/lb) when the toggle is set to oz.
+
+**Method step bold markers removed** — Removed `**bold**` wrapping from the opening phrase of each numbered method step across all 250 recipe files (Chinese, Korean, Indian, wellness). Recipe skill updated to explicitly prohibit bolding step openings.
+
+**Method step numbers restyled** — `app/(public)/recipes/[slug]/page.tsx`: Method section step numbers changed from `text-parchment-300` to `text-charcoal-800` (`#47403b`, Charcoal Brown from brand palette) across all recipes.
+
+**Recipe skill updated** — `skills/ancient-pantry-recipe:SKILL.md` updated with two new standards:
+  1. Ingredient Measurement Standard: metric stored (g/ml/kg/L), imperial displayed via toggle. Proteins use g, spices use g, liquids use ml, dry goods use g. Non-ingredient sections always use imperial.
+  2. Method formatting: no bold wrapping on step openings.
+
+---
 
 **Site-wide design polish — purposeful details invoking ancient knowledge**
 

@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Easy
-tags: Goan, rice porridge, congee, coconut, cashew, tamarind, jaggery, vegan, comfort food, gluten-free
+tags: indian, Goan, rice porridge, congee, coconut, cashew, tamarind, jaggery, vegan, comfort food, gluten-free
 hero_image_prompt: A deep clay bowl of pez-conji, the thick rice porridge pale and steaming, a dark spiced coconut mixture swirled through it and a small pool of dark tamarind-jaggery balancing at the edge, on a warm wooden table with natural coastal light
 seo_title: Pez-Conji Recipe — Goan Rice Congee with Coconut and Tamarind
 meta_description: Goan pez-conji: rice cooked to a soft, mashable porridge with water, then finished with a roasted coconut-spice paste, cashews, tamarind, jaggery, and a mustard-asafoetida temper.
@@ -72,15 +72,15 @@ Pez-conji is comfort food of a specifically Goan character: humble in its base i
 
 ## Method
 
-1. **Cook the cashews.** Place the chopped cashews in a small pot with enough cold water (700 ml) to cover and a small pinch of salt (¾ teaspoon). Bring to a boil and simmer for 10 minutes until softened. Drain and set aside.
+1. Cook the cashews. Place the chopped cashews in a small pot with enough cold water (700 ml) to cover and a small pinch of salt (¾ teaspoon). Bring to a boil and simmer for 10 minutes until softened. Drain and set aside.
 
-2. **Make the spice paste.** Heat 1 teaspoon of oil in a small pan over medium heat. Add the coriander seeds (¼ teaspoon) and fenugreek (¼ teaspoon) seeds. Stir for 1–2 minutes until fragrant and slightly darkened. Add the dried red chillies (2 small) and stir for 30 seconds. Tip onto a plate to cool. Once cool, transfer to a blender with the grated coconut and the soaked tamarind (including the soaking water). Blend to a smooth, thick paste, adding a tablespoon of water if needed to get the blender moving.
+2. Make the spice paste. Heat 1 teaspoon of oil in a small pan over medium heat. Add the coriander seeds (¼ teaspoon) and fenugreek (¼ teaspoon) seeds. Stir for 1–2 minutes until fragrant and slightly darkened. Add the dried red chillies (2 small) and stir for 30 seconds. Tip onto a plate to cool. Once cool, transfer to a blender with the grated coconut and the soaked tamarind (including the soaking water). Blend to a smooth, thick paste, adding a tablespoon of water if needed to get the blender moving.
 
-3. **Cook the rice (175 g).** Place the rice in a medium pot with 700 ml of water and the salt. Bring to a boil, then reduce to a steady simmer. Cook uncovered, stirring occasionally, for 20–25 minutes until the rice is completely soft and breaking apart. This is rice cooked well beyond the al dente stage, into a porridge consistency. The mixture should be thick and almost spoonable rather than pourable.
+3. Cook the rice (175 g). Place the rice in a medium pot with 700 ml of water and the salt. Bring to a boil, then reduce to a steady simmer. Cook uncovered, stirring occasionally, for 20–25 minutes until the rice is completely soft and breaking apart. This is rice cooked well beyond the al dente stage, into a porridge consistency. The mixture should be thick and almost spoonable rather than pourable.
 
-4. **Combine.** Add the coconut-spice paste to the cooked rice porridge. Stir well to combine. Add the cooked cashews. Stir through. Add the jaggery (7 g) and mix. Taste: the flavour should be complex, slightly sweet from the coconut and jaggery, slightly sour from the tamarind (3 g), warm from the spices. Adjust jaggery or tamarind to balance to your taste.
+4. Combine. Add the coconut-spice paste to the cooked rice porridge. Stir well to combine. Add the cooked cashews. Stir through. Add the jaggery (7 g) and mix. Taste: the flavour should be complex, slightly sweet from the coconut and jaggery, slightly sour from the tamarind (3 g), warm from the spices. Adjust jaggery or tamarind to balance to your taste.
 
-5. **Temper.** Heat the oil in a very small pan over high heat. When very hot, add the mustard seeds (¼ teaspoon) — they should pop within seconds. Add the asafoetida immediately and pour the whole temper, still sizzling, over the pez-conji. Stir through and serve immediately.
+5. Temper. Heat the oil in a very small pan over high heat. When very hot, add the mustard seeds (¼ teaspoon) — they should pop within seconds. Add the asafoetida immediately and pour the whole temper, still sizzling, over the pez-conji. Stir through and serve immediately.
 
 ---
 

@@ -67,21 +67,21 @@ This is a rich dish. It belongs to a meal where it can be the centrepiece — se
 
 ## Method
 
-1. **Make the cashew-onion paste.** Place the cashewnuts (100 g) and chopped onion (125 g) in a small saucepan. Cover with water and boil for 10 minutes until the cashews are soft and the onion is completely tender. Drain, cool slightly, and blend to a completely smooth, fine paste. Add a splash of water if needed.
+1. Make the cashew-onion paste. Place the cashewnuts (100 g) and chopped onion (125 g) in a small saucepan. Cover with water and boil for 10 minutes until the cashews are soft and the onion is completely tender. Drain, cool slightly, and blend to a completely smooth, fine paste. Add a splash of water if needed.
 
-2. **Temper the fenugreek.** Heat the oil in a heavy pot or karahi over medium heat. Add the fenugreek seeds and let them sizzle for 30–45 seconds until they darken slightly and smell toasty — they should turn a shade or two deeper, releasing a mellow bitterness. Do not let them burn.
+2. Temper the fenugreek. Heat the oil in a heavy pot or karahi over medium heat. Add the fenugreek seeds and let them sizzle for 30–45 seconds until they darken slightly and smell toasty — they should turn a shade or two deeper, releasing a mellow bitterness. Do not let them burn.
 
-3. **Build the base.** Add the ginger-garlic paste (50 g) to the tempered oil and fry for 2–3 minutes, stirring constantly, until the raw smell is gone and the paste begins to colour. Add the white pepper (½ teaspoon), black pepper (1 teaspoon), red chilli powder, turmeric (½ teaspoon), methi powder (1 g), and salt (1 teaspoon). Stir for 1 minute.
+3. Build the base. Add the ginger-garlic paste (50 g) to the tempered oil and fry for 2–3 minutes, stirring constantly, until the raw smell is gone and the paste begins to colour. Add the white pepper (½ teaspoon), black pepper (1 teaspoon), red chilli powder, turmeric (½ teaspoon), methi powder (1 g), and salt (1 teaspoon). Stir for 1 minute.
 
-4. **Cook the yogurt.** Remove the pot from the heat briefly, then add the beaten yogurt in one go, stirring immediately to prevent it from splitting. Return to medium heat and cook, stirring frequently, for 8–10 minutes until the yogurt is cooked through and the mixture begins to show a slight separation of fat at the edges.
+4. Cook the yogurt. Remove the pot from the heat briefly, then add the beaten yogurt in one go, stirring immediately to prevent it from splitting. Return to medium heat and cook, stirring frequently, for 8–10 minutes until the yogurt is cooked through and the mixture begins to show a slight separation of fat at the edges.
 
-5. **Add the cashew-onion paste.** Stir in the blended paste and cook for 5 minutes more, stirring, until the gravy is thick and fragrant and the fat begins to rise to the surface — this is the sign that the masala is properly cooked.
+5. Add the cashew-onion paste. Stir in the blended paste and cook for 5 minutes more, stirring, until the gravy is thick and fragrant and the fat begins to rise to the surface — this is the sign that the masala is properly cooked.
 
-6. **Strain the gravy.** Pass the gravy through a fine sieve or strainer, pressing well to extract all the liquid. Return the strained gravy to the pot. This step gives the finished dish its silky, refined texture.
+6. Strain the gravy. Pass the gravy through a fine sieve or strainer, pressing well to extract all the liquid. Return the strained gravy to the pot. This step gives the finished dish its silky, refined texture.
 
-7. **Finish with paneer (4 cm across, 1 cm thick), saffron, and cream (125 ml).** Add the paneer diamonds to the gravy and warm gently over low heat. Stir in the saffron (with its soaking liquid) and the cream. Simmer for 3–4 minutes, adjusting seasoning. The gravy should be a warm amber, cling to the paneer, and taste rich, slightly bitter at the base, and perfumed with saffron.
+7. Finish with paneer (4 cm across, 1 cm thick), saffron, and cream (125 ml). Add the paneer diamonds to the gravy and warm gently over low heat. Stir in the saffron (with its soaking liquid) and the cream. Simmer for 3–4 minutes, adjusting seasoning. The gravy should be a warm amber, cling to the paneer, and taste rich, slightly bitter at the base, and perfumed with saffron.
 
-8. **Serve** garnished with a swirl of cream and fresh coriander.
+8. Serve garnished with a swirl of cream and fresh coriander.
 
 ---
 

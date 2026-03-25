@@ -6,7 +6,7 @@ source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main
 difficulty: Intermediate
-tags: [kerala, chicken, country-chicken, coconut-milk, mustard-seeds, coconut-oil, curry, nadan]
+tags: [indian, kerala, chicken, country-chicken, coconut-milk, mustard-seeds, coconut-oil, curry, nadan]
 hero_image_prompt: A wide clay pot filled with a rich, amber-brown Kerala chicken curry, visible pieces of golden-seared boneless chicken leg submerged in a glossy coconut milk gravy, dark mustard seeds and curry leaves crisped at the surface, a pool of coconut oil shimmering at the edges, set on a stone surface with a folded green banana leaf
 seo_title: Nandan Kozhi Curry — Kerala Country Chicken in Coconut Milk
 meta_description: Nandan Kozhi Curry is a Kerala nadan (country-style) chicken curry — boneless leg cooked with crackled mustard seeds, whole red chilli, coconut oil and coconut milk in two extracts. Bold, aromatic and deeply Keralite.
