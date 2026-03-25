@@ -36,6 +36,15 @@ export async function middleware(request: NextRequest) {
     return NextResponse.redirect(url)
   }
 
+  // Protect /profile routes (require auth)
+  if (request.nextUrl.pathname.startsWith('/profile') && !user) {
+    const url = request.nextUrl.clone()
+    const redirectTo = request.nextUrl.pathname + request.nextUrl.search
+    url.pathname = '/auth/login'
+    url.searchParams.set('redirectTo', redirectTo)
+    return NextResponse.redirect(url)
+  }
+
   return supabaseResponse
 }
 

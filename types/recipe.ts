@@ -26,6 +26,9 @@ export interface Recipe {
   hero_image_url: string | null
   seo_title: string | null
   meta_description: string | null
+  average_rating: number | null
+  rating_count: number
+  created_by: string | null
   published: boolean
   created_at: string
   updated_at: string

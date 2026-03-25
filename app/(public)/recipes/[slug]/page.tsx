@@ -5,6 +5,8 @@ import { createClient } from '@/lib/supabase/server'
 import type { Recipe } from '@/types/recipe'
 import MarkdownRenderer from '@/components/ui/MarkdownRenderer'
 import RecipeIngredients from '@/components/recipe/RecipeIngredients'
+import RecipeRatingComments from '@/components/recipe/RecipeRatingComments'
+import SaveRecipeButton from '@/components/recipe/SaveRecipeButton'
 
 interface Props {
   params: { slug: string }
@@ -171,14 +173,15 @@ export default async function RecipeDetailPage({ params }: Props) {
               </div>
             )}
 
-            {/* Skip to recipe — visible */}
-            <div className="mt-6">
+            {/* Save + Skip to recipe */}
+            <div className="mt-6 flex items-center gap-4">
               <a
                 href="#ingredients"
                 className="inline-flex items-center gap-1.5 text-sm font-medium text-ochre-700 hover:text-ochre-600 active:text-ochre-800 underline underline-offset-2 decoration-ochre-300 hover:decoration-ochre-500 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-2 rounded"
               >
                 <span aria-hidden="true">↓</span> Skip to recipe
               </a>
+              <SaveRecipeButton recipeId={r.id} size="sm" />
             </div>
           </header>
 
@@ -330,6 +333,14 @@ export default async function RecipeDetailPage({ params }: Props) {
               )}
             </div>
           )}
+
+          {/* ── Ratings & Comments ── */}
+          <div className="mt-16 pt-10 border-t border-parchment-200">
+            <h2 className="font-display text-xl text-charcoal-900 tracking-tight mb-6">
+              Ratings &amp; Comments
+            </h2>
+            <RecipeRatingComments recipeId={r.id} recipeSlug={r.slug} />
+          </div>
 
         </article>
       </div>

@@ -4,6 +4,7 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { usePathname } from 'next/navigation'
+import UserMenu, { MobileUserMenu } from './UserMenu'
 
 type IndicatorStyle = { left: number; width: number; opacity: number }
 
@@ -29,7 +30,7 @@ function NavLink({ href, label }: { href: string; label: string }) {
   return (
     <Link
       href={href}
-      className={`relative z-10 text-sm tracking-wide transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-terra-500 focus-visible:ring-offset-2 rounded px-3 py-1.5 font-body hover:text-white ${
+      className={`relative z-10 text-[13px] tracking-wide whitespace-nowrap transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-terra-500 focus-visible:ring-offset-2 rounded px-2 py-1.5 font-body hover:text-white ${
         active
           ? 'text-terra-600 font-semibold'
           : 'text-charcoal-600'
@@ -113,7 +114,7 @@ export default function SiteNav() {
     <>
       <header className="sticky top-0 z-40 bg-white/97 backdrop-blur-sm border-b border-stone-200/60 shadow-[0_1px_8px_-2px_rgba(100,60,40,0.06)] border-t-[3px] border-t-lacquer-500">
         <nav
-          className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-6"
+          className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-4"
           aria-label="Main navigation"
         >
           {/* Logo */}
@@ -136,7 +137,7 @@ export default function SiteNav() {
           {/* Desktop links */}
           <div
             ref={navBarRef}
-            className="hidden lg:flex items-center gap-1 relative"
+            className="hidden lg:flex items-center gap-0 relative"
             role="list"
             onMouseLeave={() => setIndicator(s => ({ ...s, opacity: 0 }))}
           >
@@ -172,6 +173,11 @@ export default function SiteNav() {
                 <NavLink href={link.href} label={link.label} />
               </div>
             ))}
+          </div>
+
+          {/* User menu (desktop) */}
+          <div className="hidden lg:flex items-center shrink-0">
+            <UserMenu />
           </div>
 
           {/* Mobile hamburger */}
@@ -235,6 +241,7 @@ export default function SiteNav() {
                 label={link.label}
               />
             ))}
+            <MobileUserMenu />
           </nav>
         </div>
       </div>

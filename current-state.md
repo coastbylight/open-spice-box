@@ -4,6 +4,85 @@ _Last updated: 2026-03-25_
 
 ## What Was Just Completed
 
+**User account system with ratings, comments, and saved recipes** — Full auth and social features added to the site.
+
+### Auth System
+- Email/password signup and login at `/auth/signup` and `/auth/login`
+- Google OAuth integration (requires Google Cloud credentials + Supabase provider config)
+- Password reset flow: `/auth/reset-password` and `/auth/update-password`
+- OAuth callback handler at `/auth/callback/route.ts`
+- Seamless UX: `redirectTo` param preserved across all auth flows so users return to where they were
+- Middleware updated to protect `/profile/*` routes (redirects to login with return URL)
+
+### User Profiles (Rich)
+- `/profile` — View profile: display name, avatar, bio (optional), cooking skill, dietary preferences, cuisine interests, favorite ingredients
+- `/profile/settings` — Edit all profile fields, toggle collection visibility
+- `/profile/collections` — Manage saved recipe collections
+- Role system: `user`, `verified_creator`, `admin` (future-proofed for user-submitted recipes)
+- `created_by` column added to recipes table for future recipe attribution
+
+### Recipe Ratings & Comments
+- Hybrid rating system: standalone star rating (1-5) OR rating attached to a comment
+- Split layout on desktop (rating summary + form on left, comments on right), stacks on mobile
+- Rating histogram showing distribution across 5 star levels
+- Denormalized `average_rating` and `rating_count` on recipes table, auto-updated by DB triggers
+- Single-level comment replies (top-level comments can have replies, replies cannot have replies)
+- Comment flagging system: users can flag inappropriate comments, flags tracked per-user to prevent duplicates
+- Auto-publish with flagging (comments go live immediately, flagged ones surface in admin)
+- Edit/delete own comments, admins can delete any comment
+- Sort comments by newest, oldest, or highest rated
+
+### Saved Recipes & Collections
+- Bookmark/save button on every recipe page (heart icon with pulse animation)
+- Default "Saved" collection auto-created on signup
+- User-created collections with add/remove recipes
+- Per-collection public/private toggle + master `public_collections` toggle on profile
+- Long-press/right-click on save button opens collection chooser modal
+
+### Navigation Auth
+- `UserMenu` component in desktop nav: avatar dropdown with profile/collections/settings/sign-out
+- `MobileUserMenu` in mobile nav drawer
+- Sign In button styled as terra (terracotta) CTA button
+- Avatar uses deterministic brand colors (sage/terra/ochre/lacquer/charcoal) based on name initial
+
+### Database (Migration 010)
+- 6 new tables: `profiles`, `recipe_ratings`, `recipe_comments`, `user_collections`, `collection_recipes`, `comment_flags`
+- `handle_new_user()` trigger on `auth.users` auto-creates profile + default "Saved" collection
+- `update_recipe_rating_aggregates()` trigger recalculates average from both standalone ratings and comment ratings
+- Full RLS policies: public read on profiles/ratings/comments, users manage their own data, admins can delete any comment and read all flags
+- Migration applied to live Supabase DB
+
+### Files Created
+- `supabase/migrations/010_user_accounts.sql`
+- `app/auth/callback/route.ts`
+- `app/(public)/auth/login/page.tsx`, `signup/page.tsx`, `reset-password/page.tsx`, `update-password/page.tsx`
+- `app/(public)/profile/page.tsx`, `settings/page.tsx`, `collections/page.tsx`
+- `components/layout/UserMenu.tsx`
+- `components/recipe/StarRating.tsx`, `RatingSummary.tsx`, `CommentForm.tsx`, `CommentList.tsx`, `RecipeRatingComments.tsx`
+- `components/recipe/SaveRecipeButton.tsx`, `AddToCollectionModal.tsx`
+
+### Files Modified
+- `middleware.ts` — added `/profile` route protection
+- `types/recipe.ts` — added `average_rating`, `rating_count`, `created_by` fields
+- `app/(public)/recipes/[slug]/page.tsx` — added SaveRecipeButton + RecipeRatingComments section at bottom
+- `components/layout/SiteNav.tsx` — integrated UserMenu, adjusted nav spacing for 8 links + auth
+
+---
+
+**92 Thai, Vietnamese, Malaysian, Indonesian, and Japanese recipes added** — Bringing total recipe count from 250 to **342**.
+
+- **25 Thai recipes** in `full_recipes/thai_recipes/`: tom-yum-goong, tom-kha-gai, green-curry, red-curry, massaman-curry, panang-curry, pad-thai, pad-see-ew, khao-soi, som-tam, larb, yam-nua, gaeng-som, jungle-curry, pad-krapow, pla-nueng-manao, khao-tom, jok-thai-rice-congee, mango-sticky-rice, turmeric-fried-fish, gai-yang, sai-krok-isan, gaeng-liang, nam-prik, boat-noodles
+- **20 Vietnamese recipes** in `full_recipes/vietnamese_recipes/`: pho-bo, pho-ga, bun-bo-hue, hu-tieu, canh-ga-gung, canh-chua, bun-rieu, chao-ga, chao-long, banh-xeo, goi-cuon, bun-cha, ga-kho-gung, thit-kho-trung, ga-nuong-xa, bo-kho, goi-ngo-sen, canh-kho-qua, cha-ca-la-vong, bun-thang
+- **15 Malaysian recipes** in `full_recipes/malaysian_recipes/`: nasi-lemak, chicken-rendang, laksa, bak-kut-teh, hainanese-chicken-rice, ayam-percik, satay, soto-ayam, mee-rebus, roti-jala, gulai-ayam, sayur-lodeh, ikan-bakar, sup-kambing, beef-rendang
+- **12 Indonesian recipes** in `full_recipes/indonesian_recipes/`: soto-betawi, nasi-uduk, gado-gado, ayam-bakar, ayam-goreng-lengkuas, pepes-ikan, sayur-asem, rawon, bubur-ayam, tempeh-goreng, opor-ayam, wedang-jahe
+- **20 Japanese recipes** in `full_recipes/japanese_recipes/`: miso-shiru, tonkotsu-ramen, shoyu-ramen, udon, soba, oden, nabe, sukiyaki, shabu-shabu, kare-raisu, nikujaga, shogayaki, saba-shioyaki, teriyaki-chicken, chawanmushi, tamago-kake-gohan, onigiri, takikomi-gohan, hijiki-salad, kinpira-gobo
+- All recipes follow Ancient Pantry format with country tags (thai, vietnamese, malaysian, indonesian, japanese)
+- All 342 recipes uploaded to Supabase via `scripts/load-full-recipes.mjs`
+
+**Vagus nerve blog post** — `blog_posts/vagus-nerve-stimulation-ancient-modern.md`: ~2,800 word article on vagus nerve stimulation covering modern clinical methods (FDA-approved VNS, gammaCore, taVNS), non-device methods (cold exposure, slow breathing, humming), TCM practices (auricular acupuncture, ST36, PC6, Qi Gong), Ayurvedic practices (Nadi Shodhana, Bhramari, Ujjayi, Abhyanga, yoga), and the food connection (fermented foods, omega-3s, L. rhamnosus vagotomy study, anti-inflammatory foods). 18 internal links to ingredients, recipes, and tradition pages. Uploaded to Supabase `blog_posts` table.
+
+---
+
 **66 Chinese and Korean recipes added** — 41 Chinese and 25 Korean recipe files created in `full_recipes/chinese_recipes/` and `full_recipes/korean_recipes/`, bringing total recipe count to **250**.
 
 - Each recipe sourced from 3 authentic URLs per dish (first URL as main pillar, unique elements from sources 2 and 3 merged where they improved the recipe)
