@@ -127,12 +127,20 @@ export default async function HomePage() {
             backgroundSize: '28px 28px',
           }}
         />
+        {/* Ruled parchment lines — very faint aged-paper texture */}
+        <div
+          className="absolute inset-0 opacity-[0.018] pointer-events-none"
+          style={{
+            backgroundImage: 'repeating-linear-gradient(to bottom, transparent, transparent 31px, rgba(100,60,40,0.6) 32px)',
+          }}
+          aria-hidden="true"
+        />
         {/* Warm glow */}
         <div
           className="absolute inset-0 pointer-events-none"
           style={{
             background:
-              'radial-gradient(ellipse at 30% 60%, rgba(201,57,43,0.04) 0%, transparent 55%), radial-gradient(ellipse at 75% 30%, rgba(200,135,26,0.05) 0%, transparent 50%)',
+              'radial-gradient(ellipse at 30% 60%, rgba(201,57,43,0.05) 0%, transparent 55%), radial-gradient(ellipse at 75% 30%, rgba(200,135,26,0.06) 0%, transparent 50%), radial-gradient(ellipse at 50% 100%, rgba(74,63,53,0.04) 0%, transparent 50%)',
           }}
         />
 
@@ -142,9 +150,12 @@ export default async function HomePage() {
             {/* Left: Editorial content */}
             <div className="animate-fade-up">
               {/* Badge */}
-              <div className="inline-flex items-center gap-2 border border-lacquer-200 bg-lacquer-50 text-lacquer-700 text-[11px] tracking-[0.18em] uppercase px-4 py-1.5 rounded-full mb-8 font-body">
-                <span className="w-1 h-1 rounded-full bg-lacquer-500 inline-block" aria-hidden="true" />
-                Traditional Wisdom · Modern Science
+              <div className="inline-flex items-center gap-3 mb-8 font-body" aria-label="Traditional Wisdom · Modern Science">
+                <span className="block w-5 h-px bg-lacquer-400/55" aria-hidden="true" />
+                <span className="text-[10px] tracking-[0.24em] uppercase text-lacquer-600 font-medium">
+                  Traditional Wisdom · Modern Science
+                </span>
+                <span className="block w-5 h-px bg-lacquer-400/55" aria-hidden="true" />
               </div>
 
               {/* Headline */}
@@ -158,10 +169,14 @@ export default async function HomePage() {
               </h1>
 
               {/* Decorative rule */}
-              <div className="flex items-center gap-3 my-7" aria-hidden="true">
-                <div className="w-16 h-px bg-lacquer-400/50" />
-                <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-500" />
-                <div className="w-6 h-px bg-lacquer-400/50" />
+              <div className="flex items-center gap-2 my-7" aria-hidden="true">
+                <div className="w-14 h-px bg-gradient-to-r from-transparent to-lacquer-400/55" />
+                <div className="flex items-center gap-1.5">
+                  <div className="w-[3px] h-3 rounded-sm bg-lacquer-300/55" />
+                  <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-500" />
+                  <div className="w-[3px] h-3 rounded-sm bg-lacquer-300/55" />
+                </div>
+                <div className="w-20 h-px bg-gradient-to-r from-lacquer-400/55 to-transparent" />
               </div>
 
               <p className="text-base sm:text-lg text-stone-600 leading-[1.85] max-w-lg mb-10 font-body">
@@ -171,16 +186,10 @@ export default async function HomePage() {
               </p>
 
               <div className="flex flex-wrap gap-4">
-                <Link
-                  href="/recipes"
-                  className="inline-flex items-center justify-center gap-2 bg-lacquer-500 hover:bg-lacquer-600 active:bg-lacquer-700 text-white font-medium px-8 py-3.5 rounded-lg text-sm font-body tracking-wide transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-400 focus-visible:ring-offset-2"
-                >
+                <Link href="/recipes" className="btn-primary">
                   Browse Recipes
                 </Link>
-                <Link
-                  href="/ingredients"
-                  className="inline-flex items-center justify-center gap-2 border border-charcoal-300 hover:border-charcoal-500 text-charcoal-700 hover:text-charcoal-900 font-medium px-8 py-3.5 rounded-lg text-sm font-body tracking-wide transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-400 focus-visible:ring-offset-2"
-                >
+                <Link href="/ingredients" className="btn-secondary">
                   Explore Ingredients
                 </Link>
               </div>
@@ -208,9 +217,12 @@ export default async function HomePage() {
         <section className="max-w-6xl mx-auto px-4 sm:px-6 py-20">
           <div className="flex items-end justify-between mb-10">
             <div>
-              <p className="text-[10px] uppercase tracking-[0.2em] text-lacquer-500 mb-2 font-body">
-                From the kitchen
-              </p>
+              <div className="flex items-center gap-2 mb-2">
+                <span className="block w-4 h-px bg-lacquer-400/60" aria-hidden="true" />
+                <p className="text-[10px] uppercase tracking-[0.22em] text-lacquer-500 font-body font-medium">
+                  From the kitchen
+                </p>
+              </div>
               <h2 className="font-display text-3xl sm:text-4xl text-charcoal-950 tracking-tight font-semibold">
                 Featured Recipes
               </h2>
@@ -228,7 +240,7 @@ export default async function HomePage() {
               <Link
                 key={recipe.slug}
                 href={`/recipes/${recipe.slug}`}
-                className="group block bg-white rounded-xl overflow-hidden shadow-[0_2px_16px_-4px_rgba(100,50,30,0.10)] hover:shadow-[0_8px_32px_-6px_rgba(100,50,30,0.22)] transition-shadow duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-500 focus-visible:ring-offset-2"
+                className="group block bg-white rounded-xl overflow-hidden shadow-[0_2px_16px_-4px_rgba(100,50,30,0.10)] hover:shadow-[0_10px_36px_-6px_rgba(100,50,30,0.22)] hover:-translate-y-1 transition-[transform,box-shadow] duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-500 focus-visible:ring-offset-2"
               >
                 {/* Image */}
                 <div className="relative h-56 bg-parchment-100 overflow-hidden">
@@ -251,7 +263,7 @@ export default async function HomePage() {
                   {/* Category tag overlaid — always shown */}
                   {(recipe.tradition || recipe.cultural_origin) && (
                     <div className="absolute bottom-3 left-3">
-                      <span className="inline-block bg-lacquer-500 text-white text-[9px] uppercase tracking-[0.15em] px-2.5 py-1 rounded font-body">
+                      <span className="inline-block bg-lacquer-500 text-white text-[9px] uppercase tracking-[0.15em] px-2.5 py-1 rounded font-body font-medium shadow-[0_1px_4px_rgba(0,0,0,0.22)]">
                         {[recipe.tradition, recipe.cultural_origin].filter(Boolean).join(' · ')}
                       </span>
                     </div>
@@ -294,6 +306,15 @@ export default async function HomePage() {
           className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-lacquer-600/40 to-transparent"
           aria-hidden="true"
         />
+        {/* Grain texture */}
+        <div
+          className="absolute inset-0 opacity-[0.025] pointer-events-none"
+          style={{
+            backgroundImage: "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")",
+            backgroundSize: '200px 200px',
+          }}
+          aria-hidden="true"
+        />
         {/* Big decorative quote mark */}
         <div
           className="absolute top-6 left-1/2 -translate-x-1/2 font-display text-[18rem] leading-none text-lacquer-500/[0.06] select-none pointer-events-none"
@@ -307,12 +328,16 @@ export default async function HomePage() {
             that food shapes how we feel.&rdquo;
           </p>
           {/* Red decorative rule */}
-          <div className="flex items-center justify-center gap-3 mb-4" aria-hidden="true">
-            <div className="w-10 h-px bg-lacquer-600/60" />
-            <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-500" />
-            <div className="w-10 h-px bg-lacquer-600/60" />
+          <div className="flex items-center justify-center gap-2.5 mb-4" aria-hidden="true">
+            <div className="w-8 h-px bg-gradient-to-r from-transparent to-lacquer-600/55" />
+            <div className="flex items-center gap-1.5">
+              <div className="w-[2px] h-2.5 rounded-sm bg-lacquer-700/60" />
+              <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-500" />
+              <div className="w-[2px] h-2.5 rounded-sm bg-lacquer-700/60" />
+            </div>
+            <div className="w-8 h-px bg-gradient-to-l from-transparent to-lacquer-600/55" />
           </div>
-          <p className="text-sm text-charcoal-400 font-body tracking-wide">
+          <p className="text-sm text-charcoal-400 font-body tracking-[0.04em]">
             Ancient Pantry exists to preserve and share that knowledge.
           </p>
         </div>
@@ -327,9 +352,12 @@ export default async function HomePage() {
         <section className="max-w-6xl mx-auto px-4 sm:px-6 py-20">
           <div className="flex items-end justify-between mb-10">
             <div>
-              <p className="text-[10px] uppercase tracking-[0.2em] text-lacquer-500 mb-2 font-body">
-                In the pantry
-              </p>
+              <div className="flex items-center gap-2 mb-2">
+                <span className="block w-4 h-px bg-lacquer-400/60" aria-hidden="true" />
+                <p className="text-[10px] uppercase tracking-[0.22em] text-lacquer-500 font-body font-medium">
+                  In the pantry
+                </p>
+              </div>
               <h2 className="font-display text-3xl sm:text-4xl text-charcoal-950 tracking-tight font-semibold">
                 Ingredient Stories
               </h2>
@@ -413,16 +441,10 @@ export default async function HomePage() {
             every ingredient — from ancient traditions to modern science.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="/recipes"
-              className="inline-flex items-center justify-center bg-lacquer-500 hover:bg-lacquer-600 active:bg-lacquer-700 text-white font-medium px-8 py-3.5 rounded-lg text-sm font-body tracking-wide transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-500 focus-visible:ring-offset-2"
-            >
+            <Link href="/recipes" className="btn-primary">
               Browse Recipes
             </Link>
-            <Link
-              href="/traditions"
-              className="inline-flex items-center justify-center bg-white hover:bg-parchment-50 text-charcoal-700 font-medium px-8 py-3.5 rounded-lg text-sm font-body tracking-wide border border-parchment-300 hover:border-parchment-400 transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-500 focus-visible:ring-offset-2"
-            >
+            <Link href="/traditions" className="btn-secondary">
               Explore Traditions
             </Link>
           </div>

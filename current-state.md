@@ -4,6 +4,29 @@ _Last updated: 2026-03-24_
 
 ## What Was Just Completed
 
+**Site-wide design polish — purposeful details invoking ancient knowledge**
+
+- **Button system** (`app/globals.css`) — New `.btn-primary` and `.btn-secondary` CSS classes replace all inline button Tailwind strings across the site. Primary: warm lacquer gradient (`#d64530 → #a42619`), inset bevel shadow, outer red glow, shimmer sweep on hover, lift + shadow deepen on hover, press-down on active. Secondary: white with warm border, lifts to parchment-50 on hover, border tints ochre.
+
+- **Global polish** (`app/globals.css`) — `::selection` uses a subtle lacquer tint. 4px branded scrollbar with lacquer-red thumb.
+
+- **Homepage** (`app/(public)/page.tsx`):
+  - Hero badge → editorial rule-lines flanking spaced uppercase text (removed pill shape)
+  - Decorative rules → gradient-fade lines with flanking vertical bars around the diamond ornament
+  - Section eyebrows ("From the kitchen", "In the pantry") → small lacquer rule before each label
+  - Recipe cards → lift on hover (`-translate-y-1`) with deeper warm shadow
+  - Category tags → `font-medium` + inner shadow for stamp/seal feel
+  - Philosophy strip → SVG grain texture overlay + layered warm glow
+  - CTA section → buttons updated to new system
+
+- **Navigation** (`components/layout/SiteNav.tsx`) — Letter spacing tightened to `0.05em` on nav links.
+
+- **Footer** (`components/layout/SiteFooter.tsx`) — Footer links slide `0.5px` right on hover. Decorative divider → gradient fade lines + diamond cluster with flanking vertical bars. "Food is medicine." tagline slightly brighter.
+
+- **Recipe & Ingredient grids** (`components/recipe/RecipeGrid.tsx`, `components/ingredient/IngredientGrid.tsx`) — Same lift-hover (`-translate-y-1`, `transition-[transform,box-shadow]`) applied to all cards.
+
+---
+
 **Metric / Imperial unit toggle on recipe pages** — Every recipe detail page now has a **g / oz pill toggle** inline with the Ingredients heading. Imperial is the default.
 
 - **Data migration** — All 183 recipes (2,154 ingredients) had their ingredient data stored as flat strings (`"7 g coriander powder (about 2 teaspoons)"`) with `amount` and `unit` both null. `scripts/migrate-ingredients.mjs` parsed every string into structured fields: `amount`, `unit`, `ingredient`, `prep_note`, `imperial_amount`, `imperial_unit`. Parenthetical hints like `(about ¾ tsp)` or `(about 3 medium onions)` were extracted into `imperial_amount`/`imperial_unit`.

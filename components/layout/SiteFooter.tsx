@@ -56,7 +56,7 @@ export default function SiteFooter() {
                   <li key={link.href}>
                     <Link
                       href={link.href}
-                      className="text-sm text-charcoal-400 hover:text-charcoal-100 transition-colors duration-150 focus:outline-none focus-visible:ring-1 focus-visible:ring-lacquer-500 rounded font-body"
+                      className="text-sm text-charcoal-400 hover:text-parchment-100 hover:translate-x-0.5 transition-[color,transform] duration-150 focus:outline-none focus-visible:ring-1 focus-visible:ring-lacquer-500 rounded font-body inline-block"
                     >
                       {link.label}
                     </Link>
@@ -68,12 +68,16 @@ export default function SiteFooter() {
         </div>
 
         {/* Decorative divider */}
-        <div className="flex items-center gap-3 mb-6" aria-hidden="true">
-          <div className="flex-1 h-px bg-charcoal-800" />
-          <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-700" />
-          <div className="h-px w-4 bg-charcoal-800" />
-          <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-700" />
-          <div className="flex-1 h-px bg-charcoal-800" />
+        <div className="flex items-center gap-2.5 mb-6" aria-hidden="true">
+          <div className="flex-1 h-px bg-gradient-to-r from-transparent to-charcoal-800" />
+          <div className="flex items-center gap-1.5">
+            <div className="w-[2px] h-3 rounded-sm bg-charcoal-700" />
+            <div className="w-1 h-1 rotate-45 bg-lacquer-700/60" />
+            <div className="w-1.5 h-1.5 rotate-45 bg-lacquer-600" />
+            <div className="w-1 h-1 rotate-45 bg-lacquer-700/60" />
+            <div className="w-[2px] h-3 rounded-sm bg-charcoal-700" />
+          </div>
+          <div className="flex-1 h-px bg-gradient-to-l from-transparent to-charcoal-800" />
         </div>
 
         {/* Bottom bar */}
@@ -81,7 +85,7 @@ export default function SiteFooter() {
           <p className="text-xs text-charcoal-600 font-body">
             © {new Date().getFullYear()} Ancient Pantry. All rights reserved.
           </p>
-          <p className="text-xs text-lacquer-700/80 italic font-display tracking-wide">
+          <p className="text-xs text-lacquer-600/90 italic font-display tracking-[0.06em]">
             Food is medicine.
           </p>
         </div>

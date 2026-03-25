@@ -14,7 +14,7 @@ function IngredientCard({ ing }: { ing: CardIngredient }) {
   return (
     <Link
       href={`/ingredients/${ing.slug}`}
-      className="group block bg-white border border-parchment-200 rounded-xl overflow-hidden shadow-[0_2px_12px_-2px_rgba(139,90,43,0.08)] hover:shadow-[0_6px_24px_-4px_rgba(139,90,43,0.16)] transition-shadow duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-2"
+      className="group block bg-white border border-parchment-200 rounded-xl overflow-hidden shadow-[0_2px_12px_-2px_rgba(139,90,43,0.08)] hover:shadow-[0_8px_28px_-4px_rgba(139,90,43,0.18)] hover:-translate-y-1 transition-[transform,box-shadow] duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-2"
     >
       {/* Image */}
       <div className="relative h-40 bg-parchment-100 overflow-hidden">
