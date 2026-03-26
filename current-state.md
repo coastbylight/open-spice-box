@@ -1,8 +1,53 @@
 # Current State — Ancient Pantry
 
-_Last updated: 2026-03-25_
+_Last updated: 2026-03-26_
 
 ## What Was Just Completed
+
+**Recipe page features + homepage category links (2026-03-26)** — Seven features added based on competitor analysis (RecipeTinEats, Woks of Life, Food52):
+
+### New Components
+- `components/recipe/PrintButton.tsx` — Client component, calls `window.print()` with printer icon
+- `components/recipe/SocialShareButtons.tsx` — Client component, share to Pinterest, Facebook, X, Email, Copy Link with brand-colored hover states and "Copied!" feedback
+- `components/recipe/RelatedRecipes.tsx` — Server component, 4-card grid of related recipes scored by shared tags (+2 each), same tradition (+3), same cultural origin (+2)
+- `components/ui/Breadcrumbs.tsx` — Reusable breadcrumb nav with JSON-LD `BreadcrumbList` schema for SEO
+
+### Recipe Detail Page Updates (`app/(public)/recipes/[slug]/page.tsx`)
+- **Jump to Recipe** — Restyled from plain text link to prominent ochre button with down-arrow icon
+- **Print button** — Next to Jump to Recipe, triggers `window.print()`
+- **Social sharing** — Row of icon buttons below action bar (Pinterest, Facebook, X, Email, Copy Link)
+- **Breadcrumbs** — Home / Recipes / {Title} above recipe header with JSON-LD
+- **Related recipes** — "You Might Also Like" section before ratings/comments, fetches top 4 scored matches
+- **Serving scaler** — +/- buttons next to Ingredients heading, steps through 0.5x/1x/1.5x/2x/3x/4x, scales all ingredient amounts, works alongside metric/imperial toggle, shows scaled yield text
+- `data-no-print` attributes on hero image, action bar, share buttons, related recipes, and ratings/comments sections
+
+### RecipeIngredients Updates (`components/recipe/RecipeIngredients.tsx`)
+- Added `recipeYield` prop and `scale` state
+- `ServingScaler` sub-component with +/- circular buttons, yield display, and Reset link
+- `IngredientLine` now scales amounts by multiplier before passing to `convertIngredient`
+- Imports `parseAmount` from `lib/unit-conversion.ts` for scaling calculations
+
+### Homepage Updates (`app/(public)/page.tsx`)
+- **Browse by Category** section added between Featured Recipes and Philosophy strip
+- Two groups: "By Health Benefit" (sage-colored pills, top 8 health tags by frequency) and "By Origin" (ochre-colored pills, all distinct cultural origins)
+- Pills link to `/recipes?tag=X` or `/recipes?origin=X`
+
+### Recipe Filtering Updates
+- `components/recipe/RecipeGrid.tsx` — Added `initialTag` and `initialOrigin` props, `cultural_origin` matching in filter logic
+- `app/(public)/recipes/page.tsx` — Accepts `searchParams` (`tag`, `origin`), passes to RecipeGrid
+
+### Print Styles (`app/globals.css`)
+- `html { scroll-behavior: smooth; }` for smooth anchor scrolling
+- `@media print` block: hides nav/footer/`[data-no-print]`, resets backgrounds, removes shadows, prevents page-break-inside on images/sections, shows URLs for external links
+
+### Database Update
+- Fixed `tradition` field values: replaced underscored values (`chinese_recipes`, `japanese_recipes`, `korean_recipes`, `thai_recipes`, `vietnamese_recipes`, `indonesian_recipes`, `malaysian_recipes`) with clean names (`Chinese Recipes`, `Japanese Recipes`, etc.) across 158 recipes
+
+### Market Research
+- `market research/market research.md` — Full competitor analysis comparing Ancient Pantry against RecipeTinEats, Woks of Life, and Food52. Feature comparison matrix, gap analysis, unique differentiators, and strategic recommendations.
+- `supplemental_materials/suggested changes.md` — Prioritized launch readiness recommendations: SEO essentials, legal requirements, technical gaps, content needs, and implementation timeline.
+
+---
 
 **User account system with ratings, comments, and saved recipes** — Full auth and social features added to the site.
 
