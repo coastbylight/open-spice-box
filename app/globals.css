@@ -199,3 +199,39 @@
     animation: seal-enter 0.001ms both !important;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Print Styles ── */
+@media print {
+  nav, footer, .no-print, [data-no-print] {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: #1c1714 !important;
+    font-size: 11pt;
+    line-height: 1.6;
+  }
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+  section {
+    page-break-inside: avoid;
+  }
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #666;
+  }
+  a[href^="/"]::after {
+    content: none;
+  }
+}

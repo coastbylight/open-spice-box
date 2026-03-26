@@ -7,6 +7,7 @@ import MarkdownRenderer from '@/components/ui/MarkdownRenderer'
 import RecipeIngredients from '@/components/recipe/RecipeIngredients'
 import RecipeRatingComments from '@/components/recipe/RecipeRatingComments'
 import SaveRecipeButton from '@/components/recipe/SaveRecipeButton'
+import PrintButton from '@/components/recipe/PrintButton'
 
 interface Props {
   params: { slug: string }
@@ -116,19 +117,11 @@ export default async function RecipeDetailPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: jsonLd }}
       />
 
-      {/* Accessibility: skip nav */}
-      <a
-        href="#ingredients"
-        className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-50 focus:bg-ochre-600 focus:text-white focus:px-4 focus:py-2 focus:rounded-lg focus:text-sm focus:font-medium focus:shadow-lg"
-      >
-        Skip to recipe
-      </a>
-
       <div className="min-h-screen bg-parchment-50">
 
         {/* Hero image */}
         {r.hero_image_url && (
-          <div className="relative h-72 sm:h-[26rem] w-full overflow-hidden">
+          <div className="relative h-72 sm:h-[26rem] w-full overflow-hidden" data-no-print>
             <Image
               src={r.hero_image_url}
               alt={r.title}
@@ -173,14 +166,18 @@ export default async function RecipeDetailPage({ params }: Props) {
               </div>
             )}
 
-            {/* Save + Skip to recipe */}
-            <div className="mt-6 flex items-center gap-4">
+            {/* Action bar: Jump to Recipe + Print + Save */}
+            <div className="mt-6 flex flex-wrap items-center gap-3" data-no-print>
               <a
                 href="#ingredients"
-                className="inline-flex items-center gap-1.5 text-sm font-medium text-ochre-700 hover:text-ochre-600 active:text-ochre-800 underline underline-offset-2 decoration-ochre-300 hover:decoration-ochre-500 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-2 rounded"
+                className="inline-flex items-center gap-1.5 text-sm font-medium text-white bg-ochre-600 hover:bg-ochre-500 active:bg-ochre-700 px-4 py-2 rounded-lg shadow-[0_1px_4px_rgba(139,90,43,0.35)] hover:shadow-[0_3px_10px_-2px_rgba(139,90,43,0.4)] hover:-translate-y-[0.5px] transition-[transform,box-shadow,background] duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-2"
               >
-                <span aria-hidden="true">↓</span> Skip to recipe
+                Jump to Recipe
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-4 h-4" aria-hidden="true">
+                  <path fillRule="evenodd" d="M10 3a.75.75 0 01.75.75v10.638l3.96-4.158a.75.75 0 111.08 1.04l-5.25 5.5a.75.75 0 01-1.08 0l-5.25-5.5a.75.75 0 111.08-1.04l3.96 4.158V3.75A.75.75 0 0110 3z" clipRule="evenodd" />
+                </svg>
               </a>
+              <PrintButton />
               <SaveRecipeButton recipeId={r.id} size="sm" />
             </div>
           </header>
@@ -335,7 +332,7 @@ export default async function RecipeDetailPage({ params }: Props) {
           )}
 
           {/* ── Ratings & Comments ── */}
-          <div className="mt-16 pt-10 border-t border-parchment-200">
+          <div className="mt-16 pt-10 border-t border-parchment-200" data-no-print>
             <h2 className="font-display text-xl text-charcoal-900 tracking-tight mb-6">
               Ratings &amp; Comments
             </h2>
