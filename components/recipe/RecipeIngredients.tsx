@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import type { RecipeIngredient } from '@/types/recipe'
-import { convertIngredient, type UnitSystem } from '@/lib/unit-conversion'
+import { convertIngredient, parseAmount, type UnitSystem } from '@/lib/unit-conversion'
 
 // ─── Unit Toggle ─────────────────────────────────────────────────────────────
 
@@ -65,23 +65,105 @@ function findIngredientMatch(
   return null
 }
 
+// ─── Serving Scaler ───────────────────────────────────────────────────────────
+
+const SCALE_STEPS = [0.5, 1, 1.5, 2, 3, 4]
+
+function ServingScaler({
+  scale,
+  onChange,
+  recipeYield,
+}: {
+  scale: number
+  onChange: (s: number) => void
+  recipeYield?: string | null
+}) {
+  const stepIdx = SCALE_STEPS.indexOf(scale)
+  const canDecrease = stepIdx > 0
+  const canIncrease = stepIdx < SCALE_STEPS.length - 1
+
+  const scaledYield = (() => {
+    if (!recipeYield) return null
+    const m = recipeYield.match(/(\d+)/)
+    if (!m) return recipeYield
+    const base = parseInt(m[1], 10)
+    const scaled = Math.round(base * scale)
+    return recipeYield.replace(/\d+/, String(scaled))
+  })()
+
+  return (
+    <div className="flex items-center gap-2" role="group" aria-label="Adjust servings">
+      <button
+        type="button"
+        onClick={() => canDecrease && onChange(SCALE_STEPS[stepIdx - 1])}
+        disabled={!canDecrease}
+        className="w-7 h-7 rounded-full border border-parchment-200 bg-white text-charcoal-600 hover:bg-parchment-50 hover:border-ochre-300 disabled:opacity-30 disabled:cursor-not-allowed transition-colors duration-150 flex items-center justify-center focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-1"
+        aria-label="Decrease servings"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-3.5 h-3.5">
+          <path fillRule="evenodd" d="M4 10a.75.75 0 01.75-.75h10.5a.75.75 0 010 1.5H4.75A.75.75 0 014 10z" clipRule="evenodd" />
+        </svg>
+      </button>
+      <span className="text-xs font-medium text-charcoal-700 min-w-[3rem] text-center select-none">
+        {scale === 1 ? (scaledYield ?? '1×') : (scaledYield ?? `${scale}×`)}
+      </span>
+      <button
+        type="button"
+        onClick={() => canIncrease && onChange(SCALE_STEPS[stepIdx + 1])}
+        disabled={!canIncrease}
+        className="w-7 h-7 rounded-full border border-parchment-200 bg-white text-charcoal-600 hover:bg-parchment-50 hover:border-ochre-300 disabled:opacity-30 disabled:cursor-not-allowed transition-colors duration-150 flex items-center justify-center focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-1"
+        aria-label="Increase servings"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-3.5 h-3.5">
+          <path d="M10.75 4.75a.75.75 0 00-1.5 0v4.5h-4.5a.75.75 0 000 1.5h4.5v4.5a.75.75 0 001.5 0v-4.5h4.5a.75.75 0 000-1.5h-4.5v-4.5z" />
+        </svg>
+      </button>
+      {scale !== 1 && (
+        <button
+          type="button"
+          onClick={() => onChange(1)}
+          className="text-[10px] text-ochre-600 hover:text-ochre-700 ml-1 underline underline-offset-2 transition-colors focus:outline-none focus-visible:ring-1 focus-visible:ring-ochre-500 rounded"
+        >
+          Reset
+        </button>
+      )}
+    </div>
+  )
+}
+
 // ─── Single ingredient row ────────────────────────────────────────────────────
 
 function IngredientLine({
   item,
   system,
+  scale,
   slugs,
 }: {
   item:   RecipeIngredient
   system: UnitSystem
+  scale:  number
   slugs:  Record<string, string>
 }) {
+  const scaledAmount = (() => {
+    if (scale === 1 || !item.amount) return item.amount
+    const parsed = parseAmount(item.amount)
+    if (parsed === 0) return item.amount
+    return String(Math.round(parsed * scale * 100) / 100)
+  })()
+
+  const scaledImperialAmount = (() => {
+    if (scale === 1 || !item.imperial_amount) return item.imperial_amount
+    const parsed = parseAmount(item.imperial_amount)
+    if (parsed === 0) return item.imperial_amount
+    return String(Math.round(parsed * scale * 100) / 100)
+  })()
+
   const converted = convertIngredient(
-    item.amount,
+    scaledAmount,
     item.unit,
     item.ingredient,
     system,
-    item.imperial_amount,
+    scaledImperialAmount,
     item.imperial_unit,
   )
 
@@ -150,15 +232,26 @@ function SectionHeading({
 export default function RecipeIngredients({
   items,
   ingredientSlugs,
+  recipeYield,
 }: {
   items:           RecipeIngredient[]
   ingredientSlugs: Record<string, string>
+  recipeYield?:    string | null
 }) {
   const [system, setSystem] = useState<UnitSystem>('imperial')
+  const [scale, setScale] = useState(1)
 
   return (
     <section id="ingredients">
-      <SectionHeading action={<UnitToggle system={system} onChange={setSystem} />}>
+      <SectionHeading
+        action={
+          <div className="flex items-center gap-3">
+            <ServingScaler scale={scale} onChange={setScale} recipeYield={recipeYield} />
+            <div className="w-px h-5 bg-parchment-200" aria-hidden="true" />
+            <UnitToggle system={system} onChange={setSystem} />
+          </div>
+        }
+      >
         Ingredients
       </SectionHeading>
       <ul>
@@ -167,6 +260,7 @@ export default function RecipeIngredients({
             key={i}
             item={item}
             system={system}
+            scale={scale}
             slugs={ingredientSlugs}
           />
         ))}

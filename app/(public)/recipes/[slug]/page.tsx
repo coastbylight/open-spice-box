@@ -8,6 +8,9 @@ import RecipeIngredients from '@/components/recipe/RecipeIngredients'
 import RecipeRatingComments from '@/components/recipe/RecipeRatingComments'
 import SaveRecipeButton from '@/components/recipe/SaveRecipeButton'
 import PrintButton from '@/components/recipe/PrintButton'
+import SocialShareButtons from '@/components/recipe/SocialShareButtons'
+import RelatedRecipes from '@/components/recipe/RelatedRecipes'
+import Breadcrumbs from '@/components/ui/Breadcrumbs'
 
 interface Props {
   params: { slug: string }
@@ -98,9 +101,34 @@ export default async function RecipeDetailPage({ params }: Props) {
       .eq('published', true),
   ])
 
+  const { data: allRecipes } = await supabase
+    .from('recipes')
+    .select('slug, title, hero_image_url, total_time, difficulty, cultural_origin, tradition, tags')
+    .eq('published', true)
+    .neq('slug', params.slug)
+    .limit(50)
+
   if (!recipe) notFound()
 
   const r = recipe as Recipe
+
+  const relatedRecipes = (() => {
+    if (!allRecipes) return []
+    const currentTags = new Set(r.tags ?? [])
+    const scored = allRecipes.map(candidate => {
+      let score = 0
+      for (const tag of candidate.tags ?? []) {
+        if (currentTags.has(tag)) score += 2
+      }
+      if (candidate.tradition === r.tradition && r.tradition) score += 3
+      if (candidate.cultural_origin === r.cultural_origin && r.cultural_origin) score += 2
+      return { ...candidate, score }
+    })
+    return scored
+      .filter(c => c.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 4)
+  })()
 
   // Build a lowercase-name → slug map for fast ingredient linking
   const ingredientSlugs: Record<string, string> = {}
@@ -135,8 +163,14 @@ export default async function RecipeDetailPage({ params }: Props) {
 
         <article className="max-w-2xl mx-auto px-4 sm:px-6 pb-24">
 
+          <Breadcrumbs items={[
+            { label: 'Home', href: '/' },
+            { label: 'Recipes', href: '/recipes' },
+            { label: r.title },
+          ]} />
+
           {/* ── Header ── */}
-          <header className="pt-10 pb-6">
+          <header className="pt-8 pb-6">
             {(r.tradition || r.cultural_origin) && (
               <p className="text-xs uppercase tracking-widest text-ochre-600 font-body mb-3">
                 {[r.tradition, r.cultural_origin].filter(Boolean).join(' · ')}
@@ -179,6 +213,10 @@ export default async function RecipeDetailPage({ params }: Props) {
               </a>
               <PrintButton />
               <SaveRecipeButton recipeId={r.id} size="sm" />
+            </div>
+
+            <div className="mt-3">
+              <SocialShareButtons title={r.title} imageUrl={r.hero_image_url} />
             </div>
           </header>
 
@@ -234,6 +272,7 @@ export default async function RecipeDetailPage({ params }: Props) {
           <RecipeIngredients
             items={r.ingredients ?? []}
             ingredientSlugs={ingredientSlugs}
+            recipeYield={r.yield}
           />
 
           {/* ── Method ── */}
@@ -330,6 +369,9 @@ export default async function RecipeDetailPage({ params }: Props) {
               )}
             </div>
           )}
+
+          {/* ── Related Recipes ── */}
+          <RelatedRecipes recipes={relatedRecipes} />
 
           {/* ── Ratings & Comments ── */}
           <div className="mt-16 pt-10 border-t border-parchment-200" data-no-print>
