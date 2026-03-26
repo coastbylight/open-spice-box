@@ -95,7 +95,7 @@ function ChineseSeal() {
 export default async function HomePage() {
   const supabase = createClient()
 
-  const [{ data: recipes }, { data: ingredients }] = await Promise.all([
+  const [{ data: recipes }, { data: ingredients }, { data: allRecipes }] = await Promise.all([
     supabase
       .from('recipes')
       .select('slug, title, subtitle, cultural_origin, tradition, hero_image_url, total_time')
@@ -108,10 +108,35 @@ export default async function HomePage() {
       .eq('published', true)
       .order('name', { ascending: true })
       .limit(6),
+    supabase
+      .from('recipes')
+      .select('cultural_origin, tags')
+      .eq('published', true),
   ])
 
   const featuredRecipes = recipes ?? []
   const featuredIngredients = ingredients ?? []
+
+  const origins = Array.from(
+    new Set((allRecipes ?? []).map(r => r.cultural_origin).filter(Boolean) as string[])
+  ).sort()
+
+  const HEALTH_TAGS = [
+    'anti-inflammatory', 'gut-health', 'immune', 'digestive', 'warming',
+    'adaptogen', 'tonic', 'healing', 'probiotic', 'respiratory',
+  ]
+  const tagCounts = new Map<string, number>()
+  for (const r of allRecipes ?? []) {
+    for (const tag of r.tags ?? []) {
+      if (HEALTH_TAGS.includes(tag)) {
+        tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1)
+      }
+    }
+  }
+  const healthTags = [...tagCounts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([tag]) => tag)
+    .slice(0, 8)
 
   return (
     <div className="min-h-screen">
@@ -295,6 +320,64 @@ export default async function HomePage() {
             >
               View all recipes <span aria-hidden="true">→</span>
             </Link>
+          </div>
+        </section>
+      )}
+
+      {/* ── Browse by Category ── */}
+      {(healthTags.length > 0 || origins.length > 0) && (
+        <section className="bg-white border-y border-parchment-200">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 py-16">
+            <div className="text-center mb-10">
+              <div className="flex items-center justify-center gap-2 mb-2">
+                <span className="block w-4 h-px bg-lacquer-400/60" aria-hidden="true" />
+                <p className="text-[10px] uppercase tracking-[0.22em] text-lacquer-500 font-body font-medium">
+                  Discover
+                </p>
+                <span className="block w-4 h-px bg-lacquer-400/60" aria-hidden="true" />
+              </div>
+              <h2 className="font-display text-3xl sm:text-4xl text-charcoal-950 tracking-tight font-semibold">
+                Browse by Category
+              </h2>
+            </div>
+
+            {healthTags.length > 0 && (
+              <div className="mb-8">
+                <h3 className="text-[10px] uppercase tracking-[0.18em] text-charcoal-400 mb-3 font-body text-center">
+                  By Health Benefit
+                </h3>
+                <div className="flex flex-wrap justify-center gap-2">
+                  {healthTags.map(tag => (
+                    <Link
+                      key={tag}
+                      href={`/recipes?tag=${encodeURIComponent(tag)}`}
+                      className="text-xs px-4 py-2 rounded-full border border-sage-200 bg-sage-50 text-sage-700 hover:bg-sage-100 hover:border-sage-300 hover:text-sage-800 transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-sage-500 focus-visible:ring-offset-1 font-body"
+                    >
+                      {tag}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {origins.length > 0 && (
+              <div>
+                <h3 className="text-[10px] uppercase tracking-[0.18em] text-charcoal-400 mb-3 font-body text-center">
+                  By Origin
+                </h3>
+                <div className="flex flex-wrap justify-center gap-2">
+                  {origins.map(origin => (
+                    <Link
+                      key={origin}
+                      href={`/recipes?origin=${encodeURIComponent(origin)}`}
+                      className="text-xs px-4 py-2 rounded-full border border-ochre-200 bg-ochre-50 text-ochre-700 hover:bg-ochre-100 hover:border-ochre-300 hover:text-ochre-800 transition-colors duration-150 focus:outline-none focus-visible:ring-2 focus-visible:ring-ochre-500 focus-visible:ring-offset-1 font-body"
+                    >
+                      {origin}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </section>
       )}

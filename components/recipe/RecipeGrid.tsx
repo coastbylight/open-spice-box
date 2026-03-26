@@ -102,12 +102,16 @@ const MEDICINAL_TAGS = new Set([
 interface Props {
   recipes: RecipeCardProps['recipe'][]
   allTags: string[]
+  initialTag?: string
+  initialOrigin?: string
 }
 
-export default function RecipeGrid({ recipes, allTags }: Props) {
+export default function RecipeGrid({ recipes, allTags, initialTag, initialOrigin }: Props) {
   const medicinalTags = allTags.filter(t => MEDICINAL_TAGS.has(t.toLowerCase()))
-  const [query, setQuery] = useState('')
-  const [activeTags, setActiveTags] = useState<Set<string>>(new Set())
+  const [query, setQuery] = useState(initialOrigin ?? '')
+  const [activeTags, setActiveTags] = useState<Set<string>>(
+    initialTag ? new Set([initialTag]) : new Set()
+  )
 
   function toggleTag(tag: string) {
     setActiveTags(prev => {
@@ -124,6 +128,7 @@ export default function RecipeGrid({ recipes, allTags }: Props) {
       const matchesQuery =
         !q ||
         r.title.toLowerCase().includes(q) ||
+        (r.cultural_origin ?? '').toLowerCase().includes(q) ||
         r.tags.some(t => t.toLowerCase().includes(q))
       const matchesTags =
         activeTags.size === 0 || Array.from(activeTags).every(t => r.tags.includes(t))

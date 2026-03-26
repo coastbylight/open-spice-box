@@ -14,7 +14,11 @@ export const metadata: Metadata = {
   },
 }
 
-export default async function RecipesPage() {
+interface PageProps {
+  searchParams: { tag?: string; origin?: string }
+}
+
+export default async function RecipesPage({ searchParams }: PageProps) {
   const supabase = createClient()
 
   const { data: recipes } = await supabase
@@ -44,7 +48,12 @@ export default async function RecipesPage() {
         </p>
       </header>
 
-      <RecipeGrid recipes={all} allTags={allTags} />
+      <RecipeGrid
+        recipes={all}
+        allTags={allTags}
+        initialTag={searchParams.tag}
+        initialOrigin={searchParams.origin}
+      />
     </div>
   )
 }
