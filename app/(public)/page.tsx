@@ -4,11 +4,11 @@ import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
 
 export const metadata: Metadata = {
-  title: 'Ancient Pantry — Food Is Medicine',
+  title: 'Open Spice Box — Food Is Medicine',
   description:
     'Curated recipes and ingredient knowledge from traditional medicine systems and modern nutrition science. Every dish tells a story.',
   openGraph: {
-    title: 'Ancient Pantry — Food Is Medicine',
+    title: 'Open Spice Box — Food Is Medicine',
     description:
       'Curated recipes and ingredient knowledge from traditional medicine systems and modern nutrition science. Every dish tells a story.',
     type: 'website',
@@ -421,7 +421,7 @@ export default async function HomePage() {
             <div className="w-8 h-px bg-gradient-to-l from-transparent to-lacquer-600/55" />
           </div>
           <p className="text-sm text-charcoal-400 font-body tracking-[0.04em]">
-            Ancient Pantry exists to preserve and share that knowledge.
+            Open Spice Box exists to preserve and share that knowledge.
           </p>
         </div>
         <div

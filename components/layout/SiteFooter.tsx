@@ -30,7 +30,7 @@ export default function SiteFooter() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-12 sm:gap-8 mb-12">
           {/* Brand column */}
           <div>
-            <Link href="/" aria-label="Ancient Pantry — home">
+            <Link href="/" aria-label="Open Spice Box — home">
               <Image
                 src="/logo.png"
                 alt=""
@@ -83,7 +83,7 @@ export default function SiteFooter() {
         {/* Bottom bar */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-charcoal-600 font-body">
-            © {new Date().getFullYear()} Ancient Pantry. All rights reserved.
+            © {new Date().getFullYear()} Open Spice Box. All rights reserved.
           </p>
           <p className="text-xs text-lacquer-600/90 italic font-display tracking-[0.06em]">
             Food is medicine.

@@ -3,13 +3,13 @@ import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
 
 export const metadata: Metadata = {
-  title: 'Blog — Ancient Pantry',
+  title: 'Blog — Open Spice Box',
   description:
-    'Reflections on food, tradition, and the science of eating well. From the Ancient Pantry kitchen.',
+    'Reflections on food, tradition, and the science of eating well. From the Open Spice Box kitchen.',
   openGraph: {
-    title: 'Blog — Ancient Pantry',
+    title: 'Blog — Open Spice Box',
     description:
-      'Reflections on food, tradition, and the science of eating well. From the Ancient Pantry kitchen.',
+      'Reflections on food, tradition, and the science of eating well. From the Open Spice Box kitchen.',
     type: 'website',
   },
 }

@@ -3,11 +3,11 @@ import { createClient } from '@/lib/supabase/server'
 import IngredientGrid from '@/components/ingredient/IngredientGrid'
 
 export const metadata: Metadata = {
-  title: 'Ingredients — Ancient Pantry',
+  title: 'Ingredients — Open Spice Box',
   description:
     'Explore ingredients through the lens of traditional medicine systems and modern nutrition science. Understand what you eat and why it matters.',
   openGraph: {
-    title: 'Ingredients — Ancient Pantry',
+    title: 'Ingredients — Open Spice Box',
     description:
       'Explore ingredients through the lens of traditional medicine systems and modern nutrition science. Understand what you eat and why it matters.',
     type: 'website',

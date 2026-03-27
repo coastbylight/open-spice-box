@@ -60,7 +60,7 @@ export default function LoginPage() {
           <Link href="/">
             <Image
               src="/logo.png"
-              alt="Ancient Pantry"
+              alt="Open Spice Box"
               width={64}
               height={64}
               className="rounded-full"
@@ -72,7 +72,7 @@ export default function LoginPage() {
           Welcome Back
         </h1>
         <p className="text-center text-charcoal-500 font-body text-sm mb-8">
-          Sign in to your Ancient Pantry account
+          Sign in to your Open Spice Box account
         </p>
 
         {/* Card */}

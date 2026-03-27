@@ -2,8 +2,8 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Contact — Ancient Pantry',
-  description: 'Get in touch with Ancient Pantry — partnerships, press, or just to say hello.',
+  title: 'Contact — Open Spice Box',
+  description: 'Get in touch with Open Spice Box — partnerships, press, or just to say hello.',
 }
 
 const OPTIONS = [

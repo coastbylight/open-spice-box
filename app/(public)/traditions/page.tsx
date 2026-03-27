@@ -3,11 +3,11 @@ import type { Metadata } from 'next'
 import { createClient } from '@/lib/supabase/server'
 
 export const metadata: Metadata = {
-  title: 'Traditional Medicine Systems — Ancient Pantry',
+  title: 'Traditional Medicine Systems — Open Spice Box',
   description:
     'Explore traditional medicine systems — TCM, Ayurveda, and more — and understand how ancient cultures used food to support health.',
   openGraph: {
-    title: 'Traditional Medicine Systems — Ancient Pantry',
+    title: 'Traditional Medicine Systems — Open Spice Box',
     description:
       'Explore traditional medicine systems — TCM, Ayurveda, and more — and understand how ancient cultures used food to support health.',
     type: 'website',

@@ -19,19 +19,19 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "Ancient Pantry",
+  title: "Open Spice Box",
   description:
     "Food is medicine — curated recipes and ingredient knowledge from traditional medicine systems and modern nutrition science.",
   openGraph: {
-    siteName: "Ancient Pantry",
-    title: "Ancient Pantry",
+    siteName: "Open Spice Box",
+    title: "Open Spice Box",
     description:
       "Food is medicine — curated recipes and ingredient knowledge from traditional medicine systems and modern nutrition science.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ancient Pantry",
+    title: "Open Spice Box",
     description:
       "Food is medicine — curated recipes and ingredient knowledge from traditional medicine systems and modern nutrition science.",
   },

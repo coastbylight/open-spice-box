@@ -18,10 +18,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!data) return {}
   const description = data.body ? data.body.slice(0, 155) : undefined
   return {
-    title: `${data.title} — How-To — Ancient Pantry`,
+    title: `${data.title} — How-To — Open Spice Box`,
     description,
     openGraph: {
-      title: `${data.title} — How-To — Ancient Pantry`,
+      title: `${data.title} — How-To — Open Spice Box`,
       description,
       type: 'article',
     },

@@ -121,14 +121,14 @@ export default function SiteNav() {
           <Link
             href="/"
             className="shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-lacquer-500 focus-visible:ring-offset-2 rounded"
-            aria-label="Ancient Pantry — home"
+            aria-label="Open Spice Box — home"
           >
-            <div className="overflow-hidden relative" style={{ height: '64px', width: '260px' }}>
+            <div className="overflow-hidden relative" style={{ height: '64px', width: '240px' }}>
               <Image
                 src="/logo.png"
                 alt=""
                 fill
-                className="object-contain scale-[2.2] object-center"
+                className="object-contain scale-[1.9] object-center"
                 priority
               />
             </div>

@@ -26,10 +26,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : `Learn about ${data.name} — traditional uses, modern research, and how to cook with it.`
 
   return {
-    title: `${data.name} — Ancient Pantry`,
+    title: `${data.name} — Open Spice Box`,
     description,
     openGraph: {
-      title: `${data.name} — Ancient Pantry`,
+      title: `${data.name} — Open Spice Box`,
       description,
       type: 'article',
     },
@@ -265,7 +265,7 @@ export default async function IngredientDetailPage({ params }: Props) {
           </section>
         )}
 
-        {/* Recipes on Ancient Pantry that use this ingredient */}
+        {/* Recipes on Open Spice Box that use this ingredient */}
         {usedIn.length > 0 && (
           <section id="recipes">
             <SectionHeading>Recipes Using {ing.name}</SectionHeading>

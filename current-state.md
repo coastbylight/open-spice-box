@@ -1,6 +1,6 @@
-# Current State — Ancient Pantry
+# Current State — Open Spice Box
 
-_Last updated: 2026-03-26_
+_Last updated: 2026-03-27_
 
 ## What Was Just Completed
 
@@ -16,7 +16,7 @@ _Last updated: 2026-03-26_
 - **11 Vietnamese recipes**: banh-mi, com-tam, bun-thit-nuong, banh-cuon, cha-gio, thit-nuong, ca-kho-to, thit-kho-tau, bo-luc-lac, ca-phe-trung, chanh-muoi
 
 ### Blog System (36 published posts across 8 topic clusters)
-All posts written following Ancient Pantry blog skill, voice skill, and SEO best practices. Published to Supabase with staggered Tue/Thu schedule from Jan 6 to May 7, 2026.
+All posts written following Open Spice Box blog skill, voice skill, and SEO best practices. Published to Supabase with staggered Tue/Thu schedule from Jan 6 to May 7, 2026.
 
 **Cluster 1: Gut Health & Digestion (5 posts)**
 - what-to-eat-stomach-upset, best-foods-bloating-gas, foods-help-constipation-naturally, best-spices-digestion, how-to-reset-gut-naturally
@@ -102,7 +102,7 @@ All posts written following Ancient Pantry blog skill, voice skill, and SEO best
 - Fixed `tradition` field values: replaced underscored values (`chinese_recipes`, `japanese_recipes`, `korean_recipes`, `thai_recipes`, `vietnamese_recipes`, `indonesian_recipes`, `malaysian_recipes`) with clean names (`Chinese Recipes`, `Japanese Recipes`, etc.) across 158 recipes
 
 ### Market Research
-- `market research/market research.md` — Full competitor analysis comparing Ancient Pantry against RecipeTinEats, Woks of Life, and Food52. Feature comparison matrix, gap analysis, unique differentiators, and strategic recommendations.
+- `market research/market research.md` — Full competitor analysis comparing Open Spice Box against RecipeTinEats, Woks of Life, and Food52. Feature comparison matrix, gap analysis, unique differentiators, and strategic recommendations.
 - `supplemental_materials/suggested changes.md` — Prioritized launch readiness recommendations: SEO essentials, legal requirements, technical gaps, content needs, and implementation timeline.
 
 ---
@@ -179,7 +179,7 @@ All posts written following Ancient Pantry blog skill, voice skill, and SEO best
 - **15 Malaysian recipes** in `full_recipes/malaysian_recipes/`: nasi-lemak, chicken-rendang, laksa, bak-kut-teh, hainanese-chicken-rice, ayam-percik, satay, soto-ayam, mee-rebus, roti-jala, gulai-ayam, sayur-lodeh, ikan-bakar, sup-kambing, beef-rendang
 - **12 Indonesian recipes** in `full_recipes/indonesian_recipes/`: soto-betawi, nasi-uduk, gado-gado, ayam-bakar, ayam-goreng-lengkuas, pepes-ikan, sayur-asem, rawon, bubur-ayam, tempeh-goreng, opor-ayam, wedang-jahe
 - **20 Japanese recipes** in `full_recipes/japanese_recipes/`: miso-shiru, tonkotsu-ramen, shoyu-ramen, udon, soba, oden, nabe, sukiyaki, shabu-shabu, kare-raisu, nikujaga, shogayaki, saba-shioyaki, teriyaki-chicken, chawanmushi, tamago-kake-gohan, onigiri, takikomi-gohan, hijiki-salad, kinpira-gobo
-- All recipes follow Ancient Pantry format with country tags (thai, vietnamese, malaysian, indonesian, japanese)
+- All recipes follow Open Spice Box format with country tags (thai, vietnamese, malaysian, indonesian, japanese)
 - All 342 recipes uploaded to Supabase via `scripts/load-full-recipes.mjs`
 
 **Vagus nerve blog post** — `blog_posts/vagus-nerve-stimulation-ancient-modern.md`: ~2,800 word article on vagus nerve stimulation covering modern clinical methods (FDA-approved VNS, gammaCore, taVNS), non-device methods (cold exposure, slow breathing, humming), TCM practices (auricular acupuncture, ST36, PC6, Qi Gong), Ayurvedic practices (Nadi Shodhana, Bhramari, Ujjayi, Abhyanga, yoga), and the food connection (fermented foods, omega-3s, L. rhamnosus vagotomy study, anti-inflammatory foods). 18 internal links to ingredients, recipes, and tradition pages. Uploaded to Supabase `blog_posts` table.
@@ -189,7 +189,7 @@ All posts written following Ancient Pantry blog skill, voice skill, and SEO best
 **66 Chinese and Korean recipes added** — 41 Chinese and 25 Korean recipe files created in `full_recipes/chinese_recipes/` and `full_recipes/korean_recipes/`, bringing total recipe count to **250**.
 
 - Each recipe sourced from 3 authentic URLs per dish (first URL as main pillar, unique elements from sources 2 and 3 merged where they improved the recipe)
-- All recipes follow the Ancient Pantry format: YAML frontmatter, headnote (180-320 words), At a Glance table, Ingredients, Method with sensory cues, Why This Works, Ingredient & Health Notes (research vs tradition clearly distinguished), Substitutions, Serving Suggestions, Storage, Source Acknowledgment
+- All recipes follow the Open Spice Box format: YAML frontmatter, headnote (180-320 words), At a Glance table, Ingredients, Method with sensory cues, Why This Works, Ingredient & Health Notes (research vs tradition clearly distinguished), Substitutions, Serving Suggestions, Storage, Source Acknowledgment
 - SEO metadata (seo_title, meta_description, hero_image_prompt) on every recipe
 - At least 4 internal links per recipe using `[Name](/recipes/slug)` format
 - Chinese recipes organized into soups (7), noodles (6), dim sum (6), roast/BBQ (6), stir-fries & misc (16)

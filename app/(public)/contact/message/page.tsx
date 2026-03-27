@@ -3,8 +3,8 @@ import type { Metadata } from 'next'
 import ContactForm from '@/components/forms/ContactForm'
 
 export const metadata: Metadata = {
-  title: 'Send a Message — Ancient Pantry',
-  description: 'Get in touch with the Ancient Pantry team.',
+  title: 'Send a Message — Open Spice Box',
+  description: 'Get in touch with the Open Spice Box team.',
 }
 
 export default function ContactMessagePage() {

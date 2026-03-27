@@ -2,8 +2,8 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Press — Ancient Pantry',
-  description: 'Media inquiries and press information for Ancient Pantry.',
+  title: 'Press — Open Spice Box',
+  description: 'Media inquiries and press information for Open Spice Box.',
 }
 
 export default function PressPage() {
@@ -27,7 +27,7 @@ export default function PressPage() {
 
       <div className="space-y-6 text-charcoal-700 font-body leading-[1.8] text-base">
         <p>
-          Ancient Pantry covers the intersection of traditional food wisdom and
+          Open Spice Box covers the intersection of traditional food wisdom and
           modern nutrition science. We&apos;re happy to connect with journalists,
           podcasters, and media outlets working on related stories.
         </p>

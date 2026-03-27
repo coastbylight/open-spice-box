@@ -5,11 +5,11 @@ import { createClient } from '@/lib/supabase/server'
 import type { Collection } from '@/types/collection'
 
 export const metadata: Metadata = {
-  title: 'Collections — Ancient Pantry',
+  title: 'Collections — Open Spice Box',
   description:
     'Curated recipe collections organized by theme, tradition, and occasion.',
   openGraph: {
-    title: 'Collections — Ancient Pantry',
+    title: 'Collections — Open Spice Box',
     description:
       'Curated recipe collections organized by theme, tradition, and occasion.',
     type: 'website',

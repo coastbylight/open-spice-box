@@ -21,10 +21,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!data) return {}
 
   return {
-    title: `${data.name} — Ancient Pantry`,
+    title: `${data.name} — Open Spice Box`,
     description: data.description ?? undefined,
     openGraph: {
-      title: `${data.name} — Ancient Pantry`,
+      title: `${data.name} — Open Spice Box`,
       description: data.description ?? undefined,
       type: 'website',
     },

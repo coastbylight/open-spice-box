@@ -30,7 +30,7 @@ export default function AdminLoginPage() {
     <div className="min-h-screen bg-charcoal-950 flex items-center justify-center p-4">
       <div className="w-full max-w-sm">
         <h1 className="text-2xl font-display text-charcoal-100 text-center mb-8">
-          Ancient Pantry Admin
+          Open Spice Box Admin
         </h1>
         <form onSubmit={handleLogin} className="bg-charcoal-900 rounded-lg p-6 space-y-4">
           <div>

@@ -21,10 +21,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? data.philosophy.slice(0, 155)
     : `Explore ${data.name} — its food philosophy, key ingredients, and culinary traditions.`
   return {
-    title: `${data.name} — Ancient Pantry`,
+    title: `${data.name} — Open Spice Box`,
     description,
     openGraph: {
-      title: `${data.name} — Ancient Pantry`,
+      title: `${data.name} — Open Spice Box`,
       description,
       type: 'article',
     },

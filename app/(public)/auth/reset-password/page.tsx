@@ -42,7 +42,7 @@ export default function ResetPasswordPage() {
           <Link href="/">
             <Image
               src="/logo.png"
-              alt="Ancient Pantry"
+              alt="Open Spice Box"
               width={64}
               height={64}
               className="rounded-full"

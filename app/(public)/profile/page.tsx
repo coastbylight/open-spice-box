@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { createClient } from '@/lib/supabase/server'
 
 export const metadata = {
-  title: 'My Profile — Ancient Pantry',
+  title: 'My Profile — Open Spice Box',
 }
 
 export default async function ProfilePage() {

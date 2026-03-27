@@ -2,8 +2,8 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Work With Us — Ancient Pantry',
-  description: 'Collaboration and partnership opportunities with Ancient Pantry.',
+  title: 'Work With Us — Open Spice Box',
+  description: 'Collaboration and partnership opportunities with Open Spice Box.',
 }
 
 export default function WorkWithUsPage() {

@@ -3,11 +3,11 @@ import { createClient } from '@/lib/supabase/server'
 import RecipeGrid from '@/components/recipe/RecipeGrid'
 
 export const metadata: Metadata = {
-  title: 'Recipes — Ancient Pantry',
+  title: 'Recipes — Open Spice Box',
   description:
     'Curated recipes rooted in traditional medicine systems and modern nutrition science. Anti-inflammatory, gut health, adaptogenic, and more.',
   openGraph: {
-    title: 'Recipes — Ancient Pantry',
+    title: 'Recipes — Open Spice Box',
     description:
       'Curated recipes rooted in traditional medicine systems and modern nutrition science. Anti-inflammatory, gut health, adaptogenic, and more.',
     type: 'website',
