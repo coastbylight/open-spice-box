@@ -1,0 +1,60 @@
+{
+  "eval_id": 3,
+  "run": "without_skill",
+  "expectations": [
+    {
+      "text": "Primary keyword 'how to use miso' appears within the first 200 words",
+      "passed": true,
+      "evidence": "Body heading is '# How to Use Miso: A Living Ingredient With 1,300 Years of History' and keyword appears in first para"
+    },
+    {
+      "text": "Body contains at least 4 Markdown internal links [text](/path)",
+      "passed": false,
+      "evidence": "ZERO Markdown links anywhere in the body. The entire 2,000+ word post contains no internal links to /ingredients/, /recipes/, or /traditions/"
+    },
+    {
+      "text": "Post links to /ingredients/miso",
+      "passed": false,
+      "evidence": "No link to /ingredients/miso anywhere in the post"
+    },
+    {
+      "text": "Post includes the 'add miso off-heat' technique (don't boil miso)",
+      "passed": true,
+      "evidence": "Section 'How to Use Miso Without Killing the Beneficial Bacteria' covers off-heat technique thoroughly"
+    },
+    {
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "passed": true,
+      "evidence": "All 4 basic fields present. Tags include 'ancient-pantry' which is an unusual/unnecessary tag."
+    },
+    {
+      "text": "Body does not open with a # H1 heading",
+      "passed": false,
+      "evidence": "Line 18: '# How to Use Miso: A Living Ingredient With 1,300 Years of History' \u2014 duplicate H1"
+    },
+    {
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "passed": false,
+      "evidence": "No FAQ section. Post ends with 'Why Miso Matters Now' and a boilerplate outro."
+    },
+    {
+      "text": "Post does not end with a boilerplate disclaimer paragraph",
+      "passed": false,
+      "evidence": "Lines 210-211: 'Ancient Pantry explores traditional ingredients at the intersection of culinary history, cultural tradition, and modern food science...'"
+    },
+    {
+      "text": "YAML includes an internal_links_used audit field",
+      "passed": false,
+      "evidence": "No internal_links_used field in YAML"
+    }
+  ],
+  "pass_count": 3,
+  "total_count": 9,
+  "pass_rate": 0.333,
+  "summary": {
+    "passed": 3,
+    "failed": 6,
+    "total": 9,
+    "pass_rate": 0.3333
+  }
+}

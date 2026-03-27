@@ -347,3 +347,6 @@ Before finishing, confirm:
 - The writing reflects Ancient Pantry's voice: calm, grounded, intelligent, culturally respectful
 - Nothing prescribes, diagnoses, or overwhelms
 - The writing sounds like a human wrote it — use natural, conversational expressions, not polished AI-sounding prose. Avoid em dashes (use commas, periods, or restructure the sentence instead). Write the way a knowledgeable cook would actually talk.
+- Title field in YAML must NOT have quotation marks around it. Write `title: Mapo Tofu` not `title: "Mapo Tofu"`.
+- When saving recipe files, use **spaces** in folder names, not underscores. The correct paths are `full_recipes/chinese recipes/`, `full_recipes/indian recipes/`, `full_recipes/vietnamese recipes/`, etc. Never use `chinese_recipes` or `vietnamese_recipes`.
+- The `cuisine` field in YAML must be ONLY the top-level regional cuisine: `Chinese`, `Indian`, `Japanese`, `Korean`, `Thai`, `Vietnamese`, `Malaysian`, `Indonesian`. Never put sub-regional names (Punjabi, Sichuan, Cantonese) in the cuisine field. Sub-regional origin belongs in the folder structure (e.g. `indian recipes/Punjabi recipes/`) and in tags, not in `cuisine`. The load script derives the display label from the folder path, so the `cuisine` field just needs the country-level name.

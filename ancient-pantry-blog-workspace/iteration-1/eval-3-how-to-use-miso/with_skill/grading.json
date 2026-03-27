@@ -1,0 +1,54 @@
+{
+  "eval_id": 3,
+  "run": "with_skill",
+  "expectations": [
+    {
+      "text": "Primary keyword 'how to use miso' appears within the first 200 words",
+      "passed": true,
+      "evidence": "Line 23: 'This guide covers how to use miso across a full range of dishes'"
+    },
+    {
+      "text": "Body contains at least 4 Markdown internal links [text](/path)",
+      "passed": true,
+      "evidence": "10 internal links per audit: miso, traditional-chinese-medicine, fermented-black-beans, fermented-tofu, ginger, reishi-mushroom, shiitake-mushrooms, tofu, soy-sauce, miso-soup-ginger-reishi"
+    },
+    {
+      "text": "Post links to /ingredients/miso",
+      "passed": true,
+      "evidence": "First sentence: '[Miso](/ingredients/miso) is one of the oldest fermented foods in continuous production'"
+    },
+    {
+      "text": "Post includes the 'add miso off-heat' technique (don't boil miso)",
+      "passed": true,
+      "evidence": "Entire section 'How to Use Miso Without Killing the Bacteria' covers the off-heat technique in detail with specific instructions"
+    },
+    {
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "passed": true,
+      "evidence": "All fields present. Tags include miso, fermented, probiotic, gut-health, tcm"
+    },
+    {
+      "text": "Body does not open with a # H1 heading",
+      "passed": true,
+      "evidence": "Body opens with prose paragraph. First heading is ## Where Miso Comes From: China, Korea, Japan"
+    },
+    {
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "passed": true,
+      "evidence": "4 FAQ questions: 'What does miso taste like?', 'Can I use any type of miso interchangeably?', 'Does miso go bad?', 'How much miso should I use per serving?'"
+    },
+    {
+      "text": "Post does not end with a boilerplate disclaimer paragraph",
+      "passed": true,
+      "evidence": "Ends with a CTA paragraph pointing to the miso ingredient page and miso-soup-ginger-reishi recipe. No disclaimer."
+    },
+    {
+      "text": "YAML includes an internal_links_used audit field",
+      "passed": true,
+      "evidence": "internal_links_used field lists all 10 links"
+    }
+  ],
+  "pass_count": 9,
+  "total_count": 9,
+  "pass_rate": 1.0
+}

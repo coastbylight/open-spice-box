@@ -1,0 +1,60 @@
+{
+  "eval_id": 2,
+  "run": "without_skill",
+  "expectations": [
+    {
+      "text": "Body contains at least 6 Markdown internal links [text](/path)",
+      "passed": true,
+      "evidence": "9 Markdown links present (6 ingredient links + 3 recipe links), though 6 use awkward 'Read more on the [Ginger ingredient page]' format"
+    },
+    {
+      "text": "Post links to /traditions/ayurveda and /traditions/traditional-chinese-medicine",
+      "passed": false,
+      "evidence": "No tradition links. References TCM and Ayurveda by name but never links to /traditions/ayurveda or /traditions/traditional-chinese-medicine"
+    },
+    {
+      "text": "Post contains at least 2 recipe links (/recipes/...)",
+      "passed": true,
+      "evidence": "3 recipe links: roganjosh, whole-garam-masala, kheer \u2014 agent claimed these were verified from recipe files"
+    },
+    {
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "passed": true,
+      "evidence": "All 4 basic fields present, but tags are overly verbose (12 tags with multi-word entries like 'warming spices', 'winter cooking')"
+    },
+    {
+      "text": "Body does not open with a # H1 heading (page template renders the title)",
+      "passed": false,
+      "evidence": "Line 21: '# The Warming Spice Cabinet: What TCM and Ayurveda Know About Cold-Weather Cooking' \u2014 duplicate H1"
+    },
+    {
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "passed": false,
+      "evidence": "No FAQ section. Ends with 'A Note on Proportions and Caution' and a boilerplate disclaimer."
+    },
+    {
+      "text": "Post does not end with a boilerplate disclaimer paragraph",
+      "passed": false,
+      "evidence": "Line 169: 'Ancient Pantry presents traditional food knowledge from TCM, Ayurveda...Traditional claims and research findings are presented separately. Nothing here constitutes medical advice.'"
+    },
+    {
+      "text": "YAML includes an internal_links_used audit field",
+      "passed": false,
+      "evidence": "No internal_links_used field"
+    },
+    {
+      "text": "Internal links use natural anchor text (e.g. [ginger] not [Ginger ingredient page])",
+      "passed": false,
+      "evidence": "Lines 58, 72, 88, 102, 116, 128 all use 'Read more on the [Ginger ingredient page]' \u2014 awkward, unnatural anchor text that reads poorly in context"
+    }
+  ],
+  "pass_count": 3,
+  "total_count": 9,
+  "pass_rate": 0.333,
+  "summary": {
+    "passed": 3,
+    "failed": 6,
+    "total": 9,
+    "pass_rate": 0.3333
+  }
+}

@@ -244,14 +244,55 @@ function parseTags(raw) {
   return String(raw).split(',').map(t => t.trim()).filter(Boolean)
 }
 
-// ─── Tradition from directory ─────────────────────────────────────────────────
+// ─── Cuisine from top-level directory ────────────────────────────────────────
 
-function getTradition(filePath) {
+const CUISINE_MAP = {
+  'chinese': 'Chinese Cuisine',
+  'indian': 'Indian Cuisine',
+  'indonesian': 'Indonesian Cuisine',
+  'japanese': 'Japanese Cuisine',
+  'korean': 'Korean Cuisine',
+  'malaysian': 'Malaysian Cuisine',
+  'thai': 'Thai Cuisine',
+  'vietnamese': 'Vietnamese Cuisine',
+  'wellness': 'Wellness',
+}
+
+function getCuisine(filePath) {
   const parts = filePath.replace(/\\/g, '/').split('/')
-  const categoryDir = parts[parts.length - 2] // e.g., "Dum recipes"
-  return categoryDir
+  const fullRecipesIdx = parts.indexOf('full_recipes')
+  if (fullRecipesIdx === -1 || fullRecipesIdx + 1 >= parts.length) return 'Indian Cuisine'
+  const topDir = parts[fullRecipesIdx + 1].toLowerCase().replace(/\s+recipes?$/, '').trim()
+  return CUISINE_MAP[topDir] || 'Indian Cuisine'
+}
+
+// ─── Tradition (only for meaningful sub-traditions) ─────────────────────────
+
+const MEANINGFUL_TRADITIONS = [
+  'Ayurveda', 'TCM', 'Cross-Cultural',
+  'Punjabi', 'Bengali', 'Kerala', 'Tamil Nadu', 'Kashmiri', 'Goan',
+  'Rajasthani', 'Maharashtrian', 'Parsi', 'Awadhi', 'Andhra', 'Dum',
+]
+
+function getTradition(filePath, cuisine) {
+  const parts = filePath.replace(/\\/g, '/').split('/')
+  const parentDir = parts[parts.length - 2]
+  const raw = parentDir
     .replace(/\s+[Rr]ecipes?$/, '')
     .trim()
+
+  // Don't repeat the top-level cuisine as tradition
+  // e.g. if cuisine is "Chinese Cuisine", don't set tradition to "chinese"
+  const cuisineBase = cuisine.replace(' Cuisine', '').toLowerCase()
+  if (raw.toLowerCase() === cuisineBase) return null
+
+  // Only return tradition if it's a meaningful sub-tradition
+  const matched = MEANINGFUL_TRADITIONS.find(t => t.toLowerCase() === raw.toLowerCase())
+  if (matched) return matched
+
+  // For Indian sub-categories like "Comfort Food North India", "Sweets East Indian", etc.
+  // don't show them as tradition, they're just folder organization
+  return null
 }
 
 // ─── Section key lookup (case-insensitive partial) ────────────────────────────
@@ -309,8 +350,8 @@ async function main() {
         title,
         slug,
         subtitle: frontmatter.subtitle || null,
-        cultural_origin: frontmatter.cuisine || 'Indian',
-        tradition: getTradition(file),
+        cultural_origin: getCuisine(file),
+        tradition: getTradition(file, getCuisine(file)),
         headnote: getSection(sections, 'headnote') || null,
         yield: glance.yield || null,
         prep_time: glance.prep_time || null,

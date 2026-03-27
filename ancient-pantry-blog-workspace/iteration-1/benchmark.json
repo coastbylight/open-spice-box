@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "skill_name": "ancient-pantry-blog",
+    "skill_path": "<path/to/skill>",
+    "executor_model": "<model-name>",
+    "analyzer_model": "<model-name>",
+    "timestamp": "2026-03-25T04:44:36Z",
+    "evals_run": [
+      1,
+      2,
+      3
+    ],
+    "runs_per_configuration": 3
+  },
+  "runs": [
+    {
+      "eval_id": 1,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 8,
+        "failed": 0,
+        "total": 8,
+        "time_seconds": 164.3,
+        "tokens": 34583,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Primary keyword 'black pepper' and 'turmeric' both appear in the first paragraph",
+          "passed": true,
+          "evidence": "Opening sentence: 'Turmeric is golden, earthy...Black pepper is sharp...Together, they form one of the most studied spice pairings'"
+        },
+        {
+          "text": "Body contains at least 4 Markdown internal links [text](/path)",
+          "passed": true,
+          "evidence": "8 internal links per internal_links_used audit field: turmeric, black-pepper, ayurveda, traditional-chinese-medicine, golden-milk, spiced-bone-broth, ginger, ghee"
+        },
+        {
+          "text": "YAML frontmatter has title, slug, tags, and meta_description",
+          "passed": true,
+          "evidence": "All 4 fields present in YAML block"
+        },
+        {
+          "text": "Body does not open with a # H1 heading (page template renders the title)",
+          "passed": true,
+          "evidence": "Body starts with a prose paragraph, no H1"
+        },
+        {
+          "text": "Post includes a FAQ section with at least 2 questions",
+          "passed": true,
+          "evidence": "4 FAQ questions: 'How much black pepper do I need...', 'Can I get the same benefit...', 'Does pre-ground black pepper work...', 'Is it safe to combine them every day'"
+        },
+        {
+          "text": "Post does not end with a boilerplate 'Ancient Pantry presents...' disclaimer",
+          "passed": true,
+          "evidence": "Ends with a compelling CTA paragraph linking to golden-milk recipe, no boilerplate"
+        },
+        {
+          "text": "YAML includes an internal_links_used audit field",
+          "passed": true,
+          "evidence": "internal_links_used field lists all 8 links"
+        },
+        {
+          "text": "Health claims use qualified language (research suggests, associated with) \u2014 no unqualified 'heals' or 'cures'",
+          "passed": true,
+          "evidence": "Uses 'associated in research with', 'research suggests', 'approximately 2,000% when subjects consumed it'. No unqualified health claims."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 9,
+        "failed": 0,
+        "total": 9,
+        "time_seconds": 124.6,
+        "tokens": 31162,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Body contains at least 6 Markdown internal links [text](/path)",
+          "passed": true,
+          "evidence": "10 internal links per audit field: ginger, cinnamon, cardamom, cloves, black-pepper, ayurveda, traditional-chinese-medicine, golden-milk, spiced-bone-broth, cinnamon-cardamom-oats"
+        },
+        {
+          "text": "Post links to /traditions/ayurveda and /traditions/traditional-chinese-medicine",
+          "passed": true,
+          "evidence": "Both tradition links present in opening paragraph: '[Ayurveda](/traditions/ayurveda)' and '[traditional Chinese medicine](/traditions/traditional-chinese-medicine)'"
+        },
+        {
+          "text": "Post contains at least 2 recipe links (/recipes/...)",
+          "passed": true,
+          "evidence": "3 recipe links: golden-milk, spiced-bone-broth, cinnamon-cardamom-oats \u2014 all verified against full_recipes/"
+        },
+        {
+          "text": "YAML frontmatter has title, slug, tags, and meta_description",
+          "passed": true,
+          "evidence": "All fields present. Tags include 'ayurveda', 'tcm', 'warming', 'seasonal'"
+        },
+        {
+          "text": "Body does not open with a # H1 heading (page template renders the title)",
+          "passed": true,
+          "evidence": "Body starts with prose paragraph, first heading is ## What 'Warming' Actually Means"
+        },
+        {
+          "text": "Post includes a FAQ section with at least 2 questions",
+          "passed": true,
+          "evidence": "4 FAQ questions covering: warming vs hot spices, daily use, body temperature, Ayurvedic vs TCM differences"
+        },
+        {
+          "text": "Post does not end with a boilerplate disclaimer paragraph",
+          "passed": true,
+          "evidence": "Ends with 4th FAQ answer \u2014 no disclaimer"
+        },
+        {
+          "text": "YAML includes an internal_links_used audit field",
+          "passed": true,
+          "evidence": "internal_links_used field lists all 10 links"
+        },
+        {
+          "text": "Internal links use natural anchor text (e.g. [ginger] not [Ginger ingredient page])",
+          "passed": true,
+          "evidence": "All links use natural prose anchor text: '[ginger](/ingredients/ginger)', '[golden milk](/recipes/golden-milk)', '[spiced bone broth](/recipes/spiced-bone-broth)'"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 3,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 9,
+        "failed": 0,
+        "total": 9,
+        "time_seconds": 134.2,
+        "tokens": 26795,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Primary keyword 'how to use miso' appears within the first 200 words",
+          "passed": true,
+          "evidence": "Line 23: 'This guide covers how to use miso across a full range of dishes'"
+        },
+        {
+          "text": "Body contains at least 4 Markdown internal links [text](/path)",
+          "passed": true,
+          "evidence": "10 internal links per audit: miso, traditional-chinese-medicine, fermented-black-beans, fermented-tofu, ginger, reishi-mushroom, shiitake-mushrooms, tofu, soy-sauce, miso-soup-ginger-reishi"
+        },
+        {
+          "text": "Post links to /ingredients/miso",
+          "passed": true,
+          "evidence": "First sentence: '[Miso](/ingredients/miso) is one of the oldest fermented foods in continuous production'"
+        },
+        {
+          "text": "Post includes the 'add miso off-heat' technique (don't boil miso)",
+          "passed": true,
+          "evidence": "Entire section 'How to Use Miso Without Killing the Bacteria' covers the off-heat technique in detail with specific instructions"
+        },
+        {
+          "text": "YAML frontmatter has title, slug, tags, and meta_description",
+          "passed": true,
+          "evidence": "All fields present. Tags include miso, fermented, probiotic, gut-health, tcm"
+        },
+        {
+          "text": "Body does not open with a # H1 heading",
+          "passed": true,
+          "evidence": "Body opens with prose paragraph. First heading is ## Where Miso Comes From: China, Korea, Japan"
+        },
+        {
+          "text": "Post includes a FAQ section with at least 2 questions",
+          "passed": true,
+          "evidence": "4 FAQ questions: 'What does miso taste like?', 'Can I use any type of miso interchangeably?', 'Does miso go bad?', 'How much miso should I use per serving?'"
+        },
+        {
+          "text": "Post does not end with a boilerplate disclaimer paragraph",
+          "passed": true,
+          "evidence": "Ends with a CTA paragraph pointing to the miso ingredient page and miso-soup-ginger-reishi recipe. No disclaimer."
+        },
+        {
+          "text": "YAML includes an internal_links_used audit field",
+          "passed": true,
+          "evidence": "internal_links_used field lists all 10 links"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.375,
+        "passed": 3,
+        "failed": 5,
+        "total": 8,
+        "time_seconds": 101.1,
+        "tokens": 17687,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Primary keyword 'black pepper' and 'turmeric' both appear in the first paragraph",
+          "passed": true,
+          "evidence": "Opening mentions 'Long before bioavailability was a word... cooks were grinding black pepper and turmeric together'"
+        },
+        {
+          "text": "Body contains at least 4 Markdown internal links [text](/path)",
+          "passed": false,
+          "evidence": "Only 1 Markdown link in body prose ([curcumin](/ingredients/turmeric)). 'Related Ingredients' and 'Recipes to Try' sections at bottom have NO links \u2014 just plain text bullet points."
+        },
+        {
+          "text": "YAML frontmatter has title, slug, tags, and meta_description",
+          "passed": true,
+          "evidence": "All 4 basic YAML fields present"
+        },
+        {
+          "text": "Body does not open with a # H1 heading (page template renders the title)",
+          "passed": false,
+          "evidence": "Line 19: '# Why Black Pepper Makes Turmeric Work Better: The Science of Piperine and Curcumin' \u2014 duplicate H1 that will conflict with page template"
+        },
+        {
+          "text": "Post includes a FAQ section with at least 2 questions",
+          "passed": false,
+          "evidence": "No FAQ section. Post ends with 'The Larger Lesson' and 'Related Ingredients' / 'Recipes to Try' sections instead."
+        },
+        {
+          "text": "Post does not end with a boilerplate 'Ancient Pantry presents...' disclaimer",
+          "passed": false,
+          "evidence": "Line 160: 'At Ancient Pantry, we explore the intersection of traditional ingredient wisdom and modern food science. Traditional claims represent historical systems of knowledge...'"
+        },
+        {
+          "text": "YAML includes an internal_links_used audit field",
+          "passed": false,
+          "evidence": "No internal_links_used field in YAML"
+        },
+        {
+          "text": "Health claims use qualified language (research suggests, associated with) \u2014 no unqualified 'heals' or 'cures'",
+          "passed": true,
+          "evidence": "Uses 'Research suggests', 'has been associated', 'clinical trials show'. No unqualified claims."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.3333,
+        "passed": 3,
+        "failed": 6,
+        "total": 9,
+        "time_seconds": 182.2,
+        "tokens": 70730,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Body contains at least 6 Markdown internal links [text](/path)",
+          "passed": true,
+          "evidence": "9 Markdown links present (6 ingredient links + 3 recipe links), though 6 use awkward 'Read more on the [Ginger ingredient page]' format"
+        },
+        {
+          "text": "Post links to /traditions/ayurveda and /traditions/traditional-chinese-medicine",
+          "passed": false,
+          "evidence": "No tradition links. References TCM and Ayurveda by name but never links to /traditions/ayurveda or /traditions/traditional-chinese-medicine"
+        },
+        {
+          "text": "Post contains at least 2 recipe links (/recipes/...)",
+          "passed": true,
+          "evidence": "3 recipe links: roganjosh, whole-garam-masala, kheer \u2014 agent claimed these were verified from recipe files"
+        },
+        {
+          "text": "YAML frontmatter has title, slug, tags, and meta_description",
+          "passed": true,
+          "evidence": "All 4 basic fields present, but tags are overly verbose (12 tags with multi-word entries like 'warming spices', 'winter cooking')"
+        },
+        {
+          "text": "Body does not open with a # H1 heading (page template renders the title)",
+          "passed": false,
+          "evidence": "Line 21: '# The Warming Spice Cabinet: What TCM and Ayurveda Know About Cold-Weather Cooking' \u2014 duplicate H1"
+        },
+        {
+          "text": "Post includes a FAQ section with at least 2 questions",
+          "passed": false,
+          "evidence": "No FAQ section. Ends with 'A Note on Proportions and Caution' and a boilerplate disclaimer."
+        },
+        {
+          "text": "Post does not end with a boilerplate disclaimer paragraph",
+          "passed": false,
+          "evidence": "Line 169: 'Ancient Pantry presents traditional food knowledge from TCM, Ayurveda...Traditional claims and research findings are presented separately. Nothing here constitutes medical advice.'"
+        },
+        {
+          "text": "YAML includes an internal_links_used audit field",
+          "passed": false,
+          "evidence": "No internal_links_used field"
+        },
+        {
+          "text": "Internal links use natural anchor text (e.g. [ginger] not [Ginger ingredient page])",
+          "passed": false,
+          "evidence": "Lines 58, 72, 88, 102, 116, 128 all use 'Read more on the [Ginger ingredient page]' \u2014 awkward, unnatural anchor text that reads poorly in context"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 3,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.3333,
+        "passed": 3,
+        "failed": 6,
+        "total": 9,
+        "time_seconds": 137.7,
+        "tokens": 19553,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Primary keyword 'how to use miso' appears within the first 200 words",
+          "passed": true,
+          "evidence": "Body heading is '# How to Use Miso: A Living Ingredient With 1,300 Years of History' and keyword appears in first para"
+        },
+        {
+          "text": "Body contains at least 4 Markdown internal links [text](/path)",
+          "passed": false,
+          "evidence": "ZERO Markdown links anywhere in the body. The entire 2,000+ word post contains no internal links to /ingredients/, /recipes/, or /traditions/"
+        },
+        {
+          "text": "Post links to /ingredients/miso",
+          "passed": false,
+          "evidence": "No link to /ingredients/miso anywhere in the post"
+        },
+        {
+          "text": "Post includes the 'add miso off-heat' technique (don't boil miso)",
+          "passed": true,
+          "evidence": "Section 'How to Use Miso Without Killing the Beneficial Bacteria' covers off-heat technique thoroughly"
+        },
+        {
+          "text": "YAML frontmatter has title, slug, tags, and meta_description",
+          "passed": true,
+          "evidence": "All 4 basic fields present. Tags include 'ancient-pantry' which is an unusual/unnecessary tag."
+        },
+        {
+          "text": "Body does not open with a # H1 heading",
+          "passed": false,
+          "evidence": "Line 18: '# How to Use Miso: A Living Ingredient With 1,300 Years of History' \u2014 duplicate H1"
+        },
+        {
+          "text": "Post includes a FAQ section with at least 2 questions",
+          "passed": false,
+          "evidence": "No FAQ section. Post ends with 'Why Miso Matters Now' and a boilerplate outro."
+        },
+        {
+          "text": "Post does not end with a boilerplate disclaimer paragraph",
+          "passed": false,
+          "evidence": "Lines 210-211: 'Ancient Pantry explores traditional ingredients at the intersection of culinary history, cultural tradition, and modern food science...'"
+        },
+        {
+          "text": "YAML includes an internal_links_used audit field",
+          "passed": false,
+          "evidence": "No internal_links_used field in YAML"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 1.0,
+        "stddev": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 141.0333,
+        "stddev": 20.7134,
+        "min": 124.6,
+        "max": 164.3
+      },
+      "tokens": {
+        "mean": 30846.6667,
+        "stddev": 3903.5641,
+        "min": 26795,
+        "max": 34583
+      }
+    },
+    "without_skill": {
+      "pass_rate": {
+        "mean": 0.3472,
+        "stddev": 0.0241,
+        "min": 0.3333,
+        "max": 0.375
+      },
+      "time_seconds": {
+        "mean": 140.3333,
+        "stddev": 40.6141,
+        "min": 101.1,
+        "max": 182.2
+      },
+      "tokens": {
+        "mean": 35990.0,
+        "stddev": 30100.1859,
+        "min": 17687,
+        "max": 70730
+      }
+    },
+    "delta": {
+      "pass_rate": "+0.65",
+      "time_seconds": "+0.7",
+      "tokens": "-5143"
+    }
+  },
+  "notes": []
+}

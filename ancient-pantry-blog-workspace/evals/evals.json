@@ -1,0 +1,23 @@
+{
+  "skill_name": "ancient-pantry-blog",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Write a blog post about why black pepper dramatically enhances the absorption of turmeric — the science behind piperine and curcumin, the traditional uses in Ayurveda and TCM, and how to use them together in cooking. Target people searching for 'black pepper turmeric benefits'.",
+      "expected_output": "A 1000-1500 word SEO blog post with: primary keyword in first paragraph and at least one H2, meta description ~150 chars, verified internal links to /ingredients/black-pepper and /ingredients/turmeric at minimum plus relevant recipe links, health language that distinguishes research from tradition, Ancient Pantry voice (grounded, no hype), YAML metadata block, and a final checklist verification.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Write an Ancient Pantry blog post on warming winter spices — which spices from TCM and Ayurveda are considered 'warming', why they matter in cold months, and how to use them. Include links to at least 4 different ingredients and 2 recipes from the site.",
+      "expected_output": "A 1000-1500 word post with: at least 4 verified ingredient links, at least 2 recipe links, /traditions/ayurveda and /traditions/traditional-chinese-medicine linked, seasonal angle developed, Ancient Pantry voice maintained, YAML metadata block with tags including 'tcm', 'ayurveda', 'warming'.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Write a blog post about miso — its history in Japanese and Chinese cooking, its fermentation process, probiotic properties, and how to cook with it without killing the beneficial bacteria. Target the keyword 'how to use miso'.",
+      "expected_output": "A focused how-to post with: how-to keyword naturally integrated, links to /ingredients/miso and any miso recipes, gut health language properly qualified, at least one FAQ section targeting a featured snippet, YAML metadata block, Ancient Pantry voice.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "eval_id": 1,
+  "run": "without_skill",
+  "expectations": [
+    {
+      "text": "Primary keyword 'black pepper' and 'turmeric' both appear in the first paragraph",
+      "passed": true,
+      "evidence": "Opening mentions 'Long before bioavailability was a word... cooks were grinding black pepper and turmeric together'"
+    },
+    {
+      "text": "Body contains at least 4 Markdown internal links [text](/path)",
+      "passed": false,
+      "evidence": "Only 1 Markdown link in body prose ([curcumin](/ingredients/turmeric)). 'Related Ingredients' and 'Recipes to Try' sections at bottom have NO links — just plain text bullet points."
+    },
+    {
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "passed": true,
+      "evidence": "All 4 basic YAML fields present"
+    },
+    {
+      "text": "Body does not open with a # H1 heading (page template renders the title)",
+      "passed": false,
+      "evidence": "Line 19: '# Why Black Pepper Makes Turmeric Work Better: The Science of Piperine and Curcumin' — duplicate H1 that will conflict with page template"
+    },
+    {
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "passed": false,
+      "evidence": "No FAQ section. Post ends with 'The Larger Lesson' and 'Related Ingredients' / 'Recipes to Try' sections instead."
+    },
+    {
+      "text": "Post does not end with a boilerplate 'Ancient Pantry presents...' disclaimer",
+      "passed": false,
+      "evidence": "Line 160: 'At Ancient Pantry, we explore the intersection of traditional ingredient wisdom and modern food science. Traditional claims represent historical systems of knowledge...'"
+    },
+    {
+      "text": "YAML includes an internal_links_used audit field",
+      "passed": false,
+      "evidence": "No internal_links_used field in YAML"
+    },
+    {
+      "text": "Health claims use qualified language (research suggests, associated with) — no unqualified 'heals' or 'cures'",
+      "passed": true,
+      "evidence": "Uses 'Research suggests', 'has been associated', 'clinical trials show'. No unqualified claims."
+    }
+  ],
+  "pass_count": 3,
+  "total_count": 8,
+  "pass_rate": 0.375
+}

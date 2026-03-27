@@ -1,0 +1,52 @@
+{
+  "eval_id": 3,
+  "eval_name": "eval-3-how-to-use-miso",
+  "prompt": "Write a blog post about miso — its history in Japanese and Chinese cooking, its fermentation process, probiotic properties, and how to cook with it without killing the beneficial bacteria. Target the keyword 'how to use miso'.",
+  "assertions": [
+    {
+      "id": "primary_keyword_first_paragraph",
+      "text": "Primary keyword 'how to use miso' appears within the first 200 words",
+      "type": "presence"
+    },
+    {
+      "id": "internal_link_count",
+      "text": "Body contains at least 4 Markdown internal links [text](/path)",
+      "type": "count"
+    },
+    {
+      "id": "miso_ingredient_linked",
+      "text": "Post links to /ingredients/miso",
+      "type": "presence"
+    },
+    {
+      "id": "dont_boil_technique",
+      "text": "Post includes the 'add miso off-heat' technique (don't boil miso)",
+      "type": "presence"
+    },
+    {
+      "id": "yaml_metadata_complete",
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "type": "structure"
+    },
+    {
+      "id": "no_duplicate_h1",
+      "text": "Body does not open with a # H1 heading",
+      "type": "absence"
+    },
+    {
+      "id": "faq_section",
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "type": "presence"
+    },
+    {
+      "id": "no_boilerplate_disclaimer",
+      "text": "Post does not end with a boilerplate disclaimer paragraph",
+      "type": "absence"
+    },
+    {
+      "id": "internal_links_used_field",
+      "text": "YAML includes an internal_links_used audit field",
+      "type": "structure"
+    }
+  ]
+}

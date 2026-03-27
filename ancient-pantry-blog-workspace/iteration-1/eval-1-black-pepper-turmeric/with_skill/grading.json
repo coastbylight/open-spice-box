@@ -1,0 +1,49 @@
+{
+  "eval_id": 1,
+  "run": "with_skill",
+  "expectations": [
+    {
+      "text": "Primary keyword 'black pepper' and 'turmeric' both appear in the first paragraph",
+      "passed": true,
+      "evidence": "Opening sentence: 'Turmeric is golden, earthy...Black pepper is sharp...Together, they form one of the most studied spice pairings'"
+    },
+    {
+      "text": "Body contains at least 4 Markdown internal links [text](/path)",
+      "passed": true,
+      "evidence": "8 internal links per internal_links_used audit field: turmeric, black-pepper, ayurveda, traditional-chinese-medicine, golden-milk, spiced-bone-broth, ginger, ghee"
+    },
+    {
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "passed": true,
+      "evidence": "All 4 fields present in YAML block"
+    },
+    {
+      "text": "Body does not open with a # H1 heading (page template renders the title)",
+      "passed": true,
+      "evidence": "Body starts with a prose paragraph, no H1"
+    },
+    {
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "passed": true,
+      "evidence": "4 FAQ questions: 'How much black pepper do I need...', 'Can I get the same benefit...', 'Does pre-ground black pepper work...', 'Is it safe to combine them every day'"
+    },
+    {
+      "text": "Post does not end with a boilerplate 'Ancient Pantry presents...' disclaimer",
+      "passed": true,
+      "evidence": "Ends with a compelling CTA paragraph linking to golden-milk recipe, no boilerplate"
+    },
+    {
+      "text": "YAML includes an internal_links_used audit field",
+      "passed": true,
+      "evidence": "internal_links_used field lists all 8 links"
+    },
+    {
+      "text": "Health claims use qualified language (research suggests, associated with) — no unqualified 'heals' or 'cures'",
+      "passed": true,
+      "evidence": "Uses 'associated in research with', 'research suggests', 'approximately 2,000% when subjects consumed it'. No unqualified health claims."
+    }
+  ],
+  "pass_count": 8,
+  "total_count": 8,
+  "pass_rate": 1.0
+}

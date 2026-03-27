@@ -1,0 +1,60 @@
+{
+  "eval_id": 2,
+  "run": "with_skill",
+  "expectations": [
+    {
+      "text": "Body contains at least 6 Markdown internal links [text](/path)",
+      "passed": true,
+      "evidence": "10 internal links per audit field: ginger, cinnamon, cardamom, cloves, black-pepper, ayurveda, traditional-chinese-medicine, golden-milk, spiced-bone-broth, cinnamon-cardamom-oats"
+    },
+    {
+      "text": "Post links to /traditions/ayurveda and /traditions/traditional-chinese-medicine",
+      "passed": true,
+      "evidence": "Both tradition links present in opening paragraph: '[Ayurveda](/traditions/ayurveda)' and '[traditional Chinese medicine](/traditions/traditional-chinese-medicine)'"
+    },
+    {
+      "text": "Post contains at least 2 recipe links (/recipes/...)",
+      "passed": true,
+      "evidence": "3 recipe links: golden-milk, spiced-bone-broth, cinnamon-cardamom-oats \u2014 all verified against full_recipes/"
+    },
+    {
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "passed": true,
+      "evidence": "All fields present. Tags include 'ayurveda', 'tcm', 'warming', 'seasonal'"
+    },
+    {
+      "text": "Body does not open with a # H1 heading (page template renders the title)",
+      "passed": true,
+      "evidence": "Body starts with prose paragraph, first heading is ## What 'Warming' Actually Means"
+    },
+    {
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "passed": true,
+      "evidence": "4 FAQ questions covering: warming vs hot spices, daily use, body temperature, Ayurvedic vs TCM differences"
+    },
+    {
+      "text": "Post does not end with a boilerplate disclaimer paragraph",
+      "passed": true,
+      "evidence": "Ends with 4th FAQ answer \u2014 no disclaimer"
+    },
+    {
+      "text": "YAML includes an internal_links_used audit field",
+      "passed": true,
+      "evidence": "internal_links_used field lists all 10 links"
+    },
+    {
+      "text": "Internal links use natural anchor text (e.g. [ginger] not [Ginger ingredient page])",
+      "passed": true,
+      "evidence": "All links use natural prose anchor text: '[ginger](/ingredients/ginger)', '[golden milk](/recipes/golden-milk)', '[spiced bone broth](/recipes/spiced-bone-broth)'"
+    }
+  ],
+  "pass_count": 9,
+  "total_count": 9,
+  "pass_rate": 1.0,
+  "summary": {
+    "passed": 9,
+    "failed": 0,
+    "total": 9,
+    "pass_rate": 1.0
+  }
+}

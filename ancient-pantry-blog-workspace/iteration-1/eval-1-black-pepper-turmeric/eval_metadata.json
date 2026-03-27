@@ -1,0 +1,47 @@
+{
+  "eval_id": 1,
+  "eval_name": "eval-1-black-pepper-turmeric",
+  "prompt": "Write a blog post about why black pepper dramatically enhances the absorption of turmeric — the science behind piperine and curcumin, the traditional uses in Ayurveda and TCM, and how to use them together in cooking. Target people searching for 'black pepper turmeric benefits'.",
+  "assertions": [
+    {
+      "id": "primary_keyword_first_paragraph",
+      "text": "Primary keyword 'black pepper' and 'turmeric' both appear in the first paragraph",
+      "type": "presence"
+    },
+    {
+      "id": "internal_link_count",
+      "text": "Body contains at least 4 Markdown internal links [text](/path)",
+      "type": "count"
+    },
+    {
+      "id": "yaml_metadata_complete",
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "type": "structure"
+    },
+    {
+      "id": "no_duplicate_h1",
+      "text": "Body does not open with a # H1 heading (page template renders the title)",
+      "type": "absence"
+    },
+    {
+      "id": "faq_section",
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "type": "presence"
+    },
+    {
+      "id": "no_boilerplate_disclaimer",
+      "text": "Post does not end with a boilerplate 'Ancient Pantry presents...' disclaimer",
+      "type": "absence"
+    },
+    {
+      "id": "internal_links_used_field",
+      "text": "YAML includes an internal_links_used audit field",
+      "type": "structure"
+    },
+    {
+      "id": "health_language_qualified",
+      "text": "Health claims use qualified language (research suggests, associated with) — no unqualified 'heals' or 'cures'",
+      "type": "quality"
+    }
+  ]
+}

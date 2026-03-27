@@ -1,0 +1,52 @@
+{
+  "eval_id": 2,
+  "eval_name": "eval-2-warming-winter-spices",
+  "prompt": "Write an Ancient Pantry blog post on warming winter spices — which spices from TCM and Ayurveda are considered 'warming', why they matter in cold months, and how to use them. Include links to at least 4 different ingredients and 2 recipes from the site.",
+  "assertions": [
+    {
+      "id": "internal_link_count",
+      "text": "Body contains at least 6 Markdown internal links [text](/path)",
+      "type": "count"
+    },
+    {
+      "id": "traditions_linked",
+      "text": "Post links to /traditions/ayurveda and /traditions/traditional-chinese-medicine",
+      "type": "presence"
+    },
+    {
+      "id": "recipe_links",
+      "text": "Post contains at least 2 recipe links (/recipes/...)",
+      "type": "count"
+    },
+    {
+      "id": "yaml_metadata_complete",
+      "text": "YAML frontmatter has title, slug, tags, and meta_description",
+      "type": "structure"
+    },
+    {
+      "id": "no_duplicate_h1",
+      "text": "Body does not open with a # H1 heading (page template renders the title)",
+      "type": "absence"
+    },
+    {
+      "id": "faq_section",
+      "text": "Post includes a FAQ section with at least 2 questions",
+      "type": "presence"
+    },
+    {
+      "id": "no_boilerplate_disclaimer",
+      "text": "Post does not end with a boilerplate disclaimer paragraph",
+      "type": "absence"
+    },
+    {
+      "id": "internal_links_used_field",
+      "text": "YAML includes an internal_links_used audit field",
+      "type": "structure"
+    },
+    {
+      "id": "natural_anchor_text",
+      "text": "Internal links use natural anchor text (e.g. [ginger] not [Ginger ingredient page])",
+      "type": "quality"
+    }
+  ]
+}

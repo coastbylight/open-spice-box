@@ -4,6 +4,64 @@ _Last updated: 2026-03-26_
 
 ## What Was Just Completed
 
+**108 new recipes + 36 blog posts + content infrastructure (2026-03-26)**
+
+### New Recipes (108 total, bringing site total to 450)
+- **38 Chinese recipes** in `full_recipes/chinese recipes/`: twice-cooked-pork, dry-fried-green-beans, tomato-egg-stir-fry, stir-fried-napa-cabbage, stir-fried-shrimp-eggs, red-braised-pork-belly, red-braised-fish, soy-braised-eggs, braised-tofu-mushrooms, shanghai-braised-gluten, zhajiangmian, scallion-oil-noodles, hot-dry-noodles, beef-chow-fun, shrimp-fried-rice, yangzhou-fried-rice, sticky-rice-chinese-sausage, sheng-jian-bao, guo-tie, beef-onion-dumplings, chive-pancakes, scallion-pancakes, beggars-chicken, sichuan-mouthwatering-chicken, three-cup-chicken, steamed-fish-black-bean-sauce, cantonese-steamed-shrimp-garlic, salt-pepper-shrimp, garlic-bok-choy, chinese-eggplant-garlic-sauce, stir-fried-tofu-chili-bean-paste, wood-ear-mushroom-salad, dang-gui-chicken-soup, snow-fungus-dessert-soup, jianbing, chinese-egg-tarts, sesame-balls, chongqing-spicy-chicken
+- **11 Indian recipes**: chicken-chettinad, fish-moilee, mutton-keema, egg-curry, kadhi-pakora, paneer-bhurji, chana-masala, bhindi-masala, tamarind-rice, lassi, masala-chai
+- **13 Japanese recipes**: okonomiyaki, takoyaki, karaage, tonkatsu, katsudon, oyakodon, gyudon, tamagoyaki, agedashi-tofu, nasu-dengaku, nikuman, curry-udon, matcha-tiramisu
+- **21 Korean recipes**: tteokbokki, gimbap, kimchijeon, pajeon, jjajangmyeon, jjamppong, budae-jjigae, gamjatang, bossam, gochujang-chicken, yangnyeom-chicken, mul-naengmyeon, bibim-naengmyeon, dak-kalguksu, kongguksu, hobak-jeon, gamja-jorim, sigeumchi-namul, kongnamul-muchim, eomuk-soup, hotteok
+- **5 Malaysian recipes**: char-kway-teow, hokkien-mee, roti-canai, nasi-kerabu, curry-puff
+- **9 Thai recipes**: pad-prik-king, gai-pad-med-mamuang, khao-kha-moo, pad-kra-pao-moo, yum-woon-sen, thai-iced-tea, thai-iced-coffee, moo-hong, khao-moo-daeng
+- **11 Vietnamese recipes**: banh-mi, com-tam, bun-thit-nuong, banh-cuon, cha-gio, thit-nuong, ca-kho-to, thit-kho-tau, bo-luc-lac, ca-phe-trung, chanh-muoi
+
+### Blog System (36 published posts across 8 topic clusters)
+All posts written following Ancient Pantry blog skill, voice skill, and SEO best practices. Published to Supabase with staggered Tue/Thu schedule from Jan 6 to May 7, 2026.
+
+**Cluster 1: Gut Health & Digestion (5 posts)**
+- what-to-eat-stomach-upset, best-foods-bloating-gas, foods-help-constipation-naturally, best-spices-digestion, how-to-reset-gut-naturally
+
+**Cluster 2: Anti-Inflammatory (5 posts)**
+- anti-inflammatory-foods-joint-pain, anti-inflammatory-foods-gut-health, anti-inflammatory-foods-skin, anti-inflammatory-spices-cooking, how-to-start-anti-inflammatory-diet
+
+**Cluster 3: Stress & Nervous System (6 posts, incl. existing vagus nerve pillar)**
+- vagus-nerve-stimulation-ancient-modern (existing), foods-that-calm-nervous-system, what-to-eat-anxiety-relief, foods-that-reduce-cortisol, adaptogenic-herbs-stress-anxiety, evening-routine-calm-anxiety
+
+**Cluster 4: Cultural Health Practices (5 posts)**
+- why-chinese-drink-hot-water, why-indian-food-uses-spices, hot-cold-foods-chinese-medicine, ayurveda-food-combining-rules, ayurveda-vs-tcm-food-philosophy
+
+**Cluster 5: Spice-Based Functional Cooking (5 posts)**
+- how-to-cook-with-turmeric-every-day, what-is-tadka-how-to-make, warming-spices-winter-cooking, whole-spices-vs-ground, how-to-build-spice-cabinet
+
+**Cluster 6: "What to Eat When..." Condition-Based (5 posts)**
+- what-to-eat-when-sick-no-appetite, what-to-eat-after-food-poisoning, what-to-eat-cold-flu, what-to-eat-tired-all-the-time, what-to-eat-after-antibiotics
+
+**Cluster 7: Sleep & Nighttime Foods (5 posts)**
+- foods-that-help-you-sleep, what-to-eat-before-bed-sleep, how-to-stop-waking-up-3am, best-teas-for-sleep, warm-milk-before-bed-does-it-work
+
+**Blog SEO stats:**
+- 36 posts linking to 55+ unique ingredient pages and 40+ unique recipe pages
+- Both tradition pages (Ayurveda, TCM) linked from all 36 posts
+- Dense cross-cluster internal linking creating topical authority web
+- Each post: YAML metadata, 4-8 internal links per 1,000 words, FAQ section for featured snippets
+
+### Content Infrastructure
+- `scripts/push-blog-posts.mjs` — Pushes all blog markdown files to Supabase blog_posts table (upsert by slug)
+- `scripts/set-blog-dates.mjs` — Sets staggered Tue/Thu publish dates across all posts
+- `scripts/generate-recipe-index.mjs` — Generates `full_recipes/RECIPE-INDEX.md` with all 450 recipes organized by cuisine
+- PostToolUse hook in `.claude/settings.local.json` — Auto-regenerates recipe index when any recipe file is written/edited
+- `blog_posts/BLOG-IDEAS.md` — Future blog post concepts (13 ideas)
+
+### Recipe Skill & Data Fixes
+- Recipe folder names changed from underscores to spaces (`chinese_recipes` → `chinese recipes`)
+- `cultural_origin` field now shows "[Country] Cuisine" (e.g. "Chinese Cuisine", "Indian Cuisine")
+- `tradition` field only shows meaningful sub-traditions (Punjabi, Bengali, Kerala, etc.) or null to prevent duplication
+- Title field quotation marks removed from all 116 affected recipe files
+- Recipe skill updated: no quotes in titles, spaces in folder names, cuisine field must be country-level only
+- Blog skill updated: folder name references corrected, recipe count updated to 450+
+
+---
+
 **Recipe page features + homepage category links (2026-03-26)** — Seven features added based on competitor analysis (RecipeTinEats, Woks of Life, Food52):
 
 ### New Components

@@ -57,7 +57,7 @@ Before writing, identify all plausible internal links. This is not optional — 
 
 **Ingredients** — slugs are the filenames (without `.md`) in `full_recipes/ingredients/`. Glob `full_recipes/ingredients/*.md` to get all ~146 ingredient slugs. The slug is always kebab-case (e.g. `black-pepper`, `turmeric`, `sichuan-peppercorn`).
 
-**Recipes** — slugs are in the YAML frontmatter `slug:` field of every `.md` file under `full_recipes/`. Grep for `^slug:` across all recipe files to find matching titles/slugs. There are 184+ recipes across `full_recipes/indian_recipes/`, `full_recipes/chinese_recipes/`, and `full_recipes/wellness_recipes/`.
+**Recipes** — slugs are in the YAML frontmatter `slug:` field of every `.md` file under `full_recipes/`. Grep for `^slug:` across all recipe files to find matching titles/slugs. There are 450+ recipes across cuisine folders like `full_recipes/chinese recipes/`, `full_recipes/indian recipes/`, `full_recipes/wellness recipes/`, etc. Note: folder names use spaces, not underscores (e.g. `chinese recipes` not `chinese_recipes`).
 
 **Traditions** — only two: `ayurveda` and `traditional-chinese-medicine`.
 

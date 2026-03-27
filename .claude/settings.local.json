@@ -1,4 +1,17 @@
 {
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if echo \"$CLAUDE_FILE_PATH\" | grep -q 'full_recipes/.*\\.md'; then cd '/Users/pih5/Documents/Projects/Claude Projects/ancient pantry' && node scripts/generate-recipe-index.mjs 2>/dev/null; fi"
+          }
+        ]
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "Bash(textutil -convert txt \"Ancient_Pantry_Brand_Manifesto.docx\" -output /tmp/manifesto.txt)",
@@ -51,7 +64,20 @@
       "Bash(cd \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry\" && python3 read_xls.py \"recipes/indian_recipes/Punjabi recipes/WHOLE GARAM MASALA.xls\" 2>&1)",
       "Bash(cd \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry\" && for f in \"CHICKEN CURRY\" \"KHARGOSH KA MOKUL\" \"LAAL MAANS\" \"MISSI ROTI\" \"MURGH KA SOWETA\" \"YELLOW GRAVY\"; do echo \"=== $f ===\"; python3 read_xls.py \"recipes/indian_recipes/Rajasthani recipes/$f.xls\" 2>&1; echo; done)",
       "Bash(cd \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry\" && for f in \"JEERA MUTTER PULAO\" \"MEAT CHAWAL\" \"PATOLI\" \"PEZ-CONJI\" \"PIYAZI CHAWAL\" \"PRAWN PULAO\" \"SARVARI\" \"SHAHJHANI PULAO\" \"SYUN PULAO\" \"YAKHNI PULAO\"; do echo \"=== $f ===\"; python3 read_xls.py \"recipes/indian_recipes/Rice recipes/$f.xls\" 2>&1; echo; done)",
-      "Bash(find \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry/full_recipes\" -name \"*.md\" | xargs -I{} basename {} | sort | uniq -d)"
+      "Bash(find \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry/full_recipes\" -name \"*.md\" | xargs -I{} basename {} | sort | uniq -d)",
+      "Bash(python -m scripts.aggregate_benchmark \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry/ancient-pantry-blog-workspace/iteration-1\" --skill-name \"ancient-pantry-blog\")",
+      "Bash(python3 -m scripts.aggregate_benchmark \"/Users/pih5/Documents/Projects/Claude Projects/ancient pantry/ancient-pantry-blog-workspace/iteration-1\" --skill-name \"ancient-pantry-blog\")",
+      "Bash(for eval:*)",
+      "Bash(do for:*)",
+      "Bash(do mkdir:*)",
+      "Bash(cp \"$eval/$run/grading.json\" \"$eval/$run/run-1/grading.json\")",
+      "Bash(cp \"$eval/$run/timing.json\" \"$eval/$run/run-1/timing.json\")",
+      "Bash(python3:*)",
+      "Bash(curl -s http://localhost:8080 -o /dev/null -w %{http_code})",
+      "Bash(curl -s http://localhost:5000 -o /dev/null -w %{http_code})",
+      "Bash(curl -s http://localhost:8000 -o /dev/null -w %{http_code})",
+      "Bash(open:*)",
+      "Bash(node scripts/load-full-recipes.mjs)"
     ]
   }
 }
