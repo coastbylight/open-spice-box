@@ -2,9 +2,6 @@
 title: Nikuman (Japanese Steamed Pork Buns)
 slug: nikuman
 subtitle: Soft, pillowy steamed buns filled with a savory pork and ginger mixture, a wintertime comfort from every Japanese convenience store
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 12 buns
 prep_time: 40 minutes (plus 1 hour rising)
 cook_time: 20 minutes
@@ -143,9 +140,3 @@ Nikuman is a snack food, meant to be eaten on its own as a between-meal bite or 
 ## Storage and Reheating
 
 Nikuman freeze exceptionally well. Let the steamed buns cool completely, then place them in a single layer in a freezer bag, separating layers with parchment paper. They keep for up to 2 months. Reheat directly from frozen: steam for 8 to 10 minutes until heated through, or microwave for 1 to 2 minutes (wrap in a damp paper towel to prevent drying). The microwave is the standard reheating method in Japan and works well for nikuman because the dough is designed to stay soft. Refrigerated buns keep for 2 days; re-steam for 5 minutes.
-
----
-
-## Source Acknowledgment
-
-This recipe adapts the Chinese baozi tradition through the Japanese nikuman lens, following the convenience-store style that has become the most recognized version in Japan. The dough formula, including the use of baking powder alongside yeast, and the one-directional mixing technique for the filling reflect established Japanese home-cooking practices.

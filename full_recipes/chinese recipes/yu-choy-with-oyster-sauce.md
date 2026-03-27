@@ -2,9 +2,6 @@
 title: Yu Choy with Oyster Sauce (蚝油油菜)
 slug: yu-choy-with-oyster-sauce
 subtitle: Blanched yu choy sum drizzled with a warm oyster sauce dressing, the dim sum side dish that belongs on every dinner table
-source_name: The Woks of Life
-source_url: https://thewoksoflife.com/yu-choy-recipe/
-source_author: Bill
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 10 minutes
@@ -124,9 +121,3 @@ This is the vegetable side that goes with everything. It sits on the table next 
 **Reheating:** A quick dip in boiling water for 10 seconds refreshes the texture. Alternatively, eat cold, which is perfectly acceptable for blanched Chinese greens.
 
 **Freezing:** Not recommended. Blanched leafy greens become waterlogged and limp when thawed.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Bill's yu choy recipe at The Woks of Life (thewoksoflife.com), following his blanching technique and sauce proportions. The oil-in-the-blanching-water method and the emphasis on draining before saucing are his.

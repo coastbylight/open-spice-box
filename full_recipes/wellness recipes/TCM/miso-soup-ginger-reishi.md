@@ -2,7 +2,6 @@
 title: Miso Soup with Ginger and Reishi
 slug: miso-soup-ginger-reishi
 subtitle: A three-ingredient Japanese immune tonic, elevated
-source_name: Traditional Japanese Preparation with TCM Additions
 yield: 2 servings
 prep_time: 5 minutes
 cook_time: 20 minutes

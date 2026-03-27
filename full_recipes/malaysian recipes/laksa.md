@@ -2,9 +2,6 @@
 title: Curry Laksa
 slug: laksa
 subtitle: Spicy coconut noodle soup with shrimp, tofu puffs, and rice vermicelli
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/laksa/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 45 minutes
@@ -192,9 +189,3 @@ Keep accompaniments simple: extra lime wedges, crispy fried shallots in a small 
 **Chili paste:** Keeps refrigerated in a sealed jar for up to 1 week. The flavors deepen over the first day or two.
 
 **Assembly note:** For meal prep, store the broth, proteins, and chili paste separately. Cook noodles fresh, slice garnishes fresh, and assemble just before serving. Laksa does not hold well once assembled, as the noodles continue to absorb broth and the bean sprouts wilt.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Bee Yinn Low's curry laksa at Rasa Malaysia (rasamalaysia.com), which provides the foundational approach of building a laksa around commercial curry paste enriched with evaporated milk for a creamier, more approachable broth. The technique of freshening store-bought laksa paste by sauteing it with garlic, ginger, lemongrass, and fresh chilies, as well as the chili paste served alongside, comes from Nagi Maehashi's laksa recipe at RecipeTin Eats (recipetineats.com), which also contributes the double-stock method of simmering chicken drumsticks in broth. The from-scratch laksa paste variation and the emphasis on candlenuts and galangal as essential rempah components reflect the approach described in Serious Eats' curry laksa coverage (seriouseats.com). All three sources agree on the central principle: the broth is everything, and the spice paste deserves patient attention.

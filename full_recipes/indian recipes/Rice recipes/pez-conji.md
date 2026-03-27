@@ -2,7 +2,6 @@
 title: Pez-Conji
 slug: pez-conji
 subtitle: Goan rice congee with spiced coconut, cashew, and tamarind
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Easy

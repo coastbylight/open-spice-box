@@ -2,7 +2,6 @@
 title: Savala Vada
 slug: savala-vada
 subtitle: Crispy Urad Dal Fritters with Sliced Onion, Green Chilli, and Curry Leaves
-source_name: Traditional Indian Recipe
 cuisine: South Indian (Kerala / Tamil Nadu)
 course: Snack
 difficulty: Intermediate

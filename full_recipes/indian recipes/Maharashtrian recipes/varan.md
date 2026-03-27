@@ -2,7 +2,6 @@
 title: Varan
 slug: varan
 subtitle: The essential Maharashtrian toor dal — simply cooked with turmeric, a breath of asafoetida, and finished with jaggery and ghee
-source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Main / Side
 difficulty: Easy

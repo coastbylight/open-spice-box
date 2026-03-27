@@ -2,9 +2,6 @@
 title: Wu Ji Tang (Silkie Chicken Herbal Soup)
 slug: wu-ji-tang
 subtitle: A mineral-rich, dark-boned broth built with black-skinned chicken and a traditional herbal blend
-source_name: Traditional Chinese Recipe
-source_url: https://souperdiaries.com/silkie-chicken-herbal-soup/
-source_author: Yvonne Oh
 yield: 4 to 6 servings
 prep_time: 15 minutes
 cook_time: 2 hours 30 minutes
@@ -140,9 +137,3 @@ For a deeply warming winter meal, serve it as part of a spread that includes [Co
 The soup stores well in the refrigerator for up to 4 days. The fat will solidify on top when cold. Lift it off before reheating if you prefer a leaner broth, or stir it back in for more richness. Reheat gently on the stovetop over medium-low heat. Avoid boiling hard, which can make the broth cloudy.
 
 The broth freezes well for up to 3 months. Freeze in portions without the chicken meat for best results, as the lean silkie meat can become dry after freezing and reheating.
-
----
-
-## Source Acknowledgment
-
-Recipe draws on traditional silkie chicken herbal soup preparations as documented by Souper Diaries (souperdiaries.com), Omnivore's Cookbook (omnivorescookbook.com), and The Woks of Life (thewoksoflife.com). Ingredient proportions and method refined for clarity and home-kitchen application.

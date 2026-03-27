@@ -2,9 +2,6 @@
 title: Jok (Thai Rice Congee with Pork Meatballs)
 slug: jok-thai-rice-congee
 subtitle: A creamy, slow-simmered Thai rice porridge with seasoned pork meatballs, a soft egg, and bright ginger and white pepper toppings
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/jok/
-source_author: Pailin Chongchitnant
 yield: 4 to 6 servings
 prep_time: 30 minutes
 cook_time: 1 hour 30 minutes
@@ -165,9 +162,3 @@ Jok is traditionally eaten on its own as a complete meal, especially at breakfas
 **Freezing:** The plain rice base freezes well for up to 2 months. Freeze in individual portions for quick weekday breakfasts. The meatballs can be frozen raw on a parchment-lined tray, then transferred to a bag once solid, and cooked directly from frozen in simmering stock. Soft-boiled eggs do not freeze well and should be made fresh.
 
 **Batch cooking note:** Many Thai households keep a large pot of jok base in the fridge and reheat individual portions through the week, making fresh eggs and toppings each morning. This is perhaps the most practical approach if you want jok regularly without the long simmer each time.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Breakfast Congee at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundational technique of a separate rice base and stock assembly. The mortar-and-pestle meatball paste and broken jasmine rice method draw from Rachel Cooks Thai (rachelcooksthai.com), whose extended simmer approach produces the silkiest texture. The tapioca starch quick-method shortcut and crispy fried garlic topping are informed by Sherri Pengjad's version at Thai-Foodie (thai-foodie.com), which also introduced the use of cooked rice blended with broth as a time-saving base.

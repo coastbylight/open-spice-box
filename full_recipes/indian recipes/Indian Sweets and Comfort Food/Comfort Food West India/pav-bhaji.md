@@ -2,7 +2,6 @@
 title: Pav Bhaji
 slug: pav-bhaji
 subtitle: Mumbai's beloved mashed vegetable curry, buttery and vivid, with toasted pav
-source_name: Traditional Indian Recipe
 cuisine: Mumbai street food
 course: Main
 difficulty: Easy

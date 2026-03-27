@@ -2,9 +2,6 @@
 title: Bubur Ayam (Indonesian Chicken Rice Porridge)
 slug: bubur-ayam
 subtitle: A turmeric-gold chicken porridge crowned with crispy shallots, fried garlic, sliced scallions, and a drizzle of kecap manis, served the way street vendors do across Java
-source_name: What To Cook Today
-source_url: https://whattocooktoday.com/bubur-ayam.html
-source_author: What To Cook Today
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 50 minutes
@@ -177,9 +174,3 @@ For a congee-focused table, pair with [chao ga](/recipes/chao-ga) or [jok](/reci
 **Toppings:** Crispy fried shallots, kerupuk, and cakwe should be stored at room temperature in sealed containers and added fresh at serving time. They lose their crunch quickly once they touch the hot porridge.
 
 **Make-ahead tip:** Cook the porridge slightly thicker than your ideal consistency if you plan to eat it over several days. It will thin out perfectly when reheated with a splash of stock.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from What To Cook Today's bubur ayam Betawi kuah kuning (whattocooktoday.com), which provides the core technique of building a separate kuah kuning from a fried spice paste and chicken poaching liquid, along with the Betawi-style approach to toppings. The two-pot method, aromatic choices, and topping traditions are informed by Daily Cooking Quest's bubur ayam (dailycookingquest.com), a thorough resource for Indonesian home cooking. Additional guidance on spice paste ratios and the use of candlenuts as a thickener comes from Cook Me Indonesian's version (cookmeindonesian.com).

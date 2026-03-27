@@ -2,9 +2,6 @@
 title: Kongnamul Muchim (Seasoned Soybean Sprouts)
 slug: kongnamul-muchim
 subtitle: Crisp soybean sprouts tossed with sesame oil, garlic, scallion, and a touch of gochugaru
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings (as banchan)
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -149,9 +146,3 @@ Kongnamul muchim is a foundational banchan that appears at virtually every Korea
 **Freezing:** Not recommended, as the sprouts lose their crunch when frozen and thawed.
 
 **Batch cooking:** This is one of the best banchan for meal prep. Prepare a large batch and portion it out for the week.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the standard Korean home cooking method for kongnamul muchim, documented by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The lid-on cooking technique is a universally shared Korean kitchen rule that produces clean-tasting, crunchy soybean sprouts without the beany aroma that can result from open-pot cooking.

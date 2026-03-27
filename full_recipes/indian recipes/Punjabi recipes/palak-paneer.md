@@ -2,9 +2,6 @@
 title: Palak Paneer
 slug: palak-paneer
 subtitle: A generous amount of spinach pressure-cooked with ginger, pureed, and simmered with a cumin-coriander base, loaded with ghee-fried paneer and finished with kasuri methi
-source_name: Family Recipe
-source_url:
-source_author:
 yield: 4 to 6 servings
 prep_time: 20 minutes
 cook_time: 40 minutes
@@ -148,9 +145,3 @@ Palak paneer is a main dish that wants bread. Hot roti, naan, or paratha are the
 **Reheating:** Warm in a covered pan over medium-low heat, adding a splash of water if the gravy has thickened. Stir gently to avoid breaking the paneer. The spinach reheats beautifully and many prefer it the next day.
 
 **Freezing:** The spinach gravy freezes well for up to 2 months. Freeze without the paneer if possible (paneer texture changes slightly when frozen). Add freshly fried paneer when reheating for the best result.
-
----
-
-## Source Acknowledgment
-
-This is a family recipe from a North Indian kitchen, representing the traditional home-style approach to palak paneer: generous spinach, pressure-cooked method, ghee throughout, no cream. Technique notes and spice proportions were cross-referenced against recipes from VegRecipesOfIndia, HebbarsKitchen, IndianHealthyRecipes, and CookWithManali to confirm standard quantities. The family method is consistent with pre-food-blog North Indian home cooking conventions.

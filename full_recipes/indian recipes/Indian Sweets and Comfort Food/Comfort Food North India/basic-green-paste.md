@@ -2,7 +2,6 @@
 title: Basic Green Paste
 slug: basic-green-paste
 subtitle: The foundational North Indian green chutney paste of coriander, mint, ginger, and green chilli
-source_name: Traditional North Indian Recipe
 cuisine: North Indian
 course: Condiment
 difficulty: Easy

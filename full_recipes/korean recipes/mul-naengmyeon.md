@@ -2,9 +2,6 @@
 title: Mul Naengmyeon (Cold Buckwheat Noodles in Broth)
 slug: mul-naengmyeon
 subtitle: Icy buckwheat noodles in a tangy, chilled beef broth, crowned with sliced pear and a hard-boiled egg
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus overnight chilling)
 cook_time: 2 hours
@@ -168,9 +165,3 @@ Mul naengmyeon is traditionally served after a meat course, particularly after [
 **Toppings:** Prepare the sliced beef, eggs, and vegetables up to 1 day ahead. Store separately in the refrigerator.
 
 **Assembly:** Mul naengmyeon must be assembled just before serving. It cannot be held or prepared in advance as a complete dish.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the Pyongyang-style naengmyeon tradition, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The use of dongchimi broth blended with beef broth reflects the traditional Pyongyang approach, which prioritizes a clear, tangy, and refreshing broth. The history of naengmyeon's journey from North to South Korea is widely documented in Korean food scholarship.

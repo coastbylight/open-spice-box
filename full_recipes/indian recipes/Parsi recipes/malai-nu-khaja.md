@@ -2,7 +2,6 @@
 title: Malai Nu Khaja
 slug: malai-nu-khaja
 subtitle: Parsi nut-stuffed khoya pastry cups fried golden and soaked in sugar syrup
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Medium

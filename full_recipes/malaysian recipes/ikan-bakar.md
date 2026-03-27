@@ -2,9 +2,6 @@
 title: Ikan Bakar (Malaysian Grilled Fish in Banana Leaves)
 slug: ikan-bakar
 subtitle: Whole snapper grilled in banana leaves with a fiery, aromatic sambal paste
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/grilled-fish-with-banana-leaf/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 20 minutes
@@ -160,9 +157,3 @@ For a cross-regional comparison, try serving ikan bakar alongside [Cha Ca La Von
 **Freezer:** The cooked sambal paste freezes well for up to 2 months. Freeze it in ice cube trays or small portions for easy portioning. The grilled fish itself does not freeze particularly well, as the texture of whole fish deteriorates after thawing.
 
 **Reheating:** Wrap the fish loosely in fresh banana leaf or foil and warm in a 175C (350F) oven for 8 to 10 minutes. Alternatively, place it in a covered skillet over low heat for 5 minutes. Avoid the microwave if possible, as it tends to make the sambal oily and the fish rubbery. If reheating the sambal separately, warm it gently in a small pan with a splash of oil to refresh the aromatics.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Bee Yinn Low at Rasa Malaysia (rasamalaysia.com), whose grilled fish in banana leaves recipe uses a Penang-style sambal of fresh red chilies, shallots, lemongrass, and belacan with a tamarind-based dipping sauce. Her stovetop method makes the dish accessible without an outdoor grill. The spicy grilled fish variation on the same site provided additional detail on turmeric application and the indirect-to-direct heat grilling technique. Supplementary guidance on sambal cooking cues and stingray preparation was informed by the BBQ Sambal Stingray recipe at Nomadette (nomadette.com), authored by Sha, which emphasizes the importance of cooking the sambal paste until the oil separates and offers useful notes on banana leaf preparation.

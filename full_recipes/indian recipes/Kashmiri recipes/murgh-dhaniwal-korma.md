@@ -2,7 +2,6 @@
 title: Murgh Dhaniwal Korma
 slug: murgh-dhaniwal-korma
 subtitle: Kashmiri chicken korma in a vivid green coriander and spinach gravy
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Advanced

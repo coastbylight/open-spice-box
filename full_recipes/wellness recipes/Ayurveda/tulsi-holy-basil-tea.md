@@ -2,7 +2,6 @@
 title: Tulsi Holy Basil Tea
 slug: tulsi-holy-basil-tea
 subtitle: The daily Ayurvedic tonic that fits in a cup
-source_name: Traditional Ayurvedic Preparation
 yield: 2 servings
 prep_time: 2 minutes
 cook_time: 7 minutes

@@ -2,7 +2,6 @@
 title: Pinni
 slug: pinni
 subtitle: Punjabi Winter Wheat Flour Balls with Boora, Ghee, and Crushed Nuts
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Dessert
 difficulty: Easy

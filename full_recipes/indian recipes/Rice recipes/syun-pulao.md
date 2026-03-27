@@ -2,7 +2,6 @@
 title: Syun Pulao
 slug: syun-pulao
 subtitle: Kashmiri lamb and saffron rice cooked together in spiced stock
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Medium

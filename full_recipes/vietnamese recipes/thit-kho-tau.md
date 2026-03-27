@@ -2,9 +2,6 @@
 title: Thit Kho Tau (Thịt Kho Tàu)
 slug: thit-kho-tau
 subtitle: Pork belly and eggs braised in a coconut water caramel until deeply colored and meltingly tender
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 1 hour 30 minutes
@@ -147,9 +144,3 @@ For Tet, thit kho tau appears alongside banh tet (sticky rice cakes), pickled ve
 **Freezer:** Freezes beautifully for up to 3 months. Freeze the pork and eggs in the sauce in portioned containers.
 
 **Reheating:** Warm gently over low heat. The solidified fat and gelatin will melt back into a glossy sauce. Add a splash of water if the sauce has thickened excessively.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Southern Vietnamese approach to thit kho tau, using a dark caramel base, coconut water, and fish sauce for a braise that defines Vietnamese family cooking. The technique draws from Vietnamese home cooking traditions documented by Andrea Nguyen in Into the Vietnamese Kitchen and the kho braising methods described across Southern Vietnamese food culture. The dish is closely related to [ca kho to](/recipes/ca-kho-to), which uses the same braising technique with catfish.

@@ -2,9 +2,6 @@
 title: Mee Rebus
 slug: mee-rebus
 subtitle: Yellow noodles in a thick, spiced sweet potato gravy with hard-boiled eggs, fried tofu, and crispy shallots
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/mee-rebus/
-source_author: Bee Yinn Low
 yield: 5 servings
 prep_time: 30 minutes
 cook_time: 25 minutes
@@ -166,9 +163,3 @@ For those exploring the wider family of Southeast Asian curried noodle soups, me
 **Toppings:** Hard-boiled eggs keep in the refrigerator for up to 5 days unpeeled. Fried tofu can be pan-fried a day ahead and reheated in the gravy. Fried shallots stay crisp in an airtight container at room temperature for about 1 week.
 
 **Assembly note:** Always assemble bowls fresh. The noodles absorb gravy quickly and turn soft if left sitting. If preparing for a group, set out noodles, toppings, and gravy separately and let people build their own bowls.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Bee Yinn Low's mee rebus recipe at Rasa Malaysia (rasamalaysia.com), which provided the base ingredient list, spice paste composition, and the sweet potato gravy method. The description of mee rebus as a Mamak hawker staple and the dual chicken-prawn stock approach follow her recipe closely. The MeatMen (themeatmen.sg) contributed additional context on the Singaporean style of the dish and the importance of the sweet potato as a thickener. The third source, Nomadette (nomadette.com), was unavailable at the time of writing. The original recipe credited by Rasa Malaysia draws from Pung Kim Ying's "Famous Street Food of Penang: A Guide & Cook Book."

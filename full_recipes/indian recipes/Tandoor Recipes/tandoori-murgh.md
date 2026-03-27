@@ -2,9 +2,6 @@
 title: Tandoori Murgh
 slug: tandoori-murgh
 subtitle: The original tandoori chicken — deeply marinated, vivid red, and charred at the edges
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 30 minutes active, plus 30 minutes first marinade and 4–8 hours second marinade
 cook_time: 20–25 minutes
@@ -151,9 +148,3 @@ Tandoori murgh is classically served on a platter with thinly sliced raw onion r
 **Marinated raw chicken** can be kept refrigerated, covered, for up to 8 hours before cooking. Do not freeze in the marinade.
 
 **Cooked tandoori murgh** keeps well refrigerated for up to 2 days. Reheat in a hot oven (200°C / 390°F) on a wire rack for 12–15 minutes until heated through. The char will soften slightly on reheating but the flavour remains very good. Cold leftover tandoori chicken, shredded from the bone, is excellent in sandwiches, wraps, or as the base of a quick chicken tikka masala.
-
----
-
-## Source Acknowledgment
-
-Tandoori murgh as a modern preparation is closely associated with Kundan Lal Gujral and Moti Mahal restaurant in Daryaganj, Delhi, where it was first developed and served commercially in the mid-20th century. The preparation draws on the older Punjabi tradition of tandoor cooking and Peshwari culinary practice, representing a convergence of that tradition with the post-Partition restaurant culture of Delhi. Tandoori murgh was among the first Indian dishes to achieve international prominence, establishing the framework within which most Western diners first encountered Indian cooking for decades.

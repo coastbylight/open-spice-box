@@ -2,9 +2,6 @@
 title: Xia Ren Chao Fan (Shrimp Fried Rice)
 slug: shrimp-fried-rice
 subtitle: Wok-tossed day-old rice with plump shrimp, egg, and scallions in the Cantonese tradition
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 3 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -141,9 +138,3 @@ Shrimp fried rice is a complete meal on its own. If serving as part of a larger 
 ## Storage and Reheating
 
 Leftover fried rice can be stored in an airtight container in the refrigerator for up to 2 days. Reheat in a hot wok or skillet, tossing frequently, until piping hot throughout. A splash of water can help steam the rice back to life. Microwave reheating works but will not restore any crispness. Fried rice freezes well for up to 1 month; reheat directly from frozen in a hot wok. Important: rice should be cooled quickly after initial cooking and reheated thoroughly to reduce the risk of Bacillus cereus contamination.
-
----
-
-## Source Acknowledgment
-
-Fried rice is one of the most universal dishes in Chinese cooking, with regional variations spanning the entire country. This version follows the Cantonese approach, which emphasizes clean flavors, separate grains, and the smoky quality of wok hei.

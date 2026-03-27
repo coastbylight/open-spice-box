@@ -2,9 +2,6 @@
 title: Sambar
 slug: sambar
 subtitle: Tamarind and lentil vegetable stew from Tamil Nadu
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 20 minutes
 cook_time: 40 minutes
@@ -132,9 +129,3 @@ Sambar is the essential companion to idly (steamed fermented rice cakes) and is 
 ## Storage and Reheating
 
 Sambar keeps very well. Store in an airtight container in the refrigerator for up to 4 days — the flavour deepens noticeably after a day, as the spices and tamarind continue to integrate. Reheat gently on the stovetop over medium heat, adding a splash of water if it has thickened in the fridge. Sambar can also be frozen for up to 2 months; thaw overnight in the refrigerator and reheat as above.
-
----
-
-## Source Acknowledgment
-
-Sambar is a cornerstone of Tamil Nadu cuisine and is common across Karnataka, Andhra Pradesh, and Kerala in regional variations. The preparation here reflects Tamil Nadu home cooking tradition, where sambar is a daily staple prepared fresh each morning. The specific combination of vegetables and tempering technique described here follows South Indian household practice.

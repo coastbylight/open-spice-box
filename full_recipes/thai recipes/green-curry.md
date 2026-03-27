@@ -2,9 +2,6 @@
 title: Gaeng Kiew Waan Gai (Thai Green Curry with Chicken)
 slug: green-curry
 subtitle: Thailand's beloved coconut curry, fragrant with green chilies, makrut lime, and Thai basil over tender braised chicken thighs
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/green-curry-new-2/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 20 minutes
@@ -161,9 +158,3 @@ Steamed jasmine rice is the classic and essential pairing. The neutral sweetness
 **Reheating:** Warm gently in a saucepan over medium-low heat, stirring occasionally. Add a splash of water or coconut milk if the sauce has thickened. If using eggplant, take care not to overheat, as the eggplant will turn mushy. Microwave reheating works in a pinch but can cause the coconut milk to separate.
 
 **Freezing:** The curry freezes well for up to 2 months. Eggplant will soften further upon thawing, so if you plan to freeze, consider using bamboo shoots instead or adding fresh eggplant when you reheat. Thaw overnight in the refrigerator and reheat on the stovetop.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Authentic Thai Green Curry at Hot Thai Kitchen (hot-thai-kitchen.com), whose paste enhancement technique and traditional coconut-cracking method form the backbone of the recipe. The garlic, ginger, and lemongrass additions to the base and the snow pea inclusion are drawn from Nagi's Thai Green Curry at RecipeTinEats (recipetineats.com). The staged fish sauce seasoning and emphasis on frying the paste until oil separates reflect techniques discussed across multiple Thai cooking sources including Serious Eats.

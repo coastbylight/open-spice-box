@@ -2,9 +2,6 @@
 title: Pad Prik King (ผัดพริกขิง)
 slug: pad-prik-king
 subtitle: Dry-fried green beans and protein in a fiery, fragrant red curry paste with makrut lime leaves
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -139,9 +136,3 @@ For a quick weeknight dinner for two, pad prik king over rice with a fried egg o
 **Freezer:** Not ideal, as the green beans lose their crunch. The cooked dish without the beans can be frozen for up to 1 month and served with freshly stir-fried beans.
 
 **Prep ahead:** The curry paste, sliced meat, and cut beans can all be prepared up to a day ahead and refrigerated separately.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Thai dry curry stir-fry technique for pad prik king, which appears across Thai cooking references including Pailin Chongchitnant's Hot Thai Kitchen (hot-thai-kitchen.com) and David Thompson's Thai Food. The emphasis on frying the paste until the oil separates and the use of makrut lime leaves as a finishing aromatic are standard techniques in Thai wok cooking. The dish is one of the foundational stir-fries of Thai cuisine.

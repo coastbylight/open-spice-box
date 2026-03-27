@@ -2,9 +2,6 @@
 title: Ren Shen Ji Tang (Ginseng Chicken Soup)
 slug: ren-shen-ji-tang
 subtitle: A quietly powerful broth where ginseng root infuses chicken with its bittersweet warmth and uplifting fragrance
-source_name: Traditional Chinese Recipe
-source_url: https://souperdiaries.com/ginseng-chicken-soup/
-source_author: Souper Diaries
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 1 hour 10 minutes
@@ -143,9 +140,3 @@ This is also a wonderful soup to serve to someone recovering from illness or goi
 The soup keeps in the refrigerator for up to 3 days. The ginseng flavor will continue to intensify as it sits, so be aware that reheated soup will taste bolder than it did fresh. Reheat gently on the stovetop over medium-low heat. Avoid boiling.
 
 The broth freezes well for up to 2 months. The chicken is best eaten fresh or within a day or two, as its texture deteriorates with freezing. If freezing, strain the broth and store separately from the solids.
-
----
-
-## Source Acknowledgment
-
-Recipe draws on traditional ginseng chicken soup preparations as documented by Souper Diaries (souperdiaries.com), Omnivore's Cookbook (omnivorescookbook.com), and The Woks of Life (thewoksoflife.com). Ingredient proportions and method refined for clarity and home-kitchen application.

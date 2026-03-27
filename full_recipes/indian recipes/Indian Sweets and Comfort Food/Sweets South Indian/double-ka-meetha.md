@@ -2,7 +2,6 @@
 title: Double Ka Meetha
 slug: double-ka-meetha
 subtitle: Hyderabadi Saffron Bread Pudding Baked Until Golden
-source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Dessert
 difficulty: Intermediate

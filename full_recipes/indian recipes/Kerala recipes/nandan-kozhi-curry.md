@@ -2,7 +2,6 @@
 title: Nandan Kozhi Curry
 slug: nandan-kozhi-curry
 subtitle: Kerala country chicken curry — native chicken in coconut oil with crackled mustard seeds, coconut milk and twice-extracted aromatics
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main
 difficulty: Intermediate

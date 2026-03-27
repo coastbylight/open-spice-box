@@ -2,9 +2,6 @@
 title: Pajeon (Korean Scallion Pancake)
 slug: pajeon
 subtitle: A golden, crispy pancake bursting with whole scallions and an optional scattering of seafood
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 2 large pancakes (4 servings)
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -157,9 +154,3 @@ Pajeon is traditionally enjoyed with makgeolli (Korean rice wine), and the pairi
 **Reheating:** Re-crisp in a dry or lightly oiled skillet over medium heat for 2 minutes per side. An oven at 200°C for 5 to 7 minutes also restores crispness. Avoid the microwave.
 
 **Not ideal for freezing:** The seafood and scallions release moisture when thawed, making the pancake soggy. If you must freeze, use the plain scallion version, wrap tightly, and re-fry from frozen.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the traditional Korean method for pajeon, with techniques informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The approach of laying scallions in the pan before adding batter reflects the method most commonly associated with Dongnae pajeon, the famous version from Busan, and produces the crispiest, most scallion-forward result.

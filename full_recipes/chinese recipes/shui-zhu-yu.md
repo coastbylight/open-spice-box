@@ -2,9 +2,6 @@
 title: Shui Zhu Yu (Sichuan Boiled Fish)
 slug: shui-zhu-yu
 subtitle: Silky fish fillets poached in a fiery, numbing broth and finished with sizzling spice oil
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/sichuan-boiled-fish/
-source_author: Wei Guo
 yield: 2 to 4 servings
 prep_time: 20 minutes
 cook_time: 15 minutes
@@ -157,9 +154,3 @@ This dish is best eaten immediately. The fish becomes overcooked as it sits in t
 If you have leftovers, store them in the refrigerator for up to 1 day. Reheat gently on the stovetop. The fish will be softer but still edible. You can refresh the dish with a small amount of freshly toasted spices and a drizzle of fresh hot oil.
 
 Do not freeze.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Red House Spice (redhousespice.com), with supplementary technique and ingredient references from Omnivore's Cookbook (omnivorescookbook.com) and The Woks of Life (thewoksoflife.com). Ingredient proportions and method refined for clarity and home-kitchen application.

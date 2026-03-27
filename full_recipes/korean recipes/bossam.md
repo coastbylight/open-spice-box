@@ -2,9 +2,6 @@
 title: Bossam (Boiled Pork Belly Wraps)
 slug: bossam
 subtitle: Tender slices of boiled pork belly wrapped in salted napa cabbage with garlic, chili, and fermented shrimp
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 1 hour 30 minutes
@@ -175,9 +172,3 @@ Bossam is a complete communal meal when served with rice and a selection of banc
 **Broth:** Strain and refrigerate the cooking broth for up to 3 days or freeze for up to 1 month. It makes an excellent base for soups or stews, particularly [doenjang-jjigae](/recipes/doenjang-jjigae).
 
 **Cabbage wraps:** Salted cabbage is best prepared fresh. Leftover leaves can be refrigerated overnight but will lose crispness.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the traditional Korean method for bossam, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The practice of adding coffee to the boiling liquid is a widely shared Korean home cooking tip. The connection between bossam and kimjang season reflects one of Korea's most important culinary traditions.

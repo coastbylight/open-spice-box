@@ -2,7 +2,6 @@
 title: Cheera Vada
 slug: cheera-vada
 subtitle: Kerala Urad Dal and Spinach Fritters
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Snack / Street Food
 difficulty: Intermediate

@@ -2,7 +2,6 @@
 title: Whole Garam Masala
 slug: whole-garam-masala
 subtitle: The foundational Punjabi spice blend — slow-dried and ground to order
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Condiment
 difficulty: Easy

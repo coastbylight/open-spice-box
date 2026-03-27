@@ -2,9 +2,6 @@
 title: Khao Soi Gai (ข้าวซอย)
 slug: khao-soi
 subtitle: Northern Thai coconut curry noodle soup with chicken, crispy fried noodles, and pickled mustard greens
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/kao-soi/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 45 minutes
 cook_time: 50 minutes
@@ -185,9 +182,3 @@ For a Thai curry progression, pair it earlier in the week with [boat noodles](/r
 **Fried chili flakes:** Keep indefinitely in a sealed jar in the refrigerator. The flavor deepens over the first few days.
 
 **Condiments:** Prepare fresh. Sliced shallots and lime wedges do not store well once cut.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's khao soi recipe at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the curry paste method, charring technique, and the emphasis on black cardamom as the defining spice. The approach of frying the paste in a small amount of coconut cream before adding the remaining liquid follows her method closely. Additional technique notes on building depth through blooming spices in fat draw from Serious Eats (seriouseats.com). The condiment presentation and emphasis on gae lien, the Thai principle of countering richness, reflect the cultural context Pailin provides in her detailed headnotes.

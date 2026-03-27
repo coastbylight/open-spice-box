@@ -2,7 +2,6 @@
 title: Chingri Malai Curry
 slug: chingri-malai-curry
 subtitle: Tiger prawns in golden coconut — the pride of the Bengali table
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Medium

@@ -2,9 +2,6 @@
 title: Sukiyaki (Japanese Beef Hot Pot)
 slug: sukiyaki
 subtitle: Thinly sliced beef and vegetables simmered tableside in a sweet soy and mirin broth, served with raw egg for dipping
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/sukiyaki/
-source_author: Nami Chen
 yield: 2 to 3 servings
 prep_time: 25 minutes (plus 30 minutes for dashi soaking)
 cook_time: 15 minutes
@@ -173,9 +170,3 @@ Sukiyaki pairs naturally with cold beer or warm sake. A dry junmai sake compleme
 **Cooked sukiyaki leftovers:** Refrigerate the remaining broth and any cooked vegetables (excluding tofu, which becomes spongy) in an airtight container for up to 3 days. The broth makes an excellent base for reheating with fresh udon noodles or rice. Reheat gently in a saucepan over medium-low heat. Avoid boiling vigorously, as the tofu and noodles will break down.
 
 **Freezing:** The cooked broth with vegetables (minus tofu) can be frozen for up to 1 month. Thaw overnight in the refrigerator before reheating. The raw beef and sauce can also be frozen separately for up to 1 month.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Nami Chen at Just One Cookbook (justonecookbook.com), whose Kanto-style sukiyaki recipe provides clear ratios for the warishita sauce and a methodical approach to tableside cooking. Additional guidance on cooking technique and ingredient preparation was informed by Serious Eats (seriouseats.com), which emphasizes the importance of searing the beef before adding sauce and cooking in deliberate rounds. RecipeTin Eats (recipetineats.com) contributed supplementary notes on adjusting broth concentration across multiple rounds and finishing with udon noodles.

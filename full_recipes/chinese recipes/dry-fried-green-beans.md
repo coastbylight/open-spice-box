@@ -2,9 +2,6 @@
 title: Gan Bian Si Ji Dou (Dry-Fried Green Beans)
 slug: dry-fried-green-beans
 subtitle: Sichuan dry-fried green beans blistered in a wok with pork, preserved vegetables, and chili
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -139,9 +136,3 @@ Serve as part of a multi-dish Chinese meal alongside steamed rice, a braised mea
 ## Storage and Reheating
 
 Store in an airtight container in the refrigerator for up to 3 days. The beans will soften slightly but remain flavorful. Reheat in a hot wok or skillet over high heat for 1 to 2 minutes, tossing frequently. A splash of water can help steam them back to life. These beans do not freeze well, as the texture becomes mushy upon thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Sichuan gan bian preparation. The technique and seasoning proportions are informed by the work of Fuchsia Dunlop and the home cooking traditions of Chengdu and Chongqing.

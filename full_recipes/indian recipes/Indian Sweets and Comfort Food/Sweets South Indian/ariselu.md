@@ -2,7 +2,6 @@
 title: Ariselu
 slug: ariselu
 subtitle: Andhra Deep-Fried Rice and Jaggery Rounds Crusted with Sesame
-source_name: Traditional Indian Recipe
 cuisine: Andhra / Telugu
 course: Dessert
 difficulty: Intermediate

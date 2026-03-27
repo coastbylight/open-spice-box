@@ -2,9 +2,6 @@
 title: Saba Shioyaki (Salt-Grilled Mackerel)
 slug: saba-shioyaki
 subtitle: Whole mackerel fillets seasoned with nothing more than sake and salt, then grilled until the skin blisters and the rich flesh turns golden
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/grilled-mackerel-saba-shioyaki/
-source_author: Namiko Hirasawa Chen
 yield: 2 servings
 prep_time: 5 minutes
 cook_time: 20 minutes
@@ -136,9 +133,3 @@ Saba shioyaki is at its best as the center of a traditional Japanese set meal (i
 **Freezing:** While still warm, wrap each fillet tightly in plastic wrap, pressing out as much air as possible. Place the wrapped fillets in a freezer bag and freeze for up to 1 month. To reheat from frozen, unwrap the fish, sprinkle a few drops of water over the surface, and microwave at medium power for about 2 minutes per fillet. Alternatively, reheat in a 180C (350F) oven for 8 to 10 minutes to restore some of the skin's texture.
 
 **Grated daikon:** Prepare fresh each time. Grated daikon oxidizes quickly and loses its bright, sharp flavor within an hour. It does not store well.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Namiko Hirasawa Chen's Grilled Mackerel (Saba Shioyaki) at Just One Cookbook (justonecookbook.com), with additional technique notes on grill method and incision technique drawn from Yuto Omura's approach at Sudachi Recipes (sudachirecipes.com). Background on mackerel varieties and the sake marinating method reflects information from Chopstick Chronicles (chopstickchronicles.com) and Just Hungry (justhungry.com).

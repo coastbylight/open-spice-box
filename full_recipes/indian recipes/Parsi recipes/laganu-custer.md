@@ -2,7 +2,6 @@
 title: Laganu Custer
 slug: laganu-custer
 subtitle: A Parsi baked bread-and-khoya custard, spiced with cardamom, mace, and rose water
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Medium

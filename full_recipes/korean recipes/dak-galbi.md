@@ -2,9 +2,6 @@
 title: Dak Galbi (Spicy Stir-fried Chicken)
 slug: dak-galbi
 subtitle: Chunky chicken thighs stir-fried in a fiery gochugaru sauce with rice cakes, sweet potato, and cabbage
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/dakgalbi
-source_author: Maangchi
 yield: 3 servings
 prep_time: 30 minutes (plus 30 minutes marinating)
 cook_time: 20 minutes
@@ -154,9 +151,3 @@ Dak galbi is a complete meal in itself, especially with the fried rice finish. I
 **Reheating:** Warm in a skillet over medium heat with a splash of water to loosen the sauce and soften the rice cakes. Stir frequently. Avoid microwaving the rice cakes, as they tend to become very hard once cooled and reheated unevenly.
 
 **Freezer:** Cooked dak galbi can be frozen for up to 1 month, though the texture of the vegetables and rice cakes will soften. Freeze the fried rice separately for better results.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose dakgalbi recipe emphasizes the milk marination technique and a simplified sauce using gochugaru without gochujang. The addition of gochujang and Korean curry powder was informed by Sue Pressey's dak galbi recipe at My Korean Kitchen (mykoreankitchen.com), which reflects the Chuncheon restaurant style with a richer, more complex sauce. Both sources contributed techniques for the fried rice finish and communal serving style.

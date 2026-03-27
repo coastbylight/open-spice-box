@@ -2,9 +2,6 @@
 title: Hijiki Seaweed Salad (Hijiki no Nimono)
 slug: hijiki-salad
 subtitle: Tender strands of wild sea vegetable simmered with vegetables and tofu in a sweet soy broth
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/hijiki-salad/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 45 minutes
@@ -160,9 +157,3 @@ If you enjoy building meals around sea vegetables and fermented flavors, conside
 **Freezer:** Freeze in small portions for up to 1 month. Thaw overnight in the refrigerator. The texture holds up well, though edamame may soften slightly after freezing.
 
 **Reheating:** Warm gently in a small pot over low heat with a splash of water if the glaze has thickened too much. Alternatively, serve at room temperature or cold, which is traditional and perfectly pleasant.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose detailed hijiki seaweed salad recipe includes clear guidance on soaking times, ingredient preparation, and the full simmering process. Her notes on storage and freezing informed the make-ahead approach here. Additional context on ingredient variations and preparation tips was drawn from Chopstick Chronicles (chopstickchronicles.com) and Makiko Itoh's writing on Japanese home cooking at Just Hungry (justhungry.com), both of which offer valuable perspective on everyday nimono dishes.

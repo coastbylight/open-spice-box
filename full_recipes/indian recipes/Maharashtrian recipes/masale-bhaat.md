@@ -2,7 +2,6 @@
 title: Masale Bhaat
 slug: masale-bhaat
 subtitle: Maharashtrian Festive Spiced Rice with Goda Masala
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 30 minutes
@@ -162,9 +161,3 @@ Masale bhaat is a complete meal on its own, but in Maharashtrian homes it is typ
 **Reheating:** Sprinkle 1–2 tablespoons of water over the rice before reheating. Cover with a damp paper towel and microwave in 60-second increments, fluffing gently between cycles. Alternatively, reheat in a covered pan over very low heat with a splash of water. Add fresh garnishes after reheating.
 
 **Note:** Drumstick pieces do not reheat as cleanly as other vegetables; they can become fibrous. This dish is best eaten fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe is rooted in the domestic cooking traditions of Maharashtra, particularly the Chitpavan Brahmin and Marathi Hindu communities for whom masale bhaat is an integral part of weddings and festivals. The specific blend of goda masala reflects centuries of regional spice cultivation and culinary knowledge unique to the Konkan and Deccan regions of India. Recipes for masale bhaat are passed through families and vary household to household. This version draws on those traditional methods while adapting for a home kitchen.

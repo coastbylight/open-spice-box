@@ -2,9 +2,6 @@
 title: Khao Kha Moo (ข้าวขาหมู)
 slug: khao-kha-moo
 subtitle: Slow-braised pork leg in a dark, star anise and cinnamon broth, served over rice with a jammy egg and pickled mustard greens
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 6 servings
 prep_time: 30 minutes
 cook_time: 3 hours
@@ -170,9 +167,3 @@ The braised pork also works beautifully sliced into a [banh mi](/recipes/banh-mi
 **Reheating:** Warm the pork gently in its braising liquid over medium-low heat until heated through. The gelatin will melt back into a silky sauce. Avoid high heat, which can toughen the meat.
 
 **Eggs:** The braised eggs are best eaten within 2 days. They can be stored in the braising liquid.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Thai-Chinese approach to khao kha moo, a braised pork leg dish found throughout Bangkok's street food scene. The technique and flavor profile draw from the Teochew braising traditions adapted by Thai cooks, documented across Thai cooking references including Pailin Chongchitnant's Hot Thai Kitchen (hot-thai-kitchen.com) and Leela Punyaratabandhu's She Simmers (shesimmers.com). The chili vinegar sauce and the inclusion of coriander root reflect the Thai adaptations that distinguish this dish from its Chinese ancestor.

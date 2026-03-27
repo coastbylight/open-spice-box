@@ -2,9 +2,6 @@
 title: Japchae (Glass Noodles with Vegetables)
 slug: japchae
 subtitle: Sweet potato starch noodles stir-fried with colorful vegetables, beef, and sesame oil
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/japchae
-source_author: Maangchi
 yield: 4 servings
 prep_time: 40 minutes
 cook_time: 30 minutes
@@ -163,9 +160,3 @@ Japchae works as a main course over steamed rice or as a side dish alongside gri
 **Reheating:** Warm in a skillet over medium heat with a splash of water and a drizzle of sesame oil. Toss frequently. The noodles will soften and regain their chewiness. Add a pinch of sugar and soy sauce to refresh the seasoning.
 
 **Freezer:** Not recommended. The noodles and vegetables do not freeze well.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose japchae recipe emphasizes cooking each ingredient separately and combining by hand in a large bowl. Her detailed instructions for the egg garnish and noodle seasoning are central to this method. Supplementary context on marinade ratios and serving suggestions was informed by Hyosun Ro's japchae recipe at Korean Bapsang (koreanbapsang.com). My Korean Kitchen (mykoreankitchen.com) contributed additional notes on noodle cooking time.

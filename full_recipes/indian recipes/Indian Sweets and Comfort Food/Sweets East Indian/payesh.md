@@ -2,7 +2,6 @@
 title: Payesh
 slug: payesh
 subtitle: Bengali Rice Pudding with Date Palm Jaggery
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Easy

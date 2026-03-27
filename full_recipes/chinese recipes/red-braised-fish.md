@@ -2,9 +2,6 @@
 title: Hong Shao Yu (Red Braised Fish)
 slug: red-braised-fish
 subtitle: A whole fish braised in a rich soy-sugar sauce with ginger, scallions, and a touch of vinegar
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -142,9 +139,3 @@ Present the fish whole on a serving platter at the center of the table. In Chine
 ## Storage and Reheating
 
 Leftover fish can be refrigerated in its sauce in an airtight container for up to 2 days. The sauce will gel when cold. Reheat gently in a covered skillet over low heat, adding a tablespoon of water to thin the sauce. Be careful when reheating, as the fish will be more fragile and prone to breaking apart. Whole braised fish does not freeze well due to textural changes in the flesh.
-
----
-
-## Source Acknowledgment
-
-Red braised fish is a pan-regional Chinese preparation with roots in both Jiangnan and northern cooking traditions. This recipe synthesizes common approaches found across home kitchens throughout China, with attention to the techniques that produce the most reliable results.

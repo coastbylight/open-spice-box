@@ -2,9 +2,6 @@
 title: Boat Noodles (ก๋วยเตี๋ยวเรือ)
 slug: boat-noodles
 subtitle: Dark, spice-infused Thai noodle soup with pork, toasted aromatics, and enriched broth
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/boat-noodles/
-source_author: Pailin Chongchitnant
 yield: 5 servings
 prep_time: 45 minutes
 cook_time: 2 hours 30 minutes
@@ -203,9 +200,3 @@ For a broader Southeast Asian comparison, the toasted whole-spice approach conne
 **Chili vinegar:** Keeps in a sealed jar in the refrigerator for several weeks. The flavor mellows and integrates over the first few days.
 
 **Fried garlic:** Store the garlic and the garlic oil in separate containers in the refrigerator. The garlic stays crisp for about 2 weeks; the oil keeps for a month or longer.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's boat noodles recipe at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the core broth method, spice toasting technique, blood incorporation process, and the detailed noodle preparation guide. Pailin's approach to building the broth through layered soy sauces and a long, gentle simmer with bones and aromatics forms the foundation here. Additional context on the role of dried chili paste as a broth intensifier and the use of fermented tofu in some regional variations draws from Leela Punyaratabandhu's boat noodle writing at SheSimmers (shesimmers.com) and Serious Eats (seriouseats.com). The noodle option notes and assembly sequence follow Pailin's video tutorial closely.

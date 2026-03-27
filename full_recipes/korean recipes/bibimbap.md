@@ -2,9 +2,6 @@
 title: Bibimbap (Mixed Rice Bowl)
 slug: bibimbap
 subtitle: A vibrant bowl of rice topped with seasoned vegetables, beef, a fried egg, and gochujang sauce
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/bibimbap
-source_author: Maangchi
 yield: 4 servings
 prep_time: 40 minutes
 cook_time: 30 minutes
@@ -166,9 +163,3 @@ Leftover namul vegetables from bibimbap preparation can be served separately as 
 **Assembled bibimbap:** Best eaten immediately after mixing. The rice absorbs the sauce quickly and becomes softer over time.
 
 **Dolsot bibimbap:** Cannot be stored assembled. The stone bowl must be served immediately to enjoy the crispy rice.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose bibimbap recipe includes detailed instructions for preparing each vegetable namul and both regular and dolsot serving methods. Her emphasis on the five-color tradition and the soybean sprout soup accompaniment reflects classic Korean home cooking. Supplementary details on sauce preparation, vegetable options, and assembly were informed by Hyosun Ro's bibimbap recipe at Korean Bapsang (koreanbapsang.com), which provides comprehensive notes on regional variations and tofu bibimbap.

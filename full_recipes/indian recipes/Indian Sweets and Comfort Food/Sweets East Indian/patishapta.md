@@ -2,7 +2,6 @@
 title: Patishapta
 slug: patishapta
 subtitle: Bengali Makar Sankranti Crepes with Coconut, Khoya, and Almond Filling
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Intermediate

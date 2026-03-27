@@ -2,7 +2,6 @@
 title: Kerala Paratha
 slug: kerala-paratha
 subtitle: Flaky, layered maida flatbread with egg and milk — the technique of resting and oiling creates its characteristic crisp, honeycomb texture
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Bread
 difficulty: Intermediate

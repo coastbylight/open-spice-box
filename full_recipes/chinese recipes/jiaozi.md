@@ -2,9 +2,6 @@
 title: Jiaozi (Pork and Chive Dumplings)
 slug: jiaozi
 subtitle: The northern Chinese family dumpling, made with infused oil and a ginger-scallion puree
-source_name: The Woks of Life
-source_url: https://thewoksoflife.com/pork-chive-dumplings/
-source_author: Judy Leung
 yield: 48 dumplings (8 servings)
 prep_time: 1 hour 35 minutes
 cook_time: 25 minutes
@@ -162,9 +159,3 @@ For a wider dim sum spread, pair with [Har Gow](/recipes/har-gow) and [Lo Bak Go
 **Refrigerating (uncooked):** Dumplings can be refrigerated on a tray for up to 4 hours before cooking, though the wrappers will begin to absorb moisture from the filling over time.
 
 **Reheating (cooked):** Leftover boiled dumplings reheat best in a pan with a little oil. Add a splash of water, cover, and steam for 2 to 3 minutes to warm through. Microwaving works but can make the wrappers rubbery.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Judy Leung's pork and chive dumpling recipe at The Woks of Life (thewoksoflife.com). The infused oil technique and ginger-scallion puree method are characteristic of their updated version of this northern Chinese classic. The addition of fresh shrimp as an optional protein enrichment draws from Maggie Zhu's family recipe at Omnivore's Cookbook (omnivorescookbook.com).

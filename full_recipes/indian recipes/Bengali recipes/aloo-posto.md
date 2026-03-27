@@ -2,7 +2,6 @@
 title: Aloo Posto
 slug: aloo-posto
 subtitle: Potatoes cooked in poppy seed paste, the quiet soul of Bengali home cooking
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Easy

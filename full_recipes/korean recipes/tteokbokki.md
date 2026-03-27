@@ -2,9 +2,6 @@
 title: Tteokbokki (Spicy Rice Cakes)
 slug: tteokbokki
 subtitle: Chewy rice cakes swimming in a fiery, sweet gochujang sauce
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 3 servings
 prep_time: 10 minutes
 cook_time: 20 minutes
@@ -149,9 +146,3 @@ Tteokbokki is traditionally eaten as a snack or light meal on its own, served di
 **Reheating:** Add 60 to 80 ml of water to the pot and reheat over medium-low heat, stirring frequently. The rice cakes will soften again as they warm through. The sauce may need a small adjustment of gochujang or sugar after reheating, as flavors concentrate when stored.
 
 **Not recommended for freezing:** The rice cakes become crumbly and lose their chew after freezing and thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the widely practiced street-food method for tteokbokki found across Korean home cooking and popularized by sources including Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The anchovy-kelp broth base and the gochujang-gochugaru combination reflect the most commonly used approach for achieving the characteristic balance of sweet, spicy, and savory.

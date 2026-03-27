@@ -2,9 +2,6 @@
 title: Sauteed Broccoli with Minced Garlic (蒜蓉西兰花)
 slug: sauteed-broccoli-with-garlic
 subtitle: Blanched broccoli florets flash-sauteed with a generous amount of minced garlic and nothing else, the way Chinese home kitchens actually cook vegetables
-source_name: Asian Cooking Mom
-source_url: https://www.asiancookingmom.com/sauteed-broccoli-with-minced-garlic-%E8%92%9C%E8%93%89%E8%A5%BF%E5%85%B0%E8%8A%B1-suan-rong-xi-lan-hua/
-source_author: AsianCookingMom
 yield: 2 to 4 servings
 prep_time: 15 minutes
 cook_time: 5 minutes
@@ -117,9 +114,3 @@ This is a side dish, meant to sit on the table alongside two or three other thin
 **Reheating:** A quick toss in a hot wok or skillet for 30 seconds to 1 minute is the best method. Microwave reheating works but softens the texture. Do not re-blanch.
 
 **Freezing:** Not recommended. Blanched broccoli can be frozen on its own for later use, but the assembled dish becomes waterlogged and limp when thawed.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from AsianCookingMom's sauteed broccoli with minced garlic (asiancookingmom.com), following her blanch-then-saute technique and minimal four-ingredient approach. The cultural context about Chinese home-style vegetable cooking draws from her notes on how everyday Chinese families prepare vegetables without the heavy sauces common in Western Chinese restaurants.

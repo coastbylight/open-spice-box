@@ -2,9 +2,6 @@
 title: Ca Kho To (Cá Kho Tộ)
 slug: ca-kho-to
 subtitle: Catfish braised in a caramel sauce with fish sauce, pepper, and shallots in a clay pot
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 35 minutes
@@ -148,9 +145,3 @@ For a Vietnamese home-style dinner, serve with steamed morning glory or water sp
 **Reheating:** Warm gently over low heat with a splash of water if the sauce has thickened too much. The sauce will loosen as it heats. Do not boil, as the fish will break apart.
 
 **Freezer:** Not ideal, as the fish texture suffers. The caramel sauce on its own can be made in a large batch and frozen for up to 3 months.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Southern Vietnamese approach to ca kho to, using a dark caramel base, concentrated fish sauce, and a clay pot braise. The technique draws from Vietnamese home cooking traditions documented by Andrea Nguyen in Into the Vietnamese Kitchen and the kho braising methods described across Vietnamese food culture. The emphasis on cooking the caramel to a near-bitter darkness is a defining characteristic of Southern Vietnamese cuisine.

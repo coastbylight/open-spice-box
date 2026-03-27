@@ -2,9 +2,6 @@
 title: Curry Udon (Udon Noodles in Curry Broth)
 slug: curry-udon
 subtitle: Thick udon noodles swimming in a rich, dashi-based curry broth thickened with roux and laced with sweet onion and sliced pork
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 25 minutes
@@ -136,9 +133,3 @@ Curry udon is a complete meal in a bowl. It needs very little alongside it, perh
 ## Storage and Reheating
 
 The curry broth (without noodles) stores well in the refrigerator for up to 3 days or in the freezer for up to 1 month. The broth will thicken significantly when cold; thin it with a splash of dashi when reheating. Cook fresh udon noodles for each serving, as pre-soaked noodles in broth become bloated and lose their chew. Reheat the broth gently over medium heat, stirring occasionally, until it returns to a simmer before ladling over freshly cooked noodles.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Japanese curry udon preparation as served in udon shops and home kitchens across Japan. The roux-based approach and the dashi-soy-mirin seasoning base reflect the most common method documented in Japanese culinary references.

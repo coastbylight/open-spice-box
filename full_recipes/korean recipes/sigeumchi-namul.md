@@ -2,9 +2,6 @@
 title: Sigeumchi Namul (Seasoned Spinach)
 slug: sigeumchi-namul
 subtitle: Blanched spinach dressed with sesame oil, garlic, and a whisper of soy sauce
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings (as banchan)
 prep_time: 10 minutes
 cook_time: 5 minutes
@@ -142,9 +139,3 @@ Sigeumchi namul is one of the most versatile banchan, appearing at virtually eve
 **Freezing:** Not recommended, as the spinach becomes watery and loses its texture when thawed.
 
 **Meal prep:** This is an excellent banchan to prepare in advance. Make a large batch on a Sunday and enjoy it throughout the week.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the fundamental Korean namul technique practiced in every Korean household, documented by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). Sigeumchi namul is among the most basic and important preparations in the Korean banchan tradition, requiring no specialized ingredients or equipment.

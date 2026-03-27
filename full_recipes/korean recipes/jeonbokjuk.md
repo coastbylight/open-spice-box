@@ -2,9 +2,6 @@
 title: Jeonbokjuk (Abalone Porridge)
 slug: jeonbokjuk
 subtitle: A silky rice porridge cooked with abalone and its nutrient-rich viscera until the broth turns pale green
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/jeonbokjuk/
-source_author: Korean Bapsang
 yield: 4 servings
 prep_time: 15 minutes (plus 1 hour soaking rice)
 cook_time: 35 minutes
@@ -131,9 +128,3 @@ Jeonbokjuk is traditionally served as a nourishing meal on its own, particularly
 **Reheating:** Warm gently in a pot over medium-low heat, stirring frequently and adding water as needed to restore the desired consistency. Season again after reheating, as the flavors may have muted.
 
 **Freezer:** Can be frozen for up to 1 month. Thaw overnight in the refrigerator before reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Hyosun Ro at Korean Bapsang (koreanbapsang.com), whose jeonbokjuk recipe reflects the Jeju Island tradition of using abalone viscera for color and flavor. Her personal connection to Jeju and the haenyeo diving tradition informs the cultural context. Supplementary details on abalone preparation and porridge technique were informed by My Korean Kitchen (mykoreankitchen.com) and Maangchi's juk recipes (maangchi.com).

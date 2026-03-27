@@ -2,7 +2,6 @@
 title: Pathiri
 slug: pathiri
 subtitle: Thin, soft rice flour flatbreads from Kerala's Moplah Muslim community — cooked on a hot pan, served with curries
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Bread
 difficulty: Easy

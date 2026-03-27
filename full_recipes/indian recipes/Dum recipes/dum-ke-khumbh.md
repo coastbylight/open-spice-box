@@ -2,7 +2,6 @@
 title: Dum Ke Khumbh
 slug: dum-ke-khumbh
 subtitle: Button mushrooms sealed and slow-cooked in a spiced yogurt and brown onion marinade
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Main
 difficulty: Easy

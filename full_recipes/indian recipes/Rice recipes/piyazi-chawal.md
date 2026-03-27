@@ -2,7 +2,6 @@
 title: Piyazi Chawal
 slug: piyazi-chawal
 subtitle: Caramelised onion rice cooked with whole spices
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Side
 difficulty: Easy

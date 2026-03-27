@@ -2,7 +2,6 @@
 title: Batero
 slug: batero
 subtitle: Parsi lamb marinated in toddy or beer with whole spices, then slowly braised until tender
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy

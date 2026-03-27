@@ -2,7 +2,6 @@
 title: Rajasthani Chicken Curry
 slug: chicken-curry-rajasthani
 subtitle: Boneless chicken braised in a golden onion-tomato masala with whole spices
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Medium

@@ -2,9 +2,6 @@
 title: Thai Iced Coffee (กาแฟเย็น)
 slug: thai-iced-coffee
 subtitle: Strong oliang coffee brewed with roasted grains and sesame, sweetened with condensed milk and poured over crushed ice
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -133,9 +130,3 @@ For a Thai-themed brunch, offer Thai iced coffee with [khao tom](/recipes/khao-t
 **Freezer:** Pour the coffee concentrate into ice cube trays. Use these coffee cubes instead of regular ice to prevent dilution as the drink sits.
 
 **Batch prep:** This recipe scales easily for gatherings. Make a large batch of the concentrate and store in a pitcher. Let guests pour over ice and add their own milk.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Thai street preparation of kafae yen using oliang coffee, a blend with Chinese-Thai origins. The method of steeping, sweetening with condensed milk, and serving over crushed ice with evaporated milk poured on top is the standard approach used by Thai coffee vendors and documented across Thai food references including Pailin Chongchitnant at Hot Thai Kitchen (hot-thai-kitchen.com).

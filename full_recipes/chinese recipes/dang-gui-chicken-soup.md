@@ -2,9 +2,6 @@
 title: Dang Gui Ji Tang (Dang Gui Chicken Soup)
 slug: dang-gui-chicken-soup
 subtitle: A nourishing Chinese herbal soup of chicken, angelica root, goji berries, and jujube dates
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 90 minutes
@@ -142,9 +139,3 @@ This is a restorative soup, best served as part of a simple meal with steamed ri
 ## Storage and Reheating
 
 Store the soup in an airtight container in the refrigerator for up to 3 days. The broth will gel when cold due to its gelatin content, which is a sign of good technique. Reheat gently on the stove over medium-low heat. Avoid boiling vigorously during reheating, as this can cloud the broth. The soup can be frozen for up to 1 month. Thaw overnight in the refrigerator before reheating. The goji berries may become very soft after storage, which is normal.
-
----
-
-## Source Acknowledgment
-
-Dang gui chicken soup is a cornerstone of Chinese herbal cuisine, drawing on principles from traditional Chinese medicine. The specific combination of herbs varies by family and region, and this recipe represents a common, widely accessible formulation suitable for home preparation.

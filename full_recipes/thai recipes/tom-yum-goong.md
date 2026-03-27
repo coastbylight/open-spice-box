@@ -2,9 +2,6 @@
 title: Tom Yum Goong
 slug: tom-yum-goong
 subtitle: Hot and sour shrimp soup with lemongrass, galangal, and makrut lime
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/tom-yum-goong/
-source_author: Pailin Chongchitnant
 yield: Serves 4
 prep_time: 20 minutes
 cook_time: 20 minutes
@@ -159,9 +156,3 @@ If you enjoy Thai soups, [khao tom](/recipes/khao-tom) (rice soup) makes a gentl
 ## Storage and Reheating
 
 The broth keeps well in a sealed container in the refrigerator for up to 2 days. Store the broth and shrimp separately if possible, as the shrimp will continue to firm up in the hot liquid. Reheat gently in a covered pot over low heat. Do not bring to a vigorous boil, as this will toughen the shrimp and cook off the lime's brightness. Add a squeeze of fresh lime juice after reheating to restore the sour note. The broth (without shrimp) freezes well for up to 1 month. Thaw in the refrigerator overnight and reheat with freshly cooked shrimp. The aromatic herbs lose potency over time, so frozen broth will taste slightly flatter than fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's tom yum goong at [Hot Thai Kitchen](https://hot-thai-kitchen.com/tom-yum-goong/), with additional techniques and ingredient notes drawn from Nagi's version at [RecipeTin Eats](https://www.recipetineats.com/tom-yum-soup-thai/). The shrimp stock method, nam prik pao usage, and residual-heat shrimp cooking technique follow Pailin's approach. The garlic-in-broth technique and tomato addition as a nam prik pao substitute draw from RecipeTin Eats. Both sources contributed to the seasoning balance described here.

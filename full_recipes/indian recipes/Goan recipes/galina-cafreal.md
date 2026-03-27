@@ -2,7 +2,6 @@
 title: Galinha Cafreal
 slug: galina-cafreal
 subtitle: Goa's vivid green spatchcock — a dish from the African coast via Portugal
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Medium

@@ -2,7 +2,6 @@
 title: Jeera Pulao
 slug: jeera-pulao
 subtitle: Cumin-scented basmati rice with whole spices and golden onion
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Side
 difficulty: Easy

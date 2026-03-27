@@ -2,9 +2,6 @@
 title: Pad See Ew (ผัดซีอิ๊ว)
 slug: pad-see-ew
 subtitle: Smoky charred wide rice noodles with chicken, Chinese broccoli, and a sweet soy glaze
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/pad-see-ew-new/
-source_author: Pailin Chongchitnant
 yield: 2 servings
 prep_time: 20 minutes
 cook_time: 10 minutes
@@ -162,9 +159,3 @@ If you are building a Thai street food spread, [pad thai](/recipes/pad-thai) and
 **Reheating:** A hot wok or large skillet with a small splash of oil is the best method. Spread the noodles in a single layer and let them sit against the hot surface for 30 seconds to re-crisp before tossing. Microwaving works in a pinch but produces steamed rather than charred noodles. Add a few drops of water and cover loosely to prevent drying.
 
 **Meal prep:** The sauce can be mixed up to 3 days ahead and refrigerated. The chicken can be marinated and refrigerated for up to 24 hours. Slice and prep the broccoli in advance and store it wrapped in a damp towel. The actual stir-frying must happen fresh, as the char does not survive storage.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's pad see ew recipe at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundation for the sauce ratios, the Golden Mountain sauce addition, and the batch-cooking technique for achieving char on a home stove. The inclusion of white vinegar in the sauce draws from Nagi's version at RecipeTinEats (recipetineats.com), which uses vinegar to brighten the overall flavor. The emphasis on extreme wok heat, minimal stirring, and cooking the protein separately reflects techniques discussed across all three source recipes, a point of consensus among experienced Thai cooks writing for home kitchens.

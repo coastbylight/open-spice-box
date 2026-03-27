@@ -2,9 +2,6 @@
 title: Tonkatsu (Japanese Breaded Pork Cutlet)
 slug: tonkatsu
 subtitle: A thick pork loin cutlet pounded tender, triple-coated in flour, egg, and panko, then fried to a golden, shattering crust
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 15 minutes
@@ -144,9 +141,3 @@ The classic tonkatsu set meal (tonkatsu teishoku) includes shredded cabbage, ton
 ## Storage and Reheating
 
 Cooked tonkatsu keeps in the refrigerator for up to 2 days. Reheat in a 190 degree Celsius oven for 8 to 10 minutes to restore crispness, or re-fry briefly at 180 degrees for 1 minute per side. Uncooked breaded cutlets can be frozen on a parchment-lined tray, then transferred to a freezer bag once solid. They keep for up to 1 month. Fry directly from frozen, adding 1 to 2 minutes to the cooking time and checking the internal temperature before serving. The microwave will ruin the crust and is not recommended.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Japanese preparation for tonkatsu as served in tonkatsu-ya restaurants and home kitchens across Japan. The three-stage breading, frying temperature, and resting technique reflect established best practices documented in Japanese culinary references.

@@ -2,7 +2,6 @@
 title: Jeera Mutter Pulao
 slug: jeera-mutter-pulao
 subtitle: Cumin and pea basmati rice with whole spices
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Side
 difficulty: Easy

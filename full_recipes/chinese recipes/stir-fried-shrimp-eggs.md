@@ -2,9 +2,6 @@
 title: Xia Ren Chao Dan (Stir-Fried Shrimp with Eggs)
 slug: stir-fried-shrimp-eggs
 subtitle: A silky Cantonese-style stir-fry of plump shrimp folded into barely set, custardy eggs
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 3 servings
 prep_time: 15 minutes
 cook_time: 8 minutes
@@ -142,9 +139,3 @@ Serve over steamed jasmine rice with a simple vegetable side, such as blanched c
 ## Storage and Reheating
 
 This dish does not store well, as the eggs will continue to set and the shrimp will toughen. If you must keep leftovers, refrigerate in an airtight container for up to 1 day. Reheat very gently in a skillet over low heat, breaking the eggs apart slightly and adding a teaspoon of water. Accept that the texture will not match the fresh version. Freezing is not recommended.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Cantonese approach to shrimp and egg stir-fry, a preparation found in home kitchens across Guangdong province. The velveting technique and the principle of cooking components separately before combining them are hallmarks of Cantonese wok cookery.

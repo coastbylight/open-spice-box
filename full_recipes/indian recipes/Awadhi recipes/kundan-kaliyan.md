@@ -2,7 +2,6 @@
 title: Kundan Kaliyan
 slug: kundan-kaliyan
 subtitle: Awadhi golden blossoms — mutton in a strained saffron gravy, dressed in edible gold
-source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main Course
 difficulty: Advanced

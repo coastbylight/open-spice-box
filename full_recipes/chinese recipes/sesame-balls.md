@@ -2,9 +2,6 @@
 title: Jian Dui (Sesame Balls)
 slug: sesame-balls
 subtitle: Crispy, golden fried glutinous rice balls coated in sesame seeds with a sweet red bean paste filling
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 12 balls
 prep_time: 30 minutes
 cook_time: 20 minutes
@@ -141,9 +138,3 @@ Serve jian dui warm as a dessert at the end of a dim sum meal, as a snack with t
 ## Storage and Reheating
 
 Sesame balls are best eaten within a few hours of frying. The crispy shell softens as it sits and cannot be fully restored. If needed, store at room temperature (not refrigerated, as this accelerates staling) for up to 1 day. Reheat in a 180°C oven for 5 to 7 minutes to partially re-crisp the shell. Microwave reheating will make them soft and chewy throughout. Uncooked, formed balls (before frying) can be frozen on a sheet pan and stored in a freezer bag for up to 1 month. Fry directly from frozen at a slightly lower starting temperature (140°C), allowing extra time for the interior to heat through.
-
----
-
-## Source Acknowledgment
-
-Jian dui have a history stretching back to the Tang Dynasty and are now most closely associated with Cantonese dim sum culture. This recipe follows the standard dim sum preparation, with the gradual-temperature frying technique that produces the hollow, crispy shells characteristic of the best versions.

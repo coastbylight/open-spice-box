@@ -2,7 +2,6 @@
 title: Moong Dal Chilla
 slug: moong-dal-chilla
 subtitle: Gujarati Moong Dal Pancakes Folded Over Grated Paneer
-source_name: Traditional Indian Recipe
 cuisine: Gujarati / North Indian
 course: Breakfast / Snack
 difficulty: Easy

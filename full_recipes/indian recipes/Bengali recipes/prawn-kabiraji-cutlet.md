@@ -2,7 +2,6 @@
 title: Prawn Kabiraji Cutlet
 slug: prawn-kabiraji-cutlet
 subtitle: Calcutta's Anglo-Indian jewel — prawns encased in a golden lacy egg net
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Starter
 difficulty: Involved

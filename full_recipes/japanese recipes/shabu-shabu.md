@@ -2,9 +2,6 @@
 title: Shabu-Shabu (Japanese Hot Pot)
 slug: shabu-shabu
 subtitle: Paper-thin beef swished through kombu broth at the table, served with ponzu and sesame dipping sauces
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/shabu-shabu/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 15 minutes
@@ -167,9 +164,3 @@ For drinks, a dry junmai sake served slightly warm complements the clean flavors
 **Leftover broth:** Strain and refrigerate the enriched broth in an airtight container for up to 3 days, or freeze for up to 1 month. Use it as a base for [miso soup](/recipes/miso-shiru), udon soup, or rice porridge.
 
 **Cooked leftovers:** If vegetables and meat remain in the pot at the end of the meal, store them in the broth in an airtight container and refrigerate for up to 2 days. Reheat gently on the stove. The texture of the tofu and noodles will soften further, but the flavor of the broth deepens overnight.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose detailed shabu-shabu recipe provides clear guidance on ingredient preparation, kombu broth technique, and the traditional order of cooking at the table. Supplementary information on dipping sauce preparation and the shime noodle course was informed by recipes at Serious Eats (seriouseats.com) and Chopstick Chronicles (chopstickchronicles.com), both of which emphasize the importance of broth clarity and the communal pacing of the meal.

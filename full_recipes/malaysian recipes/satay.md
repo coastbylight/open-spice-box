@@ -2,9 +2,6 @@
 title: Chicken Satay (Satay Ayam)
 slug: satay
 subtitle: Charcoal-grilled lemongrass and turmeric chicken skewers with peanut dipping sauce
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/recipe-chicken-satay/
-source_author: Bee Yinn Low
 yield: 24 skewers (6 servings)
 prep_time: 50 minutes (plus 6 hours marinating)
 cook_time: 10 minutes
@@ -183,9 +180,3 @@ For a cross-regional grill night, offer satay together with [gai yang](/recipes/
 **Peanut sauce:** Keeps refrigerated for up to 1 week or frozen for up to 2 months. Reheat gently in a saucepan over low heat, stirring frequently and adding water as needed to restore the original consistency.
 
 **Marinade:** The raw marinade (before contact with chicken) can be prepared up to 2 days ahead and refrigerated, making weeknight satay practical if you plan ahead.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Bee Yinn Low's chicken satay at Rasa Malaysia (rasamalaysia.com), which uses a traditional Malaysian marinade of lemongrass, shallots, turmeric, and coriander blended to a smooth paste, with an emphasis on overnight marinating and charcoal grilling. The peanut sauce structure and the inclusion of tamarind for acidity were informed by Nagi Maehashi's satay curry recipe at RecipeTin Eats (recipetineats.com), which layers a satay spice blend with coconut milk and ground peanuts in a rich, simmered sauce. The tip about threading chicken pieces tightly on skewers and using a bruised lemongrass stalk as a basting brush draws from The MeatMen's chicken satay guide (themeatmen.sg), which emphasizes hands-on technique and extended marinating for the deepest flavor.

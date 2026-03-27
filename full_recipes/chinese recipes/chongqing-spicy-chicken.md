@@ -2,9 +2,6 @@
 title: La Zi Ji (Chongqing Spicy Chicken)
 slug: chongqing-spicy-chicken
 subtitle: Bite-sized crispy chicken pieces buried in a mountain of toasted dried chilies and Sichuan peppercorn
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes (plus marinating)
 cook_time: 15 minutes
@@ -146,9 +143,3 @@ Serve as a main course with steamed rice. The rice acts as a necessary counterba
 ## Storage and Reheating
 
 La zi ji is best eaten immediately, while the chicken is at its crispiest. Leftovers can be stored in an airtight container in the refrigerator for up to 2 days. Reheat on a sheet pan in a 200°C oven for 8 to 10 minutes to restore some crispness. Discard the dried chilies when storing leftovers and add fresh toasted chilies if desired when reheating. The chicken alone (without chilies) can be repurposed in fried rice, noodle dishes, or salads.
-
----
-
-## Source Acknowledgment
-
-La zi ji originates from Chongqing and has become one of the most iconic dishes of Sichuan cuisine. This recipe follows the traditional Chongqing preparation, with the double-frying technique and the dramatic chili-to-chicken ratio that defines the authentic version.

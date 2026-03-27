@@ -2,7 +2,6 @@
 title: Goan Fish Curry
 slug: goan-fish-curry
 subtitle: Tangy coconut and red chilli — the daily table of coastal Goa
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Easy

@@ -2,7 +2,6 @@
 title: Ada Pradaman
 slug: ada-pradaman
 subtitle: Kerala's Onam Sadya Payasam with Rice Ada, Jaggery, and Coconut Milk
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Dessert
 difficulty: Intermediate

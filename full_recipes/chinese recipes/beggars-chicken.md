@@ -2,9 +2,6 @@
 title: Jiao Hua Ji (Beggar's Chicken)
 slug: beggars-chicken
 subtitle: A whole chicken wrapped in lotus leaves and clay-baked until extraordinarily tender and aromatic
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 45 minutes
 cook_time: 3 hours
@@ -150,9 +147,3 @@ Beggar's Chicken is a centerpiece dish, meant to be the star of the table. Surro
 ## Storage and Reheating
 
 Leftover Beggar's Chicken can be stored in an airtight container with its juices in the refrigerator for up to 3 days. Reheat gently in a covered pot over low heat, or wrap in foil and warm in a 150°C oven for 20 to 30 minutes. The meat is so tender that it works well shredded and used in other preparations: tossed with noodles, folded into congee, or layered in a sandwich. The cooking juices, which will gel when cold, make an excellent base for soup or sauce.
-
----
-
-## Source Acknowledgment
-
-Beggar's Chicken is attributed to the Hangzhou region of Jiangsu (now Zhejiang) province, with recipes dating back several centuries. This adaptation for the home oven follows the principles of the traditional method while replacing the clay encasement with practical alternatives.

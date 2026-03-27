@@ -2,9 +2,6 @@
 title: Sheng Jian Bao (Pan-Fried Soup Dumplings)
 slug: sheng-jian-bao
 subtitle: Shanghai's iconic pan-fried buns with a juicy pork filling, crispy bottom, and sesame-scallion top
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 24 buns
 prep_time: 60 minutes (plus resting)
 cook_time: 20 minutes
@@ -160,9 +157,3 @@ Serve sheng jian bao in sets of four, as is traditional in Shanghai. Accompany w
 ## Storage and Reheating
 
 Sheng jian bao are best eaten immediately. The crispy bottoms soften quickly. If you must store them, refrigerate in an airtight container for up to 2 days. Reheat in a lightly oiled skillet with a splash of water, covered, over medium heat until warmed through and the bottoms re-crisp. Alternatively, uncooked buns can be frozen on a sheet pan, then transferred to a freezer bag for up to 1 month. Cook directly from frozen, adding 2 to 3 extra minutes of steaming time.
-
----
-
-## Source Acknowledgment
-
-Sheng jian bao originated in Shanghai in the early 20th century and remain one of the city's most iconic street foods. This recipe follows the traditional preparation method, with the aspic-based filling technique that is standard across Shanghai's sheng jian bao shops.

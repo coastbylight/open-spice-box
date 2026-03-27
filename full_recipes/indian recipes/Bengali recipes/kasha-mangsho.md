@@ -2,7 +2,6 @@
 title: Kasha Mangsho
 slug: kasha-mangsho
 subtitle: Dry-braised mutton with the soul of mustard oil and patience
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Medium

@@ -2,9 +2,6 @@
 title: Murgh Malai Kebab
 slug: murgh-malai-kebab
 subtitle: Cream and cream-cheese marinated chicken kebab from North India
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 20 minutes active, plus 4 hours minimum marination (overnight preferred)
 cook_time: 15–18 minutes
@@ -143,9 +140,3 @@ Serve as a starter on a flat board or platter with mint chutney, thinly sliced r
 **Marinated raw chicken** can be held in the refrigerator, covered, for up to 24 hours before cooking. Do not freeze in the marinade — the cream will separate on thawing.
 
 **Cooked kebabs** can be refrigerated for up to 2 days. To reheat, place in a moderately hot oven (180°C / 350°F) for 6–8 minutes, covered with foil to prevent drying out. Alternatively, reheat briefly in a pan with a small knob of butter. The texture will be marginally less tender than fresh-cooked but still very good.
-
----
-
-## Source Acknowledgment
-
-Murgh malai kebab is part of the North Indian tandoor tradition associated with the restaurants and hotel kitchens of Delhi and Lucknow, where cream-based white kebabs have been served alongside their red counterparts since at least the mid-20th century. The preparation reflects the Mughal court kitchen's tradition of malai (cream) based cooking — a style of refined, dairy-enriched preparation that characterised the upper registers of the Mughal culinary repertoire.

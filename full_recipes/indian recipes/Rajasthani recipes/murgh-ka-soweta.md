@@ -2,7 +2,6 @@
 title: Murgh Ka Soweta
 slug: murgh-ka-soweta
 subtitle: Rajasthani chicken curry enriched with sweet corn and yoghurt
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Medium

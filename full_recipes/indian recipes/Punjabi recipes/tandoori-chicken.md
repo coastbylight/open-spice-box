@@ -2,7 +2,6 @@
 title: Tandoori Chicken
 slug: tandoori-chicken
 subtitle: Whole chicken marinated in yoghurt cheese and spices, cooked in the tandoor
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium

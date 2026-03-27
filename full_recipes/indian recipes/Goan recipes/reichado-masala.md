@@ -2,7 +2,6 @@
 title: Reichado Masala
 slug: reichado-masala
 subtitle: The fiery Goan red paste of dried chillies, vinegar, garlic, and roasted spices
-source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Condiment
 difficulty: Easy

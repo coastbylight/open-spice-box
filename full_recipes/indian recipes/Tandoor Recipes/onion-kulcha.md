@@ -2,7 +2,6 @@
 title: Onion Kulcha
 slug: onion-kulcha
 subtitle: Leavened flatbread stuffed with spiced raw onion, green chilli and coriander — an Amritsari specialty baked in the tandoor
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Bread
 difficulty: Intermediate

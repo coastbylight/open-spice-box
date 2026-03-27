@@ -2,9 +2,6 @@
 title: Baeksuk (White Chicken Soup)
 slug: baeksuk
 subtitle: A whole chicken simmered gently with garlic, jujubes, and glutinous rice until the meat is silky and tender
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/baeksuk/
-source_author: Korean Bapsang
 yield: 4 servings
 prep_time: 15 minutes (plus 1 hour soaking rice)
 cook_time: 1 hour 10 minutes
@@ -142,9 +139,3 @@ Baeksuk is traditionally served with just the dipping salt, but you can offer a 
 **Freezer:** The broth freezes well for up to 2 months. The cooked chicken can be frozen separately for up to 1 month.
 
 **Reheating:** Warm the broth gently in a pot over medium heat until hot. Add the chicken pieces and heat through. The broth will return to liquid form as it warms. Do not boil vigorously, as this can make the meat tough.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Korean Bapsang (koreanbapsang.com), whose baeksuk recipe emphasizes the simplicity of the preparation and the restorative nature of the dish. Supplementary details on stuffing technique and the relationship to samgyetang were informed by Maangchi's samgyetang recipe (maangchi.com), which shares the same foundation of whole chicken with glutinous rice and jujubes. My Korean Kitchen (mykoreankitchen.com) contributed context on traditional serving customs and variations.

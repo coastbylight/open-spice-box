@@ -2,7 +2,6 @@
 title: Shrikhand
 slug: shrikhand
 subtitle: Maharashtrian and Gujarati Strained Yogurt Dessert with Saffron and Cardamom
-source_name: Traditional Indian Recipe
 cuisine: Maharashtrian / Gujarati
 course: Dessert
 difficulty: Easy

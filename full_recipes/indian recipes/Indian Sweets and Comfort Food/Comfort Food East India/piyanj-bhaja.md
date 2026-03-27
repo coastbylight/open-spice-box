@@ -2,7 +2,6 @@
 title: Piyanj Bhaja
 slug: piyanj-bhaja
 subtitle: Double-fried Bengali onion fritters, thick rings of batter with ginger and green chilli
-source_name: Traditional Bengali Recipe
 cuisine: Bengali
 course: Snack
 difficulty: Easy

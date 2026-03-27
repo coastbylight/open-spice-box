@@ -2,7 +2,6 @@
 title: Shrikhand
 slug: shrikhand
 subtitle: Maharashtra's Silkiest Festival Dessert — Hung Yogurt, Saffron, and Patience
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 15 minutes active (plus 8 hours or overnight draining)
 cook_time: 0 minutes
@@ -120,7 +119,3 @@ Serve chilled, in small portions. Shrikhand is rich. The traditional pairing in 
 ## Storage and Reheating
 
 Shrikhand keeps well in the refrigerator for up to 3 days in an airtight container. The flavor develops and deepens overnight. Keep well chilled; do not leave at room temperature for more than 30 minutes as it softens and the texture changes. Do not freeze. Freezing ruptures the protein structure and the texture becomes grainy and watery upon thawing.
-
-## Source Acknowledgment
-
-This recipe draws from the dessert traditions of Maharashtra and Gujarat, where Shrikhand (also written Shirikhand or Shrikand) has been prepared for centuries as a festival, wedding, and celebration sweet. The method reflects the traditional home preparation used across Maharashtrian and Gujarati households, with chakka made from first principles. Shared as part of the Ancient Pantry project, a living record of India's traditional culinary knowledge.

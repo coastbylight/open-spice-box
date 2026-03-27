@@ -2,7 +2,6 @@
 title: Punjabi Chicken Curry
 slug: chicken-curry-punjabi
 subtitle: Bone-in chicken in a dark, spiced tomato and onion gravy
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium

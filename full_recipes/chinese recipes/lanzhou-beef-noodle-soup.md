@@ -2,9 +2,6 @@
 title: Lanzhou Beef Noodle Soup (兰州牛肉面)
 slug: lanzhou-beef-noodle-soup
 subtitle: A fragrant, clear-broth noodle soup built on slow-simmered beef, warm spices, tender daikon, and hand-pulled noodles
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/lanzhou-beef-noodle-soup/
-source_author: Wei Guo
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 2 hours 40 minutes
@@ -167,9 +164,3 @@ For a noodle-focused dinner, serve alongside [Dan Dan Noodles](/recipes/dan-dan-
 **Noodles:** Cook noodles fresh for each serving. Cooked noodles stored in the fridge become gummy and lose their texture.
 
 **Daikon:** The daikon can be stored in the broth and reheats well. It will absorb more broth flavor over time.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's Lanzhou beef noodle soup recipe at Red House Spice (redhousespice.com). The roasted bone technique and expanded spice blend (including black cardamom, cloves, and dried orange peel) draw from Judy Leung's version at The Woks of Life (thewoksoflife.com), which builds a more complex broth base using roasted bones and chicken stock.

@@ -2,9 +2,6 @@
 title: Samgyetang (Ginseng Chicken Soup)
 slug: samgyetang
 subtitle: A whole young chicken stuffed with rice and ginseng, simmered until the broth turns silky and the meat falls from the bone
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/samgyetang
-source_author: Maangchi
 yield: 2 servings
 prep_time: 20 minutes
 cook_time: 1 hour
@@ -145,9 +142,3 @@ Samgyetang is best eaten the day it is made. The stuffed chicken does not store 
 If you do have leftovers, pull all the meat from the bones and combine it with the rice stuffing and broth. Store in an airtight container in the refrigerator for up to 2 days. Reheat gently on the stovetop over medium-low heat, adding a splash of water if the porridge has thickened.
 
 The broth on its own (without rice or meat) freezes well for up to 2 months.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary technique and ingredient notes from Korean Bapsang (koreanbapsang.com). Stuffing proportions and method refined for home-kitchen application.

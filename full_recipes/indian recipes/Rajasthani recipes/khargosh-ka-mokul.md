@@ -2,7 +2,6 @@
 title: Khargosh Ka Mokul
 slug: khargosh-ka-mokul
 subtitle: Rabbit braised in a white onion and cashew gravy with cream
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Hard

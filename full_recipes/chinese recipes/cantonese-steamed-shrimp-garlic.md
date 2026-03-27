@@ -2,9 +2,6 @@
 title: Suan Rong Zheng Xia (Cantonese Steamed Shrimp with Garlic)
 slug: cantonese-steamed-shrimp-garlic
 subtitle: Shell-on shrimp steamed on glass noodles with a generous garlic-soy oil topping
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 8 minutes
@@ -141,9 +138,3 @@ This is a centerpiece seafood dish, best served as part of a Cantonese-style mea
 ## Storage and Reheating
 
 Steamed shrimp are best eaten immediately. The shells become difficult to peel when cold, and the shrimp will toughen if overcooked during reheating. If you have leftovers, peel the shrimp, toss them with the glass noodles, and refrigerate for up to 1 day. Eat cold as a noodle salad or reheat gently in a steamer for 2 minutes. Not recommended for freezing.
-
----
-
-## Source Acknowledgment
-
-This dish is a staple of Cantonese seafood cooking, found in both home kitchens and the seafood restaurants of Guangdong and Hong Kong. The garlic-on-glass-noodle presentation is a restaurant-inspired technique that has been widely adopted by home cooks.

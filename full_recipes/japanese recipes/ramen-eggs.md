@@ -2,9 +2,6 @@
 title: Ramen Eggs (味付け玉子)
 slug: ramen-eggs
 subtitle: Soft-boiled eggs with jammy yolks marinated overnight in a soy-mirin-sake sauce, the essential ramen topping
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/ramen-egg/
-source_author: Namiko Hirasawa Chen
 yield: 4 eggs
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -127,9 +124,3 @@ The obvious home for these is on top of a bowl of ramen, alongside [Chashu Pork]
 **Freezing:** Not recommended. The egg white becomes rubbery.
 
 **Marinade:** Do not reuse the marinade with new eggs for food safety. Repurpose it in stir-fries or simmered dishes.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Namiko Hirasawa Chen's ramen egg at Just One Cookbook (justonecookbook.com). The 7-minute timing, ice bath method, and plastic bag marination technique are hers. The marinade ratio of equal parts soy, mirin, and sake follows her original proportions.

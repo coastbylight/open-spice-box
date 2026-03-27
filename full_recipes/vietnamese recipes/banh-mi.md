@@ -2,9 +2,6 @@
 title: Banh Mi (Bánh Mì)
 slug: banh-mi
 subtitle: A crisp, airy baguette filled with seasoned pork, pickled daikon and carrot, cilantro, jalapeño, and pate
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 sandwiches
 prep_time: 30 minutes (plus 1 hour for pickles)
 cook_time: 20 minutes
@@ -155,9 +152,3 @@ Banh mi also pairs well with a bowl of [canh chua](/recipes/canh-chua), the swee
 **Assembled sandwich:** Eat immediately. A banh mi does not store well once assembled, as the bread loses its crispness within an hour.
 
 **Bread:** Baguettes are best on the day of purchase. Day-old baguettes can be refreshed by sprinkling with water and heating in a 180C oven for 5 minutes.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the classic Vietnamese banh mi format, combining a crisp, airy baguette with seasoned pork, pate, pickled vegetables, and fresh herbs. The approach draws from the Vietnamese street food tradition documented by Andrea Nguyen in The Banh Mi Handbook and Vietnamese food writers across multiple sources. The do chua pickle recipe and the balance of fillings reflect the Saigon-style banh mi that has become the standard both in Vietnam and internationally.

@@ -2,7 +2,6 @@
 title: Cholar Dal Narkel Diye
 slug: cholar-dal-narkel-diye
 subtitle: Festive Bengal gram dal with fresh coconut, golden raisins, and whole spice fragrance
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Easy

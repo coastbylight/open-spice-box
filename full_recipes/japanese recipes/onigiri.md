@@ -2,9 +2,6 @@
 title: Onigiri (Japanese Rice Balls)
 slug: onigiri
 subtitle: Hand-shaped rice filled with salmon, umeboshi, or tuna mayo and wrapped in toasted nori
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/onigiri-rice-balls/
-source_author: Namiko Hirasawa Chen
 yield: 9 onigiri
 prep_time: 30 minutes
 cook_time: 30 minutes
@@ -192,9 +189,3 @@ Onigiri also travel well as part of a bento box alongside [tamago-kake-gohan](/r
 **Reviving stale onigiri:** Day-old onigiri that have dried out can be turned into yaki onigiri. Brush the flat sides with soy sauce and pan-fry in a dry skillet over medium heat until a deep golden crust forms. The soy sauce caramelizes and creates a new layer of flavor that makes the leftovers feel intentional rather than rescued.
 
 **Nori:** Always store nori separately from the rice if you are packing onigiri for later. Nori that sits against warm, moist rice for more than a few minutes becomes soft and chewy. Wrapping just before eating preserves its crispness.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose detailed instructions on rice preparation, multiple filling options, hand-shaping technique, and nori wrapping form the foundation of this version. The triangle-shaping method and tips on mold use draw heavily from her step-by-step guidance. Supplementary details on filling ratios, the importance of short-grain rice variety, and the plastic wrap shaping technique were informed by Shihoko Ura at Chopstick Chronicles (chopstickchronicles.com), whose recipe emphasizes the role of proper rice selection and the convenience of the wrap method for beginners. The Serious Eats onigiri recipe (seriouseats.com) contributed additional context on the science of rice starch behavior during shaping and the role of salt in seasoning the exterior.

@@ -2,9 +2,6 @@
 title: Har Gow (Crystal Shrimp Dumplings)
 slug: har-gow
 subtitle: Translucent wheat starch dumplings filled with whole and minced shrimp, water chestnuts, and bamboo shoots
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/har-gow/
-source_author: Wei Guo
 yield: 12 dumplings (2 to 3 servings)
 prep_time: 30 minutes
 cook_time: 8 minutes
@@ -156,9 +153,3 @@ For a simpler weeknight dinner, serve har gow as the centerpiece with a bowl of 
 **Refrigerating (uncooked):** The dough does not hold well. Assemble and cook within an hour for best results.
 
 **Reheating (cooked):** Leftover har gow can be briefly re-steamed for 2 to 3 minutes. Microwaving tends to make the wrappers tough and is not recommended.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's crystal shrimp dumpling recipe at Red House Spice (redhousespice.com), whose detailed testing of the starch-to-water ratio and filling technique provides the backbone of this version. The technique of placing whole shrimp in each dumpling for both visual and textural impact is also drawn from her approach.

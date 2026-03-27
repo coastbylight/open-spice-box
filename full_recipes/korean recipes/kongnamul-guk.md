@@ -2,9 +2,6 @@
 title: Kongnamul Guk (Soybean Sprout Soup)
 slug: kongnamul-guk
 subtitle: A light, clean Korean soup of soybean sprouts in anchovy broth, ready in fifteen minutes
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/kongnamul-guk/
-source_author: Hyosun Ro
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 15 minutes
@@ -135,9 +132,3 @@ Kongnamul guk keeps in the refrigerator for up to 2 days, though the sprouts wil
 Reheat on the stovetop over medium heat. Do not boil hard or the sprouts will lose the last of their crunch. The soup is best made fresh due to the short cooking time, but leftover broth makes an excellent base for other soups.
 
 This soup does not freeze well. The sprouts become mushy after thawing.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Korean Bapsang (koreanbapsang.com), with supplementary technique notes from Maangchi (maangchi.com). Method and proportions refined for home-kitchen clarity.

@@ -2,9 +2,6 @@
 title: Chicken Teriyaki
 slug: teriyaki-chicken
 subtitle: Pan-seared chicken thighs glazed in a homemade sauce of soy, mirin, sake, and sugar until lacquered and glossy
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/chicken-teriyaki/
-source_author: Namiko Hirasawa Chen
 yield: 2 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -148,9 +145,3 @@ If you are building a larger Japanese dinner, [nikujaga](/recipes/nikujaga) make
 **Reheating:** Warm sliced chicken gently in a covered skillet over medium-low heat with a splash of water or additional sauce to prevent drying. Alternatively, reheat in a microwave at reduced power in 30-second intervals. Avoid high heat, which will toughen the protein and scorch the sugar in the glaze.
 
 **Sauce only:** The teriyaki sauce can be made in larger batches and stored separately in the refrigerator for up to 2 weeks. It thickens when cold. Warm gently before using.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose method of scoring and pressing the chicken thighs for even cooking forms the backbone of the technique here. Additional guidance on sauce ratios and marinating approach was drawn from Nagi at RecipeTin Eats (recipetineats.com), who emphasizes the simplicity of a true four-ingredient teriyaki sauce and the importance of moderate heat to prevent the sugar from burning. Chopstick Chronicles (chopstickchronicles.com) provided supplementary notes on glazing technique.

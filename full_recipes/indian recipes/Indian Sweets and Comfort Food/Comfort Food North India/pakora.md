@@ -2,7 +2,6 @@
 title: Pakora
 slug: pakora
 subtitle: Crisp chickpea-battered fritters, the only correct answer to a rainy afternoon
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Snack
 difficulty: Easy

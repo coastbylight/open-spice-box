@@ -2,9 +2,6 @@
 title: Gulab Jamun
 slug: gulab-jamun
 subtitle: Deep-fried khoya dumplings soaked in saffron and rose cardamom syrup
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: 20–22 pieces (serves 4–6)
 prep_time: 20 minutes
 cook_time: 30 minutes
@@ -139,9 +136,3 @@ At festive occasions, they are served as part of a dessert spread alongside khee
 Store gulab jamun submerged in their syrup in an airtight container in the refrigerator for up to 5 days. The flavour deepens over time as the balls absorb more syrup.
 
 To reheat: place in a small saucepan with their syrup over very low heat for 5 minutes, or microwave gently on medium power for 30–45 seconds. Do not boil vigorously or the balls may fall apart.
-
----
-
-## Source Acknowledgment
-
-Gulab jamun traces its origins to Mughal court kitchens and the Persian culinary tradition of milk-based sweets. The dish spread across North India and is now ubiquitous throughout the subcontinent and among the Indian diaspora globally. This recipe follows the traditional khoya-based method that distinguishes authentic gulab jamun from the milk-powder adaptations common in commercial production.

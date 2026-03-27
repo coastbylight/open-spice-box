@@ -2,9 +2,6 @@
 title: Yu Xiang Qie Zi (Fish-Fragrant Eggplant)
 slug: yu-xiang-eggplant
 subtitle: Silky braised eggplant in a tangy, sweet, and spicy Sichuan sauce that contains no fish at all
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/yu-xiang-qie-zi/
-source_author: The Woks of Life
 yield: 3 to 4 servings
 prep_time: 20 minutes
 cook_time: 15 minutes
@@ -144,9 +141,3 @@ Yu xiang eggplant works as either a main dish over rice or as one of several dis
 **Reheating:** Reheat in a skillet over medium heat with a splash of water. The crispy texture will not return, but the flavor will be excellent.
 
 **Freezing:** Freezes reasonably well for up to 1 month. The eggplant texture becomes softer but remains pleasant. Thaw in the refrigerator overnight before reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from The Woks of Life's yu xiang qie zi recipe (thewoksoflife.com). The cornstarch coating and soaking technique draws from Maggie Zhu's Chinese eggplant with garlic sauce at Omnivore's Cookbook (omnivorescookbook.com). The sauce ratios and doubanjiang notes are informed by Wei Guo's Sichuan cooking at Red House Spice (redhousespice.com).

@@ -2,9 +2,6 @@
 title: Ginger Scallion Beef
 slug: ginger-scallion-beef
 subtitle: A Cantonese classic of tender, velveted beef stir-fried with heaps of fresh ginger and scallion
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/ginger-scallion-beef/
-source_author: The Woks of Life
 yield: 4 servings
 prep_time: 25 minutes
 cook_time: 10 minutes
@@ -139,9 +136,3 @@ This stir-fry is designed to be eaten over steamed white rice, which absorbs the
 **Reheating:** Reheat in a hot wok or skillet with a splash of water. The beef will not be quite as tender as freshly cooked, but the ginger flavor actually improves overnight.
 
 **Freezing:** Not recommended. The scallions become slimy when frozen and thawed, and the beef texture suffers.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from The Woks of Life's ginger scallion beef recipe (thewoksoflife.com). The crispy coating technique with egg and cornstarch is adapted from Maggie Zhu's ginger beef stir fry at Omnivore's Cookbook (omnivorescookbook.com), and general Cantonese stir-fry principles are informed by traditional Cantonese home cooking practices.

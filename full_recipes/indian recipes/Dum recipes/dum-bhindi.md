@@ -2,7 +2,6 @@
 title: Dum Bhindi
 slug: dum-bhindi
 subtitle: Okra with capsicum and tomato, sealed and slow-cooked with live coal
-source_name: Traditional Indian Recipe
 cuisine: Indian
 course: Main Course, Vegetarian
 difficulty: Easy

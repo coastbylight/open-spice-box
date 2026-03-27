@@ -2,9 +2,6 @@
 title: Tamarind Rice
 slug: tamarind-rice
 subtitle: Tangy, spiced rice tossed with a dark tamarind paste and roasted peanuts
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 20 minutes
@@ -151,9 +148,3 @@ Tamarind rice is traditionally served as a standalone meal or as part of a South
 ## Storage and Reheating
 
 Tamarind rice keeps well at room temperature for up to 8 hours (making it ideal for packed lunches) and in the refrigerator for up to 2 days. The acidity of the tamarind acts as a natural preservative. Reheat gently or serve at room temperature; microwaving tends to dry the rice. Add a small drizzle of sesame oil and toss before serving if the rice seems dry. The tamarind paste alone, stored separately, keeps for up to 3 weeks refrigerated.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Tamil Nadu temple cooking tradition, where puliyodarai is one of the most sacred and widely distributed prasadams. The preparation is associated particularly with Vaishnavite temples, including the Srirangam Ranganathaswamy Temple, where it has been prepared for centuries. The home version reflects the same principles, adapted for the domestic kitchen.

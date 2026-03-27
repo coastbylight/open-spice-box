@@ -2,9 +2,6 @@
 title: Yam Nua (Thai Spicy Beef Salad)
 slug: yam-nua
 subtitle: Grilled steak tossed in a sharp lime-fish sauce-chili dressing with fresh herbs and crunchy aromatics
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/spicy-beef-salad/
-source_author: Pailin Chongchitnant
 yield: 2 to 3 servings
 prep_time: 20 minutes
 cook_time: 10 minutes
@@ -169,9 +166,3 @@ The salad also works as part of a mixed plate alongside [pad thai](/recipes/pad-
 **Short hold:** If you need to prepare ahead, grill and rest the steak up to 2 hours in advance. Wrap it tightly and hold at room temperature. Make the dressing and store it separately in a jar. Prepare the vegetables and herbs and keep them in a sealed container in the refrigerator. Slice the steak, combine everything, and dress just before serving.
 
 **Leftovers:** Leftover assembled salad will keep in the refrigerator for up to 1 day. The beef will firm up and the herbs will darken significantly. The flavor remains good, but the texture is noticeably different. Bring to room temperature for 15 minutes before eating. Do not attempt to reheat this dish, as the herbs and vegetables will collapse and the dressing will lose its brightness.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's spicy steak salad (yum neua yang) at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundation for the dressing formula, the inclusion of Chinese celery and green onion, and the simple toss-and-serve assembly. Nagi Maehashi's Thai beef salad at RecipeTinEats (recipetineats.com) informed the mortar-pounded garlic and cilantro stem paste for the dressing base, the addition of neutral oil for body, and the approach to steak cooking temperatures and resting. The Serious Eats yam neua recipe by J. Kenji Lopez-Alt (seriouseats.com) contributed the emphasis on soaking sliced onion in ice water to soften its bite, the 45-degree slicing angle for maximum dressing contact, and the technique of stirring resting juices back into the dressing rather than discarding them.

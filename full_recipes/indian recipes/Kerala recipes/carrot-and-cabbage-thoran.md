@@ -2,7 +2,6 @@
 title: Carrot and Cabbage Thoran
 slug: carrot-and-cabbage-thoran
 subtitle: Kerala dry stir-fry with grated coconut, mustard seeds and curry leaves — light, bright and ready in minutes
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Side
 difficulty: Easy

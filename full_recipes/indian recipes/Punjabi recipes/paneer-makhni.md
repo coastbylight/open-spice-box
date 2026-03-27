@@ -2,7 +2,6 @@
 title: Paneer Makhni
 slug: paneer-makhni
 subtitle: Velvet tomato butter sauce with golden-edged paneer
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 40 minutes
@@ -153,9 +152,3 @@ Serve with butter naan, garlic naan, or plain roti to scoop the sauce. Basmati r
 **Freezer:** The makhni sauce without paneer freezes exceptionally well for up to 3 months. Portion into 200ml freezer bags. Thaw in the fridge overnight and reheat gently.
 
 **Reheating:** Warm over low heat, adding a splash of water or cream if the sauce has thickened. Add freshly pan-fried paneer each time for best texture. Do not microwave paneer sitting in sauce; it toughens the cheese.
-
----
-
-## Source Acknowledgment
-
-This recipe is grounded in the Punjabi makhni tradition, which traces its origin to the kitchens of Moti Mahal restaurant in Delhi in the mid-20th century. The preparation here follows the conventional home-kitchen method taught across North Indian households, adapted for consistent results with widely available ingredients.

@@ -2,9 +2,6 @@
 title: Kadhi Pakora
 slug: kadhi-pakora
 subtitle: Tangy yogurt broth studded with crisp gram flour fritters
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 25 minutes
 cook_time: 40 minutes
@@ -156,9 +153,3 @@ Kadhi pakora with steamed rice is the canonical Punjabi pairing and one of the g
 ## Storage and Reheating
 
 Kadhi keeps well in the refrigerator for up to 3 days. The broth thickens considerably as it cools; thin with water when reheating and adjust the seasoning. The pakoras will continue to soften over time, which many people prefer. Reheat gently over medium-low heat, stirring occasionally. The tadka can be refreshed by making a small additional tempering and pouring it over the reheated kadhi. Kadhi freezes adequately for up to 1 month, though the pakoras become very soft after thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Punjabi home cooking tradition, where kadhi pakora is among the most beloved comfort foods. It is also a staple of langar, the communal kitchen tradition of Sikh gurdwaras, where it is prepared in vast quantities and served to all visitors regardless of background. The dish appears across North India with regional variations, but the Punjabi version with its onion-fenugreek pakoras and ghee tadka is the most widely known.

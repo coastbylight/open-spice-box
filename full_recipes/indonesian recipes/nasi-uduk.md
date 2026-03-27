@@ -2,9 +2,6 @@
 title: Nasi Uduk
 slug: nasi-uduk
 subtitle: Betawi-style coconut rice with lemongrass, pandan, and bay leaves, served with egg strips, crispy anchovies, and roasted peanuts
-source_name: What To Cook Today
-source_url: https://whattocooktoday.com/nasi-uduk.html
-source_author: What To Cook Today
 yield: 6 servings
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -158,9 +155,3 @@ Nasi uduk is a complete breakfast on its own, but it scales into lunch or dinner
 **Cucumber:** Slice fresh each time you serve. Cut cucumber turns soft and watery within hours.
 
 **Freezing:** The plain coconut rice freezes well for up to 1 month. Thaw in the refrigerator overnight and reheat as above. The accompaniments should not be frozen.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily on the nasi uduk recipe at What To Cook Today (whattocooktoday.com), which provides clear proportions for both stove and rice cooker methods along with the traditional Betawi accompaniments. The aromatic base of lemongrass, galangal, bay leaves, and pandan reflects the approach shared across multiple Indonesian cooking sources, including Daily Cooking Quest (dailycookingquest.com) and Cook Me Indonesian (cookmeindonesian.com), all of which converge on the same essential technique: cook the rice low and slow in coconut-enriched liquid with a careful bundle of aromatics, then let it rest undisturbed until every grain is fragrant and distinct.

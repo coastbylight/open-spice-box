@@ -2,9 +2,6 @@
 title: Xiao Long Bao (Soup Dumplings)
 slug: xiao-long-bao
 subtitle: Paper-thin pleated dumplings filled with seasoned pork and a pocket of rich chicken aspic that melts into soup
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/xiao-long-bao/
-source_author: Wei Guo
 yield: 20 dumplings (4 servings)
 prep_time: 1 hour (plus overnight for aspic)
 cook_time: 1 hour 10 minutes
@@ -152,9 +149,3 @@ For a focused meal, a full steamer of xiao long bao with dipping sauce, a pot of
 **Refrigerating (cooked):** Leftover dumplings can be refrigerated for up to 2 days. Re-steam for 3 minutes to reheat. The soup will largely have been absorbed by the wrapper, so the texture changes significantly.
 
 **Make-ahead strategy:** Prepare the aspic and filling up to 1 day ahead. Make the dough on the day you plan to eat. Wrap and steam the dumplings as close to serving time as possible. The wrapped, uncooked dumplings can sit covered in the refrigerator for up to 1 hour, but no longer.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's xiao long bao recipe at Red House Spice (redhousespice.com), whose oven-roasted whole chicken aspic method provides a more accessible and deeply flavored alternative to the traditional pork skin approach. Additional techniques, including the ginger water beating method for the filling and the use of chicken backs for a lighter broth, draw from Maggie Zhu's soup dumpling recipe at Omnivore's Cookbook (omnivorescookbook.com).

@@ -2,9 +2,6 @@
 title: Thai Iced Tea (ชาเย็น)
 slug: thai-iced-tea
 subtitle: Vibrant orange-amber tea steeped with star anise and vanilla, sweetened with condensed milk and poured over ice
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -136,9 +133,3 @@ For a Thai beverage pairing, offer both Thai iced tea and [Thai iced coffee](/re
 **Freezer:** Pour the tea concentrate into ice cube trays and freeze. Use these cubes instead of regular ice to prevent dilution as you drink.
 
 **Batch prep:** This recipe scales easily. Double or triple the tea concentrate for parties and store in a pitcher. Let guests pour their own over ice and milk.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Thai street preparation of cha yen, using the Cha Tra Mue brand tea mix that is ubiquitous across Thailand. The method of strong-brewing, sweetening with condensed milk, and pouring evaporated milk over ice is the approach used by virtually every Thai tea vendor and is documented across Thai cooking references including Pailin Chongchitnant at Hot Thai Kitchen (hot-thai-kitchen.com) and Leela Punyaratabandhu at She Simmers (shesimmers.com).

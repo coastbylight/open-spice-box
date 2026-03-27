@@ -2,9 +2,6 @@
 title: Jiao Yan Xia (Salt and Pepper Shrimp)
 slug: salt-pepper-shrimp
 subtitle: Crispy shell-on shrimp tossed with Sichuan peppercorn salt, garlic, chilies, and scallion
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -146,9 +143,3 @@ Serve as a main course with steamed rice and a stir-fried green vegetable, or as
 ## Storage and Reheating
 
 Salt and pepper shrimp must be eaten immediately. The crispy coating softens within minutes of cooking, and no reheating method can restore the original crunch. If you have leftover shrimp, peel them and toss the meat with noodles or rice for a quick second meal. The peppercorn-salt mixture can be made in advance and stored in an airtight container for up to 1 month.
-
----
-
-## Source Acknowledgment
-
-Salt and pepper shrimp is a Cantonese restaurant staple that has become one of the most popular Chinese dishes in the global diaspora. This recipe follows the standard restaurant technique, adapted for home kitchens.

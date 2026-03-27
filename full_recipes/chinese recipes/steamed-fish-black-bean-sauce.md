@@ -2,9 +2,6 @@
 title: Dou Chi Zheng Yu (Steamed Fish with Black Bean Sauce)
 slug: steamed-fish-black-bean-sauce
 subtitle: Delicate steamed fish fillets topped with pungent fermented black beans, ginger, and scallion
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 3 servings
 prep_time: 10 minutes
 cook_time: 12 minutes
@@ -141,9 +138,3 @@ Serve as the centerpiece of a simple Chinese meal, with steamed rice and a stir-
 ## Storage and Reheating
 
 Steamed fish is best eaten immediately, as the texture degrades quickly. If you must store leftovers, refrigerate in an airtight container for up to 1 day. Reheat by steaming briefly (3 to 4 minutes) or in a microwave at low power. The fish will be drier and less delicate than when fresh. Flake any leftover fish and toss with rice or noodles for a quick second meal. Not recommended for freezing.
-
----
-
-## Source Acknowledgment
-
-Steaming fish with fermented black beans is a fundamental Cantonese preparation found in home kitchens and restaurants across Guangdong and Hong Kong. This recipe follows the standard technique, with the hot oil finish that is a hallmark of Cantonese steamed fish preparations.

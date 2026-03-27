@@ -2,9 +2,6 @@
 title: Eomuk Soup (Fish Cake Soup)
 slug: eomuk-soup
 subtitle: Skewered fish cakes simmered in a clear, warming anchovy and kelp broth
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 20 minutes
@@ -159,9 +156,3 @@ Eomuk soup is the classic companion to [tteokbokki](/recipes/tteokbokki), served
 **Broth only:** The anchovy-kelp broth without fish cake stores well for up to 3 days in the refrigerator or 1 month in the freezer. It is a versatile base for many Korean soups.
 
 **Freezing:** The fish cake can become rubbery after freezing. Freeze the broth separately and add fresh fish cake when serving.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the traditional Korean street food and home cooking method for eomuk-guk, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The anchovy-kelp broth base (yuksu) is the foundation of Korean soup-making and is used across countless preparations beyond this dish.

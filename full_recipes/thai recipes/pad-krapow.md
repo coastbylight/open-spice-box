@@ -2,9 +2,6 @@
 title: Pad Kra Pao Gai (Holy Basil Chicken Stir-Fry)
 slug: pad-krapow
 subtitle: Thailand's beloved street-food stir-fry of coarsely ground chicken, pounded chili-garlic paste, and holy basil, served over rice with a crispy fried egg
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/holy-basil-stir-fry/
-source_author: Pailin Chongchitnant
 yield: 2 to 3 servings
 prep_time: 15 minutes
 cook_time: 8 minutes
@@ -161,9 +158,3 @@ Pad kra pao is a one-plate meal in the Thai tradition, needing nothing beyond ri
 **Freezing:** The stir-fry freezes reasonably well for up to 1 month. The long beans will soften, and the basil flavor will diminish, but the overall dish remains satisfying. Thaw overnight in the refrigerator and reheat in a hot wok.
 
 **Meal prep:** The chili-garlic paste and sauce can be made up to 2 days ahead and refrigerated separately. The actual stir-fry takes under 5 minutes once you start cooking, so advance prep of the paste and sauce is the most useful shortcut.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's holy basil chicken stir-fry at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundational technique of a mortar-pounded paste, the sauce ratios, and the traditional long bean and onion additions. The green onion addition and the approach of using sliced chicken thigh as an alternative are drawn from Nagi Maehashi's Thai Basil Chicken at RecipeTin Eats (recipetineats.com). The emphasis on high-heat wok technique and the importance of dark soy for color depth reflect the approach used by J. Kenji Lopez-Alt at Serious Eats (seriouseats.com).

@@ -2,9 +2,6 @@
 title: Turmeric Fried Fish
 slug: turmeric-fried-fish
 subtitle: Southern Thai deep-fried fish buried under a mountain of crispy golden garlic and turmeric
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/fried-fish-with-turmeric/
-source_author: Pailin Chongchitnant
 yield: Serves 2 to 3
 prep_time: 25 minutes
 cook_time: 25 minutes
@@ -157,9 +154,3 @@ If you are exploring turmeric-marinated fish across Southeast Asian traditions, 
 ## Storage and Reheating
 
 Pla tod kamin is best eaten immediately. The crispy garlic-turmeric topping loses its crunch within an hour at room temperature and cannot be fully restored. If you have leftovers, store the fish and the topping separately in sealed containers in the refrigerator for up to 1 day. Reheat the fish in a 200 degrees C oven for 8 to 10 minutes until the skin re-crisps and the flesh is warmed through. Spread the garlic-turmeric topping on a parchment-lined baking sheet and warm it in the oven alongside the fish for the last 3 to 4 minutes. It will not return to its original shattering crispness, but it will be better than microwaving, which turns it soft and oily. Do not freeze fried fish; the texture degrades significantly. If you want to prep ahead, you can pound the garlic-turmeric mixture and store it in a sealed container in the refrigerator for up to 2 days before frying day.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's fried fish with turmeric at [Hot Thai Kitchen](https://hot-thai-kitchen.com/fried-fish-with-turmeric/), which provides the foundation for the garlic-turmeric ratio, the two-stage frying technique, and the coarse-pounded topping. The detailed method for marinating, scraping, and frying the garlic-turmeric separately draws from Mark Wiens' pla tod kamin at [Eating Thai Food](https://www.eatingthaifood.com/recipe-thai-fried-fish-garlic-turmeric/), whose recipe offered the most granular step-by-step guidance on frying times and visual cues. The additions of coriander root, lemongrass, and fish sauce to the marinade are informed by the southern Thai approach documented at [Riverside Thai Cooking](https://www.riversidethaicooking.com/thai-seafood/fried-fish-in-turmeric/) and by Leela Punyaratabandhu's treatment of southern Thai turmeric-spiced dishes at [SheSimmers](https://shesimmers.com/2011/07/thai-fried-fish-with-turmeric-recipe.html). The health notes on curcumin bioavailability reflect current nutritional research consensus as of 2025.

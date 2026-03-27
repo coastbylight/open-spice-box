@@ -2,7 +2,6 @@
 title: Puttu
 slug: puttu
 subtitle: Steamed cylinders of rice flour and fresh coconut — Kerala's most iconic breakfast
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Breakfast
 difficulty: Easy

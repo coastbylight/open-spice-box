@@ -2,9 +2,6 @@
 title: Tamagoyaki (Japanese Rolled Omelette)
 slug: tamagoyaki
 subtitle: A sweet, layered egg roll built one thin sheet at a time in a rectangular pan, silky inside with a faintly caramelized surface
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 2 to 4 servings
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -137,9 +134,3 @@ Tamagoyaki appears in nearly every Japanese meal context. It is a standard compo
 ## Storage and Reheating
 
 Tamagoyaki stores well in the refrigerator for up to 3 days, wrapped tightly in plastic wrap. It is traditionally served at room temperature, so simply remove it from the refrigerator 15 to 20 minutes before serving. If you prefer it warm, reheat gently in a dry skillet over low heat for 1 to 2 minutes per side, or microwave briefly. It also freezes well: wrap individual portions tightly in plastic wrap, then in a freezer bag. They keep for up to 1 month. Thaw in the refrigerator overnight. Tamagoyaki is one of the standard make-ahead components for bento preparation.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the Kanto-region tradition of sweet tamagoyaki as practiced in Japanese home kitchens and sushi restaurants. The layered rolling technique and dashi-to-egg ratio reflect standard Japanese culinary instruction.

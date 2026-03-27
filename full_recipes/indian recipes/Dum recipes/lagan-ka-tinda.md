@@ -2,7 +2,6 @@
 title: Lagan Ka Tinda
 slug: lagan-ka-tinda
 subtitle: Baby apple gourds marinated in yogurt and brown onion, slow-cooked in a sealed lagan
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Main
 difficulty: Easy

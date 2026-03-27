@@ -2,9 +2,6 @@
 title: Hokkien Mee (福建面)
 slug: hokkien-mee
 subtitle: Thick yellow noodles and rice vermicelli braised in a rich prawn and pork bone stock
-source_name: Traditional Malaysian Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 45 minutes
@@ -161,9 +158,3 @@ For a Malaysian noodle night, set Hokkien mee alongside [char kway teow](/recipe
 **Freezer:** Not recommended for the finished dish. The prawn stock, however, freezes beautifully for up to 3 months and is worth making in larger batches.
 
 **Prep ahead:** The prawn and pork stock can be made 2 days in advance and refrigerated. The prawns can be peeled and the vegetables prepped a day ahead.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the Penang-style Hokkien mee tradition of braising noodles in prawn and pork bone stock, a technique documented across Malaysian food culture by writers including Leslie Tay at ieatishootipost.sg and Bee Yinn Low at Rasa Malaysia (rasamalaysia.com). The stock-building method of frying prawn heads before simmering draws from the approach common among Penang hawker cooks, who consider the stock the foundation of the entire dish. The dual-noodle technique is standard in the Penang tradition and distinguishes it from the KL version.

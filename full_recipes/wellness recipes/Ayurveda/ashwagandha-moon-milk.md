@@ -2,7 +2,6 @@
 title: Ashwagandha Moon Milk
 slug: ashwagandha-moon-milk
 subtitle: An Ayurvedic sleep tonic for the end of the day
-source_name: Traditional Ayurvedic Preparation
 yield: 1 serving
 prep_time: 2 minutes
 cook_time: 10 minutes

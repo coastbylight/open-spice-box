@@ -2,7 +2,6 @@
 title: Kashmiri Dum Aloo
 slug: kashmiri-dum-aloo
 subtitle: Baby Potatoes in Vivid Kashmiri Spice — The Brahmin Way, No Onion, No Garlic
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main Course, Vegetarian
 difficulty: Intermediate
@@ -126,7 +125,3 @@ Serve with plain steamed Basmati rice or with Kashmiri Lotus Stem Rice (Nadru Pu
 ## Storage and Reheating
 
 Improves on the second day. Store in an airtight container in the refrigerator for up to 3 days. The potatoes continue to absorb the masala overnight. Reheat gently on the stovetop over low heat with a splash of water to loosen. Avoid overheating or the potatoes will become mushy. Freezing is not recommended — potatoes change texture significantly when frozen and thawed.
-
-## Source Acknowledgment
-
-This recipe draws from the tradition of Kashmiri Pandit cooking — the cuisine of the Hindu Brahmin community of the Kashmir Valley — where Dum Aloo is one of the most beloved vegetarian preparations. The satvik approach (no onion, no garlic) and the emphasis on fennel, dried ginger, and Kashmiri chilli are characteristic of this culinary tradition. Shared as part of the Ancient Pantry project — a living record of India's traditional culinary knowledge.

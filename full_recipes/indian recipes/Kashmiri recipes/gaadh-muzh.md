@@ -2,7 +2,6 @@
 title: Gaadh Muzh
 slug: gaadh-muzh
 subtitle: Kashmiri freshwater fish and crispy radish in spiced yogurt sauce
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Intermediate

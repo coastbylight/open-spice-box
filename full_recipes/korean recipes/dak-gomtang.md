@@ -2,9 +2,6 @@
 title: Dak Gomtang (Clear Chicken Soup)
 slug: dak-gomtang
 subtitle: A clean, pale chicken broth simmered with whole aromatics and served over rice with a fiery side sauce
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/dak-gomtang/
-source_author: Hyosun Ro
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 50 minutes
@@ -146,9 +143,3 @@ The strained broth keeps in the refrigerator for up to 4 days. Fat will solidify
 Reheat the broth gently on the stovetop over medium heat. Add the chicken to the hot broth to warm through. Do not boil the broth hard or it may turn slightly cloudy.
 
 The broth freezes well for up to 3 months. Store in portioned containers for quick meals.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Korean Bapsang (koreanbapsang.com), with supplementary technique notes from Maangchi (maangchi.com). Dadaegi proportions and serving method refined for clarity and home-kitchen application.

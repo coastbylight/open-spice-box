@@ -2,9 +2,6 @@
 title: Miyeok Guk (Seaweed Soup)
 slug: miyeok-guk
 subtitle: A deeply savory beef and seaweed soup traditionally served on birthdays and to new mothers
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/miyeokguk
-source_author: Maangchi
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 30 minutes
@@ -139,9 +136,3 @@ Miyeok guk keeps well in the refrigerator for up to 4 days. The seaweed softens 
 Reheat on the stovetop over medium heat. The soup reheats beautifully and some say it improves on the second day. Add a splash of water if the broth has thickened.
 
 The soup freezes well for up to 3 months. Thaw in the refrigerator overnight and reheat on the stovetop.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary ingredient proportions and technique from Korean Bapsang (koreanbapsang.com). Method consolidated and refined for home-kitchen clarity.

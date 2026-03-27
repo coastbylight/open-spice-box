@@ -2,9 +2,6 @@
 title: Gong Bao Ji Ding (Kung Pao Chicken)
 slug: gong-bao-ji-ding
 subtitle: Sichuan's beloved stir-fry of tender chicken, roasted peanuts, and dried chilies in a tangy, sweet, and numbing sauce
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/kung-pao-chicken/
-source_author: Judy Leung
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 10 minutes
@@ -147,9 +144,3 @@ Gong Bao Ji Ding is traditionally served over steamed white rice as part of a mu
 **Reheating:** Reheat in a wok or skillet over high heat with a small splash of water to loosen the sauce. The chicken will not be quite as tender as when freshly cooked, but the flavors will have deepened overnight. Add fresh peanuts when serving.
 
 **Freezing:** This dish does not freeze particularly well. The peanuts become soft and the chicken texture changes. If you must freeze, omit the peanuts and add them fresh when reheating. Freeze for up to 1 month.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Judy Leung's Kung Pao Chicken at The Woks of Life (thewoksoflife.com). The vinegar ratio and chili combination draws from Wei Guo's authentic Sichuan approach at Red House Spice (redhousespice.com), and the mise en place strategy and bell pepper variation from Maggie Zhu's version at Omnivore's Cookbook (omnivorescookbook.com).

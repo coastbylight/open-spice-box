@@ -2,9 +2,6 @@
 title: Cha Ca La Vong (Hanoi Turmeric Fish with Dill)
 slug: cha-ca-la-vong
 subtitle: Golden turmeric-marinated fish seared with clouds of fresh dill and green onions, served over rice noodles with roasted peanuts and fermented shrimp dipping sauce
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/hanoi-fried-fish-with-turmeric-dill-cha-ca-la-vong/
-source_author: Vicky Pham
 yield: 4 servings
 prep_time: 20 minutes (plus 30 minutes marinating)
 cook_time: 20 minutes
@@ -184,9 +181,3 @@ For dessert, fresh tropical fruit is the most natural finish. Sliced mango, ramb
 **Aromatics:** The wilted dill and onions are best eaten immediately and do not reheat well. Prepare fresh herbs for leftovers.
 
 **Marinated fish (uncooked):** Can be refrigerated for up to 24 hours before frying. Can also be frozen on a parchment-lined tray in a single layer, then transferred to a zip-top bag for up to 1 month. Thaw in the refrigerator overnight before coating and frying.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Vicky Pham's Hanoi Fried Fish with Turmeric and Dill at vickypham.com, which provides a straightforward home-cook approach to the classic deep-fried version with a cornstarch coating and a separately prepared mam tom dipping sauce. The pan-searing variation, the use of galangal in the marinade alongside shrimp paste, and the detailed guidance on fish selection were informed by Sophie Pham's version at Delightful Plate (delightfulplate.com), which emphasizes achieving restaurant-quality results with accessible ingredients. The broiling method, the sour cream marinade substitution for traditional fermented rice, and the technique of pouring hot oil over the dill and green onions to wilt them were drawn from Andrea Nguyen's adaptation in Vietnamese Food Any Day, as featured on The Splendid Table (splendidtable.org), which offers a creative grocery-store-friendly interpretation of the Hanoi original.

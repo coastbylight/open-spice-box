@@ -2,9 +2,6 @@
 title: Hainanese Chicken Rice
 slug: hainanese-chicken-rice
 subtitle: Silky poached chicken and fragrant ginger-garlic rice with chili-lime sauce, the hawker dish that defines Malaysian comfort food
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/chicken-rice/
-source_author: Bee Yinn Low
 yield: 8 servings
 prep_time: 20 minutes
 cook_time: 55 minutes
@@ -179,9 +176,3 @@ If you enjoy the warming, restorative quality of chicken poached in broth, you w
 **Freezing:** The poached chicken can be frozen for up to 1 month. The rice freezes well for up to 2 months. Thaw overnight in the refrigerator. The chili sauce does not freeze well, as the lime juice and raw ginger lose their brightness.
 
 **Leftover broth:** Strain and refrigerate the remaining poaching broth for up to 4 days, or freeze for up to 3 months. Use it as a base for [Congee](/recipes/congee), wonton soup, or any recipe that calls for chicken stock. It will carry a gentle ginger-scallion perfume.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Bee Yinn Low's Hainanese chicken rice at Rasa Malaysia (rasamalaysia.com), including the ingredient proportions, the low-simmer poaching technique, and the chili garlic sauce approach. The ice bath method and gentle-heat philosophy were cross-referenced with The MeatMen's Singaporean chicken rice (themeatmen.sg), which emphasizes the lid-off simmer followed by residual-heat cooking to achieve moist, tender meat. Additional context on the dish's Hainanese origins and Southeast Asian adaptations informed the headnote.

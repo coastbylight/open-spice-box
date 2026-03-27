@@ -2,7 +2,6 @@
 title: Bheeda Ma Murgi
 slug: bheeda-ma-murgi
 subtitle: Parsi chicken with okra — a tangy, whole-spice curry with crisp-fried okra on top
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy

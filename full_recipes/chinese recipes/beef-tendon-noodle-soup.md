@@ -2,9 +2,6 @@
 title: Beef Tendon Noodle Soup (牛筋面)
 slug: beef-tendon-noodle-soup
 subtitle: A collagen-rich noodle soup with meltingly soft braised beef tendon in a deeply spiced broth
-source_name: Traditional Chinese Recipe
-source_url: https://omnivorescookbook.com/beef-tendon-noodle-soup/
-source_author: Maggie Zhu
 yield: 6 servings
 prep_time: 30 minutes
 cook_time: 3 hours
@@ -158,9 +155,3 @@ For a fuller Chinese dinner, pair with [Ginger Scallion Beef](/recipes/ginger-sc
 **Reheating:** Warm the broth gently on the stovetop. The jelly will liquify quickly over medium heat. Add the sliced tendon and shank for the last 2 to 3 minutes to warm through. Avoid vigorous boiling, which can break up the softened tendon pieces.
 
 **Noodles:** Always cook fresh. Cooked noodles stored in broth become waterlogged and lose their texture.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the beef tendon braising techniques documented by Maggie Zhu at Omnivore's Cookbook (omnivorescookbook.com). The spice blend and doubanjiang approach are adapted from Wei Guo's braised beef recipes at Red House Spice (redhousespice.com). The dual-protein technique of combining tendon with shank, and the Instant Pot adaptation, reference Judy Leung's Taiwanese beef noodle soup method at The Woks of Life (thewoksoflife.com).

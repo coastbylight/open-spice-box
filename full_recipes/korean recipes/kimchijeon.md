@@ -2,9 +2,6 @@
 title: Kimchijeon (Kimchi Pancake)
 slug: kimchijeon
 subtitle: A crispy, tangy pancake loaded with aged kimchi and bound by a thin, shattering batter
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 2 large pancakes (4 servings)
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -150,9 +147,3 @@ Kimchijeon is traditionally served with makgeolli (Korean rice wine), and the pa
 **Reheating:** The best method is to re-crisp the pancake in a dry or lightly oiled skillet over medium heat for 2 to 3 minutes per side. An oven at 200°C for 5 to 7 minutes also works. Avoid the microwave, which will make the pancake soft and rubbery.
 
 **Freezing:** Wrap individual pancakes tightly in plastic and freeze for up to 1 month. Reheat directly from frozen in a skillet or oven.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the traditional Korean home cooking method for kimchijeon, informed by the recipes and techniques shared by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The emphasis on using well-aged kimchi and generous oil for maximum crispness follows the approach widely practiced in Korean households and pojangmacha (street food stalls).

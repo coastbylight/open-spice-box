@@ -2,9 +2,6 @@
 title: Asian Coleslaw with Miso-Ginger Dressing
 slug: asian-coleslaw-miso-ginger
 subtitle: Shredded green and red cabbage, carrots, radishes, and scallions tossed in a creamy miso-ginger dressing with rice vinegar and lemon
-source_name: Food & Wine
-source_url: https://www.foodandwine.com/recipes/asian-coleslaw-miso-ginger-dressing
-source_author: Grace Parisi
 yield: 6 to 8 servings
 prep_time: 15 minutes
 cook_time: 0 minutes
@@ -125,9 +122,3 @@ This coleslaw sits happily next to almost anything grilled: chicken, pork, fish,
 **Refrigerator:** The dressed slaw keeps for up to 2 days, though it softens as it sits. The undressed vegetables and dressing stored separately will keep for up to 5 days. The dressing alone keeps for up to 1 week.
 
 **Freezing:** Not recommended. Cabbage becomes waterlogged when frozen.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Grace Parisi's Asian coleslaw with miso-ginger dressing at Food & Wine (foodandwine.com). The dressing proportions and emulsion technique are hers. The dressing deliberately makes twice the amount needed for the slaw, with the extra intended for other uses.

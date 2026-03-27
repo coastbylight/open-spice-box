@@ -2,9 +2,6 @@
 title: Peking Duck
 slug: peking-duck
 subtitle: The imperial roast duck with lacquered skin, served with thin pancakes and sweet bean sauce
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/peking-duck/
-source_author: Wei Guo
 yield: 6 servings
 prep_time: 1 day 2 hours
 cook_time: 1 hour 15 minutes
@@ -157,9 +154,3 @@ For a roasted poultry comparison, [Five-Spice Roast Chicken](/recipes/five-spice
 **Duck fat:** Strain the rendered fat through a fine sieve into a clean jar. Refrigerate for up to 2 months or freeze for up to 6 months. Use for frying vegetables, making the sauce, or enriching [Claypot Rice](/recipes/claypot-rice).
 
 **Pancakes:** Store leftover pancakes in a sealed bag in the fridge for 3 days or freezer for 2 months. Steam for 2 to 3 minutes to refresh before serving.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's home-style Peking duck recipe at Red House Spice (redhousespice.com), which simplifies the traditional technique for home ovens while preserving the essential steps of salting, blanching, glazing, and air-drying. Additional tips on stuffing the cavity with aromatics and using a two-stage roasting method reflect Wei Guo's approach. The Woks of Life (thewoksoflife.com) and Omnivore's Cookbook (omnivorescookbook.com) provided supplementary reference for serving traditions and carving technique.

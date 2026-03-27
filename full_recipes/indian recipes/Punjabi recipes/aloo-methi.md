@@ -2,7 +2,6 @@
 title: Aloo Methi
 slug: aloo-methi
 subtitle: Potatoes and Fresh Fenugreek, Punjab Style
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 30 minutes
@@ -135,9 +134,3 @@ Serve as a dry side dish with fresh chapati or phulka. It also works well alongs
 ## Storage and Reheating
 
 Store in an airtight container in the refrigerator for up to 3 days. The flavors deepen overnight; this is one of those dishes that is often better the next day. Reheat gently in a pan over low heat with a splash of water to loosen, or briefly in a microwave. Freezing is not recommended; the potatoes turn mealy and the fenugreek loses its texture.
-
----
-
-## Source Acknowledgment
-
-This recipe is drawn from the traditional home cooking of Punjab, where aloo methi is a staple winter preparation made in countless household kitchens across the region. The salting technique for reducing bitterness in fresh fenugreek is a widely practiced step that appears across many regional Indian kitchens. No single source is credited; this reflects a living culinary tradition.

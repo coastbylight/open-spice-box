@@ -2,9 +2,6 @@
 title: Suan Rong Chao Xiao Bai Cai (Garlic Bok Choy Stir-Fry)
 slug: garlic-bok-choy
 subtitle: Tender baby bok choy stir-fried with garlic until the stems are translucent and the leaves barely wilted
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 5 minutes
@@ -133,9 +130,3 @@ This is the universal Chinese vegetable side dish. It belongs on the table along
 ## Storage and Reheating
 
 This dish is best eaten immediately. Cooked bok choy continues to release water as it sits, becoming limp and watery within minutes. If you must save leftovers, refrigerate for up to 1 day and use them in soups or fried rice rather than trying to recreate the stir-fry. Not recommended for freezing. The entire dish takes 10 minutes to make fresh, so it is almost always better to cook a new batch.
-
----
-
-## Source Acknowledgment
-
-Garlic bok choy stir-fry is one of the most universal preparations in Chinese home cooking, found in every region and every household. No single source can be credited, as the technique and simplicity of this dish are the common heritage of Chinese cooking tradition.

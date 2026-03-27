@@ -2,9 +2,6 @@
 title: Opor Ayam (Javanese Chicken in Coconut Milk)
 slug: opor-ayam
 subtitle: A gentle, aromatic Javanese braise of bone-in chicken simmered in spiced coconut milk with lemongrass, galangal, and candlenut until the sauce turns silky and golden
-source_name: Daily Cooking Quest
-source_url: https://dailycookingquest.com/opor-ayam.html
-source_author: Anita Jacobson
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 40 minutes
@@ -154,9 +151,3 @@ Steamed jasmine rice is the everyday pairing, and the pale golden sauce soaks be
 **Reheating:** Warm gently in a saucepan over medium-low heat, stirring occasionally to prevent the coconut milk from scorching on the bottom. Add a splash of water if the sauce has thickened too much. Avoid bringing it to a hard boil, which can cause the coconut milk to break. Microwave reheating works but may cause some separation in the sauce.
 
 **Freezing:** The braise freezes well for up to 2 months without the eggs, which become rubbery when frozen. Thaw overnight in the refrigerator and reheat gently on the stovetop, stirring in a splash of fresh coconut milk to restore the sauce's body.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Anita Jacobson's Opor Ayam at Daily Cooking Quest (dailycookingquest.com), whose clean Javanese approach with candlenuts, coriander, and cumin provides the backbone of the spice paste and method. The turmeric and cinnamon additions and the kuning variation draw from Cook Me Indonesian's Opor Ayam Kuning (cookmeindonesian.com). The Instant Pot method and the approach to adding coconut milk at the end are informed by What To Cook Today's version (whattocooktoday.com), which also contributed the hard-boiled egg technique and the use of kaffir lime leaves for aromatic depth.

@@ -2,9 +2,6 @@
 title: Roshogolla
 slug: roshogolla
 subtitle: Soft, spongy chhena balls simmered in fragrant rose syrup
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: 16–18 pieces (serves 4–6)
 prep_time: 30 minutes
 cook_time: 30 minutes
@@ -133,9 +130,3 @@ Store roshogolla submerged in their syrup in an airtight container in the refrig
 Do not freeze. Freezing damages the delicate protein structure and produces a grainy, crumbly texture on thawing.
 
 Roshogolla is a cold sweet and does not require reheating. Serve directly from the refrigerator.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Bengali chhena-based method for roshogolla as practised in the sweet shops (mishti dokan) of West Bengal. The technique reflects the home-cooking adaptation of the professional sweet-maker's process. Roshogolla received a Geographical Indication (GI) tag for "Banglar Rosogolla" from West Bengal in 2017, recognising its deep roots in Bengali culinary culture.

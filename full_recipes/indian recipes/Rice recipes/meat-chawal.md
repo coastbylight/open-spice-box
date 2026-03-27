@@ -2,7 +2,6 @@
 title: Meat Chawal
 slug: meat-chawal
 subtitle: Punjabi one-pot mutton and rice cooked together in spiced ghee
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium

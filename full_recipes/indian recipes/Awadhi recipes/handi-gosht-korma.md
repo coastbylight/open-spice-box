@@ -2,7 +2,6 @@
 title: Handi Gosht Korma
 slug: handi-gosht-korma
 subtitle: Slow-braised lamb in a saffron-almond korma, cooked sealed in a handi
-source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main Course
 difficulty: Intermediate

@@ -2,9 +2,6 @@
 title: Shoyu Ramen (Tokyo-Style Soy Sauce Ramen)
 slug: shoyu-ramen
 subtitle: A clear, soy-seasoned pork bone broth with wavy noodles, meltingly tender chashu, and the quiet depth of six slow hours
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/shoyu-ramen/
-source_author: Namiko Hirasawa Chen
 yield: 8 servings
 prep_time: 30 minutes
 cook_time: 6 hours
@@ -206,9 +203,3 @@ The shoyu tare keeps in the refrigerator for up to 2 weeks. Its high salt and so
 Chashu keeps in the refrigerator for 3 to 4 days or in the freezer for up to 1 month. Slice it while cold, then reheat slices briefly in the hot broth or in a warm pan. Leftover chashu is excellent in fried rice, over steamed rice with a drizzle of tare, or sliced thin as a snack alongside drinks.
 
 Ramen noodles do not store well once cooked. They absorb liquid rapidly and turn soft and bloated within minutes. Always cook noodles fresh for each serving. Keep uncooked fresh noodles in the refrigerator according to the package directions, or store dried and frozen noodles in the pantry or freezer until needed.
-
----
-
-## Source Acknowledgment
-
-Primary recipe adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), who scaled Master Masamoto Ueda's original 150-serving Bizentei recipe to a home-kitchen portion of eight. The chashu braising method, tare construction, and broth-building timeline follow her adaptation closely. General technique principles for clear chintan broths and tare balance informed by J. Kenji Lopez-Alt at Serious Eats (seriouseats.com), whose work on ramen science clarifies the relationship between boil intensity and broth clarity. All sources consolidated for home-kitchen clarity with metric measurements.

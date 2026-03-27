@@ -2,9 +2,6 @@
 title: Pad Kra Pao Moo (ผัดกระเพราหมู)
 slug: pad-kra-pao-moo
 subtitle: Fiery minced pork stir-fried with holy basil, garlic, and chilies, served over rice with a crispy fried egg
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 10 minutes
 cook_time: 8 minutes
@@ -147,9 +144,3 @@ Pad kra pao also pairs naturally with a cold Thai beverage like [Thai iced tea](
 **Freezer:** The pork mixture freezes well for up to 1 month. Thaw overnight in the refrigerator before reheating.
 
 **Prep ahead:** The garlic and chilies can be pounded and the sauces measured ahead. The actual cooking is so fast that minimal prep is needed.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the Bangkok street food tradition of pad kra pao, documented extensively by Pailin Chongchitnant at Hot Thai Kitchen (hot-thai-kitchen.com) and Leela Punyaratabandhu at She Simmers (shesimmers.com). The technique of pounding garlic and chilies rather than slicing, searing the pork in large clumps, and adding holy basil off heat reflects the approach of Thai street vendors who prioritize speed, intensity, and the preservation of the basil's volatile aromatics.

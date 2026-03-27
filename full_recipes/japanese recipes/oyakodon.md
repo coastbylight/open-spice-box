@@ -2,9 +2,6 @@
 title: Oyakodon (Chicken and Egg Rice Bowl)
 slug: oyakodon
 subtitle: Tender chicken thigh and sweet onion simmered in dashi broth, cloaked in a silky, half-set egg over steamed rice
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -138,9 +135,3 @@ Oyakodon is a complete meal needing very little alongside it. The traditional ac
 ## Storage and Reheating
 
 Like all egg-topped donburi, oyakodon does not store or reheat well. The egg overcooks and becomes rubbery, and the rice absorbs all the sauce. It is best made and eaten immediately. If you have leftover cooked chicken, store it in the simmering sauce in the refrigerator for up to 2 days, then reheat and assemble fresh bowls with new eggs and freshly steamed rice. The simmering sauce itself keeps well refrigerated for up to 4 days.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the established Japanese home-cooking tradition for oyakodon, using the two-stage egg technique practiced in donburi restaurants across Japan. The ingredient ratios reflect the balanced sweet-savory profile characteristic of Kanto-region preparations.

@@ -2,9 +2,6 @@
 title: Chana Masala
 slug: chana-masala
 subtitle: Chickpeas braised in a dark, tangy masala with tea-stained depth
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes (plus overnight soaking)
 cook_time: 1 hour 15 minutes
@@ -157,9 +154,3 @@ Chana masala is most traditionally served with bhature (deep-fried bread) or pur
 ## Storage and Reheating
 
 Chana masala improves significantly on the second day, as the chickpeas continue to absorb the masala and the flavors meld. It keeps in the refrigerator for up to 4 days and freezes well for up to 3 months. Reheat over medium heat with a splash of water, as the gravy thickens considerably when cold. The chickpeas hold their texture well through freezing and reheating, making this one of the best legume dishes for batch cooking.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Punjabi home cooking and street food tradition, where chana masala (chole) is one of the most iconic dishes. The preparation is common across Punjab, Delhi, and Uttar Pradesh, with each region and household maintaining its own variation. The tea-staining technique and the use of amchur and anardana are hallmarks of the Punjabi version.

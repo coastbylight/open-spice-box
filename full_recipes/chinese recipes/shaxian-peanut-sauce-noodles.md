@@ -2,9 +2,6 @@
 title: Shaxian Peanut Sauce Noodles (沙县拌面)
 slug: shaxian-peanut-sauce-noodles
 subtitle: Fujian street noodles tossed in a rich peanut sauce with scallion lard and seasoned soy sauce, ready in minutes
-source_name: Chinese Cooking Demystified
-source_url: https://chinesecookingdemystified.substack.com/p/shaxian-peanut-sauce-noodles
-source_author: Chinese Cooking Demystified
 yield: 4 snack-sized servings
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -143,9 +140,3 @@ In Shaxian snack shops, these noodles are never a meal on their own. They are pa
 **Assembled noodles:** These are best eaten immediately. The noodles absorb the sauce and become sticky as they sit. If you must store leftovers, add a splash of water or stock when reheating and toss to re-coat.
 
 **Freezing:** The sauce components can be frozen for up to 2 months. Thaw in the refrigerator overnight. Do not freeze assembled noodles.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Chinese Cooking Demystified's Shaxian peanut sauce noodles (chinesecookingdemystified.substack.com), following their three-component sauce system and 3:2:1 assembly ratio. The cultural context draws from their notes on Shaxian snack culture in Fujian province.

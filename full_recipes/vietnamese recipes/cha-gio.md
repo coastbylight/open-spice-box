@@ -2,9 +2,6 @@
 title: Cha Gio (Chả Giò)
 slug: cha-gio
 subtitle: Shattering-crisp fried spring rolls filled with pork, shrimp, taro, and glass noodles
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 24 rolls (6 servings)
 prep_time: 45 minutes
 cook_time: 20 minutes
@@ -166,9 +163,3 @@ Add halved cha gio to a bowl of [bun thit nuong](/recipes/bun-thit-nuong) for th
 **Reheating:** Place on a wire rack in a 190C (375F) oven for 8 to 10 minutes until the shell recrisps and the interior heats through. Air frying at 180C for 5 minutes also works well.
 
 **Filling ahead:** The filling can be prepared 1 day in advance and refrigerated. Wrap and fry just before serving.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Southern Vietnamese approach to cha gio, using rice paper wrappers and a filling of pork, shrimp, taro, glass noodles, and wood ear mushrooms. The technique draws from Vietnamese home cooking traditions documented by Andrea Nguyen in Into the Vietnamese Kitchen and the cha gio traditions described across Saigon street food culture. The lettuce-wrap eating method and the nuoc cham formula are standard Vietnamese accompaniments.

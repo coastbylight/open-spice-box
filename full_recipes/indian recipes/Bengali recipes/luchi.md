@@ -2,7 +2,6 @@
 title: Luchi
 slug: luchi
 subtitle: Deep-fried white flour breads that puff like pillows and define Bengali celebration
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Bread
 difficulty: Medium

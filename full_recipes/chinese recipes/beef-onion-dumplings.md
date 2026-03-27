@@ -2,9 +2,6 @@
 title: Niu Rou Yang Cong Jiaozi (Beef and Onion Dumplings)
 slug: beef-onion-dumplings
 subtitle: Northern Chinese dumplings filled with seasoned beef, onion, and a hint of cumin and Sichuan peppercorn
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 40 dumplings
 prep_time: 50 minutes
 cook_time: 10 minutes
@@ -152,9 +149,3 @@ Serve these dumplings as a main course with the dipping sauce and a few small si
 ## Storage and Reheating
 
 Uncooked dumplings freeze exceptionally well. Lay them in a single layer on a parchment-lined sheet pan and freeze until solid, then transfer to freezer bags. They keep for up to 2 months. Boil directly from frozen, adding 2 to 3 extra minutes of cooking time. Cooked dumplings can be refrigerated for 1 to 2 days and reheated by briefly dropping them back into boiling water or pan-frying them in a little oil until crispy on the bottom.
-
----
-
-## Source Acknowledgment
-
-Beef and onion dumplings reflect the culinary traditions of northern China, with particular influence from Hui Muslim cooking. This recipe follows the standard jiaozi-making technique common across the northern provinces, adapted with the cumin seasoning that defines the northwestern variation.

@@ -2,9 +2,6 @@
 title: Yangnyeom Chicken (Korean Fried Chicken)
 slug: yangnyeom-chicken
 subtitle: Twice-fried chicken coated in a sweet, spicy, and sticky gochujang-based sauce
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus 1 hour brining optional)
 cook_time: 30 minutes
@@ -169,9 +166,3 @@ Korean fried chicken is the centerpiece of chimaek (chicken and beer), Korea's b
 **Do not microwave:** Microwaving turns the crust irreversibly soft and chewy.
 
 **Freezing unsauced chicken:** Freeze the double-fried, unsauced chicken in a single layer on a baking sheet, then transfer to a freezer bag. Reheat from frozen in the oven at 200°C for 15 minutes. Sauce after reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the Korean fried chicken tradition that developed from the 1970s onward, with techniques informed by Maangchi (maangchi.com), Korean Bapsang (koreanbapsang.com), and the widely documented practices of Korean chimaek restaurants. The double-frying method and potato starch coating represent the standard approach used in Korean fried chicken establishments.

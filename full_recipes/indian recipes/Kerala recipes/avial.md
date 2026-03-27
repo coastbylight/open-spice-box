@@ -2,9 +2,6 @@
 title: Avial
 slug: avial
 subtitle: Kerala mixed vegetable dish with freshly ground coconut and tangy yogurt
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 25 minutes
 cook_time: 30 minutes
@@ -137,9 +134,3 @@ Avial is essential to the Kerala Onam Sadya (the full feast served on a banana l
 ## Storage and Reheating
 
 Avial keeps in the refrigerator for up to 2 days, though the vegetables continue to soften slightly and the flavors mellow. The yogurt-coconut coating is delicate; do not reheat vigorously. Warm gently in a pan over the lowest heat, stirring minimally, adding a tablespoon of water if the mixture seems dry. Do not bring to a boil. A drizzle of fresh coconut oil added at serving restores some of the fresh fragrance.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the traditional Kerala Sadya preparation of avial, as served at the Onam harvest feast across Kerala households. The dish is associated with the Nair and Iyer culinary traditions of central and southern Kerala, though it is prepared across all communities in the state.

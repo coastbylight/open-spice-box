@@ -2,9 +2,6 @@
 title: Gochujang Chicken (Spicy Korean Glazed Chicken)
 slug: gochujang-chicken
 subtitle: Chicken thighs roasted under a sticky, caramelized gochujang glaze until charred at the edges and impossibly tender within
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes (plus 30 minutes marinating)
 cook_time: 35 minutes
@@ -158,9 +155,3 @@ Serve gochujang chicken over steamed white rice with the pan drippings spooned o
 **Meal prep:** The raw marinated chicken can be stored in the refrigerator for up to 24 hours before cooking. This makes it an excellent prepare-ahead weeknight option.
 
 **Freezing:** Marinate the raw chicken and freeze in a sealed bag for up to 2 months. Thaw overnight in the refrigerator and roast as directed.
-
----
-
-## Source Acknowledgment
-
-This recipe is informed by the growing tradition of gochujang-glazed chicken preparations that have become popular in both Korean home cooking and international kitchens. References include the gochujang chicken approaches shared by Maangchi (maangchi.com), Korean Bapsang (koreanbapsang.com), and various Korean-American cooking publications that have helped popularize gochujang as a versatile roasting glaze.

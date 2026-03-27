@@ -2,9 +2,6 @@
 title: Bao Zai Fan (Claypot Rice)
 slug: claypot-rice
 subtitle: Cantonese rice cooked in a clay pot with chicken, sausage, and a crackling golden crust
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/claypot-rice/
-source_author: The Woks of Life
 yield: 2 to 4 servings
 prep_time: 2 hours (includes soaking)
 cook_time: 30 minutes
@@ -162,9 +159,3 @@ Leftover claypot rice keeps in the refrigerator for up to 2 days. The crispy cru
 The seasoned soy sauce stores separately in an airtight container in the refrigerator for up to 1 month, or in the freezer for 3 months. It is useful far beyond this recipe.
 
 Do not freeze the cooked rice with toppings, as the texture degrades significantly.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique reference from Omnivore's Cookbook (omnivorescookbook.com). Ingredient proportions and method refined for clarity and home-kitchen application.

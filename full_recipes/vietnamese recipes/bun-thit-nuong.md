@@ -2,9 +2,6 @@
 title: Bun Thit Nuong (Bún Thịt Nướng)
 slug: bun-thit-nuong
 subtitle: Cool rice vermicelli topped with chargrilled lemongrass pork, fresh herbs, pickled vegetables, and nuoc cham
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus 2 hours marinating)
 cook_time: 15 minutes
@@ -159,9 +156,3 @@ Pair with [goi cuon](/recipes/goi-cuon) (fresh spring rolls) as a starter for a 
 **Nuoc cham:** Keeps in the refrigerator for up to 1 week. Add fresh lime juice before serving if the flavor has dulled.
 
 **Assembly:** Always assemble just before serving. The fresh herbs and vegetables lose their crunch quickly once dressed.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Southern Vietnamese approach to bun thit nuong, combining chargrilled lemongrass pork with cool rice vermicelli, fresh herbs, and nuoc cham. The technique draws from Vietnamese home cooking traditions documented by Andrea Nguyen in Vietnamese Food Any Day and the grilled meat noodle bowl traditions described across multiple Vietnamese cooking sources.

@@ -2,9 +2,6 @@
 title: Kare Raisu (Japanese Chicken Curry Rice)
 slug: kare-raisu
 subtitle: A gentle, thick chicken curry with potatoes, carrots, and grated apple in a toasted-spice roux, served over short-grain rice
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/simple-chicken-curry/
-source_author: Namiko Hirasawa Chen
 yield: 8 servings
 prep_time: 20 minutes
 cook_time: 50 minutes
@@ -170,9 +167,3 @@ For a broader Japanese table, serve alongside a bowl of miso soup and a plate of
 **Reheating:** Add 60 to 120 ml of water to the chilled curry before reheating on the stovetop over low heat. Stir frequently to prevent the thick sauce from catching on the bottom. Heat gently until it returns to a smooth, pourable consistency. Continue simmering uncovered if you need to reduce it again.
 
 **Freezing:** The curry freezes well for up to 1 month. Remove potatoes before freezing if you mind the texture change (they become slightly grainy). Thaw in the refrigerator overnight before reheating on the stovetop. The roux can also be frozen separately for up to 4 months, making future batches faster.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Namiko Hirasawa Chen's Japanese Chicken Curry at Just One Cookbook (justonecookbook.com), whose method, proportions, and detailed tips for building flavor through secret ingredients form the backbone of the recipe. The homemade curry roux technique draws on Chen's separate roux tutorial at the same site. Historical context and the emphasis on the British-Indian-Japanese transmission of curry are informed by Makiko Itoh's writing at Just Hungry (justhungry.com), whose long-running coverage of Japanese home cooking has documented the cultural significance of kare raisu across generations.

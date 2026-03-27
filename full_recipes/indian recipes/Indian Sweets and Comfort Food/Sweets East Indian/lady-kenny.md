@@ -2,7 +2,6 @@
 title: Lady Kenny
 slug: lady-kenny
 subtitle: Kolkata's Colonial-Era Chenna and Semolina Balls in Sugar Syrup
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Intermediate

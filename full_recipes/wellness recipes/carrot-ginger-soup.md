@@ -2,9 +2,6 @@
 title: Carrot Ginger Soup
 slug: carrot-ginger-soup
 subtitle: A silky, golden soup of slow-simmered carrots with ginger, turmeric, and coconut milk, finished with a squeeze of lime
-source_name: The Endless Meal
-source_url: https://www.theendlessmeal.com/carrot-soup/
-source_author: Kristen Stevens
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 20 minutes
@@ -136,9 +133,3 @@ This soup wants bread. A thick slice of crusty sourdough, warmed and spread with
 **Reheating:** Warm gently over medium-low heat, stirring occasionally. Add a splash of stock or water if the soup has thickened. Do not boil vigorously, as this can cause the coconut milk to separate.
 
 **Freezing:** Freezes well for up to 3 months. Freeze in individual portions for easy weeknight meals. Thaw overnight in the refrigerator and reheat gently. The texture may need a quick blend after thawing to re-emulsify.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Kristen Stevens' carrot soup at The Endless Meal (theendlessmeal.com). The core technique and proportions follow her original, with expanded headnote, ingredient context, and variation notes added for the Open Spice Box format.

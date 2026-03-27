@@ -2,9 +2,6 @@
 title: Rasmalai
 slug: rasmalai
 subtitle: Soft chhena discs floating in saffron-scented, cardamom-spiced thickened milk
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: 10–12 pieces (serves 4)
 prep_time: 40 minutes
 cook_time: 1 hour
@@ -140,9 +137,3 @@ Store rasmalai in an airtight container submerged in the rabri in the refrigerat
 Do not freeze. Both the chhena and the rabri lose their texture and become watery on thawing.
 
 Rasmalai is served cold and does not require reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Bengali approach to rasmalai (fresh chhena cooked in sugar syrup and transferred to slow-reduced, spiced milk) as practised in the sweet-making tradition of West Bengal and eastern India. The sweet is a staple of mishti dokan (sweet shops) across Bengal and is deeply embedded in the region's festive and celebratory food culture.

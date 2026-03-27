@@ -2,9 +2,6 @@
 title: My Favorite Japanese Beef Tongue Recipe
 slug: japanese-beef-tongue
 subtitle: Thin-sliced beef tongue hard-seared until deeply browned, finished with a sweet-savory sauce of oyster sauce, soy, lemon, ginger, and sesame oil over sauteed vegetables
-source_name: Family Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -147,9 +144,3 @@ Serve over steamed short-grain rice with a side of pickled vegetables, a bowl of
 **Reheating:** Warm in a hot skillet for 1 to 2 minutes, adding a splash of water to loosen the sauce. Avoid overcooking, as the tongue will toughen. Microwave works in a pinch but the seared crust softens.
 
 **Freezing:** Cooked tongue slices in sauce freeze well for up to 2 months. Thaw overnight and reheat in a skillet.
-
----
-
-## Source Acknowledgment
-
-This is a family recipe combining Japanese gyutan technique with a sauce influenced by both Japanese and Chinese flavors. The searing method and the emphasis on deep browning reflect traditional yakiniku and teppanyaki approaches to beef tongue. The oyster sauce and sesame oil base draws from Chinese stir-fry conventions.

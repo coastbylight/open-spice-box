@@ -2,9 +2,6 @@
 title: Gaeng Som
 slug: gaeng-som
 subtitle: Thai sour curry with shrimp, pounded fish, and a tangle of vegetables
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/gaeng-som/
-source_author: Pailin Chongchitnant
 yield: Serves 4
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -157,9 +154,3 @@ If you are building a larger spread, gaeng som sits comfortably alongside [jungl
 ## Storage and Reheating
 
 The curry broth and vegetables keep well in a sealed container in the refrigerator for up to 2 days. If possible, store the shrimp separately from the broth, as they will continue to firm up in the hot liquid. Reheat gently in a covered pot over low heat. Do not bring to a vigorous boil, as this will toughen the shrimp and dull the tamarind's brightness. Add a small squeeze of fresh lime juice after reheating to refresh the sour note, which flattens over time. The broth (without shrimp) freezes well for up to 1 month. Thaw in the refrigerator overnight and reheat with freshly cooked shrimp or fish. The tamarind flavour holds up better than lime-based sourness during freezing, which is one reason this curry stores more gracefully than [tom yum goong](/recipes/tom-yum-goong).
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's gaeng som with shrimp at [Hot Thai Kitchen](https://hot-thai-kitchen.com/gaeng-som/), which provides the foundation for the curry paste, the fish-thickened broth technique, and the vegetable and shrimp cooking method. The southern Thai variation notes, turmeric addition, lime-only sourness approach, and the practice of not stirring the pot while fish cooks draw from Mark Wiens' southern Thai gaeng som at [Eating Thai Food](https://www.eatingthaifood.com/thai-gaeng-som-recipe/) and Leela Punyaratabandhu's treatment of the dish at [SheSimmers](https://shesimmers.com/2011/06/thai-sour-curry-kaeng-som.html) and in her book *Simple Thai Food*. Punyaratabandhu's emphasis on the distinction between central and southern Thai versions informed the cultural context in the headnote. The [Serious Eats version](https://www.seriouseats.com/thai-sour-orange-curry-with-fish-gaeng-som-recipe), also by Punyaratabandhu, contributed to the understanding of tamarind as the primary souring agent in central Thai preparations.

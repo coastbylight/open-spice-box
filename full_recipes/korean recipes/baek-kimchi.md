@@ -2,9 +2,6 @@
 title: Baek Kimchi (White Kimchi)
 slug: baek-kimchi
 subtitle: A non-spicy fermented napa cabbage kimchi filled with jujubes, chestnuts, pine nuts, and fresh vegetables
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/baekkimchi
-source_author: Maangchi
 yield: About 1 quart
 prep_time: 45 minutes (plus 2 hours salting)
 cook_time: 0 minutes
@@ -149,9 +146,3 @@ Baek kimchi is best served cold as a banchan alongside grilled meats like [bulgo
 **Freezer:** Not recommended. Freezing disrupts the texture of the cabbage and kills the beneficial bacteria.
 
 **Serving:** Always serve cold, directly from the refrigerator. Cut into portions as needed rather than cutting the entire batch at once, which exposes more surface area and speeds up fermentation.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose baek-kimchi recipe emphasizes the cheesecloth straining technique for the brine and the vegetarian approach using salt instead of fish sauce. The inclusion of chestnuts, jujubes, pine nuts, and silgochu reflects her detailed ingredient list. Supplementary context on fermentation timing and serving was informed by Korean Bapsang (koreanbapsang.com) and My Korean Kitchen (mykoreankitchen.com).

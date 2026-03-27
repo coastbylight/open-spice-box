@@ -2,7 +2,6 @@
 title: Fennel, Cumin & Coriander Digestive Tea
 slug: fennel-cumin-coriander-digestive-tea
 subtitle: The three-seed Ayurvedic digestive formula
-source_name: Traditional Ayurvedic Preparation (CCF Tea)
 yield: 2 servings
 prep_time: 2 minutes
 cook_time: 8 minutes

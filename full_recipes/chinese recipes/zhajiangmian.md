@@ -2,9 +2,6 @@
 title: Zhajiangmian (Fried Sauce Noodles)
 slug: zhajiangmian
 subtitle: Beijing's iconic noodle dish with a rich pork and fermented bean paste sauce over hand-pulled noodles
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 20 minutes
@@ -145,9 +142,3 @@ Zhajiangmian is a complete meal in a bowl, needing nothing else. If you want to 
 ## Storage and Reheating
 
 The sauce stores well in an airtight container in the refrigerator for up to 5 days and freezes for up to 2 months. Reheat in a small pot over medium heat, adding a splash of water to restore the consistency. Cook fresh noodles to order, as they do not store well once dressed. Prepare the toppings fresh for the best texture and color. The sauce actually improves after a day in the refrigerator, making this an excellent make-ahead weeknight dinner component.
-
----
-
-## Source Acknowledgment
-
-Zhajiangmian is one of Beijing's most iconic dishes, with versions found across northern China and adapted in Korea (jajangmyeon). This recipe follows the standard Beijing home-cooking approach, emphasizing the importance of properly frying the tianmianjiang, a step that many shortcut recipes omit.

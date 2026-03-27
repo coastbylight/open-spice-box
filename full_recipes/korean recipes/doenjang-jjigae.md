@@ -2,9 +2,6 @@
 title: Doenjang Jjigae (Fermented Soybean Paste Stew)
 slug: doenjang-jjigae
 subtitle: A bubbling, earthy stew built on fermented soybean paste with tofu, zucchini, and chili
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/doenjang-jjigae
-source_author: Maangchi
 yield: 2 servings
 prep_time: 15 minutes
 cook_time: 20 minutes
@@ -146,9 +143,3 @@ Doenjang jjigae keeps well in the refrigerator for up to 3 days. The tofu will a
 Reheat on the stovetop over medium heat until bubbling. Add a splash of water if the stew has thickened. The flavor often deepens overnight as the doenjang continues to develop.
 
 This stew does not freeze particularly well because the tofu texture changes after freezing and thawing, becoming spongy. If you want to freeze a batch, omit the tofu and add it fresh when reheating.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary technique and ingredient proportions from Korean Bapsang (koreanbapsang.com). Method streamlined for home-kitchen application.

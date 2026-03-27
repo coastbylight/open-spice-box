@@ -2,9 +2,6 @@
 title: Thai Coconut Curry Mussels
 slug: thai-coconut-curry-mussels
 subtitle: Mussels steamed open in a rich coconut broth built on a pounded paste of cilantro, garlic, coriander, and green curry, finished with lime and fresh chili
-source_name: Serious Eats
-source_url: https://www.seriouseats.com/steamed-mussels-thai-coconut-chili-curry-broth-recipe
-source_author: J. Kenji Lopez-Alt
 yield: 3 to 4 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -146,9 +143,3 @@ This is a one-pot meal that needs only one companion: something to soak up the b
 **Reheating:** Warm gently over medium-low heat just until heated through. Do not boil, as this will make the mussels rubbery. Alternatively, remove the mussels from their shells, warm the broth separately, and pour it over the shelled mussels.
 
 **Freezing:** The broth can be frozen without the mussels for up to 2 months. Use it as a base for future seafood soups. Cooked mussels do not freeze well.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from J. Kenji Lopez-Alt's steamed mussels with Thai-style coconut curry broth at Serious Eats (seriouseats.com). The pounded aromatic paste, coconut cream scooping technique, and broth construction follow his method. Lemongrass was added and quantities adjusted for a slightly more aromatic, herbaceous broth.

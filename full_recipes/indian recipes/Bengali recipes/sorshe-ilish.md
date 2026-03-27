@@ -2,7 +2,6 @@
 title: Sorshe Ilish
 slug: sorshe-ilish
 subtitle: Hilsa steamed in sharp mustard — Bengal's most beloved dish
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Main
 difficulty: Medium

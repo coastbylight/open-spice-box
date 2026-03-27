@@ -2,7 +2,6 @@
 title: Gajar Ka Halwa
 slug: gajar-ka-halwa
 subtitle: Slow-Cooked Carrot Halwa with Ghee, Cardamom, and Nuts
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 70 minutes
@@ -135,9 +134,3 @@ Garnish generously: a scatter of toasted slivered almonds, a few extra cashew ha
 **To reheat:** Warm in a small pan over low heat with a tablespoon of milk or a small knob of ghee, stirring to loosen. Alternatively, warm in a microwave in 30-second bursts, stirring between each. Serve immediately once warm. It firms up again quickly.
 
 **Freezing:** Gajar ka halwa freezes well for up to 2 months. Thaw overnight in the refrigerator and reheat as above.
-
----
-
-## Source Acknowledgment
-
-Gajar ka halwa is a deeply rooted North Indian sweet, with particular associations with the Punjab, Delhi, and Uttar Pradesh regions. This recipe reflects the traditional stovetop method passed down through North Indian home kitchens, where the discipline of cooking each stage fully before moving to the next is understood as the foundation of good halwa-making.

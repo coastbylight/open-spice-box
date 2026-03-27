@@ -2,7 +2,6 @@
 title: Muttamala
 slug: muttamala
 subtitle: Kerala's Portuguese-Influenced Egg Yolk Garland Sweet
-source_name: Traditional Indian Recipe
 cuisine: Kerala (Syrian Christian)
 course: Dessert
 difficulty: Intermediate

@@ -2,7 +2,6 @@
 title: Caldo Verde
 slug: caldo-verde
 subtitle: Goa's gentle potato and spinach soup — a Portuguese import softened with milk and local green
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Soup
 difficulty: Easy

@@ -2,7 +2,6 @@
 title: Kerala Beef Masala
 slug: kerala-beef-masala
 subtitle: Slow-braised beef in coconut oil with crushed shallots, saunf and whole spices
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main
 difficulty: Intermediate

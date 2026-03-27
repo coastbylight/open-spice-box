@@ -2,7 +2,6 @@
 title: Tandoori Gobi
 slug: tandoori-gobi
 subtitle: Cauliflower florets marinated in a spiced gram flour batter with ajwain, shallow-fried then finished in the tandoor
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Starter
 difficulty: Intermediate

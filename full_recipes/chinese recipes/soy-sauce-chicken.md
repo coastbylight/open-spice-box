@@ -2,9 +2,6 @@
 title: Soy Sauce Chicken
 slug: soy-sauce-chicken
 subtitle: Whole chicken poached in a fragrant soy, ginger, and star anise broth until silky and deeply seasoned
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/soy-sauce-chicken/
-source_author: The Woks of Life
 yield: 6 servings
 prep_time: 15 minutes
 cook_time: 1 hour 30 minutes
@@ -145,9 +142,3 @@ The braising liquid, diluted with water, also makes an excellent noodle soup bas
 **Braising liquid:** Strain through a fine sieve and discard the aromatics. Cool completely, then refrigerate for up to 4 days or freeze for up to 3 months. The fat will solidify on top when chilled and can be removed or left in for the next use.
 
 **Reheating:** Soy sauce chicken is excellent at room temperature or cold, so reheating is not always necessary. If desired, warm the chicken gently in a covered pan with a few tablespoons of braising liquid over low heat for 5 minutes, turning once. Avoid microwaving, which tends to dry out the meat and dull the glaze.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from The Woks of Life (thewoksoflife.com), whose soy sauce chicken recipe uses a whole bird poached in a concentrated soy, rose wine, and star anise broth. The lift-and-drain technique and the passive resting stage are central to their method. Supplementary details on reusing the braising liquid and serving as a noodle broth were informed by Wei Guo's soy sauce chicken recipe at Red House Spice (redhousespice.com), which uses a simplified chicken-thigh approach with the same braising liquid base. Omnivore's Cookbook (omnivorescookbook.com) provided additional context on master-stock technique and overnight marinating as an alternative to the poaching method.

@@ -2,9 +2,6 @@
 title: Karaage (Japanese Fried Chicken)
 slug: karaage
 subtitle: Ginger-soy marinated chicken thighs, coated in potato starch and fried to a shattering, amber crust
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes (plus 30 minutes marinating)
 cook_time: 15 minutes
@@ -143,9 +140,3 @@ Karaage is the definitive izakaya bar snack, ideal alongside cold beer or a whis
 ## Storage and Reheating
 
 Cooked karaage keeps in the refrigerator for up to 3 days in an airtight container. It is one of the rare fried foods that is genuinely good cold, which is why it appears so often in Japanese bento boxes. To restore the crust, reheat in a 190 degree Celsius oven for 6 to 8 minutes, or re-fry briefly at 190 degrees for 30 to 45 seconds. The microwave will heat it through but will soften the crust. Uncooked marinated chicken can be frozen in its marinade for up to 1 month; thaw in the refrigerator overnight and proceed with coating and frying.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Japanese home-cooking method for karaage as practiced across Japan, incorporating the double-fry technique widely credited with producing the crispest results. The ginger-garlic-soy-sake marinade is the most traditional flavor profile for this dish.

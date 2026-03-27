@@ -2,7 +2,6 @@
 title: Kandyache Pitley
 slug: kandyache-pitley
 subtitle: Maharashtra's thick onion and chickpea flour preparation — spiced, stirred to smoothness and eaten with rice or bhakri
-source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Main / Side
 difficulty: Easy

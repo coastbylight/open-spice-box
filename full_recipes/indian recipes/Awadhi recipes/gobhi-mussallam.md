@@ -2,7 +2,6 @@
 title: Gobi Mussallam
 slug: gobi-mussallam
 subtitle: A whole cauliflower braised in Mughal gold
-source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Medium

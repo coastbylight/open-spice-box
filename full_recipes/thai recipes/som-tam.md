@@ -2,9 +2,6 @@
 title: Som Tam Thai (Green Papaya Salad)
 slug: som-tam
 subtitle: Northeastern Thai pounded salad of shredded green papaya in a sweet-sour-spicy lime dressing
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/papaya-salad-v3/
-source_author: Pailin Chongchitnant
 yield: 2 servings
 prep_time: 25 minutes
 cook_time: 0 minutes
@@ -157,9 +154,3 @@ For a Southeast Asian combination plate, serve som tam with [goi cuon](/recipes/
 **Short hold:** If you must prepare components in advance, keep the julienned papaya in ice water (refrigerated, up to 4 hours) and make the dressing through step 6 in the mortar or a jar. Combine and pound the salad just before serving.
 
 **Leftovers:** Leftover som tam will keep in the refrigerator for up to 1 day in a sealed container. The papaya will lose its crunch and the dressing will thin as the vegetables release water. It is still flavorful but texturally quite different. There is no meaningful way to reheat this dish, as it is served cold or at room temperature.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Thai green papaya salad at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundation for the dressing ratios, the pound-and-flip technique, and the inclusion of tamarind paste alongside lime juice for layered acidity. Nagi Maehashi's green papaya salad at RecipeTinEats (recipetineats.com) informed the adapted method for home cooks using a standard-size mortar, the addition of Thai basil as garnish, and the approach of bruising long beans and tomatoes separately before combining. The Serious Eats som tam recipe by Leela Punyaratabandhu (seriouseats.com) contributed the emphasis on thoroughly drying the papaya before dressing and the importance of tasting and adjusting the dressing balance at the end.

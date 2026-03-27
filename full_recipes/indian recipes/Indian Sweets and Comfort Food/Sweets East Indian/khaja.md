@@ -2,7 +2,6 @@
 title: Khaja
 slug: khaja
 subtitle: Bihar and Odisha's Flaky Layered Pastry Sweet
-source_name: Traditional Indian Recipe
 cuisine: East Indian (Bihar / Odisha)
 course: Dessert
 difficulty: Advanced

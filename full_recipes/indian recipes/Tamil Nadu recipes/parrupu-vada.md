@@ -2,7 +2,6 @@
 title: Parrupu Vada
 slug: parrupu-vada
 subtitle: Tamil Nadu chana dal fritters — soaked dal coarsely ground with fennel seeds, onion and green chilli, fried until deeply crisp
-source_name: Traditional Indian Recipe
 cuisine: Tamil
 course: Snack / Starter
 difficulty: Easy

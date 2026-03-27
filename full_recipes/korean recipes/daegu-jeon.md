@@ -2,9 +2,6 @@
 title: Daegu-jeon (대구전)
 slug: daegu-jeon
 subtitle: Korean pan-fried cod fillets coated in flour and egg batter with scallion and chili, served with a soy-vinegar dipping sauce
-source_name: Maangchi
-source_url: https://www.maangchi.com/recipe/daegu-jeon
-source_author: Maangchi
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -133,9 +130,3 @@ Daegu-jeon is banchan, meant to be one of several small dishes on a Korean table
 **Reheating:** Reheat in a dry skillet over medium heat for 1 to 2 minutes per side to re-crisp the coating. The oven works too: 350°F (180°C) for 5 minutes on a wire rack. Avoid the microwave, which makes the coating soggy.
 
 **Freezing:** Freeze cooked jeon in a single layer on a baking sheet, then transfer to a freezer bag. Reheat from frozen in the oven at 375°F (190°C) for 8 to 10 minutes.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi's daegu-jeon (maangchi.com), following her flour-egg-pan technique and soy-vinegar dipping sauce. The three-step coating method and scallion-chili egg wash are her approach.

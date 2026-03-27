@@ -2,7 +2,6 @@
 title: Ram Ladoo
 slug: ram-ladoo
 subtitle: Delhi's moong dal fritters served over grated radish with mint chutney and tamarind
-source_name: Traditional Delhi Street Food
 cuisine: North Indian
 course: Snack
 difficulty: Medium

@@ -2,9 +2,6 @@
 title: Bo Kho (Vietnamese Beef Stew)
 slug: bo-kho
 subtitle: A fragrant, rust-colored Vietnamese beef stew braised with lemongrass, star anise, and cinnamon in a tomato-kissed broth, served with crusty bread or rice noodles
-source_name: Hungry Huy
-source_url: https://www.hungryhuy.com/bo-kho-recipe-vietnamese-beef-stew/
-source_author: Huy Vu
 yield: 6 servings
 prep_time: 30 minutes (plus 2 hours marinating)
 cook_time: 2 hours
@@ -180,9 +177,3 @@ Keep the accompaniments simple. Sliced cucumber, fresh herbs, and a sharp dippin
 **Reheating:** Warm gently on the stovetop over medium-low heat, stirring occasionally. Add a splash of water if the broth has reduced too much during storage. Avoid boiling vigorously, as this can cause the carrots to break apart and the meat to dry out. Microwave reheating works in short intervals, stirring between each.
 
 **Freezing:** Bo kho freezes well for up to 3 months. For best results, freeze the stew without the carrots (they become mushy on thawing) and cook fresh carrots when you reheat. Portion into individual containers for easy weeknight meals. Thaw overnight in the refrigerator before reheating on the stovetop.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Huy Vu's bo kho at Hungry Huy (hungryhuy.com), whose accessible approach, use of coconut soda, and emphasis on long marination and hearty accompaniments form the backbone of the method. The curry powder marinade, annatto oil option, minced shallot addition, and cassia cinnamon stick are drawn from Vicky Pham's version at vickypham.com, which reflects a Southern Vietnamese home-cooking tradition. The blanching-before-searing technique is standard practice across Vietnamese stew recipes and appears in both sources. RecipeTinEats (recipetineats.com) was consulted as a reference, though the original page was unavailable at the time of writing.

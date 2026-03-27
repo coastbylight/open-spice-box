@@ -2,9 +2,6 @@
 title: Egg Drop Soup (蛋花汤)
 slug: egg-drop-soup
 subtitle: A five-minute Chinese soup of silky egg ribbons in seasoned chicken broth, thickened with cornstarch and finished with white pepper and sesame oil
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/egg-drop-soup/
-source_author: Judy Leung
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -133,9 +130,3 @@ Egg drop soup is a between-courses soup, the kind that appears on the table alon
 **Reheating:** Warm gently in a saucepan over medium-low heat, stirring occasionally. Add a splash of broth or water to thin the soup back to its original consistency. Do not boil, as this will break up the egg ribbons.
 
 **Freezing:** Not recommended. The egg texture becomes rubbery and the starch breaks down, producing a thin, grainy result when thawed.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from three trusted sources: Judy Leung's egg drop soup at The Woks of Life (thewoksoflife.com) for the core technique and proportions, Elaine's version at China Sichuan Food (chinasichuanfood.com) for the ginger and soy sauce variation notes, and Wei Guo's classic approach at Red House Spice (redhousespice.com) for the tip of adding water to the beaten eggs for a more tender texture. The cornstarch-first method is consistent across all three sources and is the standard restaurant technique.

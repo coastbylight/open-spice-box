@@ -2,9 +2,6 @@
 title: Ch\u00e1o G\u00e0 (Vietnamese Chicken Rice Porridge)
 slug: chao-ga
 subtitle: A gentle, ginger-laced chicken porridge topped with hand-shredded meat and fried shallots, simmered low and slow until the rice dissolves into silk
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/vietnamese-chicken-porridge-chao-ga/
-source_author: Vicky Pham
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 1 hour 10 minutes
@@ -173,9 +170,3 @@ For a larger spread, pair with [canh g\u00e0 g\u1eebng](/recipes/canh-ga-gung) o
 **Freezing:** The porridge freezes well in individual portions for up to 1 month. Thaw overnight in the refrigerator and reheat on the stovetop with added water. The shredded chicken can be frozen separately for up to 2 months.
 
 **Make-ahead tip:** If you plan to eat the porridge over several days, stop cooking the rice slightly earlier than your ideal consistency, since it will continue to thicken as it sits and again when reheated.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Vicky Pham's ch\u00e1o g\u00e0 (vickypham.com), which provides the core technique of toasting rice in rendered chicken fat and glazing the shredded chicken with turmeric oil. The fish sauce seasoning approach, rice variety guidance, and the idea of using leftover roast chicken or turkey are informed by Hungry Huy's version (hungryhuy.com). The companion chicken salad pairing, the dunking technique for even cooking, and the tip about shredding rather than chopping the chicken come from Wok and Kin's ch\u00e1o g\u1ecfi g\u00e0 (wokandkin.com).

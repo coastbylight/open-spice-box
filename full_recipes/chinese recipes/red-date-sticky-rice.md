@@ -2,9 +2,6 @@
 title: Hong Zao Mi Fan (Red Date Sticky Rice)
 slug: red-date-sticky-rice
 subtitle: Sweet glutinous rice studded with red dates and steamed until tender and fragrant
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/red-date-sticky-rice/
-source_author: The Woks of Life
 yield: 6 to 8 servings
 prep_time: 20 minutes (plus 4 hours soaking)
 cook_time: 45 minutes
@@ -143,9 +140,3 @@ Leftover sticky rice can be wrapped tightly in plastic wrap and refrigerated for
 The sugar syrup can be made in advance and stored in the refrigerator for up to 2 weeks. Warm it gently before drizzling.
 
 The assembled but unsteamed rice can be prepared up to a day ahead and refrigerated, then steamed when ready to serve. Add 5 to 10 minutes to the steaming time if cooking from cold.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique references from Omnivore's Cookbook (omnivorescookbook.com) and Red House Spice (redhousespice.com). Ingredient proportions and method refined for clarity and home-kitchen application.

@@ -2,9 +2,6 @@
 title: Suan La Tang (Hot and Sour Soup)
 slug: hot-and-sour-soup
 subtitle: A glossy, tangy broth loaded with mushrooms, tofu, and silky egg ribbons
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/hot-and-sour-soup/
-source_author: The Woks of Life
 yield: 6 servings
 prep_time: 10 minutes (plus 1 hour soaking)
 cook_time: 10 minutes
@@ -156,9 +153,3 @@ The soup is best eaten immediately after seasoning, while the vinegar and pepper
 The soup base (without the final seasonings) keeps in the refrigerator for up to 3 days. The tofu will soften further with time, which is acceptable. Reheat gently on the stovetop, bring to a simmer, then turn off the heat and add the vinegar, soy sauce, white pepper, and sesame oil fresh. This will give you the brightest flavor.
 
 Do not freeze this soup. The tofu and egg ribbons do not survive freezing well, and the cornstarch thickening breaks down when frozen and thawed.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique and ingredient references from Red House Spice (redhousespice.com). Ingredient proportions and method refined for clarity and home-kitchen application.

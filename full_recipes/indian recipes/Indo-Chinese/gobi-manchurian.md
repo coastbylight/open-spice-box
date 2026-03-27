@@ -2,9 +2,6 @@
 title: Gobi Manchurian
 slug: gobi-manchurian
 subtitle: Crispy battered cauliflower tossed in a tangy, sweet, and spicy Indo-Chinese sauce of soy, chili, and vinegar
-source_name: Indian Healthy Recipes
-source_url: https://www.indianhealthyrecipes.com/gobi-manchurian-recipe/
-source_author: Swasthi
 yield: 3 servings
 prep_time: 10 minutes
 cook_time: 25 minutes
@@ -149,9 +146,3 @@ Gobi Manchurian is an appetizer first. Serve it on its own with toothpicks along
 **Reheating:** Reheat the cauliflower in an oven at 400°F (200°C) for 8 to 10 minutes to restore some crunch, then toss with warmed sauce. Microwaving makes the coating completely soft.
 
 **Freezing:** Not recommended. The batter coating does not survive freezing and thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Swasthi's gobi Manchurian at Indian Healthy Recipes (indianhealthyrecipes.com), following her batter ratio, frying technique, and sauce composition. The dry, semi-dry, and gravy variations are hers. The cultural context about Indo-Chinese cuisine's origins in Kolkata and Mumbai draws from her notes.

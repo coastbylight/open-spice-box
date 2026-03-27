@@ -2,9 +2,6 @@
 title: Ayam Percik (Malaysian Flame-Grilled Coconut Chicken)
 slug: ayam-percik
 subtitle: Spice-marinated chicken grilled under a rich coconut cream and chili sauce
-source_name: Nomadette
-source_url: https://nomadette.com/ayam-percik/
-source_author: Nomadette
 yield: 4 servings
 prep_time: 40 minutes (plus 1 hour marinating)
 cook_time: 50 minutes
@@ -176,9 +173,3 @@ A simple accompaniment of blanched water spinach or long beans dressed with a sq
 **Reheating:** For the best texture, reheat on a grill or in a hot skillet, skin-side down, for 3 to 4 minutes until the skin crisps, then flip and warm through. Alternatively, place on a rack over a sheet pan in a 190C (375F) oven for 8 to 10 minutes. Spoon a little fresh percik sauce over the chicken before serving. Microwaving warms the meat but softens the caramelized surface.
 
 **Percik sauce:** The sauce can be made up to 3 days ahead and refrigerated. It also makes a versatile base for other grilled proteins. Try it brushed over grilled prawns, lamb chops, or firm tofu.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Nomadette's oven-roasted ayam percik (nomadette.com), which uses a two-paste approach with separate marinade and percik sauce, an oven-roast-then-broil technique, and candlenut-thickened coconut cream sauce. The original Rasa Malaysia recipe (rasamalaysia.com) and The MeatMen version (themeatmen.sg) were consulted for cross-reference on traditional spice ratios and grilling methods, though both pages were unavailable at the time of writing. The grilling technique and basting approach described here draw from the traditional Kelantanese open-fire method, where chickens are propped on sticks beside charcoal and splashed repeatedly with sauce as they cook.

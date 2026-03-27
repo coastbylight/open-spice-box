@@ -2,9 +2,6 @@
 title: Tabak Maas
 slug: tabak-maas
 subtitle: Kashmiri lamb ribs slow-cooked in spiced milk, then fried until crisp and golden
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 1 hour 30 minutes
@@ -132,9 +129,3 @@ Tabak Maas is traditionally served as a starter at the Wazwan, placed on the tam
 ## Storage and Reheating
 
 Store leftover Tabak Maas in a sealed container in the refrigerator for up to 3 days. The ribs lose their crispness once refrigerated. To reheat and restore some texture, place the ribs in a dry heavy pan over medium-high heat, turning occasionally, until heated through and the exterior has crisped again, about 8–10 minutes. Do not microwave if texture is important; the steam softens the crust. Tabak Maas freezes adequately for up to 6 weeks; defrost overnight and reheat in a pan as above.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Wazwan tradition of the Kashmir Valley, the ceremonial multi-course feast prepared by Waza — the hereditary master cooks of Kashmiri cuisine. The method represents the traditional technique as practised in domestic Kashmiri cooking.

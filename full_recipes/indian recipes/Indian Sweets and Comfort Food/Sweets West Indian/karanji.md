@@ -2,7 +2,6 @@
 title: Karanji
 slug: karanji
 subtitle: Maharashtrian Deep-Fried Crescent Pastry with Sweetened Khoya
-source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Dessert
 difficulty: Intermediate

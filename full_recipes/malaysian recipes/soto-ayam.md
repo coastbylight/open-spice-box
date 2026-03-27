@@ -2,9 +2,6 @@
 title: Soto Ayam
 slug: soto-ayam
 subtitle: Turmeric-golden chicken soup with coconut milk, lemongrass, and rice noodles
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/soto-ayam/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 35 minutes
@@ -163,9 +160,3 @@ Soto ayam is a complete meal on its own, but it also works as the centerpiece of
 **Toppings:** Hard-boiled eggs keep in the refrigerator for 3 to 4 days. Fried shallot crisps should be stored in an airtight container at room temperature; they will stay crispy for about a week. Slice spring onions and cut limes fresh for each serving.
 
 **Freezing:** The broth (with the chicken in it) freezes well for up to 1 month. Thaw overnight in the refrigerator and reheat gently on the stovetop, adding a splash of water if the broth has thickened. Do not freeze the noodles, bean sprouts, or toppings.
-
----
-
-## Source Acknowledgment
-
-This recipe is built primarily on Bee Yinn Low's soto ayam at Rasa Malaysia (rasamalaysia.com), which provides the core spice paste proportions, the coconut milk broth technique, and the assembly approach. The addition of toasted whole coriander and cumin seeds before grinding, rather than using pre-ground spices, draws on methods described across multiple Indonesian soto ayam recipes on Cookpad and in Nagi Lawson's work at RecipeTinEats (recipetineats.com), where dry-toasting whole spices is standard practice. The emphasis on blanching noodles and sprouts separately from the broth, and the suggestion of bone-in thighs for a richer version, reflects common practice across Indonesian home cooking sources. All three traditions agree: the quality of the spice paste determines the quality of the bowl.

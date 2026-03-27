@@ -2,7 +2,6 @@
 title: Ghevar
 slug: ghevar
 subtitle: Rajasthani Lacy Disc Sweet with Rabdi and Nuts
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Dessert
 difficulty: Advanced

@@ -2,9 +2,6 @@
 title: Lo Bak Go (Turnip Cake)
 slug: lo-bak-go
 subtitle: Pan-fried slices of steamed radish cake studded with Chinese sausage, dried shrimp, and shiitake mushrooms
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/turnip-cake-lo-bak-go/
-source_author: The Woks of Life
 yield: 6 to 8 servings (one 9x5-inch loaf or 8-inch round cake)
 prep_time: 30 minutes (plus soaking time)
 cook_time: 1 hour 30 minutes
@@ -157,9 +154,3 @@ A simple dipping sauce of oyster sauce thinned with a few drops of warm water is
 **Freezing:** Slice the chilled cake into portions, wrap individually in plastic wrap, and freeze in airtight bags for up to 2 months. Pan-fry directly from frozen, using medium-low heat and allowing an extra minute or two per side to ensure the center heats through.
 
 **Reheating pan-fried slices:** Already pan-fried slices lose their crispness in storage. Re-fry briefly in a hot skillet to restore the crust, or accept a softer texture when microwaved.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from The Woks of Life (thewoksoflife.com), whose clear guidance on the rice flour-to-liquid ratio and the batter consistency provides the structural foundation for this version. The technique of browning Chinese sausage to render its fat before adding other filling ingredients is drawn from Omnivore's Cookbook (omnivorescookbook.com), which also informed the approach to straining daikon liquid for batter adjustment.

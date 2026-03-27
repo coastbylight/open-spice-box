@@ -2,9 +2,6 @@
 title: Nikujaga (Japanese Meat and Potato Stew)
 slug: nikujaga
 subtitle: Thinly sliced beef and waxy potatoes simmered in a savory-sweet dashi broth until tender and deeply seasoned
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/nikujaga/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 15 minutes (plus 30 to 60 minutes resting)
@@ -148,9 +145,3 @@ The stew also fits into a broader Japanese table. Serve it as one of several sma
 **Freezer:** Freeze for up to 1 month. However, the potatoes may become grainy or mealy after thawing. If you plan to freeze nikujaga, consider removing the potatoes before freezing and adding freshly cooked potatoes when reheating.
 
 **Reheating:** Warm over low to medium-low heat on the stove. Stir gently to avoid breaking the potatoes. Avoid high heat, which can cause the sugars in the broth to scorch on the bottom of the pot.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose nikujaga recipe provides a clear foundation with precise ingredient ratios and detailed technique guidance, including the mentori and rangiri cutting methods. Supplementary details on ingredient variations and cooking order were informed by Shihoko Ura's nikujaga recipe at Chopstick Chronicles (chopstickchronicles.com), which adds konnyaku noodles and emphasizes cooking the vegetables before the beef to build a layered flavor. The Just Hungry recipe by Makiko Itoh (justhungry.com) contributed historical context on nikujaga as a foundational dish in Japanese home cooking, though the original page is no longer available.

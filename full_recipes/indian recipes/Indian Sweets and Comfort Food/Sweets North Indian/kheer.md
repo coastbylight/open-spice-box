@@ -2,7 +2,6 @@
 title: Kheer
 slug: kheer
 subtitle: Slow-Simmered Rice Pudding with Saffron and Rose
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 25 minutes (includes soaking)
 cook_time: 60 minutes
@@ -139,9 +138,3 @@ For a more formal presentation, serve chilled in small clay matkas (terracotta c
 **To reheat:** Warm gently in a small saucepan over low heat, stirring frequently. Add a splash of warm milk to loosen to your preferred consistency. Do not boil; this can cause the mixture to separate.
 
 **Freezing:** Not recommended. Dairy-based puddings tend to become grainy and separated upon thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the long tradition of North Indian milk-based sweets documented in classical Indian culinary and Ayurvedic texts, and preserved across generations of home kitchens, halwai shops, and temple prasad traditions. The method reflects the slow-stovetop approach found in traditional North Indian household cooking, where time and patience are considered as much a part of the recipe as the ingredients themselves.

@@ -2,9 +2,6 @@
 title: Bulgogi (Korean BBQ Beef)
 slug: bulgogi
 subtitle: Thinly sliced beef marinated in a sweet soy and pear sauce, grilled or pan-fried until caramelized
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/bulgogi
-source_author: Maangchi
 yield: 4 servings
 prep_time: 20 minutes (plus 1 hour marinating)
 cook_time: 10 minutes
@@ -138,9 +135,3 @@ Leftover bulgogi is excellent in [bibimbap](/recipes/bibimbap), kimbap rolls, fr
 **Uncooked marinated beef:** Keeps in the refrigerator for up to 4 days in an airtight container. Can be frozen for up to 1 month. Thaw overnight in the refrigerator before cooking.
 
 **Cooked bulgogi:** Refrigerate in a sealed container for up to 3 days. Reheat in a hot skillet over high heat for 1 to 2 minutes to re-crisp the edges. Microwaving works for convenience but will not restore the caramelization.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose bulgogi recipe emphasizes Korean pear in the marinade and charcoal grilling as the preferred cooking method. Supplementary details on marinade ratios and Seoul-style serving were informed by Hyosun Ro's bulgogi recipe at Korean Bapsang (koreanbapsang.com), which provides precise measurements for a larger yield. Sue Pressey's recipe at My Korean Kitchen (mykoreankitchen.com) contributed additional guidance on pan-frying technique, including cooking in small batches for a smoky result and adding sesame oil separately from the marinade.

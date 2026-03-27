@@ -2,9 +2,6 @@
 title: Lu Dan (Soy Braised Eggs)
 slug: soy-braised-eggs
 subtitle: Hard-boiled eggs steeped in a fragrant soy, star anise, and rock sugar braising liquid
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 6 eggs
 prep_time: 10 minutes
 cook_time: 30 minutes
@@ -137,9 +134,3 @@ Serve lu dan as a side dish alongside congee for breakfast, tucked into a bowl o
 ## Storage and Reheating
 
 Store the eggs in their braising liquid in an airtight container in the refrigerator for up to 5 days. The flavor will continue to deepen over the first 2 days, then stabilize. Serve cold, at room temperature, or gently warmed in the braising liquid over low heat. The braising liquid itself can be strained, brought to a boil, and refrigerated for up to 2 weeks or frozen for up to 3 months for reuse. Not recommended to freeze the eggs themselves, as the texture of the whites becomes rubbery.
-
----
-
-## Source Acknowledgment
-
-Lu dan is one of China's most ancient and universal preparations, found in street stalls and home kitchens from Guangdong to Beijing. This recipe follows the standard home-cooking approach, with proportions informed by the lu wei traditions of southern China.

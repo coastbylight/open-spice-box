@@ -2,9 +2,6 @@
 title: Chao Bai Cai (Stir-Fried Napa Cabbage)
 slug: stir-fried-napa-cabbage
 subtitle: A simple, clean stir-fry of napa cabbage with garlic, yielding silky stems and tender leaves
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 8 minutes
@@ -135,9 +132,3 @@ This works as a side dish alongside virtually any Chinese meal. It pairs especia
 ## Storage and Reheating
 
 Stir-fried napa cabbage is best eaten fresh, as it continues to release water as it sits. Leftovers can be refrigerated in an airtight container for up to 2 days. Reheat in a hot wok or skillet, tossing quickly, and add a fresh splash of vinegar to brighten the flavor. The stems will soften further but remain pleasant. Not recommended for freezing.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects a pan-regional approach to one of China's most universal vegetable preparations. The technique of separating stems and leaves is a home kitchen practice passed through generations of Chinese cooks and is not attributed to any single source.

@@ -2,9 +2,6 @@
 title: Bibim Naengmyeon (Spicy Mixed Cold Noodles)
 slug: bibim-naengmyeon
 subtitle: Chewy buckwheat noodles tossed in a fiery, sweet-sour gochujang sauce and topped with a hard-boiled egg
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 10 minutes
@@ -163,9 +160,3 @@ Bibim naengmyeon is often served after [bulgogi](/recipes/bulgogi) or [galbi](/r
 **Assembled dish:** Cannot be stored. Eat immediately after mixing.
 
 **Freezing:** The sauce freezes well for up to 1 month. Thaw in the refrigerator before using.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the Hamheung-style bibim naengmyeon tradition, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The use of grated Korean pear in the sauce is a common home cooking technique that provides both flavor and practical benefits. The distinction between Pyongyang-style mul naengmyeon and Hamheung-style bibim naengmyeon is a well-documented aspect of Korean regional cuisine.

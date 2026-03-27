@@ -2,9 +2,6 @@
 title: Yangzhou Chao Fan (Yangzhou Fried Rice)
 slug: yangzhou-fried-rice
 subtitle: China's most celebrated fried rice with shrimp, char siu, egg, and a colorful array of vegetables
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -146,9 +143,3 @@ Yangzhou fried rice can stand alone as a complete meal, especially for lunch. At
 ## Storage and Reheating
 
 Store leftovers in an airtight container in the refrigerator for up to 2 days. Reheat in a hot wok, tossing frequently, until piping hot. The rice may need a splash of water and a drizzle of oil to restore its texture. Microwave reheating is acceptable but will not produce the same quality. Freezes well for up to 1 month. Cool rice quickly after cooking and reheat thoroughly to minimize food safety risks.
-
----
-
-## Source Acknowledgment
-
-Yangzhou fried rice has been recognized by the Yangzhou Culinary Association, which published a standardized recipe in 2015 specifying required ingredients. This recipe follows the traditional approach while adapting proportions for home cooking.

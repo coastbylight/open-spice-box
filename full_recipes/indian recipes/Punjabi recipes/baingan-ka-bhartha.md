@@ -2,7 +2,6 @@
 title: Baingan Ka Bhartha
 slug: baingan-ka-bhartha
 subtitle: Tandoor-roasted aubergine mashed with spiced tomato and onion
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy

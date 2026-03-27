@@ -2,7 +2,6 @@
 title: Laal Maans
 slug: laal-maans
 subtitle: Rajasthani red lamb curry with Mathania chillies and ghee
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Main
 difficulty: Hard

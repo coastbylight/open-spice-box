@@ -2,9 +2,6 @@
 title: Chicken Achar
 slug: chicken-achar
 subtitle: Pickle-spiced chicken braised in smoked mustard oil with fenugreek seeds and vinegar, the Punjabi dish that turns condiment logic into a main course
-source_name: Family Recipe
-source_url:
-source_author:
 yield: 4 to 6 servings
 prep_time: 15 minutes
 cook_time: 30 minutes
@@ -134,9 +131,3 @@ Chicken achar wants bread. Hot naan, paratha, or roti torn into pieces and used 
 **Reheating:** Warm gently in a covered pan over medium-low heat. Add a splash of water if the sauce has thickened too much. The mustard oil may solidify when cold, which is normal. It will liquefy as it warms.
 
 **Freezing:** Freezes well for up to 2 months. The bone-in version freezes better than boneless. Thaw overnight in the refrigerator and reheat gently.
-
----
-
-## Source Acknowledgment
-
-This is a family recipe from a Punjabi kitchen, adapted with notes from broader achari cooking traditions. The mustard oil smoking technique, the fenugreek quantity, and the off-heat vinegar addition reflect the original family method. The spice blend and serving context draw from traditional Punjabi and Pakistani achari cooking.

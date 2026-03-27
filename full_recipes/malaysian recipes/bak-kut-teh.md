@@ -2,9 +2,6 @@
 title: Bak Kut Teh (Pork Bone Tea)
 slug: bak-kut-teh
 subtitle: Herbal pork rib soup simmered with Chinese medicinal herbs, garlic, and white pepper
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/bak-kut-teh/
-source_author: Bee Yinn Low
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 2 hours 30 minutes
@@ -171,9 +168,3 @@ Blanched greens, particularly yu choy sum or lettuce, provide a clean, green cou
 **Reheating:** Bring the broth and pork back to a gentle simmer on the stove. Add fresh tofu puffs and vegetables at this point. Do not microwave the entire pot, as the pork can toughen. If the broth has thickened from the gelatin setting in the refrigerator, that is a good sign. It will liquefy again as it warms.
 
 **Refreshing the broth:** If you plan to eat the bak kut teh over two or three days, you can add fresh water and a splash of soy sauce to the pot each time you reheat. Some Klang restaurants keep their pots going continuously, topping up the broth and adding fresh meat as needed. The flavor deepens with each cycle.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Bee Yinn Low's approach at Rasa Malaysia (rasamalaysia.com), which establishes the Hokkien-style framework of dark soy sauce, herbal complexity, and garlic-forward flavor. The detailed herb identification and individual measurements were informed by KP Kwan's bak kut teh recipe at Taste Asian Food (tasteasianfood.com), whose breakdown of each Chinese medicinal herb and its function provided essential guidance on proportions and preparation. Grace's ultimate guide at Nyonya Cooking (nyonyacooking.com) contributed the toasted garlic technique, the emphasis on four-hour simmering for optimal flavor extraction, and the practical advice on resting the broth overnight. Linda Ooi's recipe at Roti n Rice (rotinrice.com) informed the herb bundle composition and the inclusion of goji berries and mushrooms. All four sources reflect the same core tradition: a patient, herb-laden pork broth that rewards time and attention.

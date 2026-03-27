@@ -2,9 +2,6 @@
 title: Paneer Bhurji
 slug: paneer-bhurji
 subtitle: Crumbled paneer scrambled with onions, tomatoes, and green chillies
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -134,9 +131,3 @@ Paneer bhurji is most commonly served with paratha, roti, or naan. It is a natur
 ## Storage and Reheating
 
 Paneer bhurji is best eaten fresh. It can be refrigerated for up to 1 day, but the paneer will firm up and the vegetables will release liquid. Reheat in a pan over medium heat, adding a small knob of butter or a splash of water to restore moisture. Do not microwave, as this tends to make paneer rubbery. Freezing is not recommended.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Punjabi home cooking tradition, where paneer bhurji is among the quickest and most commonly prepared paneer dishes. It is found across dhabas (roadside eateries), home kitchens, and street food stalls throughout North India, with each cook adding their own variation to the basic template of crumbled paneer scrambled with a quick masala.

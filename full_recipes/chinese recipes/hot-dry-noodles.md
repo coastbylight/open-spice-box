@@ -2,9 +2,6 @@
 title: Re Gan Mian (Hot Dry Noodles)
 slug: hot-dry-noodles
 subtitle: Wuhan's signature noodles tossed in sesame paste, soy sauce, pickled beans, and chili oil
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -141,9 +138,3 @@ Re gan mian is a complete one-bowl meal, traditionally eaten for breakfast in Wu
 ## Storage and Reheating
 
 The par-cooked, oiled noodles can be prepared up to 1 day in advance and stored in the refrigerator, covered. The sauce can be prepared in advance and stored in a sealed jar in the refrigerator for up to 1 week. Assemble fresh each time: reheat the noodles with a quick dip in boiling water, sauce the bowls, and add toppings. Fully assembled re gan mian does not store well, as the noodles absorb the sauce and become sticky.
-
----
-
-## Source Acknowledgment
-
-Re gan mian is closely associated with Wuhan, Hubei province, and the legacy of its credited inventor, Cai Mingwei, in the 1930s. This recipe follows the standard street-stall preparation that remains the template for the dish today.

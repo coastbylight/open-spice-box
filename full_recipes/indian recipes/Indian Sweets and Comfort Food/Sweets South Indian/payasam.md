@@ -2,7 +2,6 @@
 title: Payasam
 slug: payasam
 subtitle: Tamil Nadu Rice Pudding with Saffron and Cardamom
-source_name: Traditional Indian Recipe
 cuisine: Tamil
 course: Dessert
 difficulty: Easy

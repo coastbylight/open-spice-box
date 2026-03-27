@@ -2,9 +2,6 @@
 title: Cong You Bing (Scallion Pancakes)
 slug: scallion-pancakes
 subtitle: Flaky, layered Chinese flatbread studded with chopped scallions and toasted in a skillet
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 pancakes
 prep_time: 30 minutes (plus resting)
 cook_time: 20 minutes
@@ -140,9 +137,3 @@ Scallion pancakes are served as a snack, appetizer, or side dish. They pair well
 ## Storage and Reheating
 
 Cooked scallion pancakes can be stored in the refrigerator for up to 2 days. Reheat in a dry skillet over medium heat for 1 to 2 minutes per side to restore crispness. Oven reheating at 190°C for 5 minutes also works well. Uncooked pancakes (rolled out but not yet fried) can be stacked between sheets of parchment paper, wrapped tightly, and frozen for up to 1 month. Cook from frozen, adding 1 to 2 minutes per side.
-
----
-
-## Source Acknowledgment
-
-Cong you bing are one of the oldest and most widespread preparations in the Chinese flour-based culinary tradition. This recipe follows the standard hot water dough and coil-rolling method that is common across northern China and has been adopted by Chinese communities worldwide.

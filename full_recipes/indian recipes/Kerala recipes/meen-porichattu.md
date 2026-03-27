@@ -2,7 +2,6 @@
 title: Meen Porichattu
 slug: meen-porichattu
 subtitle: Kerala pan-fried fish — king fish marinated in a thick red chilli-turmeric paste with vinegar, fried in coconut oil with curry leaves
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main / Side
 difficulty: Easy

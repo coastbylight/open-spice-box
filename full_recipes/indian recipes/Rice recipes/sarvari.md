@@ -2,7 +2,6 @@
 title: Sarvari
 slug: sarvari
 subtitle: Kashmiri rice cooked with chickpeas or black gram, tempered with cumin and cloves
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Easy

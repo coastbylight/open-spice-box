@@ -2,9 +2,6 @@
 title: Galbi (Korean BBQ Short Ribs)
 slug: galbi
 subtitle: Beef short ribs marinated in a sweet sesame-soy glaze and grilled until golden
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/galbi
-source_author: Maangchi
 yield: 4 servings
 prep_time: 30 minutes (plus 1 hour marinating)
 cook_time: 10 minutes
@@ -133,9 +130,3 @@ Galbi is the centerpiece of a Korean BBQ spread. Serve alongside [bulgogi](/reci
 **Uncooked seasoned ribs:** Refrigerate wrapped tightly for up to 2 days, or freeze for up to 1 month.
 
 **Cooked galbi:** Store in a sealed container in the refrigerator for up to 3 days. Reheat on a hot grill pan or under the broiler for 1 to 2 minutes per side to restore the caramelized exterior. Avoid microwaving, which will soften the crust.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose galbi-gui recipe features a simplified dry seasoning of sugar, salt, pepper, and sesame oil, learned from a popular Korean restaurant. The traditional butterflying technique for bone-in short ribs is central to her method. Supplementary context on the wet marinade variation (LA galbi style) was informed by Hyosun Ro's galbi recipe at Korean Bapsang (koreanbapsang.com). Additional notes on grilling temperature and timing were drawn from My Korean Kitchen (mykoreankitchen.com).

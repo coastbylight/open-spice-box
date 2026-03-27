@@ -2,7 +2,6 @@
 title: Punjabi Kadhi
 slug: punjabi-kadhi
 subtitle: Tangy yoghurt and gram flour curry with spiced spinach pakodas
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium

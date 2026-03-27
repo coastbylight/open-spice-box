@@ -2,7 +2,6 @@
 title: Aloo Ki Tikki
 slug: aloo-ki-tikki
 subtitle: Spiced potato patties with a deep golden crust and a soft, fragrant interior
-source_name: Traditional Indian Recipe
 cuisine: North Indian street food
 course: Street Food
 difficulty: Easy

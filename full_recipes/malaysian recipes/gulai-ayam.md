@@ -2,9 +2,6 @@
 title: Gulai Ayam
 slug: gulai-ayam
 subtitle: Malaysian coconut chicken curry with turmeric, lemongrass, and toasted coconut
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/malaysian-chicken-curry/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 45 minutes
@@ -174,9 +171,3 @@ If you are building a Southeast Asian dinner with friends, gulai ayam pairs comf
 **Reheating tips:** Microwave reheating works in a pinch. Cover the bowl and heat in 1-minute intervals, stirring between each. The gravy may look slightly oily when it first comes out of the fridge; this is normal and will re-emulsify as it warms. If the curry has thickened into more of a paste, stir in 60 to 80 ml of water while reheating to restore it to a saucy consistency.
 
 **Rice:** Store leftover rice separately from the curry. Refrigerate within an hour of cooking and use within 2 days. Reheat by sprinkling with water and microwaving covered, or steam in a basket for 5 minutes.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily on Bee Yinn Low's Malaysian chicken curry at Rasa Malaysia (rasamalaysia.com), which provides the foundational approach of a simple, coconut-enriched curry with potatoes and a streamlined spice base. The addition of kerisik, galangal, and the marinating technique is adapted from ThoKoh Makan's gulai ayam recipe (thokohmakan.com), which itself traces back to Zarina Ibrahim's classic Home Cooking book from the 1990s. The spice paste composition, including candlenuts, belacan-free base, and the proportions of coriander, cumin, and turmeric, draws on Asian Inspirations' Malaysian chicken curry (asianinspirations.com.au) and Adam Liaw's version for SBS Food (sbs.com.au). All sources agree on the essential character of gulai: golden, coconut-rich, warmly spiced, and deeply comforting.

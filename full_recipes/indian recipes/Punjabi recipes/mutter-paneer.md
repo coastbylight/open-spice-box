@@ -2,9 +2,6 @@
 title: Mutter Paneer
 slug: mutter-paneer
 subtitle: Fresh cheese and sweet peas in a fragrant tomato masala — the everyday heart of the Punjabi kitchen
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 30 minutes
@@ -141,9 +138,3 @@ Mutter paneer is at home alongside warm roti, phulka, or naan. It works equally 
 ## Storage and Reheating
 
 Store leftovers in an airtight container in the refrigerator for up to 3 days. The paneer will firm slightly when cold but softens again on gentle reheating. Reheat over low heat with a splash of water to loosen the sauce, stirring carefully to avoid breaking the cubes. The dish can be frozen for up to one month; freeze before adding cream if planning to store.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the everyday Punjabi home-cooking tradition, where mutter paneer has been a staple vegetarian preparation for generations. The combination of cumin-tempered tomato masala with paneer and peas represents one of North India's most enduring domestic dishes.

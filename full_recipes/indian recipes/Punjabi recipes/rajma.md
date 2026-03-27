@@ -2,7 +2,6 @@
 title: Rajma
 slug: rajma
 subtitle: Red kidney beans braised in a spiced onion-tomato masala
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy

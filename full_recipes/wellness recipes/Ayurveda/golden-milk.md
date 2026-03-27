@@ -2,7 +2,6 @@
 title: Golden Milk
 slug: golden-milk
 subtitle: The ancient Ayurvedic tonic, made as it has always been
-source_name: Traditional Ayurvedic Preparation
 yield: 1 serving
 prep_time: 2 minutes
 cook_time: 8 minutes

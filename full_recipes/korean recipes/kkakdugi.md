@@ -2,9 +2,6 @@
 title: Kkakdugi (Cubed Radish Kimchi)
 slug: kkakdugi
 subtitle: Crunchy cubes of Korean radish fermented in a fiery gochugaru and fish sauce seasoning
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/kkakdugi
-source_author: Maangchi
 yield: About 1 quart (48 pieces)
 prep_time: 30 minutes (plus 30 minutes salting)
 cook_time: 0 minutes
@@ -129,9 +126,3 @@ Kkakdugi is the classic companion to Korean soups, especially mild broths where 
 **Freezer:** Not recommended. Freezing damages the cell structure of the radish and kills the beneficial bacteria.
 
 **Serving:** Always serve cold, directly from the refrigerator.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose kkakdugi recipe provides precise measurements and clear instructions for the salting, seasoning, and fermentation process. Supplementary details on salting technique, the use of saeujeot, and the Korean coarse sea salt equivalencies were informed by Hyosun Ro's kkakdugi recipe at Korean Bapsang (koreanbapsang.com). My Korean Kitchen (mykoreankitchen.com) contributed additional notes on radish varieties and seasonal bitterness.

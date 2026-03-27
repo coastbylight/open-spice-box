@@ -2,9 +2,6 @@
 title: Hui Guo Rou (Twice Cooked Pork)
 slug: twice-cooked-pork
 subtitle: Sichuan's bold pork belly stir-fry with doubanjiang, leeks, and fermented black beans
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -146,9 +143,3 @@ This is a rice dish through and through. A bowl of plain steamed jasmine rice is
 ## Storage and Reheating
 
 Store leftovers in an airtight container in the refrigerator for up to 3 days. The flavors will deepen overnight as the fermented pastes continue to meld. Reheat in a hot wok or skillet over high heat, adding a small splash of water to loosen the sauce. Microwave reheating works in a pinch but will not restore the crispness of the pork edges. The leeks may soften further upon reheating, which is normal. Freezing is possible for up to 1 month, though the texture of the leeks will suffer.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the traditional Sichuan preparation of hui guo rou as documented across generations of home cooks and popularized in the culinary writings of Fuchsia Dunlop. The method and proportions have been adapted for the home kitchen.

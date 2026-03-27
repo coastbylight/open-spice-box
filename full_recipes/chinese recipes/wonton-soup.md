@@ -2,9 +2,6 @@
 title: Wonton Soup (馄饨汤)
 slug: wonton-soup
 subtitle: Silky pork and shrimp wontons swimming in a fragrant, ginger-laced broth
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/wonton-soup/
-source_author: Judy Leung
 yield: 8 servings (60 to 80 wontons)
 prep_time: 1 hour
 cook_time: 15 minutes
@@ -158,9 +155,3 @@ For a dim sum spread, serve alongside [Har Gow](/recipes/har-gow), [Lo Mai Gai](
 **Broth:** Keeps in the refrigerator for up to 4 days or frozen for up to 3 months.
 
 **Reheating (cooked):** Leftover cooked wontons can be reheated gently in simmering broth for 1 to 2 minutes. Avoid boiling vigorously, which can tear the delicate wrappers. Microwaving makes the wrappers rubbery and is not recommended.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Judy Leung's wonton soup recipe at The Woks of Life (thewoksoflife.com), which provides both the chicken stock and street vendor broth methods. The filling proportions and the emphasis on hand-chopping the shrimp draw from Maggie Zhu's version at Omnivore's Cookbook (omnivorescookbook.com), which also incorporates fermented black beans as an optional filling variation.

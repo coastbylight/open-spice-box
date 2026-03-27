@@ -2,9 +2,6 @@
 title: Bo Luc Lac (Bò Lúc Lắc)
 slug: bo-luc-lac
 subtitle: Seared cubes of marinated beef tossed in a sizzling wok, served on a bed of watercress with a lime-pepper dipping sauce
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes (plus 1 hour marinating)
 cook_time: 8 minutes
@@ -152,9 +149,3 @@ For a Vietnamese-French fusion dinner, serve bo luc lac with a simple green sala
 **The salad bed:** Prepare fresh each time. Watercress wilts quickly once dressed or warmed by the beef.
 
 **Marinade:** The raw marinade can be mixed up to 2 days ahead and refrigerated.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Vietnamese approach to bo luc lac, a French-influenced beef dish adapted with Vietnamese seasonings and the distinctive lime-pepper-salt dipping sauce. The technique and flavor profile draw from Vietnamese restaurant and home cooking traditions documented by Andrea Nguyen in Vietnamese Food Any Day and Charles Phan in Vietnamese Home Cooking. The emphasis on very high heat, small batches, and a minimal dipping sauce reflects the classic Saigon preparation.

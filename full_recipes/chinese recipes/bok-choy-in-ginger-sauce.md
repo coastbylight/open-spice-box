@@ -2,9 +2,6 @@
 title: Bok Choy in Ginger Sauce (姜汁白菜)
 slug: bok-choy-in-ginger-sauce
 subtitle: Tender bok choy steamed in ginger-infused oil and tossed in a light sauce of soy, oyster sauce, and sesame oil
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/bok-choy-in-ginger-sauce/
-source_author: Nagi
 yield: 4 servings
 prep_time: 3 minutes
 cook_time: 3 minutes
@@ -134,9 +131,3 @@ This belongs on the table next to something with weight. Braised pork belly, [Ma
 **Reheating:** A quick toss in a hot wok for 20 to 30 seconds. The bok choy will soften further, but the sauce and ginger flavor hold up. Microwave reheating works in a pinch but makes the stems limp.
 
 **Freezing:** Not recommended. Bok choy does not freeze well. The high water content in the stems turns to ice and ruptures the cell walls, producing a mushy texture when thawed.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Nagi's bok choy in ginger sauce at RecipeTin Eats (recipetineats.com), following her three-stage cooking method and sauce proportions. The 45-second steam timing and sauce ratio are hers.

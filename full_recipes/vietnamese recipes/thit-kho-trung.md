@@ -2,9 +2,6 @@
 title: Thit Kho Trung (Vietnamese Caramelized Pork Belly and Eggs)
 slug: thit-kho-trung
 subtitle: Tender pork belly and hard-boiled eggs braised low and slow in a coconut water caramel sauce perfumed with fish sauce and black pepper, spooned over steamed rice
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/braised-pork-and-boiled-eggs-in-coconut-juice-thit-kho-tau/
-source_author: Vicky Pham
 yield: 6 servings
 prep_time: 40 minutes (plus 30 minutes marinating)
 cook_time: 1 hour 20 minutes
@@ -163,9 +160,3 @@ The braising liquid is as valuable as the meat itself. Spoon it generously over 
 **Reheating:** Warm gently on the stovetop over medium-low heat. The sauce will reduce further with each reheating, becoming more concentrated and flavorful. Add a splash of water if it thickens too much. If using a microwave, pierce the eggs or halve them first. Whole eggs can burst when microwaved, and the cleanup is memorable for all the wrong reasons.
 
 **Freezing:** Thit kho trung freezes well for up to 6 months. The pork and sauce freeze and reheat without significant loss of texture. The eggs may become slightly rubbery after freezing, so consider freezing the pork and sauce separately and cooking fresh eggs when you reheat. Thaw overnight in the refrigerator before reheating on the stovetop.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Vicky Pham's thit kho trung at vickypham.com, whose family recipe uses thick soy sauce as a practical substitute for traditional caramelized sugar, a generous fish sauce marinade, and coconut soda for the braising liquid. The technique of a longer, uncovered simmer and the emphasis on concentrated sauce reduction are drawn from Huy Vu's version at hungryhuy.com, which also recommends a 50/50 split of pork belly and shoulder for those who prefer leaner meat. The variation of pre-coating eggs in caramel before braising is adapted from Wok and Kin's recipe at wokandkin.com, authored by Jeannette, which uses fresh coconut water and chicken bouillon powder in the braise.

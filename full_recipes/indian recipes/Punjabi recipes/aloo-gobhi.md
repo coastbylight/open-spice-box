@@ -2,7 +2,6 @@
 title: Aloo Gobi
 slug: aloo-gobi
 subtitle: Cauliflower and potato dry-fried with cumin and coriander
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy

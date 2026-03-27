@@ -2,9 +2,6 @@
 title: Chawanmushi (Japanese Savory Steamed Egg Custard)
 slug: chawanmushi
 subtitle: A delicate steamed custard of dashi and egg, hiding small treasures of chicken, mushroom, and fish cake beneath its trembling surface
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/chawanmushi-savory-steamed-egg-custard/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -152,9 +149,3 @@ Chawanmushi is traditionally served as one element of a multi-course Japanese me
 **Not recommended for freezing:** The high water content of the custard causes it to become grainy and weep liquid after thawing. Make chawanmushi fresh for the best texture.
 
 **Make-ahead tip:** You can prepare the strained custard mixture and the fillings up to a day in advance. Store them separately in the refrigerator. When ready to cook, bring the custard mixture to room temperature, fill the cups, and steam as directed.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Namiko Hirasawa Chen's chawanmushi guide at Just One Cookbook (justonecookbook.com), particularly the egg-to-dashi ratio, steaming technique, and filling combinations. Additional filling ideas and presentation notes are informed by Shihoko at Chopstick Chronicles (chopstickchronicles.com), whose version includes carrot and edamame as colorful additions. The technique of leaving the pot lid ajar during steaming is consistent across both sources and is the single most important detail for achieving a smooth custard.

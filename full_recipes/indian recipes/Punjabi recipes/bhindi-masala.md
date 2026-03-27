@@ -2,9 +2,6 @@
 title: Bhindi Masala
 slug: bhindi-masala
 subtitle: Crisp okra tossed in a dry spiced onion and tomato masala
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -140,9 +137,3 @@ Bhindi masala is a dry side dish (sabzi) and is meant to be part of a larger mea
 ## Storage and Reheating
 
 Bhindi masala is best eaten on the day it is made, as the crisp texture softens over time. It can be refrigerated for up to 1 day. Reheat in a pan over medium-high heat (not in the microwave, which makes it soggy) to restore some of the crispness. Adding a small drizzle of oil to the pan while reheating helps. Freezing is not recommended, as okra becomes very soft after thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Punjabi home cooking tradition, where bhindi masala is one of the most frequently prepared dry vegetable dishes. The technique of pre-cooking the okra separately and combining with a dry masala is common across North Indian households and represents the accumulated practical knowledge of generations of cooks managing okra's unique textural properties.

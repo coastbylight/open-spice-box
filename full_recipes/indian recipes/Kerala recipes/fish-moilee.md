@@ -2,9 +2,6 @@
 title: Fish Moilee
 slug: fish-moilee
 subtitle: Delicate fish fillets poached in a golden coconut milk and turmeric broth
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -139,9 +136,3 @@ Fish moilee is classically served with appam (the lace-edged fermented rice panc
 ## Storage and Reheating
 
 Fish moilee is best eaten fresh, on the day it is made. The fish continues to cook in the residual heat of the broth and will become dry if stored and reheated. If you must store it, refrigerate for up to 1 day and reheat very gently over the lowest possible heat, adding a splash of coconut milk to refresh the broth. Do not boil. The broth itself (without the fish) can be made a day ahead and the fish poached fresh when ready to serve.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Syrian Christian culinary tradition of Kerala, where fish moilee is a staple of both everyday meals and festive occasions. The dish reflects the historical encounter between Kerala's coastal fishing communities and Portuguese colonial influence, visible in both its name and its gentle poaching technique.

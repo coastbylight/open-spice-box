@@ -2,9 +2,6 @@
 title: Soto Betawi
 slug: soto-betawi
 subtitle: Jakarta's creamy beef and offal soup simmered in coconut milk and fresh milk with lemongrass, galangal, and candlenuts, served with fried potatoes and emping crackers
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/soto-betawi/
-source_author: Nagi Maehashi
 yield: 8 servings
 prep_time: 30 minutes
 cook_time: 2 hours 30 minutes
@@ -178,9 +175,3 @@ Soto betawi also fits naturally into a broader Indonesian soup spread. Set it be
 **Rice:** Store and reheat rice separately. Refrigerated cooked rice keeps for up to 2 days. Sprinkle with a little water, cover, and microwave in 30-second intervals, or re-steam for 5 minutes.
 
 **Batch cooking:** Soto betawi is well suited to making ahead. The flavor deepens overnight. Prepare a double batch of the broth and meat, freeze in portions, and fry the potatoes and prepare the fresh garnishes only when ready to serve.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily on the soto betawi recipe from RecipeTin Eats (recipetineats.com) by Nagi Maehashi, which provided the structural approach to the dual-milk broth and the balance of spice paste to liquid. Additional detail on traditional Betawi technique, particularly the use of fresh milk alongside coconut milk and the importance of emping crackers as a garnish, was informed by the recipe at Daily Cooking Quest (dailycookingquest.com) by Anita Jacobson. Historical and cultural context regarding the Arab and Indian Muslim influences on Betawi cuisine was drawn from the Wikipedia entry on soto, which traces the multicultural origins of soto betawi and its place within the broader soto tradition. The garnish combination of fried potatoes, tomato, scallions, fried shallots, lime, and kecap manis reflects the standard serving style described across all sources consulted.

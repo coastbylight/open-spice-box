@@ -2,9 +2,6 @@
 title: Ca Phe Trung (Cà Phê Trứng)
 slug: ca-phe-trung
 subtitle: Strong Vietnamese coffee topped with a cloud of whisked egg yolk cream, sweet and velvety
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 10 minutes
 cook_time: 5 minutes
@@ -132,9 +129,3 @@ It also works beautifully as an after-dinner drink following a Vietnamese meal, 
 **Coffee:** Brewed coffee can be kept warm for up to 30 minutes. Do not reheat, as the flavor degrades.
 
 **Prep ahead:** The coffee can be brewed in advance and kept in a thermos. Whisk the egg cream just before serving.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Hanoi preparation of ca phe trung, invented by Nguyen Van Giang in the 1940s and still served at Giang Cafe in Hanoi's Old Quarter. The technique of whisking egg yolks with condensed milk and spooning the cream over strong Vietnamese coffee is the standard Hanoi method, documented across Vietnamese food culture and by food writers including Andrea Nguyen and Mark Wiens.

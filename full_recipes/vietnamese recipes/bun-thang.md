@@ -2,9 +2,6 @@
 title: Bun Thang (Bun Thang)
 slug: bun-thang
 subtitle: Hanoi's composed chicken vermicelli soup with shredded poultry, egg crepe ribbons, Vietnamese pork roll, and dried shrimp in a clear, delicate broth
-source_name: Vicky Pham
-source_url: https://www.vickypham.com/blog/bun-thang
-source_author: Vicky Pham
 yield: 6 servings
 prep_time: 1 hour
 cook_time: 1 hour 30 minutes
@@ -175,9 +172,3 @@ Bun thang is a complete meal that needs little beyond the condiments already lis
 **Freezing:** The broth freezes well for up to 3 months in 400 ml portions. Thaw overnight in the refrigerator or gently in a saucepan. The shredded chicken can be frozen for up to 1 month, wrapped tightly. Egg crepe ribbons do not freeze well and should be made fresh.
 
 **Fried shallots:** Store in an airtight container at room temperature for up to 1 week. They lose their crunch after a few days, so make a small batch fresh if serving leftover bun thang later in the week.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Vicky Pham's bun thang at vickypham.com, which provides the core broth technique emphasizing a clear, clean stock achieved through blanching and gentle simmering, as well as the traditional topping arrangement and use of dried shrimp and dried squid in the broth. Additional details, particularly the ice-bath chicken method and the emphasis on mam tom as an essential condiment, draw from the version published by BunBoBae (bunbobae.com) and from the Saveur magazine recipe (saveur.com), which highlighted the Tet leftover origins of the dish and the importance of composing each bowl with visual intention.

@@ -2,9 +2,6 @@
 title: Chanh Muoi (Chanh Muối)
 slug: chanh-muoi
 subtitle: A bracing Vietnamese salted lemon drink, brewed from preserved lemons muddled with sugar and ice water
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 1 serving (easily scaled)
 prep_time: 5 minutes (plus 3 weeks for preserving lemons)
 cook_time: 0 minutes
@@ -145,9 +142,3 @@ For a Vietnamese drink spread, serve chanh muoi alongside [ca phe trung](/recipe
 **Mixed drink:** Prepare fresh each time. The drink does not store well once assembled, as the ice melts and the flavor becomes too diluted.
 
 **Quick-start option:** If you do not want to wait 3 weeks, purchase pre-made Vietnamese preserved lemons from an Asian grocery store.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Vietnamese approach to chanh muoi, using salt-preserved lemons muddled with sugar and water. The preservation technique and the drink preparation draw from Vietnamese home traditions documented across Vietnamese food culture. The use of preserved citrus as both a beverage base and a folk remedy is a centuries-old practice in Vietnam and across Southeast Asia.

@@ -2,9 +2,6 @@
 title: Shi Zi Tou (Lion's Head Meatballs)
 slug: lions-head-meatballs
 subtitle: Giant pork meatballs braised with napa cabbage in a fragrant broth
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/lions-head-meatballs/
-source_author: The Woks of Life
 yield: 8 servings
 prep_time: 40 minutes
 cook_time: 40 minutes
@@ -157,9 +154,3 @@ The meatballs and braising liquid keep in the refrigerator for up to 3 days. Sto
 The napa cabbage is best eaten fresh and does not store as well. If making ahead, braise the meatballs without the cabbage and add fresh cabbage when you reheat.
 
 Freeze the meatballs without cabbage for up to 2 months. Thaw overnight in the refrigerator before reheating.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique and ingredient references from Red House Spice (redhousespice.com). Ingredient proportions and method refined for clarity and home-kitchen application.

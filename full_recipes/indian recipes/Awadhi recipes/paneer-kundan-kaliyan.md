@@ -2,7 +2,6 @@
 title: Paneer Kundan Kaliyan
 slug: paneer-kundan-kaliyan
 subtitle: Diamond-cut paneer in a golden, saffron-touched Awadhi gravy of cashews and fenugreek
-source_name: Traditional Awadhi Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Medium

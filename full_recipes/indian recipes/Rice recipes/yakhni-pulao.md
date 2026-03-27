@@ -2,7 +2,6 @@
 title: Yakhni Pulao
 slug: yakhni-pulao
 subtitle: Awadhi basmati rice cooked in rich mutton bone stock with seared chops
-source_name: Traditional Indian Recipe
 cuisine: Uttar Pradesh
 course: Main
 difficulty: Hard

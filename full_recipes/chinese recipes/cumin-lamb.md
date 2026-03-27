@@ -2,9 +2,6 @@
 title: Zi Ran Yang Rou (Cumin Lamb)
 slug: cumin-lamb
 subtitle: Seared lamb tossed with toasted cumin, dried chilis, and fresh cilantro
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/cumin-lamb/
-source_author: The Woks of Life
 yield: 4 servings
 prep_time: 35 minutes
 cook_time: 10 minutes
@@ -150,9 +147,3 @@ Beer is the traditional pairing for this dish at Chinese barbecue restaurants, a
 Leftovers keep in the refrigerator for up to 2 days. Reheat in a hot wok or skillet to restore some of the crispy texture. Microwave reheating works but will soften the sear. Add a small pinch of fresh cumin powder and a few cilantro leaves after reheating to refresh the flavors.
 
 Do not freeze. The thin-sliced lamb loses its texture after thawing.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique and ingredient references from Omnivore's Cookbook (omnivorescookbook.com). Ingredient proportions and method refined for clarity and home-kitchen application.

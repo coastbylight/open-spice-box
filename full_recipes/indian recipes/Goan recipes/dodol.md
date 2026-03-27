@@ -2,7 +2,6 @@
 title: Dodol
 slug: dodol
 subtitle: Goa's Christmas sweet — dense, dark, and built from hours of stirring
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Involved

@@ -2,7 +2,6 @@
 title: Malabar Paratha
 slug: malabar-paratha
 subtitle: North Kerala's flaky, coiled flatbread — thin oiled dough strips wound into layers, pressed open on the griddle with ghee
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Bread
 difficulty: Advanced

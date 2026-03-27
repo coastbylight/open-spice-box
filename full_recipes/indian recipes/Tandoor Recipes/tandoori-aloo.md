@@ -2,7 +2,6 @@
 title: Tandoori Aloo
 slug: tandoori-aloo
 subtitle: Potato cylinders stuffed with cashew, raisin and spiced filling, skewered and cooked in the tandoor until golden
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Starter
 difficulty: Intermediate

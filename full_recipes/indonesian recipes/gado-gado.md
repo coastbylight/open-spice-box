@@ -2,9 +2,6 @@
 title: Gado-Gado (Indonesian Peanut Salad)
 slug: gado-gado
 subtitle: Blanched vegetables, fried tempeh, and hard-boiled eggs dressed in a warm, spiced peanut sauce
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/gado-gado-indonesian-salad/
-source_author: Nagi Maehashi
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -160,9 +157,3 @@ As part of a broader Southeast Asian meal, gado-gado sits comfortably next to [s
 **Assembled:** Once the peanut sauce is poured over the vegetables, gado-gado is best eaten within a few hours. The sauce will soften the fried tempeh and wilt the cucumber over time. If you expect leftovers, dress only what you plan to eat and keep the sauce separate.
 
 **Freezing:** The peanut sauce freezes well for up to 3 months. Thaw overnight in the refrigerator and reheat as above. The vegetables and tempeh do not freeze well and should be prepared fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Nagi Maehashi's gado-gado at RecipeTin Eats (recipetineats.com), which provided the foundation for the peanut sauce method using peanut butter, red curry paste, and kecap manis, the blanching order for the vegetables, and the tempeh frying technique. The approach of using red curry paste as a shortcut for a traditional bumbu is Nagi's practical innovation. Cook Me Indonesian (cookmeindonesian.com) and Anita Jacobson's gado-gado at Daily Cooking Quest (dailycookingquest.com) informed the broader understanding of regional variations, the inclusion of lontong as a traditional accompaniment, and the emphasis on gado-gado as an endlessly adaptable, everyday Indonesian dish.

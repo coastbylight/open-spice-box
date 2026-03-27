@@ -2,7 +2,6 @@
 title: Dosa
 slug: dosa
 subtitle: The fermented rice and urad dal crepe — thin, crisp and deeply savory, the result of 12+ hours of fermentation
-source_name: Traditional Indian Recipe
 cuisine: Tamil / South Indian
 course: Breakfast / Main
 difficulty: Intermediate

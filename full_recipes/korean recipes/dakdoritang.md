@@ -2,9 +2,6 @@
 title: Dakdoritang (Braised Spicy Chicken)
 slug: dakdoritang
 subtitle: Bone-in chicken pieces braised in a spicy gochugaru sauce with potatoes, carrots, and onions
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/dakdoritang
-source_author: Maangchi
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 40 minutes
@@ -143,9 +140,3 @@ Dakdoritang needs steamed short-grain rice to soak up the sauce. Serve with [kka
 **Freezer:** Freeze in an airtight container for up to 1 month. The potatoes may become slightly softer after thawing, but the overall dish reheats well.
 
 **Reheating:** Warm gently in a pot over medium heat, adding a splash of water if the sauce has thickened too much. Stir occasionally to prevent sticking. The dish is even better the next day.
-
----
-
-## Source Acknowledgment
-
-This recipe is based on traditional Korean dakdoritang preparations as documented by Maangchi (maangchi.com), Korean Bapsang (koreanbapsang.com), and My Korean Kitchen (mykoreankitchen.com). The sauce ratios reflect a composite of these sources, emphasizing the dual use of gochugaru and gochujang for layered flavor. The optional browning step and rice cake variation are drawn from common Korean home cooking practices described across all three sources.

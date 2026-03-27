@@ -2,7 +2,6 @@
 title: Dal Makhni
 slug: dal-makhni
 subtitle: Slow-Cooked Punjabi Black Lentil Dal with Butter and Cream
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 15 minutes (plus overnight soaking)
 cook_time: 2 hours minimum (longer is better)
@@ -178,9 +177,3 @@ Dal makhni is served across the full range of Punjabi eating occasions, from cas
 **Freezer:** Freezes very well for up to 3 months. The texture is well-suited to freezing; the thick consistency holds up better than thinner dals. Freeze in portion-sized containers.
 
 **Reheating:** Dal makhni will thicken significantly when cold; it may solidify. Reheat in a pan over low heat, adding water gradually and stirring continuously until it reaches the desired consistency. Do not rush with high heat; it will catch and burn on the bottom. Add a small knob of butter and a splash of cream when reheating to restore the finish.
-
----
-
-## Source Acknowledgment
-
-Dal makhni as a restaurant preparation is most closely associated with Moti Mahal in Daryaganj, Delhi, where it became a signature dish in the 1950s alongside murgh makhni. But the underlying preparation (whole black urad dal slow-cooked with butter) is older and domestic in origin, rooted in the slow-fire cooking traditions of rural Punjab. The restaurant preparation refined and intensified what was already a beloved home dal. This recipe draws on both the restaurant tradition of long, slow cooking and the domestic Punjabi tradition of making dal a meal of substance and comfort.

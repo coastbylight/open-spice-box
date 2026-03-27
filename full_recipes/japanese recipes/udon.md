@@ -2,9 +2,6 @@
 title: Udon Noodle Soup (Kake Udon)
 slug: udon
 subtitle: Thick wheat noodles in a clear, gently sweet dashi broth, finished with nothing more than scallions and a wisp of steam
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/udon-noodle-soup/
-source_author: Namiko Hirasawa Chen
 yield: 2 servings
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -147,9 +144,3 @@ The seasoned broth keeps in an airtight container in the refrigerator for up to 
 Cooked udon noodles do not store well. They absorb moisture and turn soft and pasty within a few hours. Cook noodles fresh for each serving. If you have leftover frozen udon, simply keep them in the freezer until needed, as they cook from frozen in under 2 minutes.
 
 If you plan to meal-prep, store the broth and noodles separately. When ready to eat, boil fresh noodles, reheat the broth, and assemble.
-
----
-
-## Source Acknowledgment
-
-Primary recipe adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), with supplementary technique and proportion notes from RecipeTin Eats (recipetineats.com). Dashi method and mentsuyu shortcut consolidated for home-kitchen clarity.

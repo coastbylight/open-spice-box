@@ -2,9 +2,6 @@
 title: Khao Tom (Thai Rice Soup with Shrimp)
 slug: khao-tom
 subtitle: A light, brothy Thai rice soup with garlic-pepper shrimp, built for mornings and late nights alike
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/kao-tom-goong/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -153,9 +150,3 @@ Khao tom is traditionally a standalone meal, especially at breakfast, and needs 
 **Assembled soup:** If you have leftover assembled soup, store it in the refrigerator for up to 2 days. Be aware that the rice will absorb most of the broth as it sits, producing something closer to a thick risotto than a soup. When reheating, add extra stock or water in 120 ml increments and stir gently over medium heat until the soup returns to a brothy consistency. Taste and adjust seasoning, as the flavors will have mellowed.
 
 **Freezing:** The broth freezes well on its own for up to 3 months. The seared shrimp can be frozen for up to 1 month, though the texture will soften slightly. Cooked jasmine rice freezes well in portioned bags for up to 2 months. For the best results, freeze each component separately and assemble fresh after thawing. Do not freeze the fully assembled soup, as the rice will become mushy upon reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Thai Breakfast Rice Soup with Shrimp (Khao Tom Goong) at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundational technique of a pounded garlic-pepper paste divided between the shrimp and the broth, with the rice added only at the moment of serving. The emphasis on advance preparation and the preserved cabbage condiment are also drawn from her approach. Additional context on khao tom as a broader Thai tradition, including variations with pork and chicken, is informed by Leela Punyaratabandhu's writing at SheSimmers (shesimmers.com) and Nart's recipe notes at Cooking with Nart (cookingwithnart.com).

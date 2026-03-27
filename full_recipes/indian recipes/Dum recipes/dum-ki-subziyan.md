@@ -2,7 +2,6 @@
 title: Dum Ki Subziyan
 slug: dum-ki-subziyan
 subtitle: A medley of blanched seasonal vegetables braised together in a spiced yogurt gravy
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Main
 difficulty: Medium

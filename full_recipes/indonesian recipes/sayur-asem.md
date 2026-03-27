@@ -2,9 +2,6 @@
 title: Sayur Asem (Indonesian Tamarind Vegetable Soup)
 slug: sayur-asem
 subtitle: A bright, sour-sweet tamarind broth packed with corn, chayote, long beans, cabbage, and peanuts, seasoned with a pounded spice paste of candlenuts, shrimp paste, and red chilies
-source_name: Daily Cooking Quest
-source_url: https://dailycookingquest.com/sayur-asem.html
-source_author: Anita Jacobson
 yield: 6 to 8 servings
 prep_time: 30 minutes
 cook_time: 45 minutes
@@ -173,9 +170,3 @@ Sayur asem also sits comfortably alongside other Southeast Asian sour soups. If 
 **Freezing:** The broth freezes well for up to 1 month. The vegetables do not freeze as successfully. Cabbage and chayote become overly soft, and corn loses some of its sweetness. If you plan to freeze, strain out the vegetables and freeze the broth alone. When ready to serve, thaw the broth, bring it to a simmer, and cook a fresh batch of vegetables directly in it.
 
 **Make-ahead approach:** Prepare the broth through step 5 up to a day in advance. Refrigerate. When ready to serve, bring the broth back to a simmer and cook the vegetables fresh, starting from step 6. This keeps every vegetable at its best texture and makes the dish practical for entertaining or weeknight cooking.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Anita Jacobson's sayur asem recipe at Daily Cooking Quest, which provides the core spice paste composition, the vegetable selection, and the technique of building the broth from a fried bumbu base. Her approach of using a wide range of vegetables with a tamarind-and-palm-sugar broth reflects the standard Sundanese home-cooking style. The Cook Me Indonesian version contributes the option of adding beef trimmings for a heartier variation and offers a slightly simpler spice paste that works well for weeknight cooking. What To Cook Today's recipe informs the use of lemongrass and turmeric in the broth, as well as the staging technique of adding vegetables in order of density to preserve their individual textures. The cultural context and serving suggestions draw from a broader understanding of sayur asem's place in Indonesian home cooking across multiple sources.

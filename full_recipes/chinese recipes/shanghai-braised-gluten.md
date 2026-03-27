@@ -2,9 +2,6 @@
 title: Kao Fu (Shanghai Braised Gluten)
 slug: shanghai-braised-gluten
 subtitle: Spongy wheat gluten braised with wood ear mushrooms, lily buds, and peanuts in a sweet-savory sauce
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 6 servings
 prep_time: 30 minutes
 cook_time: 30 minutes
@@ -149,9 +146,3 @@ Kao fu is traditionally served as part of a cold appetizer spread at the beginni
 ## Storage and Reheating
 
 This dish is specifically designed to be made ahead. Store in an airtight container in the refrigerator for up to 1 week. The flavor improves over the first 2 to 3 days as the sauce continues to penetrate the gluten and the ingredients meld. Serve cold or at room temperature. If you prefer it warm, reheat gently in a small pot with a splash of water. Freezing is possible for up to 2 months, though the wood ear mushrooms may soften slightly.
-
----
-
-## Source Acknowledgment
-
-Kao fu is a classic Shanghai cold dish with roots in Chinese Buddhist vegetarian cuisine. This recipe follows the standard home preparation found across the Jiangnan region, drawing on the culinary traditions documented in Shanghainese home cooking.

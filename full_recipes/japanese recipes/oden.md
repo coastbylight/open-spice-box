@@ -2,9 +2,6 @@
 title: Oden (Japanese Fish Cake Stew)
 slug: oden
 subtitle: A gentle winter hot pot of daikon, boiled eggs, fish cakes, and konnyaku simmered in a light soy-dashi broth until every ingredient is steeped in quiet, savory warmth
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/oden/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 100 minutes
@@ -167,9 +164,3 @@ Leftover oden broth is too good to discard. Strain it, bring it back to a simmer
 **Reheating:** Return the oden and broth to a pot and warm gently over medium-low heat. Avoid a hard boil, which will toughen the fish cakes and make the hanpen rubbery. If the broth has reduced or become too salty, add a small amount of dashi or water to adjust.
 
 **Freezing:** Most oden ingredients do not freeze well. Eggs become rubbery, konnyaku turns spongy and unpleasant, and hanpen loses its airy texture. If you want to freeze leftovers, remove the eggs, konnyaku, and hanpen first. The daikon, fish cakes, and broth freeze acceptably for up to one month.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Namiko Hirasawa Chen's comprehensive oden guide at Just One Cookbook (justonecookbook.com), which provided the foundation for ingredient preparation, broth ratios, and the mochi kinchaku technique. Additional perspective on broth clarity and the cooling-reheating principle was informed by Sho Spaeth's treatment of oden at Serious Eats (seriouseats.com), which emphasizes a purer, more restrained dashi approach. Regional variation notes draw from Makiko Itoh's writing on Japanese home cooking at Just Hungry (justhungry.com).

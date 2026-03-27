@@ -2,7 +2,6 @@
 title: Bebinca
 slug: bebinca
 subtitle: Goa's layered coconut pudding, built one golden stratum at a time
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Involved

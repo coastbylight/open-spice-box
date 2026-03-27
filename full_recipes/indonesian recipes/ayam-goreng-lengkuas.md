@@ -2,9 +2,6 @@
 title: Ayam Goreng Lengkuas (Galangal Fried Chicken)
 slug: ayam-goreng-lengkuas
 subtitle: Sundanese double-cooked fried chicken braised in a galangal-rich spice paste, then deep-fried until golden and topped with crispy galangal floss
-source_name: Cook Me Indonesian
-source_url: https://www.cookmeindonesian.com/ayam-goreng-lengkuas/
-source_author: Nunuk Sri Rahayu
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 1 hour 15 minutes
@@ -157,9 +154,3 @@ Ayam goreng lengkuas is traditionally part of a Sundanese rice table, where it s
 **Freezing:** The braised (but not yet fried) chicken freezes well for up to 2 months. Thaw overnight in the refrigerator, pat dry thoroughly, and deep-fry as directed. Freezing already-fried chicken is possible but the crust will not recover its original crispness. The galangal floss does not freeze well.
 
 **Meal prep:** The most practical approach is to complete the braise up to 2 days ahead and refrigerate the chicken and spice pulp separately. The frying then takes about 20 minutes on the day of serving. The galangal floss can also be fried a day or two in advance and stored in an airtight container at room temperature.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Nunuk Sri Rahayu's ayam goreng lengkuas at Cook Me Indonesian (cookmeindonesian.com), which provides the foundational technique of braising in grated galangal, the spice paste composition, and the approach of frying the galangal pulp into floss. The original recipe from Daily Cooking Quest (dailycookingquest.com) and the version at What To Cook Today (whattocooktoday.com) were consulted for cross-reference on ingredient ratios and cooking times. The cultural context of Sundanese lalapan accompaniments and the double-cook method common across Indonesian fried chicken traditions draw from broader Indonesian culinary sources.

@@ -2,9 +2,6 @@
 title: Yu Tou Dou Fu Tang (Fish Head Tofu Soup)
 slug: yu-tou-dou-fu-tang
 subtitle: A milky-white, collagen-rich broth where a seared fish head and silken tofu produce one of Chinese cooking's greatest soups
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/fish-head-tofu-soup/
-source_author: The Woks of Life
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 40 minutes
@@ -156,9 +153,3 @@ If you must store it, refrigerate for up to 2 days. Reheat gently on the stoveto
 The tofu will become slightly more porous and spongy after refrigeration, which is not necessarily a bad thing. It will absorb even more broth. The fish head meat is best eaten the day it is made.
 
 This soup does not freeze well due to the emulsion breaking down and the tofu changing texture.
-
----
-
-## Source Acknowledgment
-
-Recipe draws on traditional fish head tofu soup preparations as documented by The Woks of Life (thewoksoflife.com), Red House Spice (redhousespice.com), and Omnivore's Cookbook (omnivorescookbook.com). Ingredient proportions and method refined for clarity and home-kitchen application.

@@ -2,7 +2,6 @@
 title: Santra Ni Kheer
 slug: santra-ni-kheer
 subtitle: A light Parsi chilled milk dessert with fresh orange segments and dissolved sugar
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Easy

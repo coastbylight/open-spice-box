@@ -2,9 +2,6 @@
 title: Bun Rieu (Vietnamese Crab and Tomato Noodle Soup)
 slug: bun-rieu
 subtitle: A tangy, tomato-laced noodle soup crowned with pillowy crab and shrimp fritters, fried tofu, and a tangle of fresh herbs
-source_name: Vicky Pham
-source_url: https://www.vickypham.com/blog/bun-rieu
-source_author: Vicky Pham
 yield: 6 servings
 prep_time: 40 minutes
 cook_time: 1 hour 20 minutes
@@ -180,9 +177,3 @@ If you enjoy the tangy, tomato-forward character of bun rieu, you may also appre
 **Noodles:** Cook fresh for each serving. Leftover cooked rice vermicelli turns gummy and sticky in the refrigerator. If you must store them, rinse well, toss with a tiny amount of oil, and refrigerate for no more than 1 day. Loosen in boiling water before serving.
 
 **Herb platter:** Wash and dry the herbs, wrap loosely in damp paper towels, and store in a sealed container in the refrigerator. They will keep for 2 to 3 days. Water spinach should be prepped fresh on the day of serving.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Vicky Pham's bun rieu from scratch at vickypham.com, which uses fresh crab, whole shrimp with heads, and pork hocks for a heartier, fully homemade version. The ground pork variation in the fritter mixture and the ketchup shortcut draw from Huy Vu's recipe at hungryhuy.com, which takes a more accessible, pantry-friendly approach using canned broth and canned crab paste. The tamarind variation reflects techniques common in southern Vietnamese cooking and associated with Andrea Nguyen's approach to the dish.

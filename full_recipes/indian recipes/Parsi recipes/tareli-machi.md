@@ -2,7 +2,6 @@
 title: Tareli Machi
 slug: tareli-machi
 subtitle: Parsi pan-fried fish with turmeric, cumin, and red chilli in sesame oil
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy

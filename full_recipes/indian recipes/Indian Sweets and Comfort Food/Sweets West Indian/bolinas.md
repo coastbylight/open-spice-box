@@ -2,7 +2,6 @@
 title: Bolinas
 slug: bolinas
 subtitle: Goan Coconut, Egg, and Semolina Tea Cookies
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Easy

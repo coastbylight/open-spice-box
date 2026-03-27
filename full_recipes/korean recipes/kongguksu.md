@@ -2,9 +2,6 @@
 title: Kongguksu (Cold Soy Milk Noodle Soup)
 slug: kongguksu
 subtitle: Thin wheat noodles submerged in a silky, chilled soybean broth with a nutty sweetness
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes (plus overnight soaking)
 cook_time: 20 minutes
@@ -153,9 +150,3 @@ Kongguksu is typically served as a standalone summer meal. It needs little accom
 **Assembled dish:** Cannot be stored. The noodles absorb the broth quickly.
 
 **Freezing:** The unseasoned soy broth can be frozen for up to 1 month. Thaw in the refrigerator and stir well before serving. Season after thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the traditional Korean method for kongguksu, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The emphasis on skinning the soybeans and blending with sesame seeds reflects the approach most commonly associated with the refined, smooth version of this dish served in Korean restaurants during summer.

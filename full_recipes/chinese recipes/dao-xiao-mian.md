@@ -2,9 +2,6 @@
 title: Dao Xiao Mian (Knife-Cut Noodles, 刀削面)
 slug: dao-xiao-mian
 subtitle: Thick, chewy hand-shaved noodles from Shanxi province served in a hearty meat sauce
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/knife-cut-noodles/
-source_author: Wei Guo
 yield: 4 servings
 prep_time: 45 minutes (plus 30 minutes resting)
 cook_time: 30 minutes
@@ -151,9 +148,3 @@ For a noodle-focused dinner showcasing different Chinese noodle traditions, serv
 **Meat sauce:** Keeps in an airtight container in the refrigerator for up to 4 days and freezes well for up to 2 months. Reheat in a wok or saucepan over medium heat, adding a splash of water if the sauce has thickened.
 
 **Cooked noodles:** Best eaten immediately. Leftover cooked noodles can be stir-fried the next day with vegetables and sauce, but they will lose their characteristic chew.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's knife-cut noodle recipe at Red House Spice (redhousespice.com), which provides clear guidance on the dough hydration and shaving technique. The meat sauce approach and the addition of wood ear mushrooms and tomato draw from the northern Chinese noodle tradition documented across multiple sources. The hand-pulled noodle techniques referenced for comparison come from The Woks of Life (thewoksoflife.com).

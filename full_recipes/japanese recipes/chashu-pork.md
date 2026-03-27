@@ -2,9 +2,6 @@
 title: Chashu Pork (チャーシュー)
 slug: chashu-pork
 subtitle: Pork belly simmered low and slow in soy sauce, sake, ginger, and garlic until meltingly tender, the essential ramen topping
-source_name: Tess's Japanese Kitchen
-source_url: https://1tess.wordpress.com/2008/05/03/ramen-toppings-chashu/
-source_author: Tess (adapted from Ms. Shimbo)
 yield: 6 to 8 servings
 prep_time: 10 minutes
 cook_time: 1 hour
@@ -126,9 +123,3 @@ The primary home for chashu is on top of a bowl of ramen, alongside [Ramen Eggs]
 **Reheating:** Warm slices in the braising liquid over low heat, or sear briefly in a hot dry pan. For ramen, the hot broth will warm the slices through.
 
 **Freezing:** Freezes well for up to 3 months, either in the braising liquid or sliced and vacuum-sealed. Thaw overnight in the refrigerator.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Tess's chashu at Tess's Japanese Kitchen (1tess.wordpress.com), itself based on Ms. Shimbo's recipe. The braising method, ingredient proportions, and the emphasis on saving the braising liquid for ramen eggs and ramen broth are from her approach.

@@ -2,9 +2,6 @@
 title: Hong Zao Ji Tang (Red Date Chicken Soup)
 slug: hong-zao-ji-tang
 subtitle: A sweet, deeply nourishing broth where red dates and dried longan perfume every spoonful
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/red-date-chicken-soup/
-source_author: The Woks of Life
 yield: 4 to 6 servings
 prep_time: 15 minutes
 cook_time: 2 hours
@@ -141,9 +138,3 @@ A small dish of soy sauce with sliced ginger on the side makes a good dip for th
 The soup keeps well in the refrigerator for up to 4 days. A layer of fat will solidify on the surface when cold and can be lifted off before reheating. Reheat gently on the stovetop over medium-low heat. Avoid a hard boil, which can turn the broth cloudy and cause the dates to disintegrate.
 
 The broth freezes well for up to 3 months. Store in portion-sized containers for easy weeknight meals. The chicken is best eaten fresh rather than frozen, as the texture suffers with freezing.
-
----
-
-## Source Acknowledgment
-
-Recipe draws on traditional red date chicken soup preparations as documented by The Woks of Life (thewoksoflife.com), Souper Diaries (souperdiaries.com), and Omnivore's Cookbook (omnivorescookbook.com). Ingredient proportions and method refined for clarity and home-kitchen application.

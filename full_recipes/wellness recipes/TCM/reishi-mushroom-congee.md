@@ -2,7 +2,6 @@
 title: Reishi Mushroom Congee
 slug: reishi-mushroom-congee
 subtitle: The restorative Chinese rice porridge, made medicinal
-source_name: Traditional Chinese Medicine Preparation
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 90 minutes

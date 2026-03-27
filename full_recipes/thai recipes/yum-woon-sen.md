@@ -2,9 +2,6 @@
 title: Yum Woon Sen (ยำวุ้นเส้น)
 slug: yum-woon-sen
 subtitle: Tangy glass noodle salad with minced pork, shrimp, and a bright lime-chili-fish sauce dressing
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 10 minutes
@@ -144,9 +141,3 @@ As part of a larger meal, yum woon sen pairs well with richer dishes like [khao 
 **Prep ahead:** The dressing can be made several hours ahead. The proteins can be cooked and cooled. Assemble just before serving for the best texture.
 
 **Not suitable for freezing.**
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Thai approach to yum woon sen, a glass noodle salad found across Thailand in both home kitchens and street stalls. The dressing formula and technique draw from Thai cooking references including Pailin Chongchitnant at Hot Thai Kitchen (hot-thai-kitchen.com) and the yum salad traditions described in David Thompson's Thai Food. The emphasis on the sour-salt-sweet-heat balance and the use of roasted chili powder reflect the core principles of Thai yum cookery.

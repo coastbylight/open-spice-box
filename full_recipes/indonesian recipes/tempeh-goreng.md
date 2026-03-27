@@ -2,9 +2,6 @@
 title: Tempe Goreng (Indonesian Fried Tempeh)
 slug: tempeh-goreng
 subtitle: Crispy, golden tempeh marinated in turmeric, garlic, and coriander
-source_name: Daily Cooking Quest
-source_url: https://dailycookingquest.com/tempe-goreng-indonesian-fried-tempeh.html
-source_author: Anita Jacobson
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -139,9 +136,3 @@ On its own, tempe goreng makes an excellent snack with sliced bird's eye chilies
 **Reheating:** For the best texture, reheat in a dry skillet over medium heat for 2 to 3 minutes per side, or in a 180C oven for 5 to 7 minutes until the surface crisps again. Avoid the microwave if possible, as it will make the coating rubbery. A brief re-fry in a small amount of oil also works well and restores much of the original crunch.
 
 **Freezer:** Fried tempeh can be frozen in a single layer on a baking sheet, then transferred to a freezer bag once solid. It keeps for up to 1 month. Reheat directly from frozen in the oven at 180C for about 10 minutes.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Daily Cooking Quest (dailycookingquest.com) by Anita Jacobson, whose tempe goreng recipe uses a classic Javanese marinade of garlic, coriander seeds, turmeric, and salt thinned with water before frying. The spice paste proportions and marination technique from Cook Me Indonesian (cookmeindonesian.com) confirmed the traditional approach and provided additional detail on the pounding method and frying time. The sambal goreng tempeh variation was informed by What To Cook Today (whattocooktoday.com), which adds tamarind paste, palm sugar, and peanuts for a saucier, spicier interpretation of the dish.

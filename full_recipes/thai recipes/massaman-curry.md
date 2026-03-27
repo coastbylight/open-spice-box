@@ -2,9 +2,6 @@
 title: Massaman Curry (Gaeng Massaman)
 slug: massaman-curry
 subtitle: A thick, aromatic Thai curry of braised chicken, tender potatoes, and roasted peanuts in spiced coconut milk with cinnamon, cardamom, and tamarind
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/massaman-curry/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 25 minutes
 cook_time: 60 minutes
@@ -169,9 +166,3 @@ Massaman curry is a complete one-pot meal over jasmine rice and needs very littl
 **Freezing:** The curry freezes well for up to 3 months. The potatoes will soften slightly on thawing but remain acceptable. For best results, freeze the sauce and chicken without the potatoes, then cook fresh potatoes when you reheat. Thaw overnight in the refrigerator before reheating on the stovetop.
 
 **Curry paste:** The spice paste can be made ahead and frozen in portions. It keeps for up to 6 months in the freezer and thaws quickly at room temperature.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's authentic Thai Massaman Curry at Hot Thai Kitchen (hot-thai-kitchen.com), whose semi-homemade curry paste technique forms the backbone of the method. The optional chicken browning step, star anise addition, and beef braising variation are drawn from Nagi Maehashi's from-scratch version at RecipeTinEats (recipetineats.com), which also informed the charring technique noted in variations. The cinnamon quill in the simmering sauce and the emphasis on reducing braising liquid for concentrated flavor reflect the approach used by J. Kenji Lopez-Alt at Serious Eats (seriouseats.com).

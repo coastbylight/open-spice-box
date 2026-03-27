@@ -2,9 +2,6 @@
 title: Chinese Tea Eggs (茶叶蛋)
 slug: chinese-tea-eggs
 subtitle: Soft-boiled eggs marbled with a fragrant brine of black tea, star anise, cinnamon, and soy sauce, soaked overnight for deep flavor
-source_name: The Woks of Life
-source_url: https://thewoksoflife.com/chinese-tea-eggs/
-source_author: Judy
 yield: 12 eggs
 prep_time: 1 day
 cook_time: 15 minutes
@@ -133,9 +130,3 @@ Tea eggs are a snack, a breakfast component, or a topping. Eat them on their own
 **Serving temperature:** Tea eggs are traditionally eaten at room temperature or cold. They do not need reheating, though warming them briefly in the brine is an option if you prefer them warm.
 
 **Freezing:** Not recommended. The egg white becomes rubbery when frozen and thawed.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Judy's Chinese tea eggs at The Woks of Life (thewoksoflife.com), using her soft-yolk technique with a 7-minute boil and ice bath. The brine composition and soaking method follow her proportions. The traditional fully hard-cooked variation is noted for those who prefer the classic texture.

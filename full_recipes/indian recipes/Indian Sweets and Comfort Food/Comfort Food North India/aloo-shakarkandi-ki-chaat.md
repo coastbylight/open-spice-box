@@ -2,7 +2,6 @@
 title: Aloo Shakarkandi Ki Chaat
 slug: aloo-shakarkandi-ki-chaat
 subtitle: Golden-fried potato and sweet potato tossed in ghee with tamarind, black salt, and saunth chutney
-source_name: Traditional North Indian Street Food
 cuisine: North Indian
 course: Snack
 difficulty: Easy

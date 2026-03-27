@@ -2,7 +2,6 @@
 title: Kalakand
 slug: kalakand
 subtitle: Alwar's Crumbly Grainy Milk Fudge
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Dessert
 difficulty: Intermediate

@@ -2,9 +2,6 @@
 title: Sayur Lodeh
 slug: sayur-lodeh
 subtitle: Mixed vegetables simmered in a fragrant coconut milk broth with turmeric, lemongrass, and shrimp paste
-source_name: Nomadette
-source_url: https://nomadette.com/sayur-lodeh/
-source_author: Sha
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -159,9 +156,3 @@ For a more complete Malay table, serve alongside [Gulai Ayam](/recipes/gulai-aya
 **To freeze:** Sayur lodeh can be frozen for up to 1 month, though the coconut milk may split slightly upon thawing, giving the broth a grainy appearance. The flavor will not be affected. Stir well during reheating to bring the texture back together.
 
 **A note on leafy greens:** If you have added cabbage or kangkung, be aware that they will soften further with each reheating. If you plan to store leftovers for several days, consider adding leafy vegetables fresh to individual portions rather than to the whole pot.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Sha's sayur lodeh recipe at Nomadette (nomadette.com), which provides clear proportions for the base paste and a practical staged approach to adding vegetables. The guidance on coconut milk handling, including adding it at the end over low heat and stirring in one direction to prevent curdling, follows Sha's method closely. Additional context on the Javanese origins of the dish and the distinction between Indonesian and Malaysian-Singaporean versions reflects information from The MeatMen (themeatmen.sg), whose lontong sayur lodeh recipe emphasizes the festive role of the dish alongside compressed rice cakes. The Rasa Malaysia source was unavailable at the time of writing but is acknowledged for its broader influence on accessible Malaysian recipe documentation online.

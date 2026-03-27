@@ -2,9 +2,6 @@
 title: Mutton Keema
 slug: mutton-keema
 subtitle: Spiced minced mutton cooked down with onions, tomatoes, and whole green chillies
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 45 minutes
@@ -146,9 +143,3 @@ Keema is one of the most versatile dishes in the Punjabi kitchen. The most commo
 ## Storage and Reheating
 
 Keema stores exceptionally well: 4 days in the refrigerator and up to 3 months in the freezer. It reheats beautifully over medium heat with a small splash of water, and many consider it better the next day as the spices have had time to meld. Freeze in portions for quick weeknight meals. The dry nature of the dish means it thaws and reheats without becoming watery or losing texture.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the home cooking tradition of Punjab, where keema is everyday food, made in large batches and served across multiple meals. The preparation is common across Muslim, Sikh, and Hindu non-vegetarian households in the region, with variations in spicing reflecting family and community preferences.

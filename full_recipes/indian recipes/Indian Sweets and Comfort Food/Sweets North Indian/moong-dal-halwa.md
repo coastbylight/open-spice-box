@@ -2,7 +2,6 @@
 title: Moong Dal Halwa
 slug: moong-dal-halwa
 subtitle: Rajasthani Winter Halwa of Slow-Roasted Ground Moong Dal
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani / North Indian
 course: Dessert
 difficulty: Intermediate

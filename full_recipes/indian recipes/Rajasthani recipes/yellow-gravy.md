@@ -2,7 +2,6 @@
 title: Yellow Gravy
 slug: yellow-gravy
 subtitle: A mild, golden onion, cashew, and yoghurt base for Rajasthani vegetarian dishes
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Sauce
 difficulty: Medium

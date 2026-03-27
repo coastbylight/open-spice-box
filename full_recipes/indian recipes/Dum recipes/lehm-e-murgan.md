@@ -2,7 +2,6 @@
 title: Lehm e Murgan
 slug: lehm-e-murgan
 subtitle: Awadhi lamb in a rich paste of fried nuts, coconut, and poppy seeds, finished with kewra
-source_name: Traditional Awadhi Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Involved

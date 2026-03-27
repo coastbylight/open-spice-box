@@ -2,7 +2,6 @@
 title: Narali Bhaat
 slug: narali-bhaat
 subtitle: Sweet coconut rice made on Narali Purnima — rice with fresh coconut, jaggery, cloves and pure ghee
-source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Dessert / Rice
 difficulty: Easy

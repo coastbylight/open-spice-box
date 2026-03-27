@@ -2,7 +2,6 @@
 title: Khattu Meethu Estew
 slug: khattu-meethu-estew
 subtitle: Parsi sweet-and-sour vegetable stew with vinegar, sugar, and seasonal vegetables
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Easy

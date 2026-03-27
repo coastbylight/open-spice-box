@@ -2,9 +2,6 @@
 title: Mulligatawny Soup
 slug: mulligatawny-soup
 subtitle: The Anglo-Indian pepper water soup, a colonial adaptation of Tamil rasam thickened with butter, rice, apple, and cream, with chicken or any protein you like
-source_name: Family Recipe
-source_url:
-source_author:
 yield: 6 to 8 servings
 prep_time: 15 minutes
 cook_time: 45 minutes
@@ -142,9 +139,3 @@ Mulligatawny is a meal in a bowl. Serve it with crusty bread, warm naan, or a si
 **Reheating:** Warm gently over medium-low heat, adding a splash of broth or water to thin the soup back to its original consistency. If you added cream originally, add a little more when reheating to refresh the richness.
 
 **Freezing:** Freezes well for up to 3 months. The rice will soften further when thawed but the overall texture remains good. For best results, freeze before adding cream and add fresh cream when reheating.
-
----
-
-## Source Acknowledgment
-
-This is a family recipe in the Anglo-Indian tradition, cross-referenced against historical and modern mulligatawny recipes. The Tamil etymology (milagu thanni / pepper water) and the colonial evolution from rasam to soup are well-documented in food history. The butter-flour roux, curry powder, apple, and cream reflect the dish as it was adapted in British colonial kitchens and brought back to England, where it became a Victorian-era staple.

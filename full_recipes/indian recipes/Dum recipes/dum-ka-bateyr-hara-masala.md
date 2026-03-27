@@ -2,7 +2,6 @@
 title: Dum Ka Bateyr Hara Masala
 slug: dum-ka-bateyr-hara-masala
 subtitle: Quail in a vivid green herb-spinach sauce, finished on dum
-source_name: Traditional Indian Recipe
 cuisine: Indian, Mughlai
 course: Main Course
 difficulty: Intermediate

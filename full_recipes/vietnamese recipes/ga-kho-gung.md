@@ -2,9 +2,6 @@
 title: Ga Kho Gung (Vietnamese Caramelized Ginger Chicken)
 slug: ga-kho-gung
 subtitle: Chicken braised in caramel sauce with a generous hand of ginger, fish sauce, and black pepper until glossy and deeply savory
-source_name: Vicky Pham
-source_url: https://www.vickypham.com/blog/ga-kho-gung
-source_author: Vicky Pham
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 40 minutes
@@ -168,9 +165,3 @@ A plate of steamed or stir-fried greens, water spinach (rau muong) or bok choy, 
 **Reheating:** Warm gently on the stovetop over medium-low heat, adding a splash of water if the sauce has reduced too much. Spoon the sauce over the chicken as it warms. Avoid high heat, which can cause the caramel to scorch on the bottom of the pot. Microwave reheating works in 30-second intervals, stirring between each.
 
 **Freezing:** Ga kho gung freezes well for up to 2 months. The sauce protects the chicken from freezer burn. Thaw overnight in the refrigerator before reheating on the stovetop. The texture of the ginger slices may soften slightly after freezing but the flavor remains intact.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Vicky Pham's ga kho gung at vickypham.com, whose straightforward approach, generous use of ginger, and emphasis on a proper dark caramel form the backbone of the method. Hungry Huy's version at hungryhuy.com contributed proportions for the braising liquid and the technique of marinating the chicken with black pepper and fish sauce before cooking. Runaway Rice's caramelized chicken and ginger at runawayrice.com was consulted as a reference for the caramel method and finishing technique, though the original page was unavailable at the time of writing.

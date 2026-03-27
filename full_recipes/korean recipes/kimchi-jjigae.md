@@ -2,9 +2,6 @@
 title: Kimchi Jjigae (Kimchi Stew)
 slug: kimchi-jjigae
 subtitle: A tangy, fiery stew made with well-fermented kimchi, pork belly, and tofu that gets better with age
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/kimchi-jjigae
-source_author: Maangchi
 yield: 2 to 3 servings
 prep_time: 10 minutes
 cook_time: 30 minutes
@@ -141,9 +138,3 @@ Kimchi jjigae is one of those stews that improves with time. Store in an airtigh
 Reheat on the stovetop over medium heat until bubbling. Add a splash of water if the broth has thickened. The tofu may become slightly denser after sitting, which some people prefer.
 
 The stew can be frozen for up to 2 months, though the tofu will develop a spongier texture after freezing. Consider freezing the stew base without tofu and adding fresh tofu when reheating.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary technique and serving notes from Korean Bapsang (koreanbapsang.com). Method and proportions refined for home-kitchen application.

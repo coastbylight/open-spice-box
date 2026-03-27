@@ -2,7 +2,6 @@
 title: Sooterfeni
 slug: sooterfeni
 subtitle: Deep-fried shredded phyllo circles soaked in saffron sugar syrup with pistachios
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Medium

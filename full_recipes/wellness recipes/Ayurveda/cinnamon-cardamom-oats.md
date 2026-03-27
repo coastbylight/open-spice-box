@@ -2,7 +2,6 @@
 title: Cinnamon Cardamom Oats
 slug: cinnamon-cardamom-oats
 subtitle: A warming Ayurvedic breakfast that earns its place in the morning
-source_name: Traditional Ayurvedic Dinacharya Practice
 yield: 1 serving
 prep_time: 2 minutes
 cook_time: 8 minutes

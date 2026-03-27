@@ -2,9 +2,6 @@
 title: Dong Gua Tang (Winter Melon Soup)
 slug: dong-gua-tang
 subtitle: A light, cooling broth where tender winter melon dissolves into pork-scented clarity
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/winter-melon-soup/
-source_author: The Woks of Life
 yield: 6 to 8 servings
 prep_time: 15 minutes (plus 1 hour soaking)
 cook_time: 2 hours
@@ -146,9 +143,3 @@ The soup keeps in the refrigerator for up to 3 days. The winter melon will conti
 Reheat gently on the stovetop over medium-low heat. The winter melon is delicate and will break apart if boiled vigorously.
 
 This soup does not freeze particularly well. The winter melon turns spongy and waterlogged after thawing. If you want to freeze the broth for later use, strain out the melon and ribs first, and add fresh winter melon when you reheat.
-
----
-
-## Source Acknowledgment
-
-Recipe draws on traditional winter melon soup preparations as documented by The Woks of Life (thewoksoflife.com), Omnivore's Cookbook (omnivorescookbook.com), and Souper Diaries (souperdiaries.com). Ingredient proportions and method refined for clarity and home-kitchen application.

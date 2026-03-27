@@ -2,7 +2,6 @@
 title: Prawn Pulao
 slug: prawn-pulao
 subtitle: Goan basmati rice cooked in prawn stock with tomato and whole spices
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Medium

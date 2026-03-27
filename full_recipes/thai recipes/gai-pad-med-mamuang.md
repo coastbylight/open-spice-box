@@ -2,9 +2,6 @@
 title: Gai Pad Med Mamuang (ไก่ผัดเม็ดมะม่วงหิมพานต์)
 slug: gai-pad-med-mamuang
 subtitle: Thai cashew chicken stir-fried with roasted chilies, onion, and a sweet-savory soy glaze
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -145,9 +142,3 @@ It also pairs well with [pad prik king](/recipes/pad-prik-king) for a two-stir-f
 **Freezer:** The dish without cashews freezes well for up to 1 month. Add fresh cashews after reheating.
 
 **Prep ahead:** The sauce can be mixed, the chicken cut, and the vegetables prepped a day ahead. Refrigerate separately.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Thai approach to gai pad med mamuang, a Chinese-influenced stir-fry adapted with Thai seasonings including fish sauce and palm sugar. The technique of frying dried chilies first to create an infused oil is a common Thai wok practice documented by Pailin Chongchitnant at Hot Thai Kitchen (hot-thai-kitchen.com) and in David Thompson's Thai Food. The emphasis on keeping the sauce thin and adding cashews at the very end reflects the Bangkok restaurant tradition.

@@ -2,9 +2,6 @@
 title: Sundubu Jjigae (Soft Tofu Stew)
 slug: sundubu-jjigae
 subtitle: A vibrant, spicy stew of silky soft tofu, seafood, and vegetables in a chili-red broth finished with a raw egg
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/sundubu-jjigae
-source_author: Maangchi
 yield: 2 servings
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -150,9 +147,3 @@ Sundubu jjigae is best eaten immediately. The tofu loses its delicate texture as
 The chili base (without broth, tofu, or seafood) can be prepared ahead and stored in the refrigerator for up to 3 days. When ready to eat, add the broth, bring to a boil, and add the tofu, seafood, and egg fresh.
 
 This stew does not freeze well due to the tofu and seafood.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary ingredient details and seafood preparation from My Korean Kitchen (mykoreankitchen.com). Proportions and method streamlined for home-kitchen application.

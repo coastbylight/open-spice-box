@@ -2,9 +2,6 @@
 title: Dan Ta (Chinese Egg Tarts)
 slug: chinese-egg-tarts
 subtitle: Flaky, buttery pastry shells filled with a smooth, silky egg custard, baked until just set
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 12 tarts
 prep_time: 40 minutes (plus chilling)
 cook_time: 20 minutes
@@ -145,9 +142,3 @@ Serve warm from the oven as a dessert, afternoon snack, or part of a dim sum spr
 ## Storage and Reheating
 
 Egg tarts are best eaten the day they are made. Store at room temperature for up to 4 hours if the weather is cool, or in the refrigerator for up to 2 days. The pastry will soften in the refrigerator. Reheat in a 180°C oven for 5 to 7 minutes to re-crisp the pastry and warm the custard. Do not microwave, as it will make the pastry soggy. Unbaked pastry shells can be frozen for up to 1 month and filled straight from the freezer, adding 2 to 3 extra minutes to the baking time.
-
----
-
-## Source Acknowledgment
-
-Chinese egg tarts draw on the Portuguese pastel de nata tradition filtered through Macanese and Hong Kong bakery culture. This recipe follows the Hong Kong bakery style, with the flaky shortcrust pastry and evaporated milk custard that is standard across Cantonese bing sutt and dim sum restaurants.

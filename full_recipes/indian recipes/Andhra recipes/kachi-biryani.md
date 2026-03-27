@@ -2,7 +2,6 @@
 title: Kachi Biryani
 slug: kachi-biryani
 subtitle: Raw meat, sealed fate — the most daring biryani technique
-source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved

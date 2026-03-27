@@ -2,7 +2,6 @@
 title: Roganjosh
 slug: roganjosh
 subtitle: Kashmir's Most Iconic Lamb Curry — Deep Red, Deeply Aromatic, No Tomatoes
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 1 hour 30 minutes
@@ -128,7 +127,3 @@ Serve over plain steamed Basmati rice or alongside plain naan or Kashmiri bread.
 ## Storage and Reheating
 
 Roganjosh improves on the second day as the spices meld further. Store in an airtight container in the refrigerator for up to 4 days. The fat will solidify on top when chilled — this is normal; stir it back in when reheating. Reheat gently on the stovetop over low heat with a splash of water to loosen if needed. Freezes well for up to 2 months; thaw overnight in the refrigerator and reheat gently.
-
-## Source Acknowledgment
-
-This recipe draws from the Wazwan tradition of Kashmir — the ceremonial feast tradition maintained by hereditary cooks called Wazas. Roganjosh is one of the most emblematic dishes of this tradition and of Kashmiri culinary identity. The method reflects the traditional approach documented through Kashmiri home cooking and restaurant practice across generations. Shared as part of the Ancient Pantry project — a living record of India's traditional culinary knowledge.

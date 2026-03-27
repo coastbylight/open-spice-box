@@ -2,7 +2,6 @@
 title: Vada Pav
 slug: vada-pav
 subtitle: Mumbai's essential street sandwich — spiced potato in a besan shell, three chutneys, soft pav
-source_name: Traditional Indian Recipe
 cuisine: Mumbai street food
 course: Street Food
 difficulty: Medium

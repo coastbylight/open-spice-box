@@ -2,9 +2,6 @@
 title: Pepes Ikan
 slug: pepes-ikan
 subtitle: Sundanese spiced fish steamed in banana leaf parcels
-source_name: Cook Me Indonesian
-source_url: https://www.cookmeindonesian.com/pepes-ikan-kembung-steamed-grilled-mackerel-in-banana-leaves/
-source_author: Cook Me Indonesian
 yield: Serves 4
 prep_time: 45 minutes
 cook_time: 35 minutes
@@ -167,9 +164,3 @@ Avoid microwaving if possible, as it can make the fish rubbery and causes the ba
 The uncooked spice paste (bumbu) can be made ahead and stored in the refrigerator for up to 3 days or frozen for up to 1 month. This makes weeknight pepes entirely practical. Simply rub the paste on fresh fish, wrap, and steam. The assembled but uncooked parcels can also be refrigerated for up to 8 hours before steaming, which makes this a good dish for entertaining.
 
 Do not freeze the cooked parcels, as the fish texture suffers during thawing and the kemangi turns dark and loses its fragrance.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Cook Me Indonesian's pepes ikan kembung at [Cook Me Indonesian](https://www.cookmeindonesian.com/pepes-ikan-kembung-steamed-grilled-mackerel-in-banana-leaves/), which provided the foundation for the spice paste composition, the steaming-then-grilling method, and the kemangi and salam leaf layering technique. The foodcomas treatment of pepes ikan at [food comas](https://foodcomas.com/2013/05/31/pepes-ikan/), based on a recipe by I Nyoman Sudiyasa of Sate Bali, contributed the emphasis on a longer marination and the Balinese variation using tamarind and black pepper. Asian Inspirations' Indonesian grilled fish in banana leaves at [Asian Inspirations](https://asianinspirations.com.au/recipes/indonesian-grilled-fish-in-banana-leaves-pepes-ikan/) informed the note on scalding banana leaves before wrapping and the option to use coconut milk in the paste.

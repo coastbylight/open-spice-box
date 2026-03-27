@@ -2,9 +2,6 @@
 title: Larb Gai (ลาบไก่)
 slug: larb-gai
 subtitle: Ground chicken lettuce wraps with lime, fish sauce, mint, cilantro, and lemongrass, finished with toasted rice powder and crushed peanuts
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/thai-chicken-lettuce-cups-larb-gai-laab-gai/
-source_author: Nagi
 yield: 2 to 3 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -152,9 +149,3 @@ As a starter, one or two lettuce cups per person with the rest of a Thai meal: g
 **Reheating:** Warm the filling in a wok or skillet over medium heat for 1 to 2 minutes. Add a squeeze of fresh lime juice after reheating to brighten the flavors.
 
 **Freezing:** The cooked filling (without herbs or lettuce) freezes well for up to 2 months. Thaw overnight and reheat in a skillet. Add fresh herbs, onion, and lime juice when serving.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Nagi's Thai lettuce wraps at RecipeTin Eats (recipetineats.com), following her sauce proportions and stir-fry sequence. The toasted rice powder method is the traditional Thai technique she references in her notes. Lemongrass and herb quantities follow her original.

@@ -2,9 +2,6 @@
 title: Chicken Rendang (Rendang Ayam)
 slug: chicken-rendang
 subtitle: A slow-simmered Malaysian coconut chicken stew cooked down to a dry, intensely fragrant paste of chilies, lemongrass, galangal, and toasted coconut
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/chicken-rendang/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 1 hour
@@ -177,9 +174,3 @@ For a larger Southeast Asian table, pair the chicken rendang with [laksa](/recip
 **Reheating:** Warm gently on the stovetop over medium-low heat, stirring occasionally. Add a small splash of water only if the sauce has tightened beyond a thick coating. Avoid high heat, which can scorch the concentrated paste. Microwave reheating works but stir halfway through to distribute heat evenly.
 
 **Freezing:** Rendang freezes well for up to 3 months. Portion into airtight containers or zip-lock bags, pressing out excess air. Thaw overnight in the refrigerator and reheat on the stovetop. The low moisture content means the texture holds up better than most braised dishes after freezing.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Bee Yinn Low's chicken rendang at Rasa Malaysia (rasamalaysia.com), whose emphasis on kerisik, whole spice aromatics, and the importance of slow reduction to a dry finish forms the backbone of the method. The spice paste proportions and browning-before-braising technique draw from Nagi Maehashi's rendang approach at RecipeTinEats (recipetineats.com), which also informed the note on tamarind as an optional balancing acid. The yogurt variation is adapted from The MeatMen's healthier chicken rendang (themeatmen.sg), which substitutes part of the coconut milk with yogurt and coconut oil. Ingredient quantities have been converted to metric and adjusted for consistency.

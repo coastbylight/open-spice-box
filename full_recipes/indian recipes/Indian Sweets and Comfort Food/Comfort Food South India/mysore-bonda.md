@@ -2,7 +2,6 @@
 title: Mysore Bonda
 slug: mysore-bonda
 subtitle: South Karnataka's Pillowy Urad Dal Dumplings
-source_name: Traditional Indian Recipe
 cuisine: South Indian (Karnataka)
 course: Snack
 difficulty: Easy

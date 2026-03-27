@@ -2,9 +2,6 @@
 title: Jianbing (Chinese Breakfast Crepe)
 slug: jianbing
 subtitle: A crispy, savory street food crepe with egg, scallion, cilantro, hoisin, and a crunchy fried cracker
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 crepes
 prep_time: 15 minutes
 cook_time: 20 minutes
@@ -145,9 +142,3 @@ Jianbing is a complete breakfast on its own, designed to be eaten on the go. It 
 ## Storage and Reheating
 
 Jianbing is strictly an eat-now food. The cracker inside begins to soften within minutes of assembly, and the crepe loses its crispness as it cools. The batter can be made up to 1 day ahead and refrigerated, and the fried crackers can be made several hours ahead and stored in an airtight container. But the final assembly and cooking must happen just before eating. There is no way to reheat a jianbing and restore its original texture.
-
----
-
-## Source Acknowledgment
-
-Jianbing is one of China's most iconic street foods, originating in Shandong province and now found across the country. This recipe adapts the street vendor technique for home cooking, using a standard skillet in place of the large round griddle used by vendors.

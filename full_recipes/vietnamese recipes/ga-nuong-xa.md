@@ -2,9 +2,6 @@
 title: Ga Nuong Xa (Vietnamese Grilled Lemongrass Chicken)
 slug: ga-nuong-xa
 subtitle: Charred, fragrant lemongrass chicken thighs with nuoc cham and fresh herbs
-source_name: Vicky Pham
-source_url: https://www.vickypham.com/blog/ga-nuong-xa
-source_author: Vicky Pham
 yield: 4 servings
 prep_time: 25 minutes (plus 2 hours marinating)
 cook_time: 15 minutes
@@ -181,9 +178,3 @@ For a Southeast Asian grill spread, serve alongside [gai yang](/recipes/gai-yang
 **Reheating:** For the best results, reheat chicken skin-side down in a hot skillet over medium heat for 3 to 4 minutes, then flip and cook for another 2 minutes. This re-crisps the skin and warms the meat through without drying it out. Alternatively, place on a rack over a sheet pan in a 190C (375F) oven for 8 to 10 minutes. If assembling a noodle bowl with leftover chicken, slicing it thin and serving at room temperature is perfectly acceptable, as the cool noodles and fresh vegetables keep the dish balanced.
 
 **Marinade:** The raw marinade (before contact with chicken) can be prepared up to 2 days ahead and refrigerated. This is helpful for weeknight cooking if you want to start the marination as soon as you get home.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Vicky Pham's ga nuong xa at Vicky Pham (vickypham.com), which uses a traditional pounded lemongrass, garlic, and shallot marinade with fish sauce and sugar for grilling bone-in chicken thighs. The sambal oelek addition and the stir-fry variation draw from Hungry Huy's Vietnamese spicy lemongrass chicken (hungryhuy.com), which introduces a sambal-fish sauce-coconut juice combination and a sauteed aromatics technique. The vermicelli bowl assembly, nuoc cham proportions, and noodle bowl component list are informed by Nagi Maehashi's Vietnamese chicken noodle bowl at RecipeTin Eats (recipetineats.com), which offers a well-tested ratio for the dipping sauce and a clear approach to layering the bowl.

@@ -2,9 +2,6 @@
 title: Gyeran Jjim (Steamed Egg)
 slug: gyeran-jjim
 subtitle: Fluffy, custard-soft steamed eggs seasoned with salted shrimp and green onion
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/gyeranjjim
-source_author: Maangchi
 yield: 2 servings
 prep_time: 5 minutes
 cook_time: 15 minutes
@@ -128,9 +125,3 @@ Gyeran jjim is a banchan (side dish) served alongside rice and other dishes. It 
 **Refrigerator:** Leftovers can be stored in a sealed container for 1 day, but the texture will change. The puffiness will not return upon reheating.
 
 **Reheating:** Warm gently in the microwave for 30 to 45 seconds. Cover with a damp paper towel to prevent the surface from drying out. Alternatively, re-steam in a covered pot for 3 to 4 minutes.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Maangchi (maangchi.com), whose gyeran jjim recipe provides both the microwave shortcut and the traditional stovetop steaming method. The story of her grandmother's gamasot technique and the spicy southern Korean variation are from her site. Supplementary details on the ttukbaegi (earthenware pot) restaurant-style version were informed by Korean Bapsang (koreanbapsang.com) and My Korean Kitchen (mykoreankitchen.com).

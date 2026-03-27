@@ -2,9 +2,6 @@
 title: Dan Dan Noodles (担担面)
 slug: dan-dan-noodles
 subtitle: Sichuan street noodles tossed in a fiery sesame and chili oil sauce with crispy seasoned pork
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/dan-dan-noodles/
-source_author: Judy Leung
 yield: 6 servings
 prep_time: 20 minutes
 cook_time: 30 minutes
@@ -159,9 +156,3 @@ For a Sichuan-themed dinner, serve alongside [Mapo Tofu](/recipes/mapo-tofu) and
 **Sauce:** Can be mixed in advance (minus the hot noodle water) and refrigerated for up to 3 days. Add the hot water just before serving.
 
 **Noodles:** Cook fresh each time. Cold leftover noodles can be repurposed by tossing with sauce for a cold noodle variation.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Judy Leung's dan dan noodle recipe at The Woks of Life (thewoksoflife.com), which provides the chili oil method and the pork seasoning approach. The sauce proportions and the addition of Chinkiang vinegar and fermented black beans draw from Maggie Zhu's version at Omnivore's Cookbook (omnivorescookbook.com). The emphasis on ya cai as a distinct topping and the two-serving format come from Wei Guo's recipe at Red House Spice (redhousespice.com).

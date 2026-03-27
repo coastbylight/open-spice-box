@@ -2,9 +2,6 @@
 title: Zaru Soba (Cold Soba Noodles)
 slug: zaru-soba
 subtitle: Chilled buckwheat noodles with a briny dashi dipping sauce, ready in fifteen minutes
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/zaru-soba-cold-soba-noodles/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -152,9 +149,3 @@ For a hot soba meal during cooler months, the kake soba variation above works we
 **Dried soba noodles:** Keep in a cool, dry pantry. They last for many months sealed in their original packaging.
 
 **Hot soba broth (kake soba):** Store separately from noodles in the refrigerator for up to 3 days. Reheat gently on the stove and cook fresh noodles just before serving.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose zaru soba recipe provides clear guidance on making homemade mentsuyu and achieving the ideal noodle texture. The kake soba (hot soba noodle soup) variation draws from her soba noodle soup and toshikoshi soba recipes on the same site. Her detailed notes on sobayu, noodle types, and the cultural context of toshikoshi soba informed the variations and headnote above.

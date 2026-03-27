@@ -2,9 +2,6 @@
 title: Hobak Jeon (Pan-Fried Zucchini)
 slug: hobak-jeon
 subtitle: Thin zucchini rounds dipped in egg and pan-fried to a gentle golden finish
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings (as banchan)
 prep_time: 10 minutes
 cook_time: 15 minutes
@@ -144,9 +141,3 @@ Hobak jeon is a banchan side dish, served alongside rice, soup, and other small 
 **Reheating:** Warm in a dry skillet over medium heat for 1 to 2 minutes per side to restore some crispness. An oven at 180°C for 5 minutes also works. Microwaving softens the egg coating.
 
 **Not ideal for freezing:** The zucchini releases water when thawed, making the texture soggy.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the basic Korean jeon technique practiced in households across Korea, documented by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). Hobak jeon is one of the most fundamental banchan preparations and requires no specialized ingredients or techniques beyond the simple flour-egg-fry method that defines Korean jeon cooking.

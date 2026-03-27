@@ -2,9 +2,6 @@
 title: Congee (Chinese Rice Porridge)
 slug: congee
 subtitle: The simplest, most comforting food in the Chinese kitchen, slow-simmered until creamy and silky
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/how-to-make-congee/
-source_author: The Woks of Life
 yield: 6 servings
 prep_time: 5 minutes
 cook_time: 40 minutes
@@ -141,9 +138,3 @@ Plain congee is traditionally served as part of a Chinese breakfast alongside pi
 **Make-ahead tip:** If planning to eat the congee the next day, slightly increase the water when cooking to account for thickening. Stop cooking when the congee is slightly thinner than your target consistency.
 
 **Freezing:** Congee freezes well in individual portions for up to 1 month. Thaw in the refrigerator overnight and reheat on the stovetop with added water.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from The Woks of Life's congee guide (thewoksoflife.com). The freezer shortcut method and rice-to-water ratio recommendations are from Wei Guo's comprehensive congee guide at Red House Spice (redhousespice.com). Topping and variation ideas are informed by traditional Chinese breakfast practices common across multiple regions.

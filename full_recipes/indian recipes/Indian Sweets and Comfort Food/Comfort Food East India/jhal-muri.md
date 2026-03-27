@@ -2,7 +2,6 @@
 title: Jhal Muri
 slug: jhal-muri
 subtitle: Bengali spiced puffed rice tossed with mustard oil, chilli, potato, and raw coconut
-source_name: Traditional Bengali Street Food
 cuisine: Bengali
 course: Snack
 difficulty: Easy

@@ -2,9 +2,6 @@
 title: Sup Kambing
 slug: sup-kambing
 subtitle: A deeply spiced Malaysian mutton soup simmered with cinnamon, cardamom, and star anise until the broth turns golden and the meat falls from the bone
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/sup-kambing/
-source_author: Bee Yinn Low
 yield: 6 servings
 prep_time: 30 minutes
 cook_time: 2 hours
@@ -179,9 +176,3 @@ Keep the condiments simple. Lime wedges, sliced chilies in soy sauce, and a bowl
 **Reheating:** Warm gently on the stovetop over medium-low heat, stirring occasionally. Add a splash of hot water if the broth has thickened or reduced too much. Avoid a rolling boil, which can cause the meat to dry out and the vegetables to fall apart. Microwave reheating works in short intervals, stirring between each.
 
 **Freezing:** Sup kambing freezes well for up to 3 months. For best results, freeze the broth and meat without the vegetables (celery and tomatoes become mushy on thawing). Portion into individual containers for easy reheating. Thaw overnight in the refrigerator, then reheat on the stovetop and add fresh vegetables for the final simmer.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the sup kambing tradition as documented by Bee Yinn Low at Rasa Malaysia (rasamalaysia.com), whose accessible approach to Malaysian home cooking informed the spice proportions and general method. The MeatMen (themeatmen.sg) contributed guidance on the Singaporean Mamak-style preparation, particularly the emphasis on bone-in cuts and extended simmering for gelatin extraction. Nomadette (nomadette.com) provided additional perspective on the aromatic base and serving tradition. The original pages from all three sources were unavailable at the time of writing. Background on the dish's cultural history and regional variations draws on the Wikipedia entry for sup kambing and Wendy Hutton's work in Singapore Food (Marshall Cavendish, 2007). The blanching technique and spice-toasting method are standard across Malaysian and Indian mutton soup traditions.

@@ -2,9 +2,6 @@
 title: Pho Ga (Phở Gà)
 slug: pho-ga
 subtitle: Vietnamese chicken noodle soup with charred ginger and onion, warm spices, and a clear golden broth ladled over rice noodles and fresh herbs
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/vietnamese-chicken-pho-soup-pho-ga/
-source_author: Nagi Maehashi
 yield: 4 to 6 servings
 prep_time: 15 minutes
 cook_time: 1 hour 30 minutes
@@ -162,9 +159,3 @@ Pho ga is a complete meal in itself, needing nothing more than the herb plate an
 **Freezing:** The broth freezes well for up to 3 months. Freeze in 375 ml portions (one bowl's worth) for easy weeknight meals. Thaw in the refrigerator overnight or gently in a saucepan over low heat. The shredded chicken freezes less gracefully but is acceptable for up to 1 month if well wrapped.
 
 **Noodles:** Cook rice noodles fresh each time you serve. They do not store or reheat well once cooked. Dried noodles in the pantry mean you are always 10 minutes from a fresh bowl as long as you have broth in the freezer.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Nagi Maehashi's Vietnamese Chicken Pho at RecipeTin Eats (recipetineats.com), which provides the core broth technique, spice blend, and proportions. The blanching-for-clarity variation and whole-chicken method reflect Vicky Pham's traditional approach (vickypham.com), emphasizing the clean, delicate broth prized in Vietnamese home cooking. The pressure cooker variation draws from Daniel Gritzer's 30-minute pho ga technique at Serious Eats (seriouseats.com), demonstrating that time pressure need not mean flavour compromise.

@@ -2,7 +2,6 @@
 title: Patrani Machi
 slug: patrani-machi
 subtitle: Parsi Steamed Fish in Banana Leaf with Green Coconut Chutney
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 25 minutes
 cook_time: 20 minutes
@@ -162,9 +161,3 @@ Patrani machi is almost always served with plain white rice in Parsi homes. The 
 **Uncooked assembled parcels** can be refrigerated for up to 4 hours before steaming, making this an excellent prepare-ahead dish for entertaining.
 
 **The chutney alone** keeps refrigerated in an airtight container for 3 days. Useful as a dipping sauce or condiment.
-
----
-
-## Source Acknowledgment
-
-Patrani machi is a cornerstone of Parsi culinary heritage, associated with the Zoroastrian community of India (primarily in Gujarat and Mumbai) whose cooking traditions blend ancient Persian sensibility with the ingredients and techniques of the Indian west coast. The dish is documented in accounts of Parsi wedding feasts stretching back centuries and remains one of the most celebrated preparations in a cuisine known for its careful flavour balance. This recipe draws on the traditional methods preserved in Parsi homes and community cookbooks, adapted for a contemporary kitchen.

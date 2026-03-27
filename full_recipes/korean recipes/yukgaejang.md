@@ -2,9 +2,6 @@
 title: Yukgaejang (Spicy Beef and Vegetable Soup)
 slug: yukgaejang
 subtitle: A fiery, deeply flavored beef soup loaded with shredded meat, fernbrakes, bean sprouts, and scallions in a chili-red broth
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/yukgaejang
-source_author: Maangchi
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 1 hour 30 minutes
@@ -155,9 +152,3 @@ Yukgaejang stores beautifully and many people say it tastes even better the next
 Reheat on the stovetop over medium heat until bubbling. The chili color may deepen slightly as it sits, which is normal and desirable. Add a splash of water if the broth has thickened from the noodles or vegetables absorbing liquid.
 
 The broth without noodles freezes well for up to 3 months. Add fresh noodles and scallions when reheating from frozen.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary ingredient details and variations from Korean Bapsang (koreanbapsang.com). Seasoning proportions and vegetable preparation consolidated for home-kitchen clarity.

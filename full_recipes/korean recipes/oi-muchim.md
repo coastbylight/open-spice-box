@@ -2,9 +2,6 @@
 title: Oi Muchim (Spicy Cucumber Salad)
 slug: oi-muchim
 subtitle: Thinly sliced cucumbers tossed in a tangy gochugaru dressing with sesame and garlic
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/oi-muchim/
-source_author: Korean Bapsang
 yield: 4 servings
 prep_time: 5 minutes (plus 15 minutes salting)
 cook_time: 0 minutes
@@ -126,9 +123,3 @@ Oi muchim appears on nearly every Korean table as a banchan. It is an ideal comp
 **Refrigerator:** If necessary, store in a sealed container for up to 1 day. Drain any accumulated liquid before serving.
 
 **Freezer:** Not suitable for freezing.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Hyosun Ro at Korean Bapsang (koreanbapsang.com), whose oi muchim recipe emphasizes the importance of salting without squeezing for the best texture. Supplementary notes on cucumber varieties and dressing balance were informed by My Korean Kitchen (mykoreankitchen.com) and Maangchi (maangchi.com).

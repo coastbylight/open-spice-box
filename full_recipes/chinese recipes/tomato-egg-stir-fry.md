@@ -2,9 +2,6 @@
 title: Xi Hong Shi Chao Dan (Tomato Egg Stir-Fry)
 slug: tomato-egg-stir-fry
 subtitle: China's beloved home-cooked staple of silky scrambled eggs in a sweet-savory tomato sauce
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 3 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -138,9 +135,3 @@ This is a rice dish at its core. Spoon the tomato and egg mixture directly over 
 ## Storage and Reheating
 
 This dish is best eaten immediately, as the eggs will continue to firm up as they sit. Leftovers can be stored in an airtight container in the refrigerator for up to 2 days. Reheat gently in a skillet over medium-low heat, adding a splash of water to refresh the sauce. The eggs will not be as soft as when freshly made, but the flavor will still be excellent. Not recommended for freezing.
-
----
-
-## Source Acknowledgment
-
-This recipe represents one of the most universal dishes in Chinese home cooking. Every family has its own version, and this one draws on the common thread that connects them: simplicity, balance, and the principle of cooking each element to its best before bringing them together.

@@ -2,7 +2,6 @@
 title: Mysore Pak
 slug: mysore-pak
 subtitle: The Royal Sweet of Karnataka. Three Ingredients, One Legendary Texture
-source_name: Traditional Indian Recipe
 yield: 16–20 pieces
 prep_time: 10 minutes
 cook_time: 25 minutes
@@ -106,7 +105,3 @@ Serve at room temperature, arranged on a small plate or banana leaf. Mysore Pak 
 ## Storage and Reheating
 
 Store in an airtight container at room temperature for up to 5 days. In warm or humid climates, refrigerate after day 2. Bring to room temperature before eating. Cold Mysore Pak loses some of its melt-quality. Do not reheat; it is a set sweet and does not benefit from warming. Freezing is not recommended as it alters the texture.
-
-## Source Acknowledgment
-
-This recipe draws from the traditions of the Mysore Palace kitchens of Karnataka, where Mysore Pak is said to have been created for the Wodeyar royal family in the early 20th century. The method reflects the classic technique documented across generations of Kannada home cooks and sweet-makers. Shared as part of the Ancient Pantry project, a living record of India's traditional culinary knowledge.

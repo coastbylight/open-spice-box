@@ -2,9 +2,6 @@
 title: Khao Niao Mamuang (Thai Mango Sticky Rice)
 slug: mango-sticky-rice
 subtitle: Sweet coconut-soaked sticky rice with ripe mango, salted coconut cream, and crispy mung beans
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/mango-sticky-rice/
-source_author: Pailin Chongchitnant
 yield: 6 servings
 prep_time: 20 minutes (plus 4 hours soaking)
 cook_time: 40 minutes
@@ -161,9 +158,3 @@ Serve the rice at room temperature or slightly warm, never cold. Cold sticky ric
 **Mango:** Cut mango should be covered and refrigerated, where it keeps for 1 to 2 days. The flavor and texture deteriorate after that. Uncut ripe mangoes can be refrigerated whole for 3 to 4 days to slow ripening.
 
 **Freezing:** This dessert does not freeze well. The sticky rice becomes unpleasantly hard and grainy after thawing, and the mango releases water and turns mushy. Prepare fresh for the best experience.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Thai Mango and Sticky Rice at Hot Thai Kitchen (hot-thai-kitchen.com), whose steaming method, coconut syrup soaking technique, crispy mung bean preparation, and rice-flour-thickened coconut cream form the foundation of the recipe. The emphasis on pandan leaf in the coconut syrup and the resting and folding technique for even absorption reflect methods shared across multiple Thai cooking sources including RecipeTinEats (recipetineats.com) and Serious Eats (seriouseats.com). The detailed explanation of why hot syrup must meet hot rice draws from the Serious Eats approach to the science behind the dish.

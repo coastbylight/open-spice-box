@@ -2,9 +2,6 @@
 title: Pla Nueng Manao
 slug: pla-nueng-manao
 subtitle: Thai steamed fish with lime, garlic, and chili sauce
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/mark-wiens-pla-gapong-neung-manao/
-source_author: Pailin Chongchitnant
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -149,9 +146,3 @@ Always serve with plenty of steamed jasmine rice. The sauce is meant to be eaten
 Pla nueng manao is best eaten immediately after assembly. The sauce loses its bright, raw garlic edge and the lime juice flattens within a few hours. The steamed fish itself keeps well in a sealed container in the refrigerator for up to 2 days and can be gently reheated by steaming for 3 to 4 minutes or microwaving briefly with a damp paper towel over the top to prevent drying.
 
 If you have leftover fish, the best approach is to make a fresh batch of sauce. The sauce ingredients are inexpensive and take only 5 minutes to assemble. Pour the fresh sauce over the reheated fish and the dish will taste nearly as good as the first time. Do not freeze the assembled dish, as the fish texture degrades and the raw garlic develops off-flavours during thawing. The cooked fish without sauce can be frozen for up to 2 weeks if needed.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's steamed fish with lime and garlic sauce at [Hot Thai Kitchen](https://hot-thai-kitchen.com/mark-wiens-pla-gapong-neung-manao/), which provides the foundation for the sauce proportions, the lemongrass-stuffed fish technique, and the method of dissolving palm sugar in heated stock before combining with raw garlic and lime juice. Mark Wiens' detailed treatment of the dish at [Eating Thai Food](https://www.eatingthaifood.com/steamed-fish-with-lime-and-garlic-recipe/), which was developed in collaboration with Chongchitnant during a joint cooking session in Bangkok, contributed the emphasis on coarse-chopping garlic rather than mincing it fine, the note on using the sauce as a brothy soup eaten with rice, and the guidance on monitoring fish doneness by pressing the flesh. Leela Punyaratabandhu's discussion of the dish at [SheSimmers](https://shesimmers.com/2011/01/steamed-fish-with-lime-garlic-and-chilies-pla-nueng-ma-nao.html) informed the technique of adding the sauce after steaming rather than during, to prevent the lime juice from turning bitter under prolonged heat, and the recommendation to chop rather than pulverize the garlic and chilies for a cleaner, less overwhelming flavour.

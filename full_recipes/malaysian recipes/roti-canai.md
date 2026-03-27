@@ -2,9 +2,6 @@
 title: Roti Canai
 slug: roti-canai
 subtitle: Flaky, layered flatbread stretched paper-thin and cooked on a hot griddle until golden and crisp
-source_name: Traditional Malaysian Recipe
-source_url:
-source_author:
 yield: 8 pieces
 prep_time: 30 minutes (plus 4 hours resting)
 cook_time: 25 minutes
@@ -151,9 +148,3 @@ Roti canai also works beautifully as an accompaniment to richer Malaysian currie
 **Dough balls:** The oiled, rested dough balls can be refrigerated for up to 24 hours before stretching. This makes morning roti practical if you prepare the dough the night before.
 
 **Reheating:** A hot, dry skillet or griddle is the best reheating method. Give each side about 1 minute over medium-high heat. Avoid the microwave, which makes the bread rubbery.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional mamak-style roti canai technique of stretching dough to translucent thinness, folding for layers, and pan-frying on a hot griddle with ghee. The method and proportions draw from the approach documented by Malaysian food writers including Bee Yinn Low at Rasa Malaysia (rasamalaysia.com) and the mamak stall traditions described by Leslie Tay at ieatishootipost.sg. The inclusion of condensed milk in the dough is a standard Malaysian adaptation that distinguishes roti canai from its South Indian parotta ancestor.

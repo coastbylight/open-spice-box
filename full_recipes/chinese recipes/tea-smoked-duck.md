@@ -2,9 +2,6 @@
 title: Tea-Smoked Duck
 slug: tea-smoked-duck
 subtitle: Sichuan-style duck brined with star anise and Sichuan peppercorn, then smoked over tea leaves and rice
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/tea-smoked-duck/
-source_author: Wei Guo
 yield: 4 to 6 servings
 prep_time: 30 minutes (plus overnight brining)
 cook_time: 1 hour 45 minutes
@@ -150,9 +147,3 @@ For a Sichuan-themed meal, serve alongside [Mapo Tofu](/recipes/mapo-tofu) and [
 **Freezer:** Wrap tightly and freeze for up to 2 months. Thaw overnight in the refrigerator.
 
 **Reheating:** Tea-smoked duck is excellent served at room temperature, so reheating is often unnecessary. If you prefer it warm, place pieces on a baking sheet and warm in a 325F oven for 8 to 10 minutes. Avoid high heat, which can dry out the already-cooked meat. Steaming briefly for 5 minutes is another gentle option.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's tea-smoked duck recipe at Red House Spice (redhousespice.com), which uses a three-stage method of brining, steaming, and wok-smoking with a mixture of black tea, rice, and brown sugar. Supplementary notes on Sichuan peppercorn toasting technique and smoking mixture proportions were informed by Omnivore's Cookbook (omnivorescookbook.com) and The Woks of Life (thewoksoflife.com), both of which document traditional Sichuanese approaches to this dish.

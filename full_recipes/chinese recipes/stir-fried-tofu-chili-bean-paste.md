@@ -2,9 +2,6 @@
 title: Dou Ban Dou Fu (Stir-Fried Tofu with Chili Bean Paste)
 slug: stir-fried-tofu-chili-bean-paste
 subtitle: Crispy pan-fried tofu tossed in a bold doubanjiang sauce with garlic, ginger, and scallions
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 3 servings
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -140,9 +137,3 @@ Serve over steamed rice, where the sauce can soak into the grains. This dish pai
 ## Storage and Reheating
 
 Store in an airtight container in the refrigerator for up to 3 days. The tofu will absorb more sauce and soften as it sits. Reheat in a skillet over medium heat with a splash of water. The crispy exterior will not survive storage, but the flavor will be excellent and may even improve. Freezing changes the texture of tofu dramatically, making it chewier and more sponge-like. Some people enjoy this texture, though it is quite different from fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the Sichuan home-cooking tradition of using doubanjiang as the primary seasoning for tofu. It represents one of the simpler preparations in the Sichuan tofu repertoire, designed for quick weeknight cooking.

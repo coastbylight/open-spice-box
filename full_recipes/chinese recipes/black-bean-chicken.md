@@ -2,9 +2,6 @@
 title: Black Bean Chicken
 slug: black-bean-chicken
 subtitle: Tender chicken stir-fried with fermented black beans, bell peppers, and onion in a savory, slightly sweet Cantonese sauce
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/chicken-black-bean-sauce/
-source_author: The Woks of Life
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 12 minutes
@@ -148,9 +145,3 @@ Black bean chicken is a main dish meant to be eaten with plenty of steamed rice.
 **Reheating:** Reheat in a hot wok or skillet with a tablespoon of water. The sauce will have thickened in the fridge, and the water helps restore its consistency. Avoid microwaving if possible, as the bell peppers become limp.
 
 **Freezing:** Can be frozen for up to 1 month. The bell peppers will lose their crunch when thawed. For best results, freeze the chicken and sauce without the peppers, then add freshly stir-fried peppers when reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from The Woks of Life's chicken in black bean sauce recipe (thewoksoflife.com). The technique of rinsing and chopping the fermented black beans before frying draws from Cantonese home cooking traditions described across multiple Chinese cooking sources, including Maggie Zhu's approach at Omnivore's Cookbook (omnivorescookbook.com).

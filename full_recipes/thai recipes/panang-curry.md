@@ -2,9 +2,6 @@
 title: Panang Curry
 slug: panang-curry
 subtitle: Thick, peanut-laced coconut curry with pork, makrut lime and toasted spice paste
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/panang-curry/
-source_author: Pailin Chongchitnant
 yield: 2 servings
 prep_time: 25 minutes
 cook_time: 10 minutes
@@ -163,9 +160,3 @@ Adding the pork after the paste is fried ensures the meat absorbs flavor from th
 ## Storage and Reheating
 
 Panang curry stores well in the refrigerator for up to 5 days in a sealed container. The sauce will thicken further as it cools due to the coconut fat solidifying. Reheat gently over medium-low heat, stirring frequently, until the sauce loosens and the pork is warmed through. Do not boil vigorously or the pork will toughen. Add a splash of coconut milk or water if the sauce has reduced too much. The curry can be frozen for up to 2 months. Thaw overnight in the refrigerator before reheating. Leftover curry paste (if you made a double batch) freezes particularly well. Portion it into ice cube trays, freeze solid, then transfer to a zip-lock bag. Each cube is roughly one serving's worth of paste.
-
----
-
-## Source Acknowledgment
-
-This recipe is built primarily on the foundation of Pailin Chongchitnant's panang curry from [Hot Thai Kitchen](https://hot-thai-kitchen.com/panang-curry/), which follows a traditional Thai approach with pork tenderloin and a from-scratch paste. The technique of cooking the paste in separated coconut cream and the emphasis on the thick, saucy (rather than soupy) character of the dish come directly from her method. Additional techniques were referenced from Nagi Maehashi's [RecipeTinEats panang curry](https://www.recipetineats.com/panang-curry/), including the approach to dried chili selection (using milder Chinese-origin dried chilies for better sauce flavor without overwhelming heat) and the option of adding Thai basil as a finishing herb. The Serious Eats panang curry paste recipe by Leela Punyaratabandhu was consulted for its detailed treatment of curry paste construction and the importance of nutmeg as an optional aromatic layer.

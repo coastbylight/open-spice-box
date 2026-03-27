@@ -2,9 +2,6 @@
 title: Chicken 65
 slug: chicken-65
 subtitle: Chennai's famous deep-fried chicken tossed in a crackling tempering of curry leaves, mustard seeds, green chilies, and garlic
-source_name: Family Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 2 hours
 cook_time: 25 minutes
@@ -136,9 +133,3 @@ Chicken 65 is an appetizer or a snack, not typically a main course, though nobod
 **Reheating:** Spread on a baking sheet and reheat in an oven at 400°F (200°C) for 8 to 10 minutes to re-crisp. Alternatively, re-fry briefly in a hot wok with a teaspoon of oil and a few fresh curry leaves. Microwaving makes the coating soggy and is not recommended.
 
 **Freezing:** Freeze the fried chicken (before the tempering step) in a single layer, then transfer to a freezer bag. Reheat from frozen in the oven and do the tadka fresh when serving. Freezes well for up to 2 months.
-
----
-
-## Source Acknowledgment
-
-This is a family recipe, enriched with technique notes from multiple South Indian and Hyderabadi cooking traditions. The marinade proportions, the egg-and-cornstarch coating, and the curry leaf tempering reflect home-style Chicken 65 as made across South India. The history of Buhari Hotel and the numbered dishes is drawn from food historians and the restaurant's own accounts.

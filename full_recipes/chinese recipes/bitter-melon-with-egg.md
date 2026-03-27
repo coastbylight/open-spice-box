@@ -2,9 +2,6 @@
 title: Bitter Melon with Egg
 slug: bitter-melon-with-egg
 subtitle: A southern Chinese home-style stir-fry that pairs the bracing bitterness of bitter gourd with soft, savory scrambled egg
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/bitter-melon-eggs/
-source_author: The Woks of Life
 yield: 2 to 3 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -135,9 +132,3 @@ This dish is a side rather than a main, best served alongside a richer protein d
 **Reheating:** Reheat briefly in a hot wok or skillet. The eggs will tighten when reheated, so a splash of water helps keep the texture from becoming rubbery.
 
 **Freezing:** Not recommended. Both the egg and bitter melon textures deteriorate significantly when frozen.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from The Woks of Life's bitter melon with eggs recipe (thewoksoflife.com). Additional techniques for controlling bitterness through salting and blanching draw from traditional Cantonese home cooking practices as described across multiple Chinese cooking sources.

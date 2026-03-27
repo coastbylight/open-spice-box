@@ -2,9 +2,6 @@
 title: Daechu Cha (Jujube Tea)
 slug: daechu-cha
 subtitle: A warm, naturally sweet tea made by simmering dried jujubes until they dissolve into a deep amber infusion
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/daechu-cha/
-source_author: Korean Bapsang
 yield: 4 cups
 prep_time: 5 minutes
 cook_time: 1 hour 30 minutes
@@ -124,9 +121,3 @@ Daechu cha is traditionally served in the evening as a calming drink before bed,
 **Reheating:** Warm gently in a pot over medium heat or in the microwave. Do not boil vigorously.
 
 **Freezer:** Can be frozen in ice cube trays or containers for up to 2 months. Thaw and reheat as needed.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Korean Bapsang (koreanbapsang.com), whose daechu cha recipe emphasizes the long simmering technique and simple, traditional approach. Supplementary notes on jujube varieties and health associations were informed by My Korean Kitchen (mykoreankitchen.com) and Maangchi (maangchi.com). The traditional medicine context draws on well-documented East Asian herbal traditions.

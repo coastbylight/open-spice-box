@@ -2,9 +2,6 @@
 title: Goi Ngo Sen (Gỏi Ngó Sen Tôm Thịt)
 slug: goi-ngo-sen
 subtitle: Vietnamese lotus stem salad with shrimp, pork belly, pickled vegetables, and a tangy fish sauce dressing
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/lotus-root-shrimp-salad/
-source_author: Vicky Pham
 yield: 4 to 6 servings
 prep_time: 40 minutes
 cook_time: 15 minutes
@@ -167,9 +164,3 @@ The salad's tangy, sweet-sour profile also works well as a palate cleanser betwe
 **Prepared components:** The poached pork belly and shrimp keep refrigerated for up to 2 days in sealed containers. The pickled vegetables (lotus stems, carrot, daikon) hold well in their pickle liquid in the refrigerator for up to 3 days, though they will soften further over time. The dressing keeps refrigerated for up to 5 days. Prepare everything in advance and toss just before serving for the best result.
 
 **Reheating:** This is a cold salad and is not meant to be reheated. Bring refrigerated proteins to room temperature for 15 minutes before assembling, as cold pork belly and shrimp taste flat against the dressed vegetables.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Vicky Pham's Vietnamese Lotus Root and Shrimp Salad at [Vicky Pham](https://vickypham.com/blog/lotus-root-shrimp-salad/), which provides the core approach, the shrimp-forward protein pairing, and the concentrated fish sauce dressing ratio. The traditional shrimp and pork belly combination, metric ingredient quantities, and the vegetable pickling technique are adapted from the Goi Ngo Sen Tom Thit recipe at [Vietnamese Food Recipes](https://www.vietnamesefoodrecipes.com/lotus-stem-salad-with-shrimp-and-pork-goi-ngo-sen-tom-thit/), which also contributed the celery addition and sriracha-based dressing variation. The detailed lotus stem preparation guidance, separate pickling method for each vegetable, and herb pairing suggestions draw from Vy Tran's Vietnamese Lotus Stem Salad with Prawns at [Beyond Sweet and Savory](https://beyondsweetandsavory.com/vietnamese-lotus-stem-salad-with-prawns/). All sources agree on the fundamentals: young lotus stems pickled briefly for crunch, poached proteins cooled in ice water for clean texture, a sweet-sour fish sauce dressing as the unifying element, and fried shallots and crushed peanuts added at the last moment for contrast.

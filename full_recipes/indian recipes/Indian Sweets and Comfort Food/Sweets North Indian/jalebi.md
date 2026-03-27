@@ -2,9 +2,6 @@
 title: Jalebi
 slug: jalebi
 subtitle: Crisp fermented batter spirals fried golden and soaked in saffron cardamom syrup
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Approximately 20–24 jalebis (serves 4)
 prep_time: 15 minutes (plus 12–24 hours fermentation)
 cook_time: 20 minutes
@@ -141,9 +138,3 @@ Jalebi is fundamentally an eat-immediately sweet. Stored jalebis soften quickly 
 To revive some crispness: place cooled jalebis on a baking tray in a 180°C oven for 3–4 minutes. This removes some moisture and restores a partial crunch. It is not the same as fresh but is acceptable.
 
 Do not refrigerate. Refrigeration accelerates softening.
-
----
-
-## Source Acknowledgment
-
-Jalebi traces its lineage to the medieval Arabic sweet zalabiya, documented in 13th-century Arabic culinary manuscripts, and spread through Persian and Mughal culinary influence into North India. The North Indian version with its fermented batter, saffron syrup, and spiral form is now one of the most widely eaten street sweets in the subcontinent. This recipe follows the traditional overnight-fermented method.

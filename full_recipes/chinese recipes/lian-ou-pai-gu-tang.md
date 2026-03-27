@@ -2,9 +2,6 @@
 title: Lian Ou Pai Gu Tang (Lotus Root Pork Rib Soup)
 slug: lian-ou-pai-gu-tang
 subtitle: A silky, mineral-rich broth where slow-simmered pork ribs and starchy lotus root build something quietly extraordinary
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/lotus-root-pork-soup/
-source_author: The Woks of Life
 yield: 6 to 8 servings
 prep_time: 20 minutes (plus 1 hour soaking)
 cook_time: 3 to 4 hours
@@ -150,9 +147,3 @@ In Hubei province, this soup is often part of a New Year's table, served alongsi
 The soup keeps well in the refrigerator for up to 4 days. A cap of solidified fat will form on the surface when cold, which can be lifted off before reheating for a leaner broth. Reheat gently on the stovetop over medium-low heat. Avoid bringing it to a hard boil, which can cause the lotus root to break apart and cloud the broth.
 
 The broth freezes well for up to 3 months. The lotus root becomes slightly softer after freezing but remains perfectly edible. Store the pork ribs separately if possible, as their texture holds up better when refrigerated and eaten within a few days.
-
----
-
-## Source Acknowledgment
-
-Recipe draws on traditional lotus root pork rib soup preparations as documented by The Woks of Life (thewoksoflife.com), Souper Diaries (souperdiaries.com), and Omnivore's Cookbook (omnivorescookbook.com). Ingredient proportions and method refined for clarity and home-kitchen application.

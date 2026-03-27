@@ -2,7 +2,6 @@
 title: Haleem
 slug: haleem
 subtitle: Slow-pounded wheat and mutton, a porridge of extraordinary depth
-source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved

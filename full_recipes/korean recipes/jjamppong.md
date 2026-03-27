@@ -2,9 +2,6 @@
 title: Jjamppong (Spicy Seafood Noodle Soup)
 slug: jjamppong
 subtitle: A blazing red broth loaded with seafood, vegetables, and chewy wheat noodles
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 20 minutes
@@ -162,9 +159,3 @@ Jjamppong is a complete meal in a bowl. The traditional accompaniment is danmuji
 **Reheating:** Bring the broth back to a gentle boil over medium heat. Do not boil vigorously, as this will toughen the seafood further.
 
 **Not recommended for freezing:** The seafood becomes rubbery and the vegetables become mushy after freezing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the Korean-Chinese restaurant tradition of jjamppong, with techniques informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The method of blooming gochugaru in oil before adding liquid is the standard restaurant technique and produces the most vivid, flavorful broth.

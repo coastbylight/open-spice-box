@@ -2,7 +2,6 @@
 title: Rarha Gosht
 slug: rarha-gosht
 subtitle: Lamb cooked three ways — boti, chops, and naali — in a deep spiced masala
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Hard

@@ -2,7 +2,6 @@
 title: Murgh Makhni
 slug: murgh-makhni
 subtitle: Butter Chicken — The Original Moti Mahal Recipe
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 30 minutes (plus 2–4 hours marinating)
 cook_time: 45 minutes
@@ -169,9 +168,3 @@ Transfer to a warm serving dish. If you like, add a thin swirl of cream and a fe
 **Freezer:** Freeze the sauce (with or without chicken) for up to 2 months. Cream-based sauces can split slightly on freezing, but stirring gently during reheating will bring it back together. Adding a small knob of butter while reheating helps restore the texture.
 
 **Reheating:** Reheat gently over low heat with a splash of water, stirring frequently. Do not boil vigorously; the cream can split. Add a small swirl of fresh cream when serving reheated portions to refresh the texture.
-
----
-
-## Source Acknowledgment
-
-Murgh makhni was created at Moti Mahal restaurant, Daryaganj, Delhi, by Kundan Lal Gujral in the 1950s, with the sauce development attributed to him and his collaborator Kundan Lal Jaggi. Moti Mahal is also credited with popularising the tandoor oven in North Indian restaurant cooking. The dish's origins are documented in food history accounts of post-Partition Delhi, when Punjabi Hindus resettled in the capital brought their cooking traditions and restaurant culture with them. This recipe draws on those documented origins and the techniques of traditional Punjabi restaurant kitchens.

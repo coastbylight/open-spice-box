@@ -2,9 +2,6 @@
 title: Jiu Cai He Zi (Chive Pancakes)
 slug: chive-pancakes
 subtitle: Crispy pan-fried flatbreads stuffed with Chinese chives, scrambled egg, and glass noodles
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 6 pancakes
 prep_time: 30 minutes
 cook_time: 20 minutes
@@ -146,9 +143,3 @@ Chive pancakes are typically served as a snack, breakfast item, or light meal. T
 ## Storage and Reheating
 
 Cooked chive pancakes can be stored in an airtight container in the refrigerator for up to 2 days. Reheat in a dry skillet over medium heat for 2 to 3 minutes per side to restore crispness. Microwave reheating softens the crust. Uncooked, assembled pancakes can be frozen in a single layer, separated by parchment paper, for up to 1 month. Cook from frozen, adding 1 to 2 extra minutes per side over medium-low heat.
-
----
-
-## Source Acknowledgment
-
-Jiu cai he zi are a ubiquitous northern Chinese preparation, made in homes and sold at street stalls across the region. This recipe follows the traditional hot water dough method and the classic chive-egg filling that defines the dish.

@@ -2,7 +2,6 @@
 title: Dum Ki Batakh
 slug: dum-ki-batakh
 subtitle: Duck legs marinated in saffron-scented yogurt, braised slow and sealed in a rich spiced gravy
-source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Involved

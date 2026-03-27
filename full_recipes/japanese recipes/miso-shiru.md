@@ -2,9 +2,6 @@
 title: Miso Shiru (Japanese Miso Soup)
 slug: miso-shiru
 subtitle: A clean, warming bowl of dashi broth and fermented soybean paste with silken tofu and wakame
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/homemade-miso-soup/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 20 minutes
@@ -158,9 +155,3 @@ If you have leftovers, refrigerate in a sealed container for up to 2 days. The t
 For meal prep, store the finished dashi separately from the miso and solid ingredients. When ready to serve, warm the dashi, dissolve fresh miso into it, and add the tofu and wakame. This produces a much better result than reheating finished soup.
 
 Dashi on its own keeps in the refrigerator for 3 to 5 days or in the freezer for up to 2 weeks. Freeze it in ice cube trays or small containers for easy portioning.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), with supplementary techniques and ingredient options from Serious Eats (seriouseats.com) and RecipeTinEats (recipetineats.com). Dashi method follows the traditional slow-extraction approach emphasized across all three sources. Method streamlined for home-kitchen application.

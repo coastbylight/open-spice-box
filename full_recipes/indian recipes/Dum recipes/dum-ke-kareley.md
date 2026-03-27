@@ -2,7 +2,6 @@
 title: Dum Ke Kareley
 slug: dum-ke-kareley
 subtitle: Bitter gourd stuffed with a spiced nut and seed filling, slow-cooked in a sealed pot
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Main
 difficulty: Medium

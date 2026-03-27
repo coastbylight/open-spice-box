@@ -2,9 +2,6 @@
 title: Pad Thai (ผัดไทย)
 slug: pad-thai
 subtitle: Rice noodles stir-fried with tamarind sauce, shrimp, tofu, egg, and roasted peanuts in the classic Thai street style
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/best-pad-thai/
-source_author: Pailin Chongchitnant
 yield: 2 servings
 prep_time: 40 minutes
 cook_time: 10 minutes
@@ -163,9 +160,3 @@ If you enjoy pad thai, explore [Pad Krapow](/recipes/pad-krapow) (holy basil sti
 **Prepared ingredients:** The tofu, garlic, shallots, preserved radish, and dried shrimp bowl can be assembled several hours ahead and kept covered at room temperature. The shrimp can be peeled and deveined a day in advance and refrigerated.
 
 **Peanuts:** Store chopped roasted peanuts in an airtight container at room temperature for up to 1 week, or in the freezer for several months. Chop just before serving for the best crunch.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's pad thai recipe at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the caramelized palm sugar sauce method, the room temperature noodle soak, and the traditional ingredient list including preserved radish and dried shrimp. The addition of oyster sauce in the chicken variation and the noodle preparation tips draw from Nagi Maehashi's chicken pad thai at RecipeTinEats (recipetineats.com). Kenji Lopez-Alt's pad thai at Serious Eats (seriouseats.com) informed the discussion of tamarind varieties and the importance of high heat for proper wok technique.

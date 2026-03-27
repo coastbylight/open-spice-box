@@ -2,9 +2,6 @@
 title: Rawon
 slug: rawon
 subtitle: East Javanese black beef soup with keluak, lemongrass, and galangal, served over rice with bean sprouts, salted egg, and fried shallots
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/rawon/
-source_author: Nagi Maehashi
 yield: 6 servings
 prep_time: 30 minutes
 cook_time: 2 hours 30 minutes
@@ -179,9 +176,3 @@ Beyond the traditional garnishes, rawon pairs well with the same accompaniments 
 **Rice:** Store and reheat rice separately. Leftover rice keeps in the refrigerator for up to 2 days. Sprinkle with a little water, cover, and microwave in 30-second intervals, or steam for 5 minutes.
 
 **Batch cooking:** Rawon is an ideal make-ahead dish. Double the recipe and freeze half. The flavor only improves with time.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily on the rawon recipe from RecipeTin Eats (recipetineats.com) by Nagi Maehashi, which provides well-tested proportions for the spice paste and a clear approach to building the broth. Additional details on keluak handling and traditional East Javanese technique were informed by Nunuk Sri Rahayu's recipe at Cook Me Indonesian (cookmeindonesian.com), which emphasizes the importance of frying the spice paste separately before adding it to the broth. The garnish combination of bean sprouts, salted egg, fried shallots, and sambal terasi reflects the standard serving style described across all three sources consulted, including Daily Cooking Quest (dailycookingquest.com) by Anita Jacobson, whose recipe highlights rawon's reputation as a dish that improves with time.

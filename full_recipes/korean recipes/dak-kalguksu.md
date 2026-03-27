@@ -2,9 +2,6 @@
 title: Dak Kalguksu (Chicken Knife-Cut Noodle Soup)
 slug: dak-kalguksu
 subtitle: Hand-cut wheat noodles in a milky chicken broth with zucchini and potatoes
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 40 minutes (plus 30 minutes dough resting)
 cook_time: 1 hour
@@ -156,9 +153,3 @@ Dak kalguksu is a complete meal on its own, but it pairs well with a few simple 
 **Uncooked noodles:** Dust generously with flour and store in the refrigerator for up to 1 day, or freeze on a tray and transfer to a bag for up to 1 month. Cook directly from frozen, adding 1 to 2 minutes to the cooking time.
 
 **Reheating:** Warm gently over medium heat, adding broth or water as needed. The noodles will have softened further, losing some of their chewiness, but the soup will still be delicious.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the traditional Korean kalguksu method, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The technique of cooking fresh noodles directly in the broth is standard practice for kalguksu and is what distinguishes it from noodle soups where the components are prepared separately. The dak (chicken) version is one of the most popular among several kalguksu variations.

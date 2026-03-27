@@ -2,7 +2,6 @@
 title: Shahjhani Pulao
 slug: shahjhani-pulao
 subtitle: Mughal-style layered chicken and saffron rice sealed in dum
-source_name: Traditional Indian Recipe
 cuisine: Uttar Pradesh
 course: Main
 difficulty: Hard

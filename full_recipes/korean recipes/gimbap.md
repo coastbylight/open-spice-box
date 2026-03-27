@@ -2,9 +2,6 @@
 title: Gimbap (Korean Seaweed Rice Rolls)
 slug: gimbap
 subtitle: Toasted seaweed wrapped around seasoned rice and colorful fillings, sliced into neat rounds
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 rolls (about 32 pieces)
 prep_time: 40 minutes
 cook_time: 20 minutes
@@ -166,9 +163,3 @@ Gimbap is a complete portable meal that needs no accompaniment, but it is often 
 **Next-day gimbap:** If you must store overnight, wrap tightly in plastic and refrigerate. To revive, pan-fry the slices in a lightly oiled skillet until the rice warms through and the seaweed crisps slightly. This is sometimes called gimbap-jeon and is delicious in its own right.
 
 **Do not freeze:** The rice becomes grainy and the seaweed loses its texture after freezing.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the classic home-style gimbap method practiced across Korean households and documented by sources including Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The filling combination represents the most traditional approach, with variations informed by the wide diversity of gimbap found at Korean convenience stores, bunsikjip (snack restaurants), and family kitchens.

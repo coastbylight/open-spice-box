@@ -2,9 +2,6 @@
 title: Seolleongtang (Ox Bone Soup)
 slug: seolleongtang
 subtitle: A milky white beef bone broth simmered for hours until the marrow dissolves into something deeply satisfying
-source_name: Traditional Korean Recipe
-source_url: https://www.maangchi.com/recipe/seolleongtang
-source_author: Maangchi
 yield: 8 servings
 prep_time: 1 hour 30 minutes
 cook_time: 6 hours
@@ -137,9 +134,3 @@ Seolleongtang is one of the best soups for making ahead. The defatted broth keep
 Reheat on the stovetop over medium-high heat until the broth returns to a full boil. The sliced brisket keeps separately in the refrigerator for up to 4 days. Add it to the hot broth to warm through just before serving.
 
 Cook noodles and rice fresh for each serving rather than storing them in the broth.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Maangchi (maangchi.com), with supplementary technique and timing notes from Korean Bapsang (koreanbapsang.com). Soaking, parboiling, and second-extraction methods consolidated for home-kitchen clarity.

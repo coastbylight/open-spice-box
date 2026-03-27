@@ -2,7 +2,6 @@
 title: Makhni Gravy
 slug: makhni-gravy
 subtitle: The foundational tomato and butter base for makhni dishes
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Sauce
 difficulty: Easy

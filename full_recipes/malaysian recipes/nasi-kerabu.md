@@ -2,9 +2,6 @@
 title: Nasi Kerabu
 slug: nasi-kerabu
 subtitle: Kelantanese blue rice with fresh herbs, toasted coconut, and a vivid spread of raw vegetables and sambal
-source_name: Traditional Malaysian Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 45 minutes
 cook_time: 30 minutes
@@ -171,9 +168,3 @@ Nasi kerabu also pairs well with [ikan bakar](/recipes/ikan-bakar), the charcoal
 **Freezer:** The blue rice freezes well for up to 2 months. The sambal also freezes well. The herbs and vegetables cannot be frozen.
 
 **Reheating:** Steam or microwave the blue rice to warm through. The herbs and vegetables are served at room temperature or lightly chilled.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Kelantanese approach to nasi kerabu, where blue-tinted rice is served with a generous array of raw herbs, vegetables, toasted coconut, and sambal. The technique and ingredient selection draw from the Malay culinary traditions documented by food writers including Azlita Masam Manis and the Kelantanese home cooking traditions described across Malaysian food heritage sources. The emphasis on kerisik, kesum, and torch ginger as essential components reflects the east coast Malaysian flavor profile that distinguishes nasi kerabu from other Malaysian rice dishes.

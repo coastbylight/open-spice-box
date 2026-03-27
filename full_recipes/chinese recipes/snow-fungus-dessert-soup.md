@@ -2,9 +2,6 @@
 title: Yin Er Tang (Snow Fungus Dessert Soup)
 slug: snow-fungus-dessert-soup
 subtitle: A delicate, lightly sweet soup of slow-simmered snow fungus with goji berries, lotus seeds, and rock sugar
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes (plus soaking)
 cook_time: 90 minutes
@@ -140,9 +137,3 @@ Serve as a dessert at the end of a Chinese meal, or as a mid-afternoon restorati
 ## Storage and Reheating
 
 Store in an airtight container in the refrigerator for up to 4 days. The soup will thicken significantly when cold as the polysaccharides continue to gel. This is normal and expected. Reheat gently on the stove, stirring occasionally. Add a splash of water if it has become too thick. The soup can also be enjoyed cold, straight from the refrigerator, as a chilled dessert. Freezing is possible for up to 1 month, though the snow fungus may become softer after thawing.
-
----
-
-## Source Acknowledgment
-
-Snow fungus dessert soup is a traditional Chinese sweet preparation with roots in both imperial court cuisine and folk herbal practice. The combination of ingredients follows established principles of Chinese dietary therapy, and the recipe has been adapted from common home-cooking formulations found across China.

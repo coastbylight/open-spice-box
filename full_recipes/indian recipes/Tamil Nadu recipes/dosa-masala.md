@@ -2,7 +2,6 @@
 title: Dosa Masala
 slug: dosa-masala
 subtitle: The spiced potato filling for masala dosa — dry potato subzi with mustard seeds, curry leaves, turmeric and ginger
-source_name: Traditional Indian Recipe
 cuisine: Tamil / South Indian
 course: Component / Filling
 difficulty: Easy

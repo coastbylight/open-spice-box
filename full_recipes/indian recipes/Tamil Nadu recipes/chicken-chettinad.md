@@ -2,9 +2,6 @@
 title: Chicken Chettinad
 slug: chicken-chettinad
 subtitle: A fiery, aromatic chicken curry built on freshly ground black pepper and roasted spices
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 30 minutes
 cook_time: 45 minutes
@@ -157,9 +154,3 @@ Chicken Chettinad is traditionally served with steamed rice, idiyappam (string h
 ## Storage and Reheating
 
 Chicken Chettinad keeps well in the refrigerator for up to 3 days and freezes successfully for up to 2 months. The spice flavors deepen and meld overnight, and many cooks consider this a better dish on day two. Reheat gently over medium-low heat with a splash of water if the gravy has thickened. Avoid boiling vigorously as this can cause the chicken to toughen and the spice balance to shift.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the traditional cooking of the Nattukottai Chettiar community of the Sivaganga and Ramanathapuram districts in Tamil Nadu. Chettinad cuisine is recognized as one of India's most distinctive regional cooking traditions, shaped by centuries of maritime trade that brought Southeast Asian ingredients into the South Indian kitchen.

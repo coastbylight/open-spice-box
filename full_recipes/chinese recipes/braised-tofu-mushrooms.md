@@ -2,9 +2,6 @@
 title: Xiang Gu Shao Dou Fu (Braised Tofu with Mushrooms)
 slug: braised-tofu-mushrooms
 subtitle: Silky tofu and reconstituted shiitake mushrooms in a savory-sweet braising sauce
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 20 minutes
@@ -145,9 +142,3 @@ Serve over steamed jasmine rice, letting the sauce pool into the grains. This di
 ## Storage and Reheating
 
 Store in an airtight container in the refrigerator for up to 3 days. The tofu will absorb more sauce as it sits, becoming more flavorful but also softer. Reheat gently in a covered skillet over medium-low heat, adding a tablespoon of water if the sauce has thickened too much. The mushrooms hold up well to reheating. Freezing is possible but will change the texture of the tofu, making it chewier and more sponge-like (some people actually prefer this).
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the widespread tradition of braised tofu found in Chinese home cooking and Buddhist vegetarian cuisine. The technique of combining dried mushrooms with tofu in a soy-based braise is a cornerstone of Chinese plant-based cooking that predates modern vegetarian movements by centuries.

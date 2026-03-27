@@ -2,9 +2,6 @@
 title: Hu Tieu Nam Vang (Phnom Penh Noodle Soup)
 slug: hu-tieu
 subtitle: Southern Vietnam's beloved pork and seafood noodle soup with a clear, sweet broth built on dried shrimp and squid
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/vietnamese-pork-seafood-noodle-soup-hu-tieu/
-source_author: Vicky Pham
 yield: 6 servings
 prep_time: 45 minutes
 cook_time: 2 hours 30 minutes
@@ -187,9 +184,3 @@ If you are exploring Vietnamese noodle soups more broadly, hu tieu sits in inter
 **Garnishes:** Prepare fresh. Garlic chives, bean sprouts, and lime wedges lose their crunch and brightness within hours.
 
 **Reheating:** Bring the broth to a full, rolling boil before ladling over noodles and toppings. The broth needs to be genuinely hot to warm the toppings through and soften the garlic chives. Taste and add a small splash of fish sauce if the flavour has flattened during storage.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Vicky Pham's Vietnamese Pork and Seafood Noodle Soup at [Vicky Pham](https://vickypham.com/blog/vietnamese-pork-seafood-noodle-soup-hu-tieu/), which provides the core broth method, dried seafood roasting technique, and topping suggestions. The emphasis on the dried shrimp and squid as umami-building agents and the dry version (hu tieu kho) variation draw from Hungry Huy's approach at [Hungry Huy](https://www.hungryhuy.com/hu-tieu-nam-vang-recipe/). The ground pork blanching technique and notes on noodle selection reference Andrea Nguyen's treatment of hu tieu at [Serious Eats](https://www.seriouseats.com/hu-tieu-noodle-soup-recipe). All three sources agree on the essentials: pork bones, dried seafood, a clear and gently sweet broth, and the freedom to build your own bowl.

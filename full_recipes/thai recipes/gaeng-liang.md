@@ -2,9 +2,6 @@
 title: Gaeng Liang (Thai Vegetable Soup with Shrimp Paste and Basil)
 slug: gaeng-liang
 subtitle: A fragrant, peppery Thai vegetable soup built on a pounded paste of shrimp paste, dried shrimp, and shallots, finished with handfuls of sweet basil
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/gaeng-liang/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 20 minutes
@@ -166,9 +163,3 @@ For a simpler meal, gaeng liang with a plate of rice and a side of [khao tom](/r
 **Freezing:** Gaeng liang freezes adequately for up to 1 month, though the vegetable textures will soften noticeably upon thawing. The luffa in particular becomes very soft. If you plan to freeze, consider slightly undercooking all vegetables. Thaw overnight in the refrigerator and reheat on the stovetop. Stir in fresh basil after reheating.
 
 **Make-ahead paste:** The pounded paste can be made up to 2 days in advance and stored in a sealed container in the refrigerator. This makes the active cooking time very short, essentially just simmering vegetables in broth.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Pailin Chongchitnant's gaeng liang recipe at Hot Thai Kitchen (hot-thai-kitchen.com), whose clear approach to the paste and vegetable staging forms the backbone of the method. Additional ingredients and techniques are informed by Leela Punyaratabandhu's detailed treatment of gaeng liang at SheSimmers (shesimmers.com), particularly the emphasis on traditional vegetable choices such as luffa and ivy gourd, and the discussion of regional variations in paste composition. Nart's version at Cooking with Nart (cookingwithnart.com) contributed the lemongrass variation in the paste and the suggestion of corn as a standard vegetable addition. The medical and traditional use notes reflect widely documented Thai food culture practices.

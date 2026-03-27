@@ -2,9 +2,6 @@
 title: Gouqi Ji Tang (Chinese Wolfberry Chicken Soup)
 slug: gouqi-ji-tang
 subtitle: A gentle, golden broth built on classic Chinese herbal soup tradition
-source_name: Traditional Chinese Recipe
-source_url: https://omnivorescookbook.com/herbal-chicken-soup/
-source_author: Maggie Zhu
 yield: 4 to 6 servings
 prep_time: 10 minutes
 cook_time: 2 hours
@@ -146,9 +143,3 @@ A small dish of soy sauce and sliced chili on the side for dipping the chicken p
 The strained broth keeps well in the refrigerator for up to 4 days. The fat will solidify on top when cold and can be lifted off easily before reheating, which is actually a good thing: you can skim as much or as little as you like. The soup reheats beautifully on the stovetop over medium heat; do not boil it hard or the broth can turn cloudy again.
 
 Freeze the broth without chicken for up to 3 months. Store in portions for easy weeknight use.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Omnivore's Cookbook (omnivorescookbook.com), with supplementary technique reference from Souper Diaries (souperdiaries.com). Ingredient proportions and method refined for clarity and home-kitchen application.

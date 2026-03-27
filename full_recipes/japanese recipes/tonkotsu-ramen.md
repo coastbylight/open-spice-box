@@ -2,9 +2,6 @@
 title: Tonkotsu Ramen (Pork Bone Broth Ramen)
 slug: tonkotsu-ramen
 subtitle: A milky, collagen-rich pork bone broth ladled over springy noodles, built in layers from cold-brew dashi and hidden seasonings
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/easy-tonkotsu-ramen-recipe/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 1 hour
 cook_time: 2 hours 10 minutes
@@ -221,9 +218,3 @@ The shoyu tare keeps in the refrigerator for up to 2 weeks.
 Cooked ramen noodles do not store well. They become soft and bloated within minutes of sitting in broth, and they turn gummy in the refrigerator. Always cook noodles fresh for each serving. Store uncooked fresh noodles according to the package directions, and keep dried or frozen noodles in the pantry or freezer until needed.
 
 Toppings like chashu and ramen eggs should be stored separately and can be prepared 1 to 2 days in advance. Cool the broth rapidly in an ice bath before refrigerating, especially during warm weather, as the high protein content makes it a hospitable environment for bacteria if left at room temperature.
-
----
-
-## Source Acknowledgment
-
-Primary recipe adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose pressure cooker method, cold-brew dashi technique, and kakushiaji approach form the backbone of this recipe. Technique notes on bone preparation, emulsification science, and the rolling boil method informed by J. Kenji Lopez-Alt at Serious Eats (seriouseats.com). Broader broth-building principles and tare ratios cross-referenced with Nagi Maehashi at RecipeTinEats (recipetineats.com). All three sources consolidated for home-kitchen clarity with metric measurements.

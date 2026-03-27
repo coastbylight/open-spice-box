@@ -2,9 +2,6 @@
 title: Kou Shui Ji (Sichuan Mouthwatering Chicken)
 slug: sichuan-mouthwatering-chicken
 subtitle: Poached chicken drenched in a complex Sichuan sauce of chili oil, Sichuan peppercorn, soy, and sesame
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -147,9 +144,3 @@ Serve as a cold appetizer at the beginning of a Chinese meal, alongside other co
 ## Storage and Reheating
 
 The poached chicken and sauce can be prepared separately up to 1 day in advance and refrigerated. Assemble and sauce the dish just before serving. Once sauced, the dish keeps for 1 day in the refrigerator. It is meant to be served cold, so no reheating is needed. The sauce can be made in larger batches and stored in a sealed jar in the refrigerator for up to 2 weeks.
-
----
-
-## Source Acknowledgment
-
-Kou shui ji is a classic Sichuan cold dish documented in numerous Chinese culinary references. This recipe follows the traditional preparation as described in Sichuan culinary literature, with the poaching and sauce techniques that define the dish.

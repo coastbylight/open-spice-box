@@ -2,7 +2,6 @@
 title: Spiced Bone Broth
 slug: spiced-bone-broth
 subtitle: A deeply healing broth built on anti-inflammatory spices
-source_name: Cross-Cultural Traditional Preparation
 yield: 3 to 4 quarts
 prep_time: 15 minutes
 cook_time: 12 to 24 hours

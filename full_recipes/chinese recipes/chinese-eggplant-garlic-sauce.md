@@ -2,9 +2,6 @@
 title: Yu Xiang Qie Zi (Chinese Eggplant with Garlic Sauce)
 slug: chinese-eggplant-garlic-sauce
 subtitle: Silky Chinese eggplant in a sweet, sour, and spicy "fish-fragrant" sauce with garlic, ginger, and scallion
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -142,9 +139,3 @@ Serve over steamed rice, where the sauce will soak into the grains and create a 
 ## Storage and Reheating
 
 Store in an airtight container in the refrigerator for up to 3 days. The eggplant will continue to absorb sauce as it sits, becoming even more flavorful (though softer). Reheat in a skillet over medium heat, adding a splash of water to loosen the thickened sauce. The dish reheats well and some people prefer it the next day. Freezing is possible for up to 1 month, but the eggplant texture will be very soft upon thawing.
-
----
-
-## Source Acknowledgment
-
-Yu xiang qie zi is one of the canonical dishes of Sichuan cuisine, representing the yu xiang (fish-fragrant) flavor profile that is unique to the region. This recipe follows the standard Sichuan preparation, with the traditional garlic-ginger-scallion aromatic base and the sweet-sour-spicy balance that defines the style.

@@ -2,7 +2,6 @@
 title: Moglai Paratha
 slug: moglai-paratha
 subtitle: Kolkata's folded egg paratha — crisp, golden, and molten in the middle
-source_name: Traditional Indian Recipe
 cuisine: Kolkata street food
 course: Street Food
 difficulty: Medium

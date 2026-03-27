@@ -2,9 +2,6 @@
 title: Nasi Lemak
 slug: nasi-lemak
 subtitle: Fragrant coconut rice with sambal ikan bilis, fried anchovies, roasted peanuts, and egg
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/nasi-lemak-recipe/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 30 minutes
@@ -170,9 +167,3 @@ Nasi lemak is a complete meal on its own, but it readily scales into a feast. [C
 **Eggs, peanuts, and cucumber:** Hard-boiled eggs keep refrigerated for 3 to 4 days. Roasted peanuts store at room temperature in a sealed container for weeks. Slice the cucumber fresh each time you serve, as it goes limp quickly.
 
 **Freezing:** The coconut rice freezes reasonably well for up to 1 month. The sambal can also be frozen. Thaw both in the refrigerator overnight before reheating. The fried anchovies and fresh accompaniments should not be frozen.
-
----
-
-## Source Acknowledgment
-
-This recipe is built primarily on Bee Yinn Low's nasi lemak recipe at Rasa Malaysia (rasamalaysia.com), which provides the traditional proportions and sambal technique. The approach of folding fried anchovies into the sambal while reserving a portion for separate crispy serving draws on Nagi Lawson's method at RecipeTinEats (recipetineats.com), which emphasizes textural contrast. The suggestion of soaking dried chilies before blending for a smoother paste, and the guidance on building sambal flavor through patient low-heat frying, reflects techniques described in Serious Eats' nasi lemak coverage (seriouseats.com). All three sources converge on the same essential truth: nasi lemak lives or dies by its sambal.

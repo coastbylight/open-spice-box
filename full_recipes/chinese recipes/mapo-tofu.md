@@ -2,9 +2,6 @@
 title: Ma Po Dou Fu (Mapo Tofu)
 slug: mapo-tofu
 subtitle: Sichuan's most famous tofu dish, with silky cubes in a fiery, numbing sauce of doubanjiang, ground pork, and Sichuan peppercorn
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/ma-po-tofu-real-deal/
-source_author: Kaitlin Leung
 yield: 6 servings
 prep_time: 10 minutes
 cook_time: 25 minutes
@@ -145,9 +142,3 @@ Mapo tofu demands steamed white rice. The sauce is rich, salty, and intense, and
 **Reheating:** Reheat gently in a saucepan over medium-low heat, adding a splash of broth or water to thin the sauce, which will have thickened considerably. Stir carefully to avoid breaking the tofu. The dish reheats very well and many find it even better the second day.
 
 **Freezing:** Tofu texture changes significantly when frozen and thawed, becoming spongy and chewy. This is a valid texture in some dishes but is not desirable for mapo tofu. Freezing is not recommended.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Kaitlin Leung's authentic Mapo Tofu at The Woks of Life (thewoksoflife.com), with the fermented black bean addition drawn from Wei Guo's traditional Sichuan formula at Red House Spice (redhousespice.com). The Sichuan peppercorn frying technique and braising method reflect Maggie Zhu's approach at Omnivore's Cookbook (omnivorescookbook.com).

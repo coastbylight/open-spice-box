@@ -2,9 +2,6 @@
 title: Egg Curry (Anda Curry)
 slug: egg-curry-anda-curry
 subtitle: Hard-boiled eggs in a silky, golden onion-tomato masala
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 15 minutes
 cook_time: 30 minutes
@@ -146,9 +143,3 @@ Egg curry pairs naturally with steamed rice, jeera rice, or any flatbread: roti,
 ## Storage and Reheating
 
 Egg curry keeps in the refrigerator for up to 2 days. The eggs will firm up slightly as they sit in the gravy, which is not unpleasant. Reheat gently over low heat, adding a splash of water if the gravy has thickened. The gravy alone (without eggs) can be made a day ahead and refrigerated; add freshly boiled and scored eggs when reheating. Freezing is not recommended, as the texture of hard-boiled egg whites becomes rubbery after thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the home cooking tradition of Punjab, where egg curry is a practical, everyday preparation found across communities. The Punjabi version reflects the region's preference for rich, onion-tomato based gravies finished with warming spices, distinguishing it from the lighter, coconut-based egg curries of South India.

@@ -2,9 +2,6 @@
 title: Appam
 slug: appam
 subtitle: Fermented rice crepe with lacy, crisp edges and a soft, pillowy center
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Makes approximately 16–18 appam (serves 4)
 prep_time: 20 minutes (plus 6 hours soaking and 8–12 hours fermenting)
 cook_time: 40 minutes
@@ -127,9 +124,3 @@ The two classic Kerala pairings for appam are a thin, coconut-milk-based vegetab
 ## Storage and Reheating
 
 Appam batter keeps refrigerated for up to 2 days after fermentation. It will continue to ferment slowly in the refrigerator and develop more tang over time. Remove from the refrigerator 30 minutes before cooking to take the chill off. Cooked appam does not store or reheat well; the lacy edges soften irreversibly. Cook only as many as will be eaten immediately.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the traditional domestic appam preparation of Kerala, as practised across communities throughout the state. Appam is a cornerstone of Kerala breakfast culture, with variations found across the region from the Malabar coast to Kottayam.

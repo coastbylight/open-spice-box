@@ -2,9 +2,6 @@
 title: Paneer Tikka
 slug: paneer-tikka
 subtitle: Spiced marinated paneer grilled in the tandoor — a Punjabi classic
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 4
 prep_time: 20 minutes active, plus 2 hours minimum marination
 cook_time: 12–15 minutes
@@ -144,9 +141,3 @@ Serve as a starter on a flat board with lemon wedges, raw sliced onion, and fres
 **Marinated raw paneer** can be held in the refrigerator, covered, for up to 4 hours before cooking. Do not marinate longer than 8 hours.
 
 **Cooked paneer tikka** can be refrigerated for up to 2 days. Reheat in a hot oven (200°C / 390°F) for 5–7 minutes on a wire rack to restore some of the surface texture. Microwaving is not recommended — it makes the paneer rubbery and the marinade surface gummy. Leftover tikka is excellent cubed and added to a gravy the next day.
-
----
-
-## Source Acknowledgment
-
-Paneer tikka is a cornerstone of the Punjabi tandoor tradition and is associated with the dhaba and restaurant kitchens of North India, where it developed alongside other tandoor preparations in the mid-20th century. It is closely related to murgh tikka and follows the same marination and cooking logic, adapted for India's most versatile and beloved fresh cheese.

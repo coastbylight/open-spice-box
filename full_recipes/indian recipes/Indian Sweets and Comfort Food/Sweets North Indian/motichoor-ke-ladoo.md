@@ -2,7 +2,6 @@
 title: Motichoor ke Ladoo
 slug: motichoor-ke-ladoo
 subtitle: Saffron-Tinged Chickpea Flour Ladoo with Cardamom and Melon Seeds
-source_name: Traditional Indian Recipe
 yield: 4 servings (approximately 12–14 small ladoos)
 prep_time: 30 minutes
 cook_time: 35 minutes
@@ -144,9 +143,3 @@ For a home celebration, arrange a small pyramid of ladoos on a brass thali, garn
 **Freezing:** Motichoor ke ladoo freeze well for up to 1 month. Thaw at room temperature for 2 to 3 hours before serving.
 
 **Note on texture:** If the ladoos become dry over time, they cannot be re-moistened. This is why shaping while warm is important. The window for getting the texture right is during preparation, not after.
-
----
-
-## Source Acknowledgment
-
-Motichoor ke ladoo are among the most sacred and widely distributed festival sweets in North India, with deep roots in the sweet-making traditions of Rajasthan and Uttar Pradesh. The association with Ganesh puja and temple prasad makes them one of the few foods that function simultaneously as culinary craft, devotional offering, and cultural currency. This recipe reflects the traditional halwai method as it has been practised and transmitted across generations of North Indian sweet-making.

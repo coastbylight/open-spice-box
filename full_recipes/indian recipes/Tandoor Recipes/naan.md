@@ -2,9 +2,6 @@
 title: Naan
 slug: naan
 subtitle: Leavened tandoor flatbread — airy, blistered, and brushed with ghee
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: 8 naan (serves 4)
 prep_time: 20 minutes active, plus 1–2 hours proving
 cook_time: 20–25 minutes total (about 3 minutes per naan)
@@ -144,9 +141,3 @@ Naan is the natural companion to most North Indian main courses — dal makhani,
 **Uncooked proved dough** can be refrigerated for up to 24 hours after the first prove — the cold slows but does not stop the yeast. Bring to room temperature for 30–45 minutes before shaping and cooking.
 
 **Cooked naan** stales quickly and is best eaten fresh. Store at room temperature, wrapped in a clean cloth, for up to a few hours. Refrigerate for up to 2 days. To reheat, place directly on a hot dry pan for 30–60 seconds per side, or wrap in foil and warm in a 160°C oven for 8 minutes. Brushing with a little extra ghee before reheating restores much of the original richness. Naan does not freeze well — the crumb turns dry and crumbly on thawing.
-
----
-
-## Source Acknowledgment
-
-Naan is among the oldest leavened flatbreads of the Indian subcontinent, with roots in Persian bread traditions that arrived in the region through the Mughal court. The word *naan* appears in Persian texts from the 13th century. The tandoor preparation of naan became closely associated with the Punjabi restaurant tradition in the 20th century, spreading globally as North Indian cuisine found international audiences. The home cast-iron method described here is the most widely practised contemporary adaptation of the traditional clay-oven technique.

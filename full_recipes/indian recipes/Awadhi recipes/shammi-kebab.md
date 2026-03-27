@@ -2,7 +2,6 @@
 title: Shammi Kebab
 slug: shammi-kebab
 subtitle: Silky, spiced mince discs from the Awadhi court kitchen
-source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Snack
 difficulty: Medium

@@ -2,7 +2,6 @@
 title: Khichdi
 slug: khichdi
 subtitle: The Ancient One-Pot Meal of Rice and Lentils
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 25 minutes (including soaking)
 cook_time: 35 minutes
@@ -151,9 +150,3 @@ In many households, khichdi is served on rainy evenings, during illness recovery
 **Reheating:** Transfer to a pot and add water (start with 100–150ml per serving) and reheat gently over low heat, stirring frequently, until it returns to its soft, pourable consistency. It often tastes better the next day once the flavours have settled. Adjust salt after reheating.
 
 **Freezer:** Khichdi freezes well. Portion into freezer containers and freeze for up to 2 months. Defrost overnight in the fridge and reheat as above with additional water.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the method traditional across many Indian households, particularly the plain, restorative Ayurvedic preparation. Khichdi is documented in Sanskrit texts including the Sushruta Samhita and Charaka Samhita, and versions of it appear across virtually every Indian state and community under different names and regional variations. This version reflects the foundational preparation (moong dal, rice, ghee, and a restrained whole-spice tadka) as it has been made for generations in home kitchens.

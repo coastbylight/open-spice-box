@@ -2,9 +2,6 @@
 title: Moo Hong (หมูฮ้อง)
 slug: moo-hong
 subtitle: Phuket-style slow-braised pork belly in a fragrant dark soy, garlic, and white pepper broth
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 2 hours
@@ -145,9 +142,3 @@ The braised pork also works beautifully alongside other Southeast Asian rice pla
 **Freezer:** Freezes beautifully for up to 3 months. Freeze in portions with sauce for easy weeknight meals.
 
 **Reheating:** Warm gently over medium-low heat, adding a splash of water if the sauce has thickened too much. The sauce will return to its glossy, liquid state as the gelatin melts.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Phuket-style approach to moo hong, a Hokkien-influenced braised pork dish that is a cornerstone of southern Thai cuisine. The technique and flavor profile draw from the Thai-Chinese cooking traditions of Phuket, documented by Leela Punyaratabandhu at She Simmers (shesimmers.com) and Austin Bush in The Food of Southern Thailand. The heavy use of garlic, white pepper, and coriander root reflects the Phuket culinary identity that distinguishes this dish from Bangkok-style braised pork preparations.

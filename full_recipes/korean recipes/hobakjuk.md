@@ -2,9 +2,6 @@
 title: Hobakjuk (Pumpkin Porridge)
 slug: hobakjuk
 subtitle: A naturally sweet porridge of kabocha squash thickened with glutinous rice and topped with chewy rice cake balls
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/hobakjuk/
-source_author: Korean Bapsang
 yield: 8 servings
 prep_time: 10 minutes
 cook_time: 50 minutes
@@ -138,9 +135,3 @@ Hobakjuk is typically served on its own as a light meal, breakfast, or gentle co
 **Reheating:** Warm gently over medium-low heat, adding water to thin it back to the desired consistency. Stir frequently. Store the rice cake balls separately if possible, as they harden when cold. Re-boil them briefly before adding back to the porridge.
 
 **Freezer:** The porridge (without rice cake balls) can be frozen for up to 1 month. Thaw in the refrigerator overnight.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Hyosun Ro at Korean Bapsang (koreanbapsang.com), whose hobakjuk recipe provides the foundation of kabocha squash with ground glutinous rice and optional rice cake balls. Supplementary details on squash preparation and red bean garnish were informed by My Korean Kitchen (mykoreankitchen.com) and Maangchi's juk recipes (maangchi.com), which share similar porridge-making techniques.

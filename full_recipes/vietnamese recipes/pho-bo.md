@@ -2,9 +2,6 @@
 title: Pho Bo (Phở Bò)
 slug: pho-bo
 subtitle: Vietnamese beef noodle soup with charred aromatics, warm spices, and rice noodles
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/vietnamese-pho-recipe/
-source_author: Nagi Maehashi
 yield: 6 servings
 prep_time: 30 minutes
 cook_time: 3 hours 45 minutes
@@ -193,9 +190,3 @@ If you are exploring the broader world of Southeast Asian noodle soups, [tom yum
 **Herb plate and toppings:** Prepare fresh. Bean sprouts, basil, and lime wedges lose their crunch and brightness within hours of cutting.
 
 **Reheating:** Bring the broth to a full boil before ladling over noodles and beef. The broth needs to be genuinely hot to cook the raw beef slices and to warm the noodles through. Add a small splash of fish sauce after reheating if the flavour has flattened.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Nagi Maehashi's Vietnamese pho recipe at [RecipeTin Eats](https://www.recipetineats.com/vietnamese-pho-recipe/), which provides the bone and brisket combination, spice quantities, charring technique, and assembly method. The inclusion of fennel seeds in the spice bundle and the emphasis on the parboiling-then-rinsing technique as a path to clarity draw from the approach used at [Serious Eats](https://www.seriouseats.com/pho-recipe). The Instant Pot pressure cooker variation and rock sugar/bouillon seasoning notes reference Vicky Pham's quick pho bo at [Vicky Pham](https://www.vickypham.com/blog/pho-bo). All three sources agree on the fundamentals: real bones, charred aromatics, toasted spices, and patience.

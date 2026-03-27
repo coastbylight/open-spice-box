@@ -2,9 +2,6 @@
 title: Bai Qie Ji (White Cut Chicken)
 slug: bai-qie-ji
 subtitle: Cantonese poached chicken with silky skin and impossibly tender meat, served cold with ginger scallion sauce
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/cantonese-white-cut-chicken/
-source_author: The Woks of Life
 yield: 6 servings
 prep_time: 4 hours (includes brining)
 cook_time: 30 minutes
@@ -148,9 +145,3 @@ White cut chicken is traditionally served at room temperature or slightly chille
 **Freezing:** The poached chicken can be frozen for up to 1 month, though the skin texture will change. It remains useful for congee toppings and salads after thawing.
 
 **Poaching liquid:** Strain and save the poaching liquid as a light chicken stock. It will be lightly flavored with ginger and scallion, making it ideal for [Wonton Soup](/recipes/wonton-soup) or as the base for savory congee.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from The Woks of Life's Cantonese white cut chicken recipe (thewoksoflife.com). The dry brining technique and incremental timing guide are adapted from Maggie Zhu's approach at Omnivore's Cookbook (omnivorescookbook.com). The ginger scallion sauce and traditional dipping method reflect Cantonese home cooking practices common across southern China.

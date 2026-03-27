@@ -2,7 +2,6 @@
 title: Samosa
 slug: samosa
 subtitle: The definitive spiced potato samosa, pastry shatters, filling sings
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Snack
 difficulty: Medium

@@ -2,7 +2,6 @@
 title: Haak
 slug: haak
 subtitle: The foundational Kashmiri Pandit greens — saag cooked in mustard oil with asafoetida
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main / Side
 difficulty: Easy

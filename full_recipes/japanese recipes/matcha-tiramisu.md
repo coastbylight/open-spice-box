@@ -2,9 +2,6 @@
 title: Matcha Tiramisu
 slug: matcha-tiramisu
 subtitle: A Japanese twist on the Italian classic, layering matcha-soaked ladyfingers with a light mascarpone cream dusted in vivid green tea powder
-source_name: Traditional Japanese-Italian Fusion Recipe
-source_url:
-source_author:
 yield: 8 servings
 prep_time: 30 minutes (plus 4 hours chilling)
 cook_time: 0 minutes
@@ -139,9 +136,3 @@ Matcha tiramisu is a dessert for occasions. Serve it after a Japanese meal in pl
 ## Storage and Reheating
 
 Matcha tiramisu keeps in the refrigerator, covered, for up to 3 days. The texture actually improves during the first 24 hours as the layers meld. After 3 days, the ladyfingers may become too soft and the matcha flavor will begin to oxidize. Dust with fresh matcha powder just before serving each time, as the surface dusting loses its vibrancy within an hour. This dessert does not freeze well, as the mascarpone cream separates and becomes grainy upon thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe blends the Italian tiramisu technique with Japanese matcha, following the approach popularized in Japanese patisseries and cafes. The soaking, layering, and cream preparation methods follow established tiramisu practices, adapted for the specific characteristics of matcha.

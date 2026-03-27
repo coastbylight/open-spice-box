@@ -2,7 +2,6 @@
 title: Kolkata Chowmein
 slug: chowmein
 subtitle: India's most beloved street noodle, hakka-style chow mein from the streets of Kolkata
-source_name: Traditional Street Food Recipe
 cuisine: East Indian
 course: Snack
 difficulty: Easy

@@ -2,9 +2,6 @@
 title: Puran Poli
 slug: puran-poli
 subtitle: Maharashtrian sweet flatbread filled with spiced chana dal and jaggery
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Makes 12–14 puran poli (serves 4)
 prep_time: 45 minutes (plus 30 minutes dough rest)
 cook_time: 45 minutes
@@ -148,9 +145,3 @@ Puran poli is the centerpiece of a Maharashtrian festival thali, served warm fro
 ## Storage and Reheating
 
 Puran poli keeps at room temperature (in cool weather) for 1–2 days, stored stacked in a container lined with paper. Refrigerate for up to 4 days; bring to room temperature before serving or warm briefly on a dry tawa over low heat for 30–40 seconds per side. The puran filling (uncooked in poli) keeps refrigerated for up to 5 days; the dough is best made fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the traditional Maharashtrian preparation of puran poli as made during Holi, Gudi Padwa, and other major festivals. The dish is central to the Brahmin and CKP (Chandraseniya Kayastha Prabhu) culinary traditions of Maharashtra, and is made in virtually every community across the state in some variation.

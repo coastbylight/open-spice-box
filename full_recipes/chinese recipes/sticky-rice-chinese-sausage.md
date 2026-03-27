@@ -2,9 +2,6 @@
 title: La Chang Fan (Sticky Rice with Chinese Sausage)
 slug: sticky-rice-chinese-sausage
 subtitle: Fragrant glutinous rice steamed with sweet cured Chinese sausage, shiitake mushrooms, and soy
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes (plus soaking)
 cook_time: 35 minutes
@@ -145,9 +142,3 @@ This is a one-pot meal that needs very little alongside it. A simple stir-fried 
 ## Storage and Reheating
 
 Store leftovers in an airtight container in the refrigerator for up to 3 days. The rice will firm up significantly when cold. Reheat by sprinkling a tablespoon of water over the rice, covering, and microwaving for 2 to 3 minutes, or steam in a covered pot. The sticky texture will return once the rice is warmed through. Freezes well for up to 1 month. Wrap individual portions tightly in plastic wrap for easy reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the Cantonese tradition of cooking glutinous rice with cured meats, a practice that spans both home cooking and the dim sum repertoire. The method is adapted from standard Cantonese home kitchen techniques.

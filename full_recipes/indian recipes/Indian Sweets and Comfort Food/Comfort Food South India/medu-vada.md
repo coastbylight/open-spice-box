@@ -2,7 +2,6 @@
 title: Medu Vada
 slug: medu-vada
 subtitle: South India's crisp, airy lentil doughnut — the essential breakfast companion
-source_name: Traditional Indian Recipe
 cuisine: South Indian
 course: Snack
 difficulty: Medium

@@ -2,9 +2,6 @@
 title: Liang Ban Mu Er (Wood Ear Mushroom Salad)
 slug: wood-ear-mushroom-salad
 subtitle: A refreshing cold salad of rehydrated wood ear mushrooms dressed with vinegar, chili oil, and garlic
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 5 minutes
@@ -142,9 +139,3 @@ Serve as part of a cold appetizer spread at the beginning of a Chinese meal, alo
 ## Storage and Reheating
 
 The dressed salad keeps in the refrigerator for up to 2 days. The mushrooms retain their texture remarkably well, though the cilantro and scallion will wilt. Add fresh garnishes when serving leftovers. The undressed blanched mushrooms can be stored separately in the refrigerator for up to 4 days and dressed as needed. Freezing is not recommended.
-
----
-
-## Source Acknowledgment
-
-Liang ban mu er is a standard cold dish found across Chinese cuisine, from restaurant cold appetizer platters to family dinner tables. The preparation is universal, with minor regional variations in the dressing, and cannot be attributed to any single source.

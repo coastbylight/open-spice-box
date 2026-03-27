@@ -2,9 +2,6 @@
 title: Wedang Jahe (Indonesian Ginger Tea)
 slug: wedang-jahe
 subtitle: A warming Javanese ginger drink steeped with lemongrass, pandan, black pepper, cardamom, and cloves, sweetened with palm sugar and sipped slowly on cool evenings
-source_name: Daily Cooking Quest
-source_url: https://dailycookingquest.com/wedang-jahe.html
-source_author: Anita Jacobson
 yield: 2 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -145,9 +142,3 @@ If you are building a tasting of warming drinks from across the region, wedang j
 **Serving cold:** Wedang jahe can also be enjoyed chilled. Pour the cooled drink over ice, or shake it briefly in a cocktail shaker before pouring for a light froth on top. The flavor profile shifts slightly when cold, with the ginger heat receding and the lemongrass and pandan coming forward.
 
 **Freezing:** Not recommended. The delicate aromatics diminish significantly after freezing and thawing, and the texture of the palm sugar can become grainy.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Daily Cooking Quest's wedang jahe (dailycookingquest.com), written by Anita Jacobson, which provides the core ingredient ratios, the dry-frying technique for ginger, and the two-stage simmer-and-steep method. Additional perspective on ingredient roles, particularly the distinction between red and white ginger and the use of cinnamon as an optional spice, comes from Butter Joy Kitchen's wedang jahe merah (butterjoykitchen.com) by Claudia Syanny. The simpler ginger-and-pandan variation and storage guidance draw from Ketchup with Linda's wedang jahe (ketchupwithlinda.com).

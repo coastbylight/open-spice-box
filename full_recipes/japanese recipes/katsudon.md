@@ -2,9 +2,6 @@
 title: Katsudon (Pork Cutlet Rice Bowl)
 slug: katsudon
 subtitle: A crispy tonkatsu cutlet simmered briefly in sweet dashi and onions, then bound with barely set egg and laid over steamed rice
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 20 minutes
@@ -141,9 +138,3 @@ Katsudon is a complete, self-contained meal. The traditional accompaniments are 
 ## Storage and Reheating
 
 Katsudon does not store or reheat well, as the egg overcooks and the tonkatsu crust completely softens. It is best eaten immediately after assembly. If you have leftover components, store the tonkatsu and simmering sauce separately. Reheat the tonkatsu in the oven to re-crisp, then assemble fresh katsudon with new eggs. Leftover simmering sauce keeps in the refrigerator for up to 3 days and can be used for oyakodon or other donburi dishes.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Japanese home-cooking method for katsudon, incorporating the two-stage egg technique used in donburi restaurants and home kitchens across Japan. The individual-bowl assembly method reflects the traditional approach prioritized in dedicated donburi shops.

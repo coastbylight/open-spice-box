@@ -2,9 +2,6 @@
 title: Jing Jiang Rou Si (京酱肉丝)
 slug: jing-jiang-rou-si
 subtitle: Beijing-style shredded pork tenderloin stir-fried in sweet bean sauce, wrapped in tofu skin with raw scallion strips, the home cook's Peking duck
-source_name: Travel China Guide
-source_url: https://www.travelchinaguide.com/tour/food/chinese-cooking/shredded-pork-bean-sauce.htm
-source_author:
 yield: 3 to 4 servings
 prep_time: 25 minutes
 cook_time: 5 minutes
@@ -145,9 +142,3 @@ This is a wrap dish, meant to be assembled and eaten by hand. Set the platter of
 **Reheating:** Warm the pork in a wok or skillet over medium heat for 1 to 2 minutes. Add a splash of water if the sauce has thickened too much. Prepare fresh scallion strips when serving.
 
 **Freezing:** The sauced pork freezes well for up to 2 months. Thaw overnight and reheat in a wok. The sauce may need a little water to loosen.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Travel China Guide's shredded pork with sweet bean sauce, cross-referenced against recipes from The Woks of Life, Omnivore's Cookbook, China Sichuan Food, Red House Spice, Asian Cooking Mom, and Yun's Family Table for authenticity. The marinade proportions follow the consensus across multiple trusted Chinese cooking sources. The tian mian jiang as the defining sauce ingredient, the flash stir-fry with intentional undercooking, and the tofu skin wrapping presentation are consistent across all sources.

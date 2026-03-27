@@ -2,9 +2,6 @@
 title: Five-Spice Roast Chicken
 slug: five-spice-roast-chicken
 subtitle: A whole roast chicken perfumed with Chinese five spice, soy, and ginger
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/five-spice-roast-chicken/
-source_author: The Woks of Life
 yield: 4 to 6 servings
 prep_time: 20 minutes (plus 4 hours marinating)
 cook_time: 1 hour 15 minutes
@@ -150,9 +147,3 @@ Cold leftover five-spice chicken, shredded and tossed with sesame oil and scalli
 **Freezer:** Wrap portions tightly and freeze for up to 2 months. Thaw overnight in the refrigerator before reheating.
 
 **Reheating:** Place pieces skin-side up on a baking sheet and warm in a 375F oven for 8 to 10 minutes until heated through and the skin re-crisps. Cover loosely with foil if the skin is already dark to prevent burning. Shredded chicken can be reheated in a covered pan with a tablespoon of broth or water.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from The Woks of Life (thewoksoflife.com), whose five-spice roast chicken recipe uses a soy and five spice marinade with a honey glaze finish. Supplementary guidance on cavity stuffing with star anise and scallion was informed by Omnivore's Cookbook (omnivorescookbook.com). Wei Guo's Chinese-style roast chicken at Red House Spice (redhousespice.com) provided additional perspective on using dark soy sauce as a coloring agent and the two-stage roasting technique.

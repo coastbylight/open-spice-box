@@ -2,7 +2,6 @@
 title: Momos
 slug: momos
 subtitle: Thin-skinned steamed dumplings with a juicy, ginger-bright filling
-source_name: Traditional Indian Recipe
 cuisine: Northeast Indian / Tibetan-influenced
 course: Snack
 difficulty: Medium

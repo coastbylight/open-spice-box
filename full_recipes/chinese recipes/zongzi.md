@@ -2,9 +2,6 @@
 title: Zongzi (Sticky Rice Dumplings)
 slug: zongzi
 subtitle: Bamboo leaf parcels of seasoned glutinous rice filled with marinated pork belly, salted duck egg yolk, and Chinese sausage
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/zongzi-cantonese-style/
-source_author: The Woks of Life
 yield: 15 dumplings
 prep_time: 45 minutes (plus overnight soaking and marinating)
 cook_time: 8 hours
@@ -163,9 +160,3 @@ Zongzi also work well as a portable meal. Wrapped in their bamboo leaves, they t
 **Freezing:** Zongzi freeze exceptionally well, which is one reason recipes make large batches. Let them cool completely, then place in airtight freezer bags. They keep for up to 3 months. To reheat from frozen, boil directly (without thawing) for 30 to 40 minutes. Do not microwave from frozen, as the center will remain cold while the outside overheats.
 
 **Batch cooking:** This recipe is designed to produce a large batch. The two-day process rewards scale. Making fifteen is barely more work than making five, and having a freezer stocked with zongzi means a satisfying meal is always a short boil away.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from The Woks of Life (thewoksoflife.com), whose Cantonese-style zongzi recipe provides the structural foundation, including the key insight that pork should be seasoned "slightly too salty" to account for absorption into the rice. The technique of pre-searing the marinated pork before wrapping and the use of five-spice powder in the marinade are drawn from Red House Spice (redhousespice.com), whose savory zongzi recipe informed the flavor layering approach.

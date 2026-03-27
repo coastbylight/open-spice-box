@@ -2,9 +2,6 @@
 title: Nam Prik Ong (Northern Thai Pork and Tomato Dip)
 slug: nam-prik
 subtitle: A slow-cooked Chiang Mai chili dip of ground pork, charred tomatoes, and pounded dried chilies, served warm with raw vegetables and sticky rice
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/nam-prik-ong/
-source_author: Pailin Chongchitnant
 yield: 4 to 6 servings
 prep_time: 30 minutes
 cook_time: 20 minutes
@@ -169,9 +166,3 @@ Nam prik ong also makes an excellent party dip for a Western-style gathering. Se
 **Reheating:** Warm the dip gently in a small saucepan or skillet over medium-low heat. Add a splash of water (15 to 30 ml) if it has thickened too much in the refrigerator. Stir frequently and taste once warm, adjusting with a small squeeze of lime or a dash of fish sauce if needed. The acidity of the tomatoes fades slightly after a day, so a touch of tamarind or lime can restore brightness.
 
 **Freezing:** The finished dip freezes well for up to 1 month. Freeze in portions in airtight containers, leaving a small gap at the top for expansion. Thaw in the refrigerator overnight and reheat as described above. The texture holds up better than most dips because the pork and tomato base is robust enough to survive a freeze-thaw cycle without becoming watery.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's nam prik ong at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundation for the chili paste composition, the use of both shrimp paste and fermented soybean paste (tao jiao) in the mortar, and the technique of frying the paste before adding the pork. The Serious Eats recipe by Leela Punyaratabandhu (seriouseats.com) contributed the technique of charring plum tomatoes separately and pounding them into the paste for smoky depth, the use of two types of tomato (charred plum and fresh cherry) for layered acidity, and the detail on oil separation as a doneness indicator. Praew's recipe at Hungry in Thailand (hungryinthailand.com) informed the soaking method for dried chilies with salt to ease pounding, the tamarind and palm sugar balance, and the serving tradition with pork cracklings. Rachel Cooks Thai (rachelcooksthai.com) provided the tip on rinsing fermented soybean paste to reduce salinity and the suggestion of adding thin soy sauce as a finishing seasoning.

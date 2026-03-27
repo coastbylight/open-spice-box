@@ -2,7 +2,6 @@
 title: Tomato Saar
 slug: tomato-saar
 subtitle: A thin, spiced Goan tomato broth with coconut milk and a mustard-curry leaf temper
-source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Starter
 difficulty: Easy

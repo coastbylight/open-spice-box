@@ -2,9 +2,6 @@
 title: Budae Jjigae (Army Stew)
 slug: budae-jjigae
 subtitle: A hearty, spicy stew born from ingenuity, blending Korean flavors with American pantry staples
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -164,9 +161,3 @@ Budae jjigae is always served with steamed white rice. Each person should have t
 **Reheating:** Bring back to a gentle boil over medium heat, adding water or broth as needed to restore the liquid level. Refresh with a new slice of cheese and fresh scallions.
 
 **Freezing:** Not recommended due to the tofu (which becomes spongy) and the processed meats (which change texture).
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the widely practiced Korean home cooking method for budae jjigae, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The history of budae jjigae's origins near American military bases is well documented in Korean food culture, and the dish's evolution from survival food to beloved comfort classic is one of Korean cuisine's most compelling stories.

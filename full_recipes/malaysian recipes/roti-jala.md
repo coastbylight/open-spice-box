@@ -2,9 +2,6 @@
 title: Roti Jala
 slug: roti-jala
 subtitle: Lacy turmeric net crepes folded into soft parcels for dipping in curry
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/roti-jala/
-source_author: Bee Yinn Low
 yield: 25 to 30 crepes
 prep_time: 15 minutes
 cook_time: 35 minutes
@@ -145,9 +142,3 @@ The parcels look beautiful fanned out on a serving plate, their golden lace visi
 **Freezing:** Roti jala freeze reasonably well for up to 1 month. Place parchment paper between each crepe, stack them flat in a freezer bag, and press out excess air. Thaw in the refrigerator overnight, then steam briefly to restore softness.
 
 **Batter storage:** Unused batter keeps in the refrigerator for up to 24 hours. It will thicken overnight as the flour absorbs more liquid. Stir well and add a splash of water to thin it back to the right consistency before cooking.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily on Bee Yinn Low's roti jala recipe at Rasa Malaysia (rasamalaysia.com), which provides the foundational batter proportions and technique for achieving the characteristic net pattern. The approach to folding and the guidance on cooking temperature reflect methods described by The MeatMen (themeatmen.sg), whose roti jala with curry chicken emphasizes gentle heat and the importance of not browning the crepes. Additional details on batter consistency and the use of a fine mesh strainer to ensure smooth flow come from Nomadette (nomadette.com), as well as Nyonya Cooking (nyonyacooking.com), whose recipe confirms the standard ratio of flour, eggs, and coconut milk across Malaysian home kitchens. All sources agree on the essentials: a thin, well-strained batter, low heat, no flipping, and a quick fold while the crepe is still warm.

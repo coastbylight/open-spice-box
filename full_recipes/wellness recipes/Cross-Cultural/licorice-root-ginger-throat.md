@@ -2,7 +2,6 @@
 title: Licorice Root & Ginger Throat Soother
 slug: licorice-root-ginger-throat
 subtitle: An ancient two-herb formula for sore throats and respiratory health
-source_name: Cross-Cultural Traditional Preparation
 yield: 2 servings
 prep_time: 2 minutes
 cook_time: 15 minutes

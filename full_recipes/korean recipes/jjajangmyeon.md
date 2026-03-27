@@ -2,9 +2,6 @@
 title: Jjajangmyeon (Black Bean Sauce Noodles)
 slug: jjajangmyeon
 subtitle: Thick wheat noodles draped in a glossy, savory black bean sauce with pork and vegetables
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -157,9 +154,3 @@ Jjajangmyeon is typically served as a complete one-bowl meal. Sliced danmuji (ye
 **Reheating:** Warm the sauce in a pot over medium-low heat, adding 30 to 60 ml of water to restore the original consistency. Stir frequently to prevent scorching on the bottom.
 
 **Freezing:** The sauce can be frozen for up to 1 month. Thaw in the refrigerator overnight and reheat as above.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the widely practiced Korean home cooking method for jjajangmyeon, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The emphasis on frying the chunjang before combining it with other ingredients reflects the technique used in Korean-Chinese restaurants and is considered essential for authentic flavor. The history of jjajangmyeon's development from Chinese zhajiangmian to Korean comfort food is well documented in Korean food scholarship.

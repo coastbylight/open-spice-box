@@ -2,7 +2,6 @@
 title: Baath
 slug: baath
 subtitle: Goan Christmas Coconut and Semolina Cake
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Easy

@@ -2,9 +2,6 @@
 title: Idly
 slug: idly
 subtitle: Steamed fermented rice and lentil cakes from Tamil Nadu
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Makes 20–24 idlis (serves 4)
 prep_time: 30 minutes active, plus 6 hours soaking and 8–12 hours fermentation
 cook_time: 12 minutes per batch
@@ -132,9 +129,3 @@ The classic pairing is sambar — the tamarind and lentil vegetable stew — and
 **Fermented batter** keeps well refrigerated for 3–4 days — and in fact improves slightly in flavour over the first couple of days as the fermentation continues slowly. Do not add salt to the batter until just before steaming if you plan to store it.
 
 **Steamed idlis** are best eaten fresh and hot. Leftovers can be stored in an airtight container in the refrigerator for up to 2 days. To reheat, place in the steamer for 3–4 minutes, or wrap in a damp paper towel and microwave for 30–45 seconds. Reheated idlis can be pan-fried in a little oil or ghee to make a crisp breakfast variation.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the traditional tiffin-kitchen practice of Tamil Nadu, where idly has been prepared as a morning staple for centuries. The preparation is part of a broader South Indian fermented rice-and-lentil canon that includes dosa and uttapam, all sharing the same foundational batter. The specific proportions and techniques here reflect standard South Indian home practice.

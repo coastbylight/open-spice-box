@@ -2,7 +2,6 @@
 title: Khandvi
 slug: khandvi
 subtitle: Silky rolled chickpea ribbons from Gujarat — a study in patience and precision
-source_name: Traditional Indian Recipe
 cuisine: Gujarati
 course: Snack
 difficulty: Involved

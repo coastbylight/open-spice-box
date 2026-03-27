@@ -2,9 +2,6 @@
 title: Char Siu (Chinese BBQ Pork)
 slug: char-siu
 subtitle: Cantonese roast pork with a sticky, caramelized maltose glaze
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/chinese-bbq-pork-cha-siu/
-source_author: The Woks of Life
 yield: 8 servings
 prep_time: 10 minutes (plus overnight marinating)
 cook_time: 50 minutes
@@ -146,9 +143,3 @@ Cold char siu, sliced thin, makes an excellent addition to a platter alongside [
 **Freezer:** Wrap individual portions tightly in plastic wrap, then place in a freezer bag. Freeze for up to 1 month. Thaw overnight in the refrigerator.
 
 **Reheating:** For the best results, place slices on a foil-lined baking sheet and warm in a 350F oven for 5 to 7 minutes. Brush with a little honey or maltose dissolved in water before reheating to refresh the glaze. Microwaving works for convenience but will soften the caramelized edges.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from The Woks of Life (thewoksoflife.com), whose char siu recipe uses pork shoulder with a marinade built on sugar, five spice, hoisin, and soy sauce. The high-heat-to-low-heat roasting approach and maltose glaze technique are central to their method. Supplementary details on glaze preparation and alternative cuts were informed by Maggie Zhu's char siu recipe at Omnivore's Cookbook (omnivorescookbook.com), which emphasizes reducing the glaze in a saucepan before basting. Wei Guo's char siu recipe at Red House Spice (redhousespice.com) provided additional context on Cantonese barbecue traditions.

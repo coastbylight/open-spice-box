@@ -2,9 +2,6 @@
 title: Gaeng Pa Gai (Thai Jungle Curry with Chicken)
 slug: jungle-curry
 subtitle: A fiery, coconut-free Thai curry loaded with fresh herbs, fingerroot, and green peppercorns, built on a pounded paste of green chilies and dried spices
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/jungle-curry/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 25 minutes
 cook_time: 25 minutes
@@ -182,9 +179,3 @@ Steamed jasmine rice is the only essential companion. The plain, slightly sweet 
 **Reheating:** Warm gently in a saucepan over medium-low heat until the broth reaches a simmer. Add a splash of water or stock if the liquid has reduced. The Thai eggplant will soften further, which is acceptable but not ideal. Add a few fresh holy basil leaves just before serving to refresh the aroma.
 
 **Freezing:** The curry freezes well for up to 2 months without the finishing herbs. The eggplant and long beans will soften upon thawing, so consider slightly undercooking the vegetables if you plan to freeze a batch. Thaw overnight in the refrigerator and reheat on the stovetop. Stir in fresh holy basil and a squeeze of lime after reheating to revive the brightness.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Thai Jungle Curry with Chicken at Hot Thai Kitchen (hot-thai-kitchen.com), whose dual paste method and vegetable selection form the backbone of the recipe. Additional techniques and ingredient notes draw from Leela Punyaratabandhu's gaeng pa recipe at SheSimmers (shesimmers.com), particularly the emphasis on pea eggplant and bamboo shoots as traditional additions, and from the Serious Eats jungle curry recipe by Leela Punyaratabandhu (seriouseats.com), which informed the discussion of from-scratch paste technique and the traditional use of game meats. The toasted rice powder addition and fingerroot layering technique reflect common practice across multiple Thai cooking sources.

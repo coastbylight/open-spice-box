@@ -2,9 +2,6 @@
 title: Com Tam (Cơm Tấm)
 slug: com-tam
 subtitle: Broken rice topped with a caramelized grilled pork chop, a fluffy egg cake, and a sweet fish sauce dressing
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus 2 hours marinating)
 cook_time: 30 minutes
@@ -167,9 +164,3 @@ The flavors of com tam also bridge well into a broader Southeast Asian spread. T
 **Broken rice:** Best cooked fresh. Leftover rice can be refrigerated and used for fried rice the next day.
 
 **Marinade:** The raw pork can be marinated for up to 2 days in the refrigerator. Longer marinating deepens the flavor.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Saigon-style com tam, combining grilled lemongrass pork chops with broken rice, steamed egg cake, and nuoc cham. The approach draws from Vietnamese home cooking traditions and the com tam street culture documented by Andrea Nguyen in Vietnamese Food Any Day and The Woks of Life (thewoksoflife.com). The marinade proportions and grilling technique reflect the standard Southern Vietnamese approach to suon nuong.

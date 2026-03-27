@@ -2,9 +2,6 @@
 title: Canh Khổ Qua (Vietnamese Stuffed Bitter Melon Soup)
 slug: canh-kho-qua
 subtitle: Rings of jade-green bitter melon stuffed with a pork and glass noodle filling, simmered in a clean pork broth until tender and faintly sweet
-source_name: Vicky Pham
-source_url: https://www.vickypham.com/blog/canh-kho-qua
-source_author: Vicky Pham
 yield: 4 to 6 servings
 prep_time: 30 minutes
 cook_time: 25 minutes
@@ -165,9 +162,3 @@ For a broader Asian soup table, pair with [gaeng som](/recipes/gaeng-som) (Thai 
 **Freezing:** The soup freezes adequately for up to 1 month, though the bitter melon will lose some of its texture and become quite soft when thawed. The filling holds up better. Freeze in portions and thaw overnight in the refrigerator before reheating on the stovetop.
 
 **Leftover filling:** If you have extra filling, shape it into small meatballs and simmer them in the broth alongside the stuffed rings, or pan-fry them and serve with rice and a dipping sauce of fish sauce, lime juice, sugar, and sliced chilies.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Vicky Pham's canh khổ qua (vickypham.com), which provides the core approach of salting the bitter melon to temper its bitterness before stuffing with a pork and glass noodle filling and simmering in a simple broth. Additional details on filling variations and the use of a pork and shrimp mixture are informed by Hungry Huy's version (hungryhuy.com), which emphasizes the importance of fat content in the pork for a moist filling and offers the pork rib broth variation for deeper flavor. The wood ear mushroom addition and vegetarian substitution guidance draw from Wok and Kin's stuffed bitter melon soup (wokandkin.com), which treats the dish as an adaptable family recipe with room for personal interpretation.

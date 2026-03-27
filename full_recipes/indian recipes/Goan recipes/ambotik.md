@@ -2,7 +2,6 @@
 title: Ambotik
 slug: ambotik
 subtitle: Goa's sour-spicy fish curry, where the name says exactly what it is
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Moderate

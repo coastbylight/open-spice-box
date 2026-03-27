@@ -2,7 +2,6 @@
 title: Parsi Sev
 slug: sev
 subtitle: A sweet Parsi vermicelli dessert with rose water, cardamom, cream, and sultanas
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Dessert
 difficulty: Easy

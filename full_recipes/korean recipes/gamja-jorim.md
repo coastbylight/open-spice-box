@@ -2,9 +2,6 @@
 title: Gamja Jorim (Soy-Braised Potatoes)
 slug: gamja-jorim
 subtitle: Small potatoes glazed in a sweet soy sauce until glossy and tender to the core
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings (as banchan)
 prep_time: 10 minutes
 cook_time: 25 minutes
@@ -151,9 +148,3 @@ Gamja jorim is a banchan side dish, served as part of a Korean meal alongside ri
 **Reheating:** Warm gently in a small pan over low heat, adding a splash of water if the glaze has become too thick. Microwaving also works well for this dish.
 
 **Freezing:** Not recommended, as the potato texture becomes grainy after freezing and thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe reflects the standard Korean home cooking method for gamja jorim, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The technique of braising potatoes in a sweet soy glaze is one of the most fundamental jorim preparations and appears in virtually every Korean home cooking resource.

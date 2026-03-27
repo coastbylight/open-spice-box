@@ -2,9 +2,6 @@
 title: Shogayaki (Ginger Pork)
 slug: shogayaki
 subtitle: Tender, thinly sliced pork loin seared until golden and glazed in a sweet ginger-soy sauce, one of Japan's most comforting weeknight meals
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/ginger-pork-shogayaki/
-source_author: Namiko Hirasawa Chen
 yield: 2 servings
 prep_time: 10 minutes
 cook_time: 10 minutes
@@ -146,9 +143,3 @@ Leftover shogayaki makes an excellent bento filling. Pack it at room temperature
 **Cooked shogayaki:** Refrigerate in an airtight container for up to 3 days. The flavors actually deepen overnight as the ginger and soy continue to meld. Reheat in a skillet over medium-high heat for 1 to 2 minutes, adding a splash of water or sake if the glaze has tightened too much. Microwaving works in a pinch but will not restore the seared texture.
 
 **Freezing:** Cooked shogayaki can be frozen for up to 1 month. Thaw overnight in the refrigerator and reheat in a hot skillet. For meal prep, you can also freeze the raw pork with the ginger juice and sake seasoning already applied. Thaw, dust with flour, and cook fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose detailed shogayaki recipe emphasizes ginger juice as a pre-seasoning step and flour dusting for a juicy result. Her technique of cooking the onion separately and then returning the pork for a final glaze produces a cleaner sear and more even sauce distribution. Supplementary details on sauce ratios and ginger preparation were informed by Shihoko Ura at Chopstick Chronicles (chopstickchronicles.com) and Makiko Itoh at Just Hungry (justhungry.com), both of whom contribute nuanced perspectives on everyday Japanese home cooking.

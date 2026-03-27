@@ -2,7 +2,6 @@
 title: Fish Caldeen
 slug: fish-caldeen
 subtitle: A gently spiced Goan coconut milk curry with cumin, pepper, and a thread of vinegar
-source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Main
 difficulty: Easy

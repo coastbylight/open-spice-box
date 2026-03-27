@@ -2,9 +2,6 @@
 title: Gamjatang (Pork Bone Soup)
 slug: gamjatang
 subtitle: A robust, spicy soup of tender pork neck bones simmered until the meat falls away at the touch of chopsticks
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus 1 hour soaking)
 cook_time: 1 hour 30 minutes
@@ -162,9 +159,3 @@ Gamjatang is a substantial main course served with steamed white rice. Ladle the
 **Reheating:** Bring back to a boil over medium heat. The gelled broth will liquefy as it warms. Add a splash of water if the soup has thickened too much. Refresh with sliced scallion and a sprinkle of perilla seeds.
 
 **Freezing:** The broth freezes well for up to 2 months. Remove the bones before freezing for easier storage. Thaw overnight in the refrigerator and reheat thoroughly.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the traditional Korean method for gamjatang, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The emphasis on thorough bone cleaning and the use of ground perilla seeds reflects the approach practiced in Uijeongbu-style gamjatang restaurants, widely considered the standard for this dish.

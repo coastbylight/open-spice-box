@@ -2,7 +2,6 @@
 title: Ajwain Water (Digestive Infusion)
 slug: ajwain-water-digestive-infusion
 subtitle: The North Indian home remedy for indigestion, bloating, and colic
-source_name: Traditional Ayurvedic Preparation
 yield: 1–2 servings
 prep_time: 1 minute
 cook_time: 6 minutes

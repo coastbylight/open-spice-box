@@ -2,9 +2,6 @@
 title: Zui Ji (Drunken Chicken)
 slug: zui-ji
 subtitle: Cold poached chicken steeped in Shaoxing wine and golden broth
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/drunken-chicken/
-source_author: The Woks of Life
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 25 minutes
@@ -144,9 +141,3 @@ Drunken chicken keeps beautifully in its brine in the refrigerator for up to 3 d
 This dish is meant to be served cold and does not benefit from reheating. If the chicken has been refrigerated and the brine has set into a soft jelly, that is normal and a sign of a good, collagen-rich broth. It will melt back to liquid at room temperature.
 
 Do not freeze this dish, as the texture of the chicken changes significantly after thawing.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique and ingredient references from Omnivore's Cookbook (omnivorescookbook.com) and Red House Spice (redhousespice.com). Ingredient proportions and method refined for clarity and home-kitchen application.

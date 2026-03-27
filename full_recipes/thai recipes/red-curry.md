@@ -2,9 +2,6 @@
 title: Gaeng Phet Gai (Thai Red Curry with Chicken)
 slug: red-curry
 subtitle: Chicken thighs braised in a fragrant coconut curry of red chili paste, kabocha squash, and Thai basil
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/red-curry-chicken-squash/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 25 minutes
@@ -145,9 +142,3 @@ Steamed jasmine rice is not optional. The curry is salty, rich, and intense by d
 **Reheating:** Warm gently in a saucepan over medium-low heat, adding a splash of coconut milk or water to loosen the sauce, which will have thickened from the squash starch. Stir carefully to avoid breaking the squash cubes. The curry reheats very well and many prefer it the second day.
 
 **Freezing:** Freeze without the basil for up to 2 months. Thaw overnight in the refrigerator and reheat on the stove. Stir in fresh basil after reheating. The squash may soften slightly but the overall quality holds up well. Chicken pieces maintain their texture through freezing better than in most curries because the coconut fat helps insulate the meat.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's authentic Thai Red Curry with Chicken at Hot Thai Kitchen (hot-thai-kitchen.com), including the coconut cream blooming technique, kabocha squash pairing, and palm sugar seasoning. The fresh aromatics paste boost (garlic, ginger, lemongrass addition to store-bought paste) is drawn from Nagi Maehashi's Thai Red Curry with Chicken at RecipeTinEats (recipetineats.com). The green bean addition and kaffir lime leaf technique also reflect Maehashi's approach. The emphasis on building flavor through proper paste frying and fat separation reflects principles documented across multiple Thai cooking authorities.

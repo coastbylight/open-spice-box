@@ -2,7 +2,6 @@
 title: Murgh Chaandi Tikka
 slug: murgh-chaandi-tikka
 subtitle: Silver-robed Awadhi chicken from the tandoor, finished with a veil of cream and edible silver
-source_name: Traditional Awadhi Recipe
 cuisine: Awadhi
 course: Starter
 difficulty: Medium

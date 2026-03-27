@@ -2,9 +2,6 @@
 title: Ayam Bakar (Indonesian Grilled Chicken)
 slug: ayam-bakar
 subtitle: Spice-braised chicken grilled until deeply charred and lacquered with sweet soy
-source_name: What To Cook Today
-source_url: https://whattocooktoday.com/ayam-bakar-bumbu-rujak.html
-source_author: Wiffy
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 1 hour
@@ -173,9 +170,3 @@ If you are building a Southeast Asian grilled chicken comparison, set ayam bakar
 **Reheating:** The grill is the best option for reheating. Brush the chicken with a thin layer of the reserved braising sauce and grill over medium heat for 3 to 4 minutes per side until heated through and the glaze re-caramelizes. Alternatively, place on a rack over a sheet pan in a 190C (375F) oven for 10 to 12 minutes. The oven method works nearly as well and re-crisps the skin without drying the meat. Microwaving is adequate for warming the chicken through but will soften the charred exterior.
 
 **Make-ahead strategy:** The braised chicken can be prepared up to 2 days in advance and refrigerated in its sauce. When ready to serve, bring to room temperature for 30 minutes, then proceed directly to the grilling step. This makes ayam bakar an excellent dish for entertaining, since the messy braising work is done ahead of time and the grilling is quick.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from the ayam bakar bumbu rujak recipe by Wiffy at What To Cook Today (whattocooktoday.com), which uses a coconut milk braise with a spice paste of candlenuts, turmeric, galangal, and sambal oelek, finished by grilling or broiling. The Solo-style variation and the emphasis on kecap manis in the basting glaze were informed by the ayam bakar Solo recipe at Cook Me Indonesian (cookmeindonesian.com), which builds its flavor around sweet soy sauce and a simpler spice paste of shallots, garlic, turmeric, and coriander. The braising-then-grilling technique and the general approach to layering aromatics reflect common practice across both sources and the broader Indonesian grilling tradition.

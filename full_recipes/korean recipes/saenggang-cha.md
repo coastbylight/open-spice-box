@@ -2,9 +2,6 @@
 title: Saenggang Cha (Ginger Tea)
 slug: saenggang-cha
 subtitle: A bracing, warming tea of fresh ginger simmered with honey and garnished with pine nuts
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/saenggang-cha/
-source_author: Korean Bapsang
 yield: 4 cups
 prep_time: 10 minutes
 cook_time: 30 minutes
@@ -127,9 +124,3 @@ Saenggang cha is traditionally served on its own or alongside [daechu cha](/reci
 **Ginger syrup:** The ginger-honey syrup (saenggang-cheong) keeps in the refrigerator for up to 3 months and provides instant ginger tea whenever needed.
 
 **Freezer:** Freeze in ice cube trays or small containers for up to 2 months. Thaw and reheat for a quick cup.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Korean Bapsang (koreanbapsang.com), whose saenggang cha recipe provides the traditional Korean approach to ginger tea preparation. Supplementary notes on ginger syrup (saenggang-cheong) and variations were informed by My Korean Kitchen (mykoreankitchen.com) and Maangchi (maangchi.com). The traditional medicine context draws on well-documented Korean and East Asian herbal traditions, with clinical research references from published studies on ginger's bioactive compounds.

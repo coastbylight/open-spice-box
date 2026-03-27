@@ -2,7 +2,6 @@
 title: Asada de Leitão
 slug: asada-de-leitao
 subtitle: Portuguese-Goan slow-roasted pork leg with a spiced jaggery paste — a dish for celebrations
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Main
 difficulty: Involved

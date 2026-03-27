@@ -2,9 +2,6 @@
 title: Taiwanese Beef Noodle Soup (紅燒牛肉麵)
 slug: taiwanese-beef-noodle-soup
 subtitle: A rich, deeply braised noodle soup with doubanjiang, tomato, and fall-apart beef shank
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/taiwanese-beef-noodle-soup-instant-pot/
-source_author: Judy Leung
 yield: 10 servings
 prep_time: 30 minutes
 cook_time: 2 hours 30 minutes
@@ -170,9 +167,3 @@ For a fuller Taiwanese table, serve alongside [Gong Bao Ji Ding](/recipes/gong-b
 **Noodles:** Always cook fresh. Leftover cooked noodles absorb broth and become soft and starchy.
 
 **Reheating:** Warm the broth on the stovetop over medium heat. Add the beef to the broth for the final 2 minutes of reheating so it warms through without overcooking.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Judy Leung's Taiwanese beef noodle soup recipe at The Woks of Life (thewoksoflife.com), which provides both Instant Pot and stovetop methods. The pickled mustard green preparation and the addition of daikon and carrot to the braising aromatics draw from Maggie Zhu's version at Omnivore's Cookbook (omnivorescookbook.com). The technique of straining the broth and the emphasis on rock sugar come from Wei Guo's recipe at Red House Spice (redhousespice.com).

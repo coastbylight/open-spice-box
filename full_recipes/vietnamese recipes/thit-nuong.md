@@ -2,9 +2,6 @@
 title: Thit Nuong (Thịt Nướng)
 slug: thit-nuong
 subtitle: Lemongrass and fish sauce marinated pork grilled over charcoal until sticky and deeply caramelized
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes (plus 2 hours marinating)
 cook_time: 15 minutes
@@ -136,9 +133,3 @@ For a Vietnamese barbecue night, set out thit nuong alongside [goi cuon](/recipe
 **Reheating:** Reheat on a hot grill pan or under the broiler for 1 to 2 minutes per side to restore the charred surface. Avoid the microwave, which steams the meat and removes the crust.
 
 **Marinade:** The raw marinade (before contact with pork) can be made up to 3 days ahead.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Vietnamese approach to thit nuong, the lemongrass-marinated grilled pork that serves as a foundational protein across multiple Vietnamese dishes. The marinade proportions and grilling technique draw from Vietnamese home cooking traditions documented by Andrea Nguyen and the street food grilling methods common across Southern Vietnam.

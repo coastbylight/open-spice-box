@@ -2,9 +2,6 @@
 title: Tamago Kake Gohan (Japanese Egg Rice)
 slug: tamago-kake-gohan
 subtitle: Steaming rice stirred with a raw egg and soy sauce, Japan's simplest and most satisfying breakfast
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/tamago-kake-gohan/
-source_author: Namiko Hirasawa Chen
 yield: 1 serving
 prep_time: 5 minutes
 cook_time: 0 minutes
@@ -145,9 +142,3 @@ A small dish of kimchi or Japanese pickled cucumbers (kyuri no shiozuke) alongsi
 **Cooked rice:** Leftover rice can be stored in the refrigerator for up to 2 days or frozen for up to 1 month. To use for TKG, reheat the rice until it is piping hot and steaming before cracking the egg over it. Microwave reheating works if you sprinkle a few drops of water over the rice and cover the bowl.
 
 **Raw eggs:** Store eggs in the refrigerator and bring to room temperature for about 10 minutes before using. A room-temperature egg incorporates more smoothly into the rice and does not cool it down as quickly.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose clear instructions and notes on egg safety, rice preparation, and topping suggestions form the backbone of this version. Supplementary details on technique, particularly the separated-egg method and butter variation, were informed by Serious Eats (seriouseats.com), whose TKG recipe by Tim Chin emphasizes the importance of rice temperature and vigorous stirring. Additional topping ideas and cultural context were drawn from Shihoko Ura at Chopstick Chronicles (chopstickchronicles.com), whose recipe highlights the role of katsuobushi and regional preferences in TKG preparation.

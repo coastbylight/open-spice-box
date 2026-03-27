@@ -2,7 +2,6 @@
 title: Begun Bhaja
 slug: begun-bhaja
 subtitle: Pan-fried aubergine slices — crisp-edged, spiced, and deeply satisfying
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Side
 difficulty: Easy

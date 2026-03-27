@@ -2,9 +2,6 @@
 title: Lo Mai Gai (Lotus Leaf Sticky Rice)
 slug: lo-mai-gai
 subtitle: Steamed parcels of seasoned glutinous rice with chicken, Chinese sausage, and shiitake mushrooms wrapped in fragrant lotus leaves
-source_name: Traditional Chinese Recipe
-source_url: https://redhousespice.com/lo-mai-gai/
-source_author: Wei Guo
 yield: 8 parcels (4 to 6 servings)
 prep_time: 20 minutes (plus overnight soaking)
 cook_time: 1 hour 15 minutes
@@ -160,9 +157,3 @@ For a complete Cantonese dinner, pair lo mai gai with [Soy Sauce Chicken](/recip
 **Freezing:** Lo mai gai freezes exceptionally well. Let parcels cool completely, then place in airtight freezer bags. They keep for up to 3 months. To reheat from frozen, thaw in the refrigerator overnight, then steam for 10 to 15 minutes. You can also microwave a thawed parcel for 3 to 4 minutes, though steaming produces a better texture.
 
 **Batch cooking:** This recipe is designed for making ahead. The overnight soaking is already built in, and the parcels only improve slightly after an initial rest, as the flavors continue to meld during storage.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Wei Guo's lo mai gai recipe at Red House Spice (redhousespice.com), whose streamlined stir-fry-then-steam approach and detailed guidance on lotus leaf preparation provide the foundation for this version. The technique of using mushroom and shrimp soaking water as part of the seasoning liquid is drawn from her method for building layered umami flavor.

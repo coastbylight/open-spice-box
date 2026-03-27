@@ -2,9 +2,6 @@
 title: Nabe (Japanese Hot Pot)
 slug: nabe
 subtitle: A communal pot of simmered proteins, vegetables, mushrooms, and tofu in a gentle dashi broth, served tableside and eaten as you go
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/yosenabe/
-source_author: Nami
 yield: 4 servings
 prep_time: 25 minutes
 cook_time: 20 minutes
@@ -165,9 +162,3 @@ Nabe is best eaten fresh, as the communal cooking process is part of the experie
 Reheat gently on the stovetop over medium-low heat. Add a splash of water or dashi if the broth has reduced. Fish and shrimp may become slightly firmer upon reheating, but the broth itself will be even more flavorful the next day.
 
 Do not freeze the assembled hot pot, as tofu, fish, and leafy vegetables all suffer in texture after freezing. If you want to freeze something, strain and freeze the enriched broth on its own for up to 1 month. It makes an excellent base for a quick soup or noodle broth.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Nami at Just One Cookbook (justonecookbook.com), with supplementary technique and ingredient notes from the chanko nabe recipe on Just One Cookbook. Proportions and method refined for home-kitchen application.

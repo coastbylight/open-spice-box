@@ -2,7 +2,6 @@
 title: Hyderabadi Biryani
 slug: hyderabadi-biryani
 subtitle: The dum-sealed crown of Mughal Deccan cooking
-source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved

@@ -2,9 +2,6 @@
 title: Cháo Lòng (Vietnamese Pork Organ Rice Porridge)
 slug: chao-long
 subtitle: A dark, silky rice porridge crowned with tender sliced offal, blood sausage, and fried shallots, served alongside sweet ginger fish sauce for dipping
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/vietnamese-pork-organ-porridge-chao-long
-source_author: Vicky Pham
 yield: 4 to 5 servings
 prep_time: 45 minutes
 cook_time: 1 hour 30 minutes
@@ -180,9 +177,3 @@ For a larger spread, serve alongside a plate of fresh herbs: Vietnamese coriande
 **Freezing:** The porridge base (without organ toppings) freezes well in individual portions for up to 1 month. Thaw overnight in the refrigerator and reheat on the stovetop with added water. The sliced organs can be frozen separately for up to 2 months, though liver texture may suffer slightly upon thawing.
 
 **Make-ahead tip:** If you plan to eat the porridge over several days, stop cooking the rice slightly earlier than your ideal consistency. It will continue to thicken as it cools and again each time it is reheated.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Vicky Pham's cháo lòng (vickypham.com), which provides the core technique of sautéing aromatics before toasting the rice, the method for cleaning and simmering the organs, and the use of raw pork blood to darken the porridge. The ingredient ratios, step sequence, and garnish suggestions follow her approach closely. General techniques for Vietnamese congee preparation, including the flour-vinegar-salt scrubbing method for offal and the ice-bath firming step, are consistent across multiple Vietnamese cooking sources and reflect widely practiced home-kitchen traditions.

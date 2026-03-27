@@ -2,7 +2,6 @@
 title: Chicken Korma
 slug: chicken-korma
 subtitle: Mughal gold — chicken braised in saffron, cashew, and kewra
-source_name: Traditional Indian Recipe
 cuisine: Awadhi
 course: Main
 difficulty: Medium

@@ -2,7 +2,6 @@
 title: Akuri
 slug: akuri
 subtitle: Parsi scrambled eggs with onion, tomato, green chilli, and turmeric — soft and spiced
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Breakfast
 difficulty: Easy

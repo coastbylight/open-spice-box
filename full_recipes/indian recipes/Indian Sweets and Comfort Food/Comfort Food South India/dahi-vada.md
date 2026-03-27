@@ -2,7 +2,6 @@
 title: Dahi Vada
 slug: dahi-vada
 subtitle: Urad Dal Fritters in Cool Spiced Yogurt with Mustard-Curry Leaf Tempering
-source_name: Traditional Indian Recipe
 cuisine: South Indian
 course: Snack
 difficulty: Easy

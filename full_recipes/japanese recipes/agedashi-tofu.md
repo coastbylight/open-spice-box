@@ -2,9 +2,6 @@
 title: Agedashi Tofu (Fried Tofu in Dashi Broth)
 slug: agedashi-tofu
 subtitle: Silken tofu dusted in potato starch and fried until golden, served in a warm pool of dashi-soy broth with grated daikon and ginger
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -142,9 +139,3 @@ Agedashi tofu is a classic first course or side dish. It pairs naturally with gr
 ## Storage and Reheating
 
 Agedashi tofu should not be stored or reheated. The dish relies entirely on the contrast between the crisp coating and the soft interior, which is lost within minutes of assembly. Prepare and serve immediately. If you want to work ahead, the dashi broth can be made up to 2 days in advance and refrigerated, and the tofu can be drained and cut in advance. The frying and assembly must happen just before serving.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Japanese preparation for agedashi tofu as served in izakaya and home kitchens across Japan. The garnish combination of daikon, ginger, scallion, and bonito is the standard accompaniment found in Japanese culinary references.

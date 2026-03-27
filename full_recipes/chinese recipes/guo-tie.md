@@ -2,9 +2,6 @@
 title: Guo Tie (Potstickers)
 slug: guo-tie
 subtitle: Pan-fried pork and cabbage dumplings with crispy golden bottoms and juicy, savory filling
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 30 dumplings
 prep_time: 45 minutes
 cook_time: 15 minutes
@@ -156,9 +153,3 @@ Serve potstickers as a main dish with the dipping sauce, a bowl of simple soup (
 ## Storage and Reheating
 
 Uncooked dumplings freeze beautifully. Arrange them in a single layer on a parchment-lined sheet pan and freeze until solid, about 2 hours, then transfer to a freezer bag. They keep for up to 2 months. Cook directly from frozen, adding 2 to 3 extra minutes of steaming time. Cooked potstickers can be refrigerated for up to 2 days and reheated in a hot skillet with a little oil to re-crisp the bottoms. The texture will not be quite as good as fresh, but it remains satisfying.
-
----
-
-## Source Acknowledgment
-
-Guo tie are one of the foundational dumpling preparations of northern Chinese cooking. This recipe follows the standard home-cooking approach, with the hot water dough technique and fry-steam-fry cooking method that is common across dumpling-making households throughout northern China.

@@ -2,9 +2,6 @@
 title: Gan Chao Niu He (Beef Chow Fun)
 slug: beef-chow-fun
 subtitle: Cantonese stir-fried wide rice noodles with tender beef, bean sprouts, and soy sauce over fierce wok heat
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 20 minutes
 cook_time: 8 minutes
@@ -146,9 +143,3 @@ Beef chow fun is a complete one-plate meal, especially popular for lunch in Cant
 ## Storage and Reheating
 
 This dish is best eaten immediately. Fresh rice noodles harden and become brittle when refrigerated, and reheating cannot restore the wok hei. If you must store leftovers, refrigerate in an airtight container for up to 1 day and reheat in a very hot wok with a splash of water and a drizzle of oil. Accept that the texture will not match the original. Freezing is not recommended.
-
----
-
-## Source Acknowledgment
-
-Gan chao niu he is one of Cantonese cuisine's most iconic dishes, a standard test of wok technique in professional kitchens across Guangdong and Hong Kong. This recipe adapts the restaurant technique for home cooking, with adjustments for lower BTU home burners.

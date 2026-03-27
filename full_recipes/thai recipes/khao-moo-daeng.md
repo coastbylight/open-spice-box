@@ -2,9 +2,6 @@
 title: Khao Moo Daeng (ข้าวหมูแดง)
 slug: khao-moo-daeng
 subtitle: Thai red BBQ pork sliced over rice with a sweet red gravy, hard-boiled egg, and Chinese sausage
-source_name: Traditional Thai Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus 4 hours marinating)
 cook_time: 40 minutes
@@ -166,9 +163,3 @@ The red pork also works sliced into a bowl of egg noodle soup (ba mee moo daeng)
 **Reheating:** Warm the sliced pork briefly in a hot oven (180C for 5 minutes) or microwave gently. Reheat the gravy in a small saucepan, adding a splash of water if it has thickened too much.
 
 **Marinating ahead:** The pork can be marinated for up to 2 days in the refrigerator, which deepens the flavor and color.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Thai approach to khao moo daeng, a Chinese-influenced roast pork rice plate found across Bangkok's rice shops and street stalls. The use of red fermented tofu in the marinade and the sweet red cornstarch gravy are distinctly Thai adaptations of Cantonese char siu, documented across Thai cooking references including Pailin Chongchitnant at Hot Thai Kitchen (hot-thai-kitchen.com) and the Bangkok street food traditions described by Mark Wiens at migrationology.com.

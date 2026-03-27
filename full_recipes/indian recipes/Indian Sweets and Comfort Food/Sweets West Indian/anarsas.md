@@ -2,7 +2,6 @@
 title: Anarsas
 slug: anarsas
 subtitle: Maharashtrian Three-Day Soaked Rice and Sugar Rounds with Poppy Seed Crust
-source_name: Traditional Indian Recipe
 cuisine: Maharashtrian
 course: Dessert
 difficulty: Advanced

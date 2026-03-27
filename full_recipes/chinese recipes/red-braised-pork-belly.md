@@ -2,9 +2,6 @@
 title: Hong Shao Rou (Red Braised Pork Belly)
 slug: red-braised-pork-belly
 subtitle: Shanghai's iconic slow-braised pork belly in a glossy caramel-soy sauce with warm spices
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 90 minutes
@@ -140,9 +137,3 @@ Steamed white rice is essential. The sauce is meant to be spooned over rice, and
 ## Storage and Reheating
 
 Hong shao rou improves overnight, as the flavors continue to meld and deepen in the refrigerator. Store in an airtight container for up to 4 days. The sauce will solidify when cold due to its gelatin content, which is a sign of a well-made braise. Reheat gently in a covered pot over low heat, stirring occasionally, until the sauce liquefies and the pork is warmed through. Freezes well for up to 2 months. Thaw overnight in the refrigerator before reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the Shanghai and Jiangnan tradition of hong shao rou. The technique and proportions reflect a synthesis of home cooking practices from the region, informed by the writings of Fuchsia Dunlop, Eileen Yin-Fei Lo, and countless family kitchens along the Yangtze Delta.

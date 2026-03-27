@@ -2,9 +2,6 @@
 title: Beef Rendang (Rendang Daging)
 slug: beef-rendang
 subtitle: A deeply spiced, dry-braised coconut beef stew from the Minangkabau tradition, slow-cooked until the meat is tender and lacquered in a dark, fragrant paste of chilies, lemongrass, galangal, and toasted coconut
-source_name: Rasa Malaysia
-source_url: https://rasamalaysia.com/beef-rendang-recipe/
-source_author: Bee Yinn Low
 yield: 4 servings
 prep_time: 30 minutes
 cook_time: 2 hours
@@ -179,9 +176,3 @@ Rendang also works well tucked into flatbread or roti canai. Some Malaysian home
 **Freezing:** Rendang freezes exceptionally well for up to 3 months. Portion into airtight containers or zip-lock bags. Thaw overnight in the refrigerator and reheat on the stovetop. The texture holds up better than most braised dishes due to the low moisture content.
 
 **Traditional preservation:** In Minangkabau tradition, rendang was historically re-cooked and further reduced every few days, allowing it to keep for weeks or even months without refrigeration. While this is not necessary with modern storage, it speaks to how well the dish tolerates reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Bee Yinn Low's authentic beef rendang at Rasa Malaysia (rasamalaysia.com), whose emphasis on kerisik (toasted coconut), proper spice paste technique, and the importance of slow reduction to a dry finish forms the backbone of the method. The spice paste proportions, browning technique, and optional desiccated coconut toasting method draw from Nagi Maehashi's version at RecipeTinEats (recipetineats.com), which also informed the tamarind and sugar balance. General context on rendang's Minangkabau origins and the distinction between rendang and curry reflects information from Kenji Lopez-Alt's treatment at Serious Eats (seriouseats.com).

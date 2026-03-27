@@ -2,7 +2,6 @@
 title: Kancha Gola
 slug: kancha-gola
 subtitle: Bengali Fresh Chenna Sandesh with Condensed Milk and Cardamom
-source_name: Traditional Indian Recipe
 cuisine: Bengali
 course: Dessert
 difficulty: Easy

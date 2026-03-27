@@ -2,9 +2,6 @@
 title: Takikomi Gohan (Japanese Mixed Rice)
 slug: takikomi-gohan
 subtitle: Seasoned rice simmered with chicken, mushrooms, burdock root, and soy in a single pot
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/takikomi-gohan/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 20 minutes
 cook_time: 60 minutes
@@ -192,9 +189,3 @@ Leftover takikomi gohan makes exceptional [onigiri](/recipes/onigiri). The rice 
 **Reheating:** From frozen, microwave a single wrapped portion for 2 to 3 minutes, flipping once halfway through, until hot all the way to the center. The rice should return to a soft, slightly sticky texture. From refrigerated, unwrap, place in a microwave-safe bowl with a damp paper towel draped over the top, and heat for 1 to 2 minutes.
 
 **Repurposing leftovers:** Cold takikomi gohan makes excellent onigiri or can be pan-fried with a beaten egg and a splash of sesame oil for a quick fried rice. The existing seasonings mean you need very little additional flavoring.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose detailed instructions on rice preparation, ingredient layering order, the sogigiri cutting technique for chicken, and the importance of not mixing ingredients into the rice before cooking form the foundation of this version. The shiitake soaking liquid method and vegetable cutting guidance also draw from her recipe. Supplementary details on seasoning ratios, stovetop cooking method, the role of pre-soaking rice when cooking with seasonings, and tips for achieving good okoge were informed by Shihoko Ura at Chopstick Chronicles (chopstickchronicles.com), whose recipe emphasizes the 1:1 liquid-to-rice ratio and the value of resting the rice after cooking. General background on takikomi gohan traditions and seasonal ingredient variations was informed by Makiko Itoh at Just Hungry (justhungry.com).

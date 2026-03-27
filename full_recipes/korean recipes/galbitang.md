@@ -2,9 +2,6 @@
 title: Galbitang (Short Rib Soup)
 slug: galbitang
 subtitle: Meaty beef short ribs simmered with radish in a clear, savory broth until the meat nearly slides off the bone
-source_name: Traditional Korean Recipe
-source_url: https://www.koreanbapsang.com/galbitang/
-source_author: Hyosun Ro
 yield: 4 servings
 prep_time: 40 minutes
 cook_time: 1 hour 30 minutes
@@ -143,9 +140,3 @@ The broth and ribs store well in the refrigerator for up to 4 days. The fat will
 Reheat on the stovetop over medium heat until the broth reaches a gentle boil. Add fresh noodles and scallions when reheating for the best texture.
 
 The broth without noodles freezes well for up to 3 months. The cooked ribs can be frozen alongside or separately.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from Korean Bapsang (koreanbapsang.com), with supplementary ingredient notes from Maangchi (maangchi.com). Proportions and timing refined for home-kitchen clarity.

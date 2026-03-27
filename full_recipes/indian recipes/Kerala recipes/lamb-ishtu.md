@@ -2,7 +2,6 @@
 title: Lamb Ishtu
 slug: lamb-ishtu
 subtitle: Mild Kerala coconut milk stew with lamb — fragrant with whole spices, vegetables and ginger juliennes, from the Syrian Christian table
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main
 difficulty: Intermediate

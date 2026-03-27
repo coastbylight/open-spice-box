@@ -2,9 +2,6 @@
 title: Cong You Ban Mian (Scallion Oil Noodles)
 slug: scallion-oil-noodles
 subtitle: Shanghai's deceptively simple noodles tossed in slow-fried scallion oil with soy and sugar
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 5 minutes
 cook_time: 15 minutes
@@ -137,9 +134,3 @@ This is a standalone dish, designed to be a quick, satisfying meal in a single b
 ## Storage and Reheating
 
 The scallion oil can be made in advance and stored in a sealed jar in the refrigerator for up to 1 week, or frozen for up to 1 month. Reheat gently before using. Cook the noodles fresh each time, as leftover noodles become sticky and lose their chew. If you have leftover dressed noodles, reheat them in a hot wok with a splash of water and additional scallion oil.
-
----
-
-## Source Acknowledgment
-
-Cong you ban mian is a Shanghai street food and home cooking staple. This recipe follows the fundamental technique shared across generations of Shanghai cooks, where the quality of the scallion oil defines the quality of the dish.

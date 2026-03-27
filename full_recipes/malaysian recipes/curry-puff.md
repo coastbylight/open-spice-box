@@ -2,9 +2,6 @@
 title: Curry Puff (Karipap)
 slug: curry-puff
 subtitle: Crisp, golden pastry parcels filled with curried potato, chicken, and a hard-boiled egg quarter
-source_name: Traditional Malaysian Recipe
-source_url:
-source_author:
 yield: 20 pieces
 prep_time: 1 hour
 cook_time: 30 minutes
@@ -160,9 +157,3 @@ Curry puffs also work as an appetizer before a richer Malaysian meal. Set them o
 **Reheating:** Place in a 180C (350F) oven for 8 to 10 minutes to restore crispness. A toaster oven works well for smaller batches. Avoid microwaving, which makes the pastry limp.
 
 **Filling ahead:** The filling can be made 2 days in advance and refrigerated, making assembly day much quicker.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Malaysian karipap approach, combining a butter-based flaky pastry with a mildly curried potato and chicken filling. The technique and proportions draw from the home cooking traditions documented by Malaysian food writers including Bee Yinn Low at Rasa Malaysia (rasamalaysia.com) and the street food traditions described across Malaysian hawker culture. The inclusion of hard-boiled egg quarters and the moderate frying temperature are standard practices in Malaysian curry puff preparation.

@@ -2,9 +2,6 @@
 title: Sai Krok Isan (Thai Fermented Sausage)
 slug: sai-krok-isan
 subtitle: Tangy pork-and-rice sausages from Northeastern Thailand, fermented until gently sour and grilled until blistered
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/isaan-sausage/
-source_author: Pailin Chongchitnant
 yield: About 40 small sausage links (serves 6 to 8 as a snack)
 prep_time: 45 minutes
 cook_time: 15 minutes
@@ -181,9 +178,3 @@ They pair naturally with cold beer, particularly a light Thai lager, which echoe
 **Reheating:** For the best texture, reheat on a hot grill or in a skillet over medium heat until the casing crisps again and the interior is warmed through, about 3 to 4 minutes per side. Air frying at 180C (350F) for 5 to 7 minutes also works well. Microwaving will warm them through but softens the casing.
 
 **Raw sausage casings:** Unused natural hog casings can be repacked in salt and stored in the refrigerator for up to 1 year.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's Isaan sausage recipe at Hot Thai Kitchen (hot-thai-kitchen.com), which uses a traditional approach of ground pork, sticky rice, garlic, and cilantro roots stuffed into natural casings and fermented at room temperature. The addition of glass noodles as an optional variation (sai krok woon sen), the use of Golden Mountain seasoning sauce and oyster sauce in the filling, and the inclusion of chicken bouillon for extra umami were informed by Leela Punyaratabandhu's sai krok isan recipe at SheSimmers (shesimmers.com), which emphasizes the balance of seasonings and the role of additional umami sources. The soup-spoon stuffing technique, the rice paper casing alternative, and the recommendation to pre-boil sausages before grilling to prevent bursting were drawn from Cooking with Nart (cookingwithnart.com), which provides practical solutions for home cooks without specialized sausage-making equipment.

@@ -2,9 +2,6 @@
 title: Banh Xeo (Bánh Xèo)
 slug: banh-xeo
 subtitle: Crispy Vietnamese sizzling crepes filled with pork, shrimp, mung beans, and bean sprouts
-source_name: Hungry Huy
-source_url: https://www.hungryhuy.com/banh-xeo-savory-vietnamese-crepes/
-source_author: Huy Vu
 yield: 10 to 12 crepes (serves 4 to 6)
 prep_time: 45 minutes (plus 3 hours resting)
 cook_time: 1 hour 30 minutes
@@ -192,9 +189,3 @@ For a fuller Vietnamese spread, serve banh xeo alongside [goi cuon](/recipes/goi
 **Herb plate:** Prepare fresh for each meal. Herbs wilt and lose their brightness within hours of being picked or washed.
 
 **Reheating cooked crepes:** If you have leftover folded crepes, the best recovery method is a quick stint in a hot, dry skillet over medium-high heat for 1 to 2 minutes per side. This will re-crisp the exterior, though the texture will not fully match a freshly made crepe. An air fryer at 190C for 3 to 4 minutes also works reasonably well.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Huy Vu's banh xeo recipe at [Hungry Huy](https://www.hungryhuy.com/banh-xeo-savory-vietnamese-crepes/), which provides the core batter ratio, the two-phase cooking method (covered then uncovered), and the traditional southern Vietnamese approach. The technique of pre-seasoning and partially cooking the pork and shrimp with garlic and shallot before assembly draws from Vicky Pham's version at [Vicky Pham](https://vickypham.com/blog/vietnamese-sizzling-crepe-pancake-banh-xeo/), as does the inclusion of cornstarch as a gluten-free flour alternative and the emphasis on letting the batter bloom for optimal crispness. Both sources agree on the essentials: a well-rested coconut and rice flour batter, a hot nonstick pan, and the patience to let each crepe crisp fully before folding.

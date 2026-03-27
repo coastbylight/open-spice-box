@@ -2,9 +2,6 @@
 title: Char Kway Teow (炒粿條)
 slug: char-kway-teow
 subtitle: Smoky wok-fried flat rice noodles with prawns, cockles, lap cheong, and chives in dark soy
-source_name: Traditional Malaysian Recipe
-source_url:
-source_author:
 yield: 2 servings
 prep_time: 20 minutes
 cook_time: 10 minutes
@@ -158,9 +155,3 @@ For a broader Southeast Asian noodle comparison, offer char kway teow alongside 
 **Freezer:** Not recommended. The rice noodles become mushy after freezing and thawing.
 
 **Prep ahead:** The sauce can be mixed and the ingredients prepped up to a day in advance. Store the prepped ingredients separately in the refrigerator and bring to room temperature before cooking.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the traditional Penang hawker approach to char kway teow, emphasizing high heat, small batches, and minimal sauce. The dark soy-forward seasoning and the inclusion of both cockles and lap cheong follow the classic Penang street style documented by Malaysian food writers including Bee Yinn Low at Rasa Malaysia (rasamalaysia.com) and Leslie Tay at ieatishootipost.sg. The technique of alternating between pressing noodles flat against the wok and tossing them to redistribute heat is a standard hawker method described across multiple traditional sources.

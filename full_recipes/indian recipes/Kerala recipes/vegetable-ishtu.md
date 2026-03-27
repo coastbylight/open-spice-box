@@ -2,7 +2,6 @@
 title: Vegetable Ishtu
 slug: vegetable-ishtu
 subtitle: Mild, fragrant Kerala coconut milk vegetable stew — five vegetables in a gentle broth of whole spices and thin coconut milk, finished with ginger
-source_name: Traditional Indian Recipe
 cuisine: Kerala
 course: Main / Side
 difficulty: Easy

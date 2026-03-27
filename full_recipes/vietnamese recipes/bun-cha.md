@@ -2,9 +2,6 @@
 title: Bun Cha (Vietnamese Grilled Pork with Rice Noodles)
 slug: bun-cha
 subtitle: Charred pork patties and belly in a sweet-sour broth, served over cool vermicelli with fresh herbs
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/bun-cha-vietnamese-meatballs/
-source_author: Nagi Maehashi
 yield: 4 servings
 prep_time: 40 minutes (plus 30 minutes marinating)
 cook_time: 20 minutes
@@ -206,9 +203,3 @@ A simple dipping plate of Vietnamese chili sauce (tuong ot) alongside the broth 
 **Freezer:** Uncooked marinated patties freeze well. Place them on a parchment-lined tray in a single layer, freeze until solid, then transfer to a zip-top bag. Freeze for up to 1 month. Grill directly from frozen, adding 1 to 2 minutes per side. Cooked patties can also be frozen for up to 1 month and reheated from thawed.
 
 **Herb platter:** Prepare herbs and lettuce up to a few hours ahead, wrapped loosely in damp paper towels inside a container in the refrigerator. They will stay crisp and fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Nagi Maehashi's bun cha at RecipeTin Eats (recipetineats.com), which provides a streamlined home-cook approach to the pork patties and nuoc cham dipping sauce. The addition of roasted rice powder in the patty mixture, the use of shallots, and the coconut soda broth variation were informed by Vicky Pham's bun cha recipe at vickypham.com, which emphasizes traditional Hanoi techniques. The inclusion of grilled pork belly as a second component alongside the patties, the pickled green papaya option, and the detailed grilling guidance were drawn from Huy Vu's bun cha Hanoi at Hungry Huy (hungryhuy.com), which approaches the dish with attention to its northern Vietnamese roots.

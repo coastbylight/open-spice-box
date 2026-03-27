@@ -2,7 +2,6 @@
 title: Murgh Nizami
 slug: murgh-nizami
 subtitle: Hyderabadi chicken in a rich sauce of pounded nuts, seeds, and deep-fried coconut
-source_name: Traditional Hyderabadi Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Medium

@@ -2,9 +2,6 @@
 title: Gui Hua Gou Qi Tang (Osmanthus Sweet Soup)
 slug: osmanthus-sweet-soup
 subtitle: A light, fragrant dessert soup of osmanthus flowers, goji berries, and lotus seeds
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/osmanthus-sweet-soup/
-source_author: The Woks of Life
 yield: 4 servings
 prep_time: 10 minutes (plus 30 minutes soaking)
 cook_time: 25 minutes
@@ -142,9 +139,3 @@ The soup keeps in the refrigerator for up to 4 days. It can be served cold or ge
 The snow fungus will continue to soften over time in the refrigerator, becoming more gelatinous. This is not a problem and some people prefer it this way.
 
 Do not freeze. The lotus seeds and snow fungus lose their texture after thawing.
-
----
-
-## Source Acknowledgment
-
-Base recipe adapted from The Woks of Life (thewoksoflife.com), with supplementary technique references from Omnivore's Cookbook (omnivorescookbook.com) and Souper Diaries (souperdiaries.com). Ingredient proportions and method refined for clarity and home-kitchen application.

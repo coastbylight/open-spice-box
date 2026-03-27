@@ -2,9 +2,6 @@
 title: Takoyaki (Octopus Balls)
 slug: takoyaki
 subtitle: Crisp-shelled, molten-centered dashi batter balls studded with tender octopus, born on the streets of Osaka
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings (about 40 balls)
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -145,9 +142,3 @@ Takoyaki is quintessential snack food, best served hot in paper boats with tooth
 ## Storage and Reheating
 
 Takoyaki are best eaten fresh. If you must store them, place cooled balls in a single layer on a baking sheet, freeze until solid, then transfer to a freezer bag. They keep for up to 1 month frozen. Reheat from frozen in a 200 degree Celsius oven for 8 to 10 minutes, or in the takoyaki pan with a little oil to re-crisp. The microwave will heat them through but the shell will become soft and chewy rather than crisp. Apply all sauces and toppings after reheating.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the standard Osaka-style takoyaki preparation as practiced by street vendors and home cooks across the Kansai region. The batter ratio, turning technique, and topping order reflect established practices documented in Japanese home-cooking references.

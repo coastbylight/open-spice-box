@@ -2,9 +2,6 @@
 title: Lassi (Sweet & Salted)
 slug: lassi-sweet-and-salted
 subtitle: Thick, frothy yogurt drink in two classic preparations
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 2
 prep_time: 5 minutes
 cook_time: 0 minutes
@@ -149,9 +146,3 @@ In Punjab, lassi is served in tall brass or steel tumblers alongside meals, part
 ## Storage and Reheating
 
 Lassi should be consumed immediately after preparation. The froth dissipates within minutes, and the drink separates as it sits (the whey rising to the top). If you must prepare in advance, blend the yogurt and water without ice and refrigerate for up to 4 hours. Add ice and re-blend briefly just before serving. The taste remains good when refrigerated, but the texture and froth are best when fresh.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the Punjabi tradition of yogurt-based drinks, where lassi has been a staple for centuries. The sweet version is associated with celebrations, religious offerings, and the famous lassi shops of Amritsar and other Punjabi cities. The salted version reflects the everyday home tradition of serving chaas or lassi with meals, a practice rooted in both culinary preference and the Ayurvedic principle of balancing rich foods with cooling, digestive accompaniments.

@@ -2,7 +2,6 @@
 title: Missi Roti
 slug: missi-roti
 subtitle: Spiced gram flour and wheat flatbread from the Rajasthani tandoor
-source_name: Traditional Indian Recipe
 cuisine: Rajasthani
 course: Bread
 difficulty: Easy

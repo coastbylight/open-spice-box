@@ -2,9 +2,6 @@
 title: Gai Yang (Thai BBQ Chicken)
 slug: gai-yang
 subtitle: Lemongrass-marinated grilled chicken with nam jim jaew dipping sauce
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/ultimate-bbq-chicken/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 30 minutes (plus 2 hours marinating)
 cook_time: 30 minutes
@@ -180,9 +177,3 @@ If you prefer a milder dipping option for children or those who avoid spice, Tha
 **Reheating:** For the best texture, reheat on a hot grill or in a skillet over medium heat, skin-side down, until the skin crisps again, about 3 to 4 minutes per side. Alternatively, place on a rack over a sheet pan in a 190C (375F) oven for 8 to 10 minutes. Microwaving will warm the chicken through but will soften the skin.
 
 **Marinade:** The raw marinade (before it touches chicken) can be made up to 2 days ahead and refrigerated. This makes weeknight grilling easier if you plan ahead.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Pailin Chongchitnant's ultimate Thai BBQ chicken at Hot Thai Kitchen (hot-thai-kitchen.com), which uses a traditional mortar-pounded marinade of white peppercorns, coriander seeds, lemongrass, and garlic with a soy-and-fish-sauce base, served with nam jim jaew dipping sauce. The use of boneless thighs as an alternative cut and the stick blender technique for the marinade were informed by Nagi Maehashi's gai yang recipe at RecipeTin Eats (recipetineats.com), which emphasizes accessibility for home cooks. The addition of coconut milk to the marinade, the cilantro root inclusion, and the two-zone grilling technique draw from J. Kenji Lopez-Alt's Thai-style grilled chicken at Serious Eats (seriouseats.com), which approaches the dish with particular attention to heat management and browning chemistry.

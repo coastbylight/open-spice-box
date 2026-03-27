@@ -2,7 +2,6 @@
 title: Bhel Puri
 slug: bhel-puri
 subtitle: Mumbai's puffed rice chaat — sweet, sharp, spiced, and gone in minutes
-source_name: Traditional Indian Recipe
 cuisine: Mumbai street food
 course: Street Food
 difficulty: Easy

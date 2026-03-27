@@ -2,9 +2,6 @@
 title: Bun Bo Hue (Bun Bo Hue)
 slug: bun-bo-hue
 subtitle: Central Vietnamese spicy beef and pork noodle soup with lemongrass, fermented shrimp paste, and sate chili oil
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/vietnamese-spicy-beef-noodle-soup-bun-bo-hue/
-source_author: Vicky Pham
 yield: 6 servings
 prep_time: 45 minutes
 cook_time: 3 hours
@@ -208,9 +205,3 @@ For a broader Southeast Asian table, bun bo hue pairs well as part of a progress
 **Vegetable platter:** Prepare fresh each time. Shredded cabbage and banana blossom brown quickly once cut.
 
 **Full assembly:** Do not store assembled bowls. The noodles absorb broth and become bloated. Store components separately and assemble just before eating.
-
----
-
-## Source Acknowledgment
-
-This recipe is primarily adapted from Vicky Pham's bun bo hue recipe at vickypham.com, which provides the core stock method, meat preparation, broth seasoning ratios, and the emphasis on pineapple in the stock (a technique she credits to Anthony Bourdain's No Reservations and the Lunch Lady of Saigon). The annatto oil technique, oxtail addition for deeper broth body, banana blossom preparation method, and the more detailed sate condiment approach are drawn from Huy Vu's recipe at hungryhuy.com. Both sources represent home cooks preserving and sharing authentic Vietnamese cooking traditions.

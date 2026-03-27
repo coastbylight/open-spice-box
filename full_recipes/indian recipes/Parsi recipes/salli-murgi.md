@@ -2,7 +2,6 @@
 title: Salli Murgi
 slug: salli-murgi
 subtitle: Parsi chicken curry with dried apricot, finished with cream and a crown of crispy potato straws
-source_name: Traditional Parsi Recipe
 cuisine: Parsi
 course: Main
 difficulty: Medium

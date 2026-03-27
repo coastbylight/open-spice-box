@@ -2,7 +2,6 @@
 title: Kulfi Falooda
 slug: kulfi-falooda
 subtitle: Mughal Frozen Kulfi with Rose Noodles and Basil Seeds
-source_name: Traditional Indian Recipe
 yield: 4 servings
 prep_time: 30 minutes (plus overnight freezing)
 cook_time: 50 minutes
@@ -157,9 +156,3 @@ Serve immediately once assembled. The kulfi will begin to melt and collapse into
 **Rose syrup:** Store in the refrigerator after opening; keeps for several months.
 
 **Assembled falooda:** Must be served immediately. Once assembled, the kulfi melts and the components cannot be separated or re-stored.
-
----
-
-## Source Acknowledgment
-
-Kulfi traces its origins to the Mughal imperial court, where ice and snow brought from the mountains were used to chill reduced milk preparations flavoured with saffron, cardamom, and pistachio. The falooda component draws on the Persian faloodeh tradition, which travelled to the Indian subcontinent through centuries of cultural exchange. This recipe reflects the classic North Indian kulfi falooda as it is made and served across street stalls, mithai shops, and home kitchens from Lahore to Lucknow.

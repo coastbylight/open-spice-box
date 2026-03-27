@@ -2,9 +2,6 @@
 title: Kinpira Gobo (Braised Burdock Root)
 slug: kinpira-gobo
 subtitle: Burdock root and carrot, julienned and braised in sweet soy seasoning with sesame and a whisper of chili
-source_name: Just One Cookbook
-source_url: https://www.justonecookbook.com/kinpira-gobo-braised-burdock-root/
-source_author: Namiko Hirasawa Chen
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -141,9 +138,3 @@ For a cross-cultural table, kinpira sits comfortably next to [japchae](/recipes/
 **Reheating:** Kinpira gobo is traditionally served at room temperature or cold, so reheating is optional. If you prefer it warm, heat gently in a skillet over medium-low heat with a tiny splash of water to loosen the glaze. Stir frequently until warmed through.
 
 **Freezer:** Freeze in a sealed container for up to 1 month. Thaw overnight in the refrigerator. The texture may soften slightly but the flavor remains good.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Namiko Hirasawa Chen at Just One Cookbook (justonecookbook.com), whose detailed instructions for cutting, soaking, and braising the burdock root form the foundation of this method. Supplementary notes on soaking technique and the vinegar-water variation were informed by Shihoko at Chopstick Chronicles (chopstickchronicles.com), whose version emphasizes a brief soak with vinegar to preserve color while maintaining gobo flavor. The Just Hungry archives (justhungry.com) by Makiko Itoh contributed historical context on kinpira as a cooking technique and its place in everyday Japanese home cooking.

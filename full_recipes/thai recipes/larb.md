@@ -2,9 +2,6 @@
 title: Larb Gai (Thai Chicken Salad)
 slug: larb
 subtitle: Northeastern Thai minced chicken salad with toasted rice powder, fresh herbs, and a sharp lime-fish sauce dressing
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/laab-gai/
-source_author: Pailin Chongchitnant
 yield: 2 servings
 prep_time: 15 minutes
 cook_time: 15 minutes
@@ -160,9 +157,3 @@ Larb also fits naturally into a broader Thai spread. It contrasts well with the 
 **Reheating:** Warm leftovers gently in a skillet over medium-low heat or microwave in short intervals. Add a small splash of water (about 15 ml) to loosen the texture, then re-season with a squeeze of lime juice and a pinch of chili flakes. The lime flavor fades overnight, so refreshing it before eating makes a meaningful difference.
 
 **Freezing:** Not recommended. The fresh herbs and the texture of the dressed meat do not survive freezing well.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's Thai chicken laab at Hot Thai Kitchen (hot-thai-kitchen.com), which provides the foundation for the dressing ratios, the water-poaching technique for the chicken, the inclusion of makrut lime leaf in the toasted rice powder, and the guidance on when to add each herb. Nagi Maehashi's larb recipe at RecipeTinEats (recipetineats.com) informed the suggestion of lemongrass and galangal as an optional aromatic variation, the emphasis on dark meat chicken for moisture, and the note on re-seasoning leftovers with fresh lime. The Serious Eats larb recipe by Leela Punyaratabandhu (seriouseats.com) contributed the detail on toasting the rice to a deep rather than golden brown, the explanation of resistant starch in the toasted rice powder, and the technique of stirring shallots into the hot meat off the heat to wilt them gently.

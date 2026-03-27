@@ -2,9 +2,6 @@
 title: Gyudon (Beef and Onion Rice Bowl)
 slug: gyudon
 subtitle: Paper-thin slices of beef simmered with sweet onion in a soy-mirin-dashi broth, piled over steamed rice
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 20 minutes
@@ -140,9 +137,3 @@ Gyudon is a self-contained meal. The classic accompaniments are a bowl of [miso 
 ## Storage and Reheating
 
 The simmered beef and onion mixture stores well in the refrigerator for up to 3 days, separate from rice. Reheat gently in a saucepan over medium-low heat, adding a splash of dashi if the sauce has thickened. Serve over freshly cooked rice. The beef mixture can also be frozen for up to 1 month; thaw in the refrigerator overnight before reheating. Do not reheat multiple times, as the beef will toughen. The simmered beef actually improves after a day in the fridge as the flavors continue to meld.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the home-cooking tradition of gyudon as practiced across Japan, incorporating the sequential cooking technique (onions first, then beef) that produces the best results. The sauce ratio reflects the balanced sweet-savory profile typical of chain restaurants like Yoshinoya, adapted for home preparation.

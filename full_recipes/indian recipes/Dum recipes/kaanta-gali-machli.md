@@ -2,7 +2,6 @@
 title: Kaanta Gali Machli
 slug: kaanta-gali-machli
 subtitle: Whole fish de-boned, stuffed with its own spiced masala, and slow-cooked sealed for six hours
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Main
 difficulty: Involved

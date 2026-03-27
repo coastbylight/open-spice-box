@@ -2,9 +2,6 @@
 title: Okonomiyaki (Osaka-Style Savory Pancake)
 slug: okonomiyaki
 subtitle: A thick, cabbage-laden savory pancake from Osaka, laced with dashi and crowned with sweet sauce, mayo, and dancing bonito flakes
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings (4 large pancakes)
 prep_time: 20 minutes
 cook_time: 30 minutes
@@ -153,9 +150,3 @@ Okonomiyaki is a complete meal on its own, but in izakaya-style dining it often 
 ## Storage and Reheating
 
 Cooked okonomiyaki can be stored in the refrigerator for up to 2 days, wrapped tightly in plastic wrap. Reheat in a skillet over medium heat for 3 to 4 minutes per side until heated through and crisp again. The microwave will heat it but will not restore the crust. You can also freeze cooked pancakes, separated by parchment paper, for up to 1 month. Thaw in the refrigerator overnight before reheating in a skillet. Apply the sauces, bonito, and aonori fresh after reheating, not before storing.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the Osaka-style okonomiyaki tradition as documented across multiple Japanese cooking sources. The technique of folding rather than stirring the batter, the use of nagaimo for texture, and the specific sauce layering follow established home-cooking practices from the Kansai region.

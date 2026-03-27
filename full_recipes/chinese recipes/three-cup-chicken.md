@@ -2,9 +2,6 @@
 title: San Bei Ji (Three Cup Chicken)
 slug: three-cup-chicken
 subtitle: Taiwanese braised chicken with soy sauce, sesame oil, and rice wine, finished with Thai basil
-source_name: Traditional Chinese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 30 minutes
@@ -139,9 +136,3 @@ Serve bubbling in a clay pot at the center of the table, if possible. The visual
 ## Storage and Reheating
 
 Store leftovers in an airtight container in the refrigerator for up to 3 days. The sauce will thicken and gel when cold. Reheat in a covered pot over medium heat, adding a splash of water to loosen the sauce. The basil will lose its freshness, so add a few fresh leaves when reheating if available. Freezes well for up to 1 month, though the basil will not survive the freezing process.
-
----
-
-## Source Acknowledgment
-
-Three Cup Chicken has roots in Jiangxi province but achieved its modern form and global fame through Taiwanese cuisine. This recipe follows the Taiwanese preparation, with the Thai basil and clay pot presentation that define the dish as it is most commonly known today.

@@ -2,9 +2,6 @@
 title: Banh Cuon (Bánh Cuốn)
 slug: banh-cuon
 subtitle: Silky steamed rice crepes filled with seasoned pork and wood ear mushrooms, served with herbs and dipping sauce
-source_name: Traditional Vietnamese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 30 minutes (plus 2 hours for batter resting)
 cook_time: 40 minutes
@@ -165,9 +162,3 @@ The rolled crepes can also be served as an elegant appetizer before a main cours
 **Assembled crepes:** Best eaten immediately. Refrigerated banh cuon become slightly firm and lose their silky texture. If storing, brush with a thin layer of oil to prevent drying and reheat briefly by steaming for 1 to 2 minutes.
 
 **Freezer:** Not recommended for assembled crepes. The batter and filling can be frozen separately.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Hanoi approach to banh cuon, where thin rice crepes are steamed and filled with a savory pork and wood ear mushroom mixture. The technique and proportions draw from Vietnamese home cooking traditions documented by Andrea Nguyen in Into the Vietnamese Kitchen and the banh cuon traditions described across Hanoi food culture. The non-stick skillet method is an adaptation for home kitchens that produces results close to the traditional cloth steamer.

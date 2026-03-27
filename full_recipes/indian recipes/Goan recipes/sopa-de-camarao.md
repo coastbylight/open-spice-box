@@ -2,7 +2,6 @@
 title: Sopa de Camarão
 slug: sopa-de-camarao
 subtitle: Goan prawn soup — a velvety Portuguese-style bisque of prawn stock, potato, and egg yolk
-source_name: Traditional Goan Recipe
 cuisine: Goan
 course: Starter
 difficulty: Easy

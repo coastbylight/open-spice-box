@@ -2,9 +2,6 @@
 title: Hotteok (Sweet Korean Pancakes)
 slug: hotteok
 subtitle: Crispy, golden dough stuffed with a molten filling of brown sugar, cinnamon, and crushed nuts
-source_name: Traditional Korean Recipe
-source_url:
-source_author:
 yield: 8 pancakes
 prep_time: 20 minutes (plus 1 hour rising)
 cook_time: 20 minutes
@@ -163,9 +160,3 @@ Hotteok is traditionally eaten as a street food snack, standing up at the vendor
 **Freezing:** Uncooked filled hotteok balls freeze well. Place them on a parchment-lined tray, freeze until solid, then transfer to a freezer bag. Cook directly from frozen, adding 1 to 2 minutes per side. Cooked hotteok can also be frozen and reheated in the oven.
 
 **Dough:** Unrisen or risen dough can be refrigerated overnight, covered tightly. Let it come to room temperature before filling and cooking.
-
----
-
-## Source Acknowledgment
-
-This recipe draws on the widely practiced Korean street food method for hotteok, informed by Maangchi (maangchi.com) and Hyosun Ro at Korean Bapsang (koreanbapsang.com). The combination of all-purpose flour and glutinous rice flour in the dough, and the brown sugar, cinnamon, and nut filling, reflect the most traditional and popular version found at street stalls across Korea.

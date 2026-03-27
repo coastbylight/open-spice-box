@@ -2,9 +2,6 @@
 title: Masala Chai
 slug: masala-chai
 subtitle: Aromatic spiced tea simmered with milk and sweetened to taste
-source_name: Traditional Indian Recipe
-source_url:
-source_author:
 yield: Serves 2
 prep_time: 5 minutes
 cook_time: 10 minutes
@@ -136,9 +133,3 @@ Masala chai is served throughout the day in India, but it is most strongly assoc
 ## Storage and Reheating
 
 Masala chai should be made fresh and consumed immediately. Reheated chai loses its aromatic complexity and the milk can develop a slightly stale taste. If you must reheat, warm gently over low heat without boiling. The spice mixture can be pre-ground in a larger batch and stored in an airtight jar for up to 2 months: grind together cardamom seeds, cinnamon, cloves, and peppercorns, and use about 3 g (½ teaspoon) per cup. This saves preparation time without significant flavor loss, though freshly crushed spices will always produce a more vibrant chai.
-
----
-
-## Source Acknowledgment
-
-This recipe draws from the pan-Indian tradition of masala chai, which evolved from the British colonial introduction of tea cultivation in Assam and Darjeeling in the 19th century. Indian households adopted tea but transformed it entirely, adding the milk, sugar, and spices that the British served separately, and simmering everything together into something new. The specific spice blend here reflects the North Indian tradition, with its emphasis on ginger and cardamom, though masala chai is made and loved across the entire subcontinent.

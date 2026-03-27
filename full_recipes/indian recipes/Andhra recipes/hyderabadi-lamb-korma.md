@@ -2,7 +2,6 @@
 title: Hyderabadi Lamb Korma
 slug: hyderabadi-lamb-korma
 subtitle: Lamb braised in yogurt, ground nuts, and fragrant whole spices — the Nizam's korma
-source_name: Traditional Indian Recipe
 cuisine: Hyderabadi
 course: Main
 difficulty: Involved

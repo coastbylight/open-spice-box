@@ -2,9 +2,6 @@
 title: Siu Yuk (Cantonese Crispy Pork Belly)
 slug: siu-yuk
 subtitle: Slow-roasted pork belly with shattering crackling skin and five-spice seasoned flesh
-source_name: Traditional Chinese Recipe
-source_url: https://thewoksoflife.com/cantonese-roast-pork-belly/
-source_author: The Woks of Life
 yield: 8 servings
 prep_time: 30 minutes (plus overnight drying)
 cook_time: 1 hour 45 minutes
@@ -144,9 +141,3 @@ Leftover siu yuk, while less crackling-crisp, makes an excellent addition to [Cl
 **Freezer:** Wrap tightly and freeze for up to 1 month. The crackling will not survive freezing and thawing with its texture intact, but the meat remains delicious.
 
 **Reheating:** Place pieces skin-side up on a wire rack set over a baking sheet. Warm in a 400F oven for 8 to 10 minutes, which will partially re-crisp the skin. For the best crackling restoration, finish with 1 to 2 minutes under the broiler. Watch closely. Microwave reheating should be avoided, as it will completely eliminate the crackling texture.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from The Woks of Life (thewoksoflife.com), whose Cantonese roast pork belly recipe uses the salt crust method with five spice seasoning and an overnight skin-drying technique. The rice wine vinegar application on the skin and the systematic skewer-scoring approach are central to their method. Supplementary details on broiler finishing technique and timing were informed by Omnivore's Cookbook (omnivorescookbook.com). Wei Guo's siu yuk recipe at Red House Spice (redhousespice.com) provided additional context on the role of coarse sea salt as a moisture-drawing crust and the importance of foil borders during roasting.

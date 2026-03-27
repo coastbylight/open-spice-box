@@ -2,7 +2,6 @@
 title: Patoli
 slug: patoli
 subtitle: Goan steamed rice parcels filled with coconut and jaggery
-source_name: Traditional Indian Recipe
 cuisine: Goan
 course: Dessert
 difficulty: Medium

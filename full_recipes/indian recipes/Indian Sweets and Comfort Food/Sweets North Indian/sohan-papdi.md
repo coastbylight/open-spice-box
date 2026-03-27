@@ -2,7 +2,6 @@
 title: Sohan Papdi
 slug: sohan-papdi
 subtitle: North India's Gossamer Flaked Gram Flour Sweet
-source_name: Traditional Indian Recipe
 cuisine: North Indian
 course: Dessert
 difficulty: Advanced

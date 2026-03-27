@@ -2,7 +2,6 @@
 title: Ajwaini Machi Curry
 slug: ajwaini-machi-curry
 subtitle: Punjabi fish curry with carom seeds, besan-coated fried fish in a tomato-onion masala
-source_name: Traditional Punjabi Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Medium

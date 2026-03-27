@@ -2,9 +2,6 @@
 title: Canh Gà Gừng (Vietnamese Chicken Ginger Soup)
 slug: canh-ga-gung
 subtitle: A light, deeply aromatic chicken soup built on a foundation of bruised ginger and fish sauce, served steaming hot with fresh herbs and a squeeze of lime
-source_name: Vicky Pham
-source_url: https://www.vickypham.com/blog/canh-ga-gung
-source_author: Vicky Pham
 yield: 4 to 6 servings
 prep_time: 15 minutes
 cook_time: 40 minutes
@@ -155,9 +152,3 @@ The soup pairs naturally with other Vietnamese comfort dishes. Serve alongside [
 **Freezing:** The broth and chicken freeze well together for up to 2 months. Freeze without the vegetables, as cabbage and chayote do not hold their texture after freezing. Thaw overnight in the refrigerator and reheat on the stovetop. Add freshly cooked vegetables when reheating.
 
 **Make-ahead broth:** The broth can be made a day ahead and refrigerated. Any fat will solidify on the surface and can be lifted off easily before reheating. This makes the soup even lighter.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Vicky Pham's canh gà gừng (vickypham.com), which provides the core technique of building a clean ginger-chicken broth with bone-in chicken, bruised ginger, and fish sauce seasoning. The addition of napa cabbage and chayote as traditional vegetable options is informed by Runaway Rice's version (runawayrice.com), which treats the soup as a complete one-pot meal with seasonal vegetables. The braised variation (gà kho gừng) described in the substitutions section is adapted from Hungry Huy's Vietnamese ginger chicken (hungryhuy.com), which takes the same ginger-chicken-fish sauce foundation in a richer, more concentrated direction with caramelized sugar and a reduced sauce.

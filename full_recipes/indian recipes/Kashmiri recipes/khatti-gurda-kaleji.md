@@ -2,7 +2,6 @@
 title: Khatti Gurda Kaleji
 slug: khatti-gurda-kaleji
 subtitle: Sour Kashmiri kidney and liver with tamarind, fennel and ghee
-source_name: Traditional Indian Recipe
 cuisine: Kashmiri
 course: Main
 difficulty: Easy

@@ -2,9 +2,6 @@
 title: Canh Chua Cá (Vietnamese Sweet and Sour Fish Soup)
 slug: canh-chua
 subtitle: A tangy tamarind broth loaded with catfish, pineapple, tomatoes, okra, and bean sprouts, finished with fried garlic and handfuls of fresh herbs
-source_name: Vicky Pham
-source_url: https://vickypham.com/blog/vietnamese-sour-catfish-soup-canh-chua/
-source_author: Vicky Pham
 yield: 4 to 6 servings
 prep_time: 15 minutes
 cook_time: 20 minutes
@@ -169,9 +166,3 @@ The sour-sweet profile of canh chua sits in natural conversation with other Sout
 **Freezing:** The broth and fish freeze adequately for up to 1 month. The vegetables do not freeze well; bean sprouts and okra will turn mushy upon thawing. If you plan to freeze portions, cook and freeze the broth with fish only, then add fresh vegetables when reheating.
 
 **Make-ahead approach:** Prepare the broth and cook the fish up to a day ahead. Refrigerate. When ready to serve, bring the broth back to a simmer and add the vegetables fresh. This approach keeps everything at its best texture and is how many Vietnamese home cooks handle the dish when entertaining.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Vicky Pham's two canh chua ca recipes (vickypham.com), which provide the core technique of frying garlic in oil to create an aromatic base, searing the fish and pineapple for additional depth, and building the broth with tamarind pulp, fish sauce, and sugar. The vegetable selection and the emphasis on adding ingredients in stages to preserve their individual textures follow her approach closely. Andrea Nguyen's version published in Saveur contributes the idea of softening onion in oil before building the broth and uses a simpler seasoning approach with tamarind concentrate, offering a more streamlined method that works well as a variation. Her writing on canh chua (andreanguyen.substack.com) also informs the cultural context of the dish as a celebration of Mekong Delta home cooking. The garnishing approach and herb recommendations reflect a consensus across all sources consulted.

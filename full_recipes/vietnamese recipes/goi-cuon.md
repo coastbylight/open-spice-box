@@ -2,9 +2,6 @@
 title: Goi Cuon (Gỏi Cuốn)
 slug: goi-cuon
 subtitle: Fresh Vietnamese rice paper rolls with pork, shrimp, herbs, and peanut dipping sauce
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/vietnamese-rice-paper-rolls-spring-rolls/
-source_author: Nagi Maehashi
 yield: 10 rolls (serves 4 to 5)
 prep_time: 40 minutes
 cook_time: 35 minutes
@@ -179,9 +176,3 @@ Goi cuon work well as a starter before heartier dishes. Follow them with [pho bo
 **Peanut dipping sauce:** Keeps refrigerated in a sealed container for up to 5 days. It will thicken as it chills. Thin it with a splash of warm water and stir before serving again.
 
 **Reheating:** Goi cuon are not meant to be reheated. The fresh, uncooked nature of the filling (lettuce, herbs, bean sprouts) is the whole point. If the wrapper has dried out, there is no reliable way to restore it. The best approach is to prepare the components in advance and roll just before serving.
-
----
-
-## Source Acknowledgment
-
-This recipe draws primarily from Nagi Maehashi's Vietnamese Rice Paper Rolls at [RecipeTin Eats](https://www.recipetineats.com/vietnamese-rice-paper-rolls-spring-rolls/), which provides the core approach, the lettuce-bundle rolling technique, the double rice paper tip, and the microwave-friendly peanut sauce ratio. The poaching method for pork belly (with onion, sugar, and salt) and the peanut dipping sauce variation cooked with garlic on the stove are adapted from Huy Vu's goi cuon recipe at [Hungry Huy](https://www.hungryhuy.com/how-to-make-goi-cuon-vietnamese-spring-rolls/), which also introduced the banh hoi noodle sheet substitution. All three sources agree on the fundamentals: brief hydration of the rice paper, traditional pork and shrimp filling, fresh herbs as a structural rather than decorative element, and a hoisin-peanut dipping sauce as the standard accompaniment.

@@ -2,7 +2,6 @@
 title: Maa Chana Dal
 slug: maa-chana-dal
 subtitle: Slow-cooked split black lentils and chickpea dal with a fried onion-tomato masala
-source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy

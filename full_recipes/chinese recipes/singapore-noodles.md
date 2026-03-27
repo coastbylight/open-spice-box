@@ -2,9 +2,6 @@
 title: Singapore Noodles (星洲炒米)
 slug: singapore-noodles
 subtitle: Curry-spiced rice vermicelli stir-fried with shrimp, char siu, egg ribbons, and bell pepper, the Cantonese takeout classic done right
-source_name: RecipeTin Eats
-source_url: https://www.recipetineats.com/singapore-noodles/
-source_author: Nagi
 yield: 2 generous servings
 prep_time: 15 minutes
 cook_time: 10 minutes
@@ -139,9 +136,3 @@ Singapore noodles are a complete meal on their own. For a bigger spread, serve a
 **Reheating:** Toss in a hot wok with a splash of water or soy sauce for 1 to 2 minutes. Microwave works but the noodles lose their texture. A hot pan is always better for stir-fried noodles.
 
 **Freezing:** Not recommended. Rice vermicelli becomes brittle and breaks apart when frozen and thawed.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted from Nagi's Singapore noodles at RecipeTin Eats (recipetineats.com), following her sauce proportions and stir-fry sequence. The egg ribbon technique and component-by-component cooking method are hers.

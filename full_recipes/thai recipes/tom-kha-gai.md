@@ -2,9 +2,6 @@
 title: Tom Kha Gai (Thai Coconut Galangal Chicken Soup)
 slug: tom-kha-gai
 subtitle: A silky, aromatic Thai soup of chicken simmered in coconut milk with galangal, lemongrass, and makrut lime leaves, finished with a bright squeeze of lime
-source_name: Hot Thai Kitchen
-source_url: https://hot-thai-kitchen.com/tom-ka-gai/
-source_author: Pailin Chongchitnant
 yield: 4 servings
 prep_time: 15 minutes
 cook_time: 25 minutes
@@ -149,9 +146,3 @@ Tom kha gai is traditionally served as part of a shared Thai meal with steamed j
 **Reheating:** Warm gently over medium-low heat, stirring occasionally. Do not let the soup come to a hard boil, as the coconut milk may separate. If the soup has thickened in the fridge, add a splash of chicken stock or water to restore the consistency. Taste and adjust with a squeeze of fresh lime juice, as the acidity fades overnight.
 
 **Freezing:** The soup freezes well for up to 2 months. The coconut milk may separate slightly on thawing, but a gentle reheat with stirring will bring it back together. Freeze in individual portions for easy weeknight meals.
-
----
-
-## Source Acknowledgment
-
-This recipe is adapted primarily from Pailin Chongchitnant's authentic Tom Kha Gai at Hot Thai Kitchen (hot-thai-kitchen.com), with the cornstarch chicken technique and mushroom searing step drawn from The Woks of Life (thewoksoflife.com). The all-coconut-milk method and one-direction stirring technique reflect Mark Wiens' traditional approach at Eating Thai Food (eatingthaifood.com).

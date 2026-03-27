@@ -2,9 +2,6 @@
 title: Nasu Dengaku (Miso-Glazed Eggplant)
 slug: nasu-dengaku
 subtitle: Roasted Japanese eggplant halves crowned with a sweet, caramelized miso glaze and finished with sesame seeds
-source_name: Traditional Japanese Recipe
-source_url:
-source_author:
 yield: 4 servings
 prep_time: 10 minutes
 cook_time: 25 minutes
@@ -140,9 +137,3 @@ Nasu dengaku works as a side dish in almost any Japanese meal. Pair it with gril
 ## Storage and Reheating
 
 The miso glaze can be made up to 1 week in advance and stored in the refrigerator in an airtight container. Roasted eggplant without the glaze keeps for 2 days refrigerated. For best results, assemble and broil just before serving. Fully assembled nasu dengaku can be reheated in a 180 degree Celsius oven for 8 to 10 minutes, though the glaze will not have the same fresh-broiled quality. This dish does not freeze well, as the eggplant becomes watery upon thawing.
-
----
-
-## Source Acknowledgment
-
-This recipe follows the traditional Japanese dengaku preparation as documented in shojin ryori (Buddhist temple cuisine) and izakaya cooking references. The miso blend technique and scoring method reflect established practices for nasu dengaku across Japanese home cooking.
