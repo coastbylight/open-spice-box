@@ -168,8 +168,9 @@ const PROTEIN_KW = [
   'prawn','shrimp','crab','lobster','scallop','squid','octopus',
   'mussel','clam','oyster','calamari','jhinga',
   'kidney','liver','heart','tripe','offal','kaleji','gurda',
+  'tongue','bone','brisket','oxtail','tendon',
   'paneer','cheese','ricotta','halloumi','cottage cheese',
-  'mince','keema','kheema','sausage',
+  'mince','keema','kheema','sausage','tofu',
 ]
 
 function isProtein(name: string): boolean {
@@ -195,7 +196,26 @@ const VEG_COUNTS: { kw: string[]; gEach: number; singular: string; plural: strin
   { kw:['bottle gourd','lauki'],              gEach:500,  singular:'gourd',         plural:'gourds'         },
   { kw:['bitter gourd','karela'],             gEach:80,   singular:'bitter gourd',  plural:'bitter gourds'  },
   { kw:['radish','mooli'],                    gEach:80,   singular:'radish',        plural:'radishes'       },
+  { kw:['apple'],                              gEach:180,  singular:'apple',         plural:'apples'         },
 ]
+
+// ─── Dry goods / uncategorized → oz / lb (no count note) ──────────────────────
+
+const DRY_GOODS_KW = [
+  'noodle','noodles','vermicelli','soba','udon','ramen','rice stick',
+  'bean sprout','sprouts','mung bean','beansprout',
+  'flour','cornstarch','corn starch','cornflour','rice flour',
+  'sugar','rock sugar','palm sugar','brown sugar','white sugar',
+  'coconut','desiccated coconut','shredded coconut',
+  'tamarind','cashew','peanut butter','sesame paste',
+  'ghee','butter','lard','yogurt','yoghurt','curd','cream','hung yogurt',
+  'dashi','miso','laksa paste',
+]
+
+function isDryGood(name: string): boolean {
+  const l = name.toLowerCase()
+  return DRY_GOODS_KW.some(k => l.includes(k))
+}
 
 function vegCountNote(name: string, grams: number): string | null {
   const l = name.toLowerCase()
@@ -318,7 +338,10 @@ export function convertIngredient(
       return { ...ozLb, countNote }
     }
 
-    // 4. Everything else:
+    // 4. Dry goods / uncategorized bulk items → oz / lb
+    if (isDryGood(ingredientName)) return formatOz(grams * 0.035274)
+
+    // 5. Everything else:
     //    — if stored hint is a volume/weight unit → use it (e.g. "⅔ cup yogurt")
     //    — else → oz / lb
     if (imperialAmount && imperialUnit && VOLUME_HINT_UNITS.has(imperialUnit.toLowerCase())) {
