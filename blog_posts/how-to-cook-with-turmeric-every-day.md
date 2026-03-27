@@ -20,7 +20,7 @@ internal_links_used:
   - "[sambar](/recipes/sambar)"
   - "[congee](/recipes/congee)"
   - "[chicken curry punjabi](/recipes/chicken-curry-punjabi)"
-  - "[aloo gobhi](/recipes/aloo-gobhi)"
+  - "[aloo gobi](/recipes/aloo-gobi)"
   - "[spiced bone broth](/recipes/spiced-bone-broth)"
   - "[dosa masala](/recipes/dosa-masala)"
   - "[Ayurveda](/traditions/ayurveda)"
@@ -86,7 +86,7 @@ Toss vegetables (cauliflower, sweet potato, carrots, chickpeas) with olive oil, 
 
 This works across cuisines. Middle Eastern-style: add cumin and [coriander](/ingredients/coriander). Indian-style: add garam masala. Southeast Asian-style: add coconut oil and a squeeze of lime after roasting.
 
-Our [aloo gobhi](/recipes/aloo-gobhi) (potato and cauliflower) takes this principle further with a full Indian spice treatment.
+Our [aloo gobi](/recipes/aloo-gobi) (potato and cauliflower) takes this principle further with a full Indian spice treatment.
 
 ### 5. Soup and Broth Base
 

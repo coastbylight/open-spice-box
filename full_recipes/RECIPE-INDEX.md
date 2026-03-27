@@ -140,11 +140,11 @@
 
 | Recipe | Slug | Servings | Time |
 |--------|------|----------|------|
-| Gobhi Mussallam | `gobhi-mussallam` | - | - |
+| Gobi Mussallam | `gobi-mussallam` | - | - |
 | Handi Gosht Korma | `handi-gosht-korma` | - | - |
 | Kundan Kaliyan | `kundan-kaliyan` | - | - |
 | Murgh Chaandi Tikka | `murgh-chaandi-tikka` | - | - |
-| Murgh Korma | `murgh-korma` | - | - |
+| Chicken Korma | `murgh-korma` | - | - |
 | Paneer Kundan Kaliyan | `paneer-kundan-kaliyan` | - | - |
 | Shammi Kebab | `shammi-kebab` | - | - |
 
@@ -345,7 +345,7 @@
 | Recipe | Slug | Servings | Time |
 |--------|------|----------|------|
 | Ajwaini Machi Curry | `ajwaini-machi-curry` | - | - |
-| Aloo Gobhi | `aloo-gobhi` | - | - |
+| Aloo Gobi | `aloo-gobi` | - | - |
 | Aloo Methi | `aloo-methi` | 4 servings | 20 minutes + 30 minutes |
 | Baingan Ka Bhartha | `baingan-ka-bhartha` | - | - |
 | Bhindi Masala | `bhindi-masala` | Serves 4 | 15 minutes + 25 minutes |
@@ -417,7 +417,7 @@
 | Onion Kulcha | `onion-kulcha` | - | - |
 | Paneer Tikka | `paneer-tikka` | Serves 4 | 20 minutes active, plus 2 hours minimum marination + 12–15 minutes |
 | Tandoori Aloo | `tandoori-aloo` | - | - |
-| Tandoori Gobhi | `tandoori-gobhi` | - | - |
+| Tandoori Gobi | `tandoori-gobi` | - | - |
 | Tandoori Murgh | `tandoori-murgh` | Serves 4 | 30 minutes active, plus 30 minutes first marinade and 4–8 hours second marinade + 20–25 minutes |
 
 ## Indonesian

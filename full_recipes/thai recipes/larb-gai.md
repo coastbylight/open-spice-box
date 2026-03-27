@@ -25,7 +25,7 @@ medical_notes:
 
 # Larb Gai (ลาบไก่)
 
-*Thai ground chicken salad with lime, fish sauce, mint, and cilantro, served in crisp lettuce cups with toasted rice powder and crushed peanuts*
+*Thai chicken lettuce wraps with lime, fish sauce, mint, and cilantro, served in crisp lettuce cups with toasted rice powder and crushed peanuts*
 
 ---
 

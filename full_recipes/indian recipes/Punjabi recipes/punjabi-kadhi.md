@@ -133,7 +133,7 @@ The one-hour simmer is non-negotiable for the same reason besan appears in the i
 
 ## Serving Suggestions
 
-Punjabi kadhi is traditionally served over plain steamed or boiled rice. That combination is one of the fundamental North Indian comfort meals. The rice absorbs the tangy gravy; the pakodas provide body and contrast. A dry sabzi on the side (aloo gobhi or any simply spiced vegetable) and pappadums complete a satisfying meal. Kadhi is filling and warming; this is cold-season food, and it has been made in Punjabi kitchens through every winter for generations.
+Punjabi kadhi is traditionally served over plain steamed or boiled rice. That combination is one of the fundamental North Indian comfort meals. The rice absorbs the tangy gravy; the pakodas provide body and contrast. A dry sabzi on the side (aloo gobi or any simply spiced vegetable) and pappadums complete a satisfying meal. Kadhi is filling and warming; this is cold-season food, and it has been made in Punjabi kitchens through every winter for generations.
 
 ---
 

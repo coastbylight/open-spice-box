@@ -149,7 +149,7 @@ The tadka poured over the finished dish introduces fat-soluble flavor compounds 
 
 ## Serving Suggestions
 
-Kadhi pakora with steamed rice is the canonical Punjabi pairing and one of the great simple meals in North Indian cooking. The tangy broth coats the rice, the pakoras provide substance, and the tadka adds richness. Alongside, a dry vegetable dish (aloo gobhi, bhindi masala) and a pickle provide contrast. Kadhi is also excellent with khichdi (rice and lentils cooked together) for a simpler, more comforting meal. Some households serve it with roti rather than rice, tearing pieces and dipping them in the broth.
+Kadhi pakora with steamed rice is the canonical Punjabi pairing and one of the great simple meals in North Indian cooking. The tangy broth coats the rice, the pakoras provide substance, and the tadka adds richness. Alongside, a dry vegetable dish (aloo gobi, bhindi masala) and a pickle provide contrast. Kadhi is also excellent with khichdi (rice and lentils cooked together) for a simpler, more comforting meal. Some households serve it with roti rather than rice, tearing pieces and dipping them in the broth.
 
 ---
 

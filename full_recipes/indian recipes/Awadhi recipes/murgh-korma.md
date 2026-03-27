@@ -1,6 +1,6 @@
 ---
-title: Murgh Korma
-slug: murgh-korma
+title: Chicken Korma
+slug: chicken-korma
 subtitle: Mughal gold — chicken braised in saffron, cashew, and kewra
 source_name: Traditional Indian Recipe
 cuisine: Awadhi
@@ -8,13 +8,13 @@ course: Main
 difficulty: Medium
 tags: indian, Awadhi, Lucknow, chicken, korma, Mughal, cashew, saffron, kewra, gluten-free
 hero_image_prompt: A wide, cream-coloured korma in a dark copper pot, the sauce rich and golden with a sheen of ghee on the surface, a few whole chicken pieces visible, a golden thread of saffron across the top, shot with warm overhead light on aged brass
-seo_title: Murgh Korma Recipe — Authentic Awadhi Chicken Korma with Cashew and Saffron
-meta_description: Awadhi murgh korma: chicken braised in a silky cashew and yogurt sauce, finished with kewra water and saffron. The Mughal court classic, made for home kitchens.
+seo_title: Chicken Korma Recipe — Authentic Awadhi Chicken Korma with Cashew and Saffron
+meta_description: Awadhi chicken korma: chicken braised in a silky cashew and yogurt sauce, finished with kewra water and saffron. The Mughal court classic, made for home kitchens.
 ---
 
 [Skip to Recipe](#ingredients)
 
-# Murgh Korma
+# Chicken Korma
 
 *Mughal gold — chicken braised in saffron, cashew, and kewra*
 

@@ -1,6 +1,6 @@
 ---
-title: Tandoori Gobhi
-slug: tandoori-gobhi
+title: Tandoori Gobi
+slug: tandoori-gobi
 subtitle: Cauliflower florets marinated in a spiced gram flour batter with ajwain, shallow-fried then finished in the tandoor
 source_name: Traditional Indian Recipe
 cuisine: North Indian
@@ -8,20 +8,20 @@ course: Starter
 difficulty: Intermediate
 tags: [north-indian, cauliflower, tandoor, starter, vegetarian, besan, ajwain, kebab, party-food]
 hero_image_prompt: A wide cast-iron pan with golden-amber cauliflower florets, their surfaces charred in patches from the tandoor, the spiced besan batter crisped and darkened at the edges, a scatter of chaat masala visible as a fine rust-red dust, lemon wedges and sliced onion rings alongside on a dark stone surface
-seo_title: Tandoori Gobhi — Cauliflower Florets in Spiced Besan Batter from the Tandoor
-meta_description: Tandoori Gobhi is cauliflower florets coated in a spiced gram flour batter with ajwain, ginger-garlic and chaat masala, shallow-fried then skewered and cooked in the tandoor until deeply charred and crisp.
+seo_title: Tandoori Gobi — Cauliflower Florets in Spiced Besan Batter from the Tandoor
+meta_description: Tandoori Gobi is cauliflower florets coated in a spiced gram flour batter with ajwain, ginger-garlic and chaat masala, shallow-fried then skewered and cooked in the tandoor until deeply charred and crisp.
 ---
 
 [Skip to Recipe](#ingredients)
 
-# Tandoori Gobhi
+# Tandoori Gobi
 *Cauliflower florets marinated in a spiced gram flour batter with ajwain, shallow-fried then finished in the tandoor*
 
 ---
 
 ## Headnote
 
-Cauliflower has a particular relationship with high heat: it caramelizes. The natural sugars in its dense, tightly packed florets — bland and barely sweet when raw — develop under the right conditions into something deep and nutty, with a richness that is entirely absent from boiled or steamed gobhi. The tandoor, with its radiant heat from all sides and temperatures that a domestic oven can barely approach, does this better than any other cooking method.
+Cauliflower has a particular relationship with high heat: it caramelizes. The natural sugars in its dense, tightly packed florets — bland and barely sweet when raw — develop under the right conditions into something deep and nutty, with a richness that is entirely absent from boiled or steamed gobi. The tandoor, with its radiant heat from all sides and temperatures that a domestic oven can barely approach, does this better than any other cooking method.
 
 The batter here is a besan (gram flour) preparation — thick, spiced, and built around ajwain as its defining aromatic. Ajwain (carom seeds) is one of the key flavours in Indian snack and fritter cooking: slightly medicinal, thyme-adjacent, with a warm sharpness that cuts through the earthiness of besan and the fat of frying. Ginger-garlic paste, red and yellow chilli powders, garam masala, chaat masala, and lemon juice fill out the profile. The batter should be thick enough to coat each floret in a visible layer but not so thick that it becomes heavy or stodgy.
 
@@ -132,4 +132,4 @@ Besan (gram flour) creates a more complex batter than wheat flour. Its higher pr
 
 ## Storage and Reheating
 
-Tandoori Gobhi is best eaten immediately after finishing in the tandoor. The batter crust softens within minutes as steam from the cauliflower redistributes. Leftover cooked florets can be spread on a baking tray and reheated at 220°C for 5–6 minutes to restore some crispness. Avoid the microwave. Uncooked batter-coated florets can be held in the refrigerator for up to 2 hours before frying; beyond this, the batter begins to weep and lose adherence.
+Tandoori Gobi is best eaten immediately after finishing in the tandoor. The batter crust softens within minutes as steam from the cauliflower redistributes. Leftover cooked florets can be spread on a baking tray and reheated at 220°C for 5–6 minutes to restore some crispness. Avoid the microwave. Uncooked batter-coated florets can be held in the refrigerator for up to 2 hours before frying; beyond this, the batter begins to weep and lose adherence.

@@ -1,6 +1,6 @@
 ---
-title: Gobhi Mussallam
-slug: gobhi-mussallam
+title: Gobi Mussallam
+slug: gobi-mussallam
 subtitle: A whole cauliflower braised in Mughal gold
 source_name: Traditional Indian Recipe
 cuisine: Awadhi
@@ -8,13 +8,13 @@ course: Main
 difficulty: Medium
 tags: indian, Awadhi, Mughal, vegetarian, cauliflower, korma, cashew, saffron, celebration, gluten-free
 hero_image_prompt: A whole golden-bronze cauliflower sitting in a pool of creamy saffron sauce in a wide copper serving dish, the florets deeply coloured from braising, with a thread of cream and scattered rose petals, shot from above on a dark carved wooden table
-seo_title: Gobhi Mussallam Recipe — Whole Cauliflower Braised in Mughal Korma Sauce
-meta_description: Gobhi mussallam: a whole cauliflower braised in a rich Mughal-style cashew and saffron gravy. A stunning centrepiece dish from the Awadhi vegetarian tradition.
+seo_title: Gobi Mussallam Recipe — Whole Cauliflower Braised in Mughal Korma Sauce
+meta_description: Gobi mussallam: a whole cauliflower braised in a rich Mughal-style cashew and saffron gravy. A stunning centrepiece dish from the Awadhi vegetarian tradition.
 ---
 
 [Skip to Recipe](#ingredients)
 
-# Gobhi Mussallam
+# Gobi Mussallam
 
 *A whole cauliflower braised in Mughal gold*
 
@@ -22,11 +22,11 @@ meta_description: Gobhi mussallam: a whole cauliflower braised in a rich Mughal-
 
 ## Headnote
 
-There is something almost theatrical about gobhi mussallam. You carry a whole cauliflower to the table — not cut, not broken, but entire — sitting in a pool of pale golden sauce, its surface coloured deep amber from the braising liquid, its white interior just visible where the outer florets have parted. The dish stops conversation. Then you cut into it and the sauce pours in through the cut surface, and conversation resumes around the question of why cauliflower has never arrived at anyone's table like this before.
+There is something almost theatrical about gobi mussallam. You carry a whole cauliflower to the table — not cut, not broken, but entire — sitting in a pool of pale golden sauce, its surface coloured deep amber from the braising liquid, its white interior just visible where the outer florets have parted. The dish stops conversation. Then you cut into it and the sauce pours in through the cut surface, and conversation resumes around the question of why cauliflower has never arrived at anyone's table like this before.
 
 *Mussallam* means whole — the same word appears in murgh mussallam (whole chicken) — and it reflects a Mughal aesthetic of presenting an ingredient as a single unified entity rather than cut into pieces. In Awadhi vegetarian cooking, which has its own sophisticated canon alongside the more famous meat dishes of Lucknow, the cauliflower became the natural vegetarian candidate for this treatment. Its dense, compact structure can withstand braising. Its mild flavour absorbs the korma sauce without resistance. Its dramatic spherical form makes the presentation genuinely remarkable.
 
-The sauce is the same architecture as a murgh korma: deep golden fried onions, cashew paste for body, yogurt added in stages, saffron and kewra at the finish. The cauliflower is parboiled first to give it a head start, then added to the simmering sauce whole and braised until the sauce has penetrated the outer layers and turned the entire head a deep, gorgeous amber.
+The sauce is the same architecture as a chicken korma: deep golden fried onions, cashew paste for body, yogurt added in stages, saffron and kewra at the finish. The cauliflower is parboiled first to give it a head start, then added to the simmering sauce whole and braised until the sauce has penetrated the outer layers and turned the entire head a deep, gorgeous amber.
 
 The practical key is to score the cauliflower before parboiling — radial cuts from the base to about halfway up the head allow the sauce to reach the interior rather than merely coating the surface. After braising, the cut surfaces will have absorbed the korma's colour and fragrance all the way through.
 
@@ -128,10 +128,10 @@ The tomato addition — unusual in a korma — provides a subtle acid that brigh
 
 ## Serving Suggestions
 
-Gobhi mussallam is a centrepiece — it should be the focus, not a side dish. Serve with warm, pillowy naan, butter-enriched paratha, or plain basmati rice to absorb the sauce. A cool mint-cucumber raita on the side cuts through the richness beautifully. A dal such as dal makhani or a simple yellow moong dal alongside provides protein balance. If serving at a dinner party, bring the pot to the table and cut the cauliflower there — the cut revealing the amber interior is the moment the dish fully announces itself.
+Gobi mussallam is a centrepiece — it should be the focus, not a side dish. Serve with warm, pillowy naan, butter-enriched paratha, or plain basmati rice to absorb the sauce. A cool mint-cucumber raita on the side cuts through the richness beautifully. A dal such as dal makhani or a simple yellow moong dal alongside provides protein balance. If serving at a dinner party, bring the pot to the table and cut the cauliflower there — the cut revealing the amber interior is the moment the dish fully announces itself.
 
 ---
 
 ## Storage and Reheating
 
-Leftover gobhi mussallam keeps in the refrigerator for up to 3 days. The cauliflower will continue to absorb the sauce and become more intensely flavoured — some argue the second day is better than the first. To reheat, place in a covered pot over low heat with a splash of water, warming gently without vigorous boiling. The cauliflower may soften further; this is fine — the flavour will be excellent. Freezing is not recommended as the cauliflower texture degrades significantly on thawing.
+Leftover gobi mussallam keeps in the refrigerator for up to 3 days. The cauliflower will continue to absorb the sauce and become more intensely flavoured — some argue the second day is better than the first. To reheat, place in a covered pot over low heat with a splash of water, warming gently without vigorous boiling. The cauliflower may soften further; this is fine — the flavour will be excellent. Freezing is not recommended as the cauliflower texture degrades significantly on thawing.

@@ -24,7 +24,7 @@ internal_links_used:
   - "[sambar](/recipes/sambar)"
   - "[khichdi](/recipes/khichdi)"
   - "[dal makhni](/recipes/dal-makhni)"
-  - "[aloo gobhi](/recipes/aloo-gobhi)"
+  - "[aloo gobi](/recipes/aloo-gobi)"
   - "[chicken curry punjabi](/recipes/chicken-curry-punjabi)"
   - "[jeera pulao](/recipes/jeera-pulao)"
   - "[Ayurveda](/traditions/ayurveda)"
@@ -101,7 +101,7 @@ This is the most common tadka in South Indian cooking. The mustard seeds pop fir
 
 ### 2. The North Indian Tadka
 
-**For:** [Dal makhni](/recipes/dal-makhni), rajma, [aloo gobhi](/recipes/aloo-gobhi), vegetable curries
+**For:** [Dal makhni](/recipes/dal-makhni), rajma, [aloo gobi](/recipes/aloo-gobi), vegetable curries
 **Fat:** Ghee or butter
 **Spices:** Cumin seeds + [garlic](/ingredients/garlic) (sliced) + [ginger](/ingredients/ginger) (grated) + turmeric + optional dried red chili
 
@@ -190,4 +190,4 @@ Tadka is not a recipe. It's the grammar of Indian cooking. Every dal, every sabz
 
 Start with the jeera tadka: cumin seeds in ghee, 20 seconds, poured over anything. Then try the South Indian version with mustard seeds and curry leaves. Then the full khichdi tadka with five spices.
 
-For guidance on which spices to stock, see [how to build a spice cabinet from scratch](/blog/how-to-build-spice-cabinet). For the difference between whole and ground spices, read [whole spices vs ground: when to use which](/blog/whole-spices-vs-ground). And explore our recipe collection for dishes built on this technique: [sambar](/recipes/sambar), [khichdi](/recipes/khichdi), [dal makhni](/recipes/dal-makhni), [aloo gobhi](/recipes/aloo-gobhi).
+For guidance on which spices to stock, see [how to build a spice cabinet from scratch](/blog/how-to-build-spice-cabinet). For the difference between whole and ground spices, read [whole spices vs ground: when to use which](/blog/whole-spices-vs-ground). And explore our recipe collection for dishes built on this technique: [sambar](/recipes/sambar), [khichdi](/recipes/khichdi), [dal makhni](/recipes/dal-makhni), [aloo gobi](/recipes/aloo-gobi).

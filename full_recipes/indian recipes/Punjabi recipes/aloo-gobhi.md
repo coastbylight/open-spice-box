@@ -1,20 +1,20 @@
 ---
-title: Aloo Gobhi
-slug: aloo-gobhi
+title: Aloo Gobi
+slug: aloo-gobi
 subtitle: Cauliflower and potato dry-fried with cumin and coriander
 source_name: Traditional Indian Recipe
 cuisine: Punjabi
 course: Main
 difficulty: Easy
 tags: indian, Punjabi, vegetarian, cauliflower, potato, dry sabzi, kadhai, weeknight, vegan
-hero_image_prompt: A wide iron kadhai of aloo gobhi on a rustic wooden surface, the cauliflower florets golden at the edges and the potato dices coated in turmeric and coriander, scattered with fresh green coriander leaves, warm side light picking up the spiced surface
-seo_title: Aloo Gobhi Recipe — Punjabi Cauliflower and Potato Sabzi
-meta_description: Classic Punjabi aloo gobhi: cauliflower and potato cooked dry in a kadhai with cumin, turmeric, coriander, and fresh ginger until tender and slightly golden.
+hero_image_prompt: A wide iron kadhai of aloo gobi on a rustic wooden surface, the cauliflower florets golden at the edges and the potato dices coated in turmeric and coriander, scattered with fresh green coriander leaves, warm side light picking up the spiced surface
+seo_title: Aloo Gobi Recipe — Punjabi Cauliflower and Potato Sabzi
+meta_description: Classic Punjabi aloo gobi: cauliflower and potato cooked dry in a kadhai with cumin, turmeric, coriander, and fresh ginger until tender and slightly golden.
 ---
 
 [Skip to Recipe](#ingredients)
 
-# Aloo Gobhi
+# Aloo Gobi
 
 *Cauliflower and potato dry-fried with cumin and coriander*
 
@@ -22,7 +22,7 @@ meta_description: Classic Punjabi aloo gobhi: cauliflower and potato cooked dry 
 
 ## Headnote
 
-Aloo gobhi is, on its face, a humble thing: two vegetables, a handful of spices, an iron pan. It is also one of the most recognisable dishes in the Punjabi kitchen, the kind of sabzi that appears at weekday lunches, tiffin boxes, and dhabas in equal measure. Its appeal is not in complexity but in a particular quality of texture: cauliflower that has softened through *dum* cooking but still holds its shape, potato that has absorbed the spiced oil, both coated in the fragrant residue of turmeric, coriander, and cumin.
+Aloo gobi is, on its face, a humble thing: two vegetables, a handful of spices, an iron pan. It is also one of the most recognisable dishes in the Punjabi kitchen, the kind of sabzi that appears at weekday lunches, tiffin boxes, and dhabas in equal measure. Its appeal is not in complexity but in a particular quality of texture: cauliflower that has softened through *dum* cooking but still holds its shape, potato that has absorbed the spiced oil, both coated in the fragrant residue of turmeric, coriander, and cumin.
 
 The technique matters more than the ingredient list. Cauliflower is added raw to the hot spiced oil, then covered and cooked on low heat. This is the *dum* principle applied to a dry sabzi, letting the vegetable steam gently in its own moisture while the exterior picks up colour and spice. The potato, boiled separately before being folded in at the end, contributes a yielding creaminess against the florets' firmer bite.
 
@@ -83,7 +83,7 @@ Serve with hot chapati or paratha and a simple dal for a complete Punjabi lunch.
 
 ## Why This Works
 
-The *dum* step (covering the pan and cooking on low heat) is what separates a well-made aloo gobhi from a quickly stir-fried one. When the lid goes on, the cauliflower's own moisture creates steam that cooks the vegetable from the inside while the oil-coated surface browns gently from the base up. The result is tender-through florets that still hold their shape, rather than soft, steamed cauliflower that falls apart on the plate.
+The *dum* step (covering the pan and cooking on low heat) is what separates a well-made aloo gobi from a quickly stir-fried one. When the lid goes on, the cauliflower's own moisture creates steam that cooks the vegetable from the inside while the oil-coated surface browns gently from the base up. The result is tender-through florets that still hold their shape, rather than soft, steamed cauliflower that falls apart on the plate.
 
 Boiling the potatoes separately before adding them avoids two problems: raw potato takes significantly longer than cauliflower to cook, so combined cooking produces either underdone potato or overdone cauliflower; and potato dices added raw tend to soak up most of the oil, leaving the cauliflower under-spiced and the pan dry. Pre-boiling keeps both vegetables cooking to their own ideal endpoint.
 
@@ -115,7 +115,7 @@ The sequencing of ginger (paste early, fresh chopped ginger late) layers two dis
 
 ## Serving Suggestions
 
-Aloo gobhi sits at the centre of a simple North Indian meal: a chapati or paratha to wrap and scoop, a dal or curd on the side, and perhaps a wedge of lemon to squeeze over at the table. It travels well and is one of the classic tiffin dishes; the spiced oil means it holds its texture for several hours after cooking, making it a good candidate for packed lunches. At a larger spread, it works as a supporting sabzi alongside a richer meat or paneer preparation.
+Aloo gobi sits at the centre of a simple North Indian meal: a chapati or paratha to wrap and scoop, a dal or curd on the side, and perhaps a wedge of lemon to squeeze over at the table. It travels well and is one of the classic tiffin dishes; the spiced oil means it holds its texture for several hours after cooking, making it a good candidate for packed lunches. At a larger spread, it works as a supporting sabzi alongside a richer meat or paneer preparation.
 
 ---
 

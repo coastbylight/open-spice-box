@@ -117,7 +117,7 @@ The three-stage aromatics in this recipe (whole spices bloomed in oil first, the
 
 ## Serving Suggestions
 
-This curry is at home with chapati, paratha, or rice; it has enough gravy to work well with all three. A simple raita (yoghurt with cucumber and cumin) alongside provides a cooling counterpoint. At a larger table, this is the centrepiece: serve with dal makhni, a dry sabzi like aloo gobhi, and pickles. Left overnight, the flavours deepen considerably, making this an excellent dish to prepare a day ahead and reheat to order.
+This curry is at home with chapati, paratha, or rice; it has enough gravy to work well with all three. A simple raita (yoghurt with cucumber and cumin) alongside provides a cooling counterpoint. At a larger table, this is the centrepiece: serve with dal makhni, a dry sabzi like aloo gobi, and pickles. Left overnight, the flavours deepen considerably, making this an excellent dish to prepare a day ahead and reheat to order.
 
 ---
 

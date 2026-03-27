@@ -139,7 +139,7 @@ Cooking the onion-tomato masala to the point of oil separation ensures that the 
 
 ## Serving Suggestions
 
-Egg curry pairs naturally with steamed rice, jeera rice, or any flatbread: roti, naan, or paratha. The gravy is designed to be spooned over rice or soaked up with bread. In a fuller meal, serve alongside a dry vegetable dish like aloo gobhi or bhindi masala, a dal, and a simple salad of sliced onions and cucumber. Egg curry is also excellent with biryani rice as a side gravy.
+Egg curry pairs naturally with steamed rice, jeera rice, or any flatbread: roti, naan, or paratha. The gravy is designed to be spooned over rice or soaked up with bread. In a fuller meal, serve alongside a dry vegetable dish like aloo gobi or bhindi masala, a dal, and a simple salad of sliced onions and cucumber. Egg curry is also excellent with biryani rice as a side gravy.
 
 ---
 

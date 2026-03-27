@@ -109,7 +109,7 @@ Deep-frying the onions to genuine dark golden is what separates restaurant-quali
 
 ## Serving Suggestions
 
-Rajma chawal (rajma with plain boiled rice) is the canonical pairing, and one of the great simple combinations of Indian food. The thick, spiced gravy coats the rice; the beans provide substance. A spoonful of plain yoghurt on the side and thinly sliced raw onion with a squeeze of lemon complete the traditional accompaniment. At a larger table, rajma works alongside jeera pulao and a dry vegetable dish like aloo gobhi. It is the kind of food that is deeply satisfying without being showy.
+Rajma chawal (rajma with plain boiled rice) is the canonical pairing, and one of the great simple combinations of Indian food. The thick, spiced gravy coats the rice; the beans provide substance. A spoonful of plain yoghurt on the side and thinly sliced raw onion with a squeeze of lemon complete the traditional accompaniment. At a larger table, rajma works alongside jeera pulao and a dry vegetable dish like aloo gobi. It is the kind of food that is deeply satisfying without being showy.
 
 ---
 
