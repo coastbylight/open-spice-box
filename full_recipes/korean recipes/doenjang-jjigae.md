@@ -1,40 +1,37 @@
 ---
-title: Doenjang Jjigae (Fermented Soybean Paste Stew)
+title: Doenjang-jjigae (된장찌개)
 slug: doenjang-jjigae
-subtitle: A bubbling, earthy stew built on fermented soybean paste with tofu, zucchini, and chili
-yield: 2 servings
-prep_time: 15 minutes
-cook_time: 20 minutes
-total_time: 35 minutes
+subtitle: Korea's most beloved fermented soybean paste stew, simmered with vegetables, tofu, and an anchovy broth until deeply savory
+yield: 2 to 4 servings
+prep_time: 10 minutes
+cook_time: 38 minutes
+total_time: 50 minutes
 difficulty: Easy
 cuisine: Korean
-course: Stew
-tags: [doenjang, soybean paste stew, jjigae, Korean stew, tofu, fermented, comfort food, traditional, weeknight]
-ingredients_key: [doenjang, tofu, zucchini, Korean radish, garlic, gochugaru, pork, scallions]
-equipment_key: [small pot or ttukbaegi (Korean stone pot)]
-hero_image_prompt: A bubbling Korean stone pot (ttukbaegi) filled with golden-brown soybean paste stew with cubes of tofu, green zucchini, and red chili slices, steam rising intensely, on a wooden trivet with a bowl of white rice beside it
-seo_title: Doenjang Jjigae — Korean Fermented Soybean Paste Stew with Tofu and Vegetables
-meta_description: Doenjang jjigae is a Korean fermented soybean paste stew with tofu, zucchini, and chili. Quick, deeply savory, and a staple of everyday Korean home cooking.
-medical_notes: Doenjang is a fermented food containing probiotics and isoflavones. Traditional Korean medicine values fermented soybean products for digestive health. These claims reflect traditional use and are not a substitute for medical advice.
+course: Soup
+tags: [korean, stew, jjigae, doenjang, fermented, tofu, comfort-food, anchovy-broth, soybean-paste]
+ingredients_key: [doenjang, dried anchovies, tofu, potato, zucchini, onion, garlic, shrimp, scallions]
+equipment_key: [ttukbaegi or heavy pot, cheesecloth]
+hero_image_prompt: A bubbling earthenware ttukbaegi pot of doenjang-jjigae with cubes of tofu, sliced zucchini, and diced potato visible in a rich, cloudy soybean paste broth, topped with sliced green chili and scallions, steam rising vigorously, set on a wooden trivet with a bowl of white rice and small banchan dishes beside it, warm ambient lighting
+seo_title: Doenjang-jjigae (된장찌개) — Classic Korean Soybean Paste Stew
+meta_description: Korean doenjang-jjigae, a hearty fermented soybean paste stew with tofu, vegetables, and anchovy broth. The everyday comfort stew of Korean home cooking.
 ---
 
 [Skip to Recipe](#ingredients)
 
-# Doenjang Jjigae (Fermented Soybean Paste Stew)
+# Doenjang-jjigae (된장찌개)
 
-*A bubbling, earthy stew built on fermented soybean paste with tofu, zucchini, and chili*
+*Korea's most beloved fermented soybean paste stew, simmered with vegetables, tofu, and an anchovy broth until deeply savory*
 
 ---
 
 ## Headnote
 
-If you had to choose one dish that represents everyday Korean home cooking, doenjang jjigae would be a strong candidate. It is the stew that appears on Korean tables more often than any other, the one that mothers make without measuring, the one that children grow up eating several times a week. It is not glamorous. It is essential.
+If you ask a Korean person what they want to eat when they are tired, homesick, or simply craving something honest, the answer is almost always doenjang-jjigae. This stew occupies a place in Korean culture that is difficult to overstate. It appears at nearly every meal, served bubbling in a ttukbaegi, the small earthenware pot that retains heat so well that the stew is still simmering when it reaches the table. It is not fancy. It is not trying to impress anyone. It is simply the most reliable source of comfort in the Korean kitchen.
 
-The soul of the stew is doenjang, a fermented soybean paste that is deeper, funkier, and more complex than Japanese miso, though the two are distant cousins. Good doenjang has a savory intensity that borders on aggressive, and that is exactly what you want here. It gives the stew a backbone of umami that supports everything else in the pot: cubes of soft tofu, rounds of zucchini, thin slices of radish, a scatter of chili.
+Doenjang, the fermented soybean paste at the heart of this stew, is one of the essential jang, the fermented sauces and pastes that form the backbone of Korean flavor. Like miso, its Japanese relative, doenjang is made by fermenting soybeans with salt, but the process is longer, the flavor more assertive, and the aroma more pungent. Where miso aims for subtlety, doenjang leans into its fermented character. Good doenjang smells strong enough to fill a room, and that intensity is exactly what makes the stew so deeply satisfying.
 
-The cooking method is fast and unfussy. You saut the meat and paste together to build a flavor base, add water or anchovy broth, bring everything to a boil, and add the vegetables. Fifteen minutes later, you have a stew that is bubbling, fragrant, and deeply satisfying. It is served in the pot, still boiling, alongside a bowl of rice that you eat between spoonfuls of the hot stew.
-
-What surprises many people about doenjang jjigae is how much flavor it delivers with so few ingredients and so little time. The fermentation has done decades of work for you. All you need to do is let it loose in a hot pot.
+The broth starts with dried anchovies simmered in water, a technique used across Korean cooking to build a clean, savory base without the heaviness of meat stock. The doenjang goes in next, dissolving into the broth and transforming it into something thick, cloudy, and profoundly umami. From there, it is a matter of adding whatever vegetables are on hand. Potato, zucchini, onion, and green chili are the most common combination, but this is a stew that welcomes improvisation. Tofu goes in near the end, just long enough to warm through and absorb some of the broth without falling apart. The finished stew should taste like it has been simmering for hours even though it has not.
 
 ---
 
@@ -42,104 +39,96 @@ What surprises many people about doenjang jjigae is how much flavor it delivers 
 
 | | |
 |---|---|
-| Yield | 2 servings |
-| Prep | 15 minutes |
-| Cook | 20 minutes |
-| Total | 35 minutes |
+| Yield | 2 to 4 servings |
+| Prep | 10 minutes |
+| Cook | 38 minutes |
+| Total | 50 minutes |
 | Difficulty | Easy |
 
 ---
 
 ## Ingredients {#ingredients}
 
-**Protein**
-- 85 g pork shoulder or pork belly, thinly sliced (or beef)
+### For the anchovy broth
+- 7 large dried anchovies, heads and guts removed
+- 2.5 cups water
+- 1 piece of cheesecloth or a small mesh bag
 
-**Vegetables**
-- 255 g medium-firm or firm tofu, cut into 2.5 cm cubes
-- 1/2 medium zucchini (115 to 140 g), cut into half-moons
-- 60 g Korean radish (mu), sliced into thin squares
-- 1/4 medium onion, thinly sliced
-- 1 fresh chili pepper (green or red), sliced diagonally
-- 1 scallion, roughly chopped
-
-**Seasoning**
-- 36 g doenjang (Korean fermented soybean paste)
-- 2 g gochugaru (Korean red chili flakes)
-- 6 g minced garlic
-
-**Liquid**
-- 480 ml water or anchovy-kelp broth
-
-**Optional**
-- 5 ml vinegar (added at the end for brightness)
+### For the stew
+- 5 tbsp doenjang (Korean fermented soybean paste)
+- 1 medium potato (about 150 g), peeled and cut into 1 cm cubes
+- 1 medium onion, cut into thin wedges
+- 1 small zucchini (about 150 g), halved lengthwise and sliced into half-moons
+- 1 green chili pepper, sliced on the diagonal
+- 4 cloves garlic, minced
+- 4 medium shrimp, peeled and chopped into small pieces
+- 6 oz (170 g) medium-firm tofu, cut into 1.5 cm cubes
+- 2 scallions, cut into 1-inch lengths
 
 ---
 
 ## Method
 
-1. Prep the ingredients. Cut the tofu into roughly 2.5 cm (1 inch) cubes. Slice the zucchini into half-moons about 6 mm (1/4 inch) thick. Slice the radish thinly into small squares. Thinly slice the onion and chili. Chop the scallion. Cut the pork into thin, bite-sized strips.
+1. Place the dried anchovies in a piece of cheesecloth and tie it into a bundle, or place them in a small mesh bag. This makes them easy to remove later without leaving small bits in the stew.
 
-2. Saut the base. Heat a small amount of oil in a pot (preferably a Korean stone pot or ttukbaegi) over medium heat. Add the pork, doenjang, and gochugaru. Cook, stirring and pressing the doenjang to break it up, for 3 to 4 minutes until the pork is no longer pink and the paste is fragrant and coats the meat.
+2. Put the anchovy bundle in a pot or ttukbaegi with 2.5 cups of cold water. Bring to a boil over medium-high heat, then reduce to a steady simmer. Let the anchovies simmer for 15 minutes, allowing them to release their flavor into the broth. The water will turn a pale gold and smell distinctly of the sea.
 
-3. Add the liquid. Pour in the water or anchovy broth. Stir to dissolve the doenjang into the liquid. Add the radish and bring to a boil over medium-high heat. Boil for 3 to 4 minutes until the radish begins to soften.
+3. Add the doenjang to the broth. Use a spoon to press the paste against the side of the pot and stir until it dissolves into the liquid. The broth will become cloudy and take on a deep, savory aroma. Some small bits of soybean may remain, and that is fine.
 
-4. Add the vegetables. Add the onion, garlic, tofu, zucchini, and chili pepper. Continue to boil for 5 to 6 minutes until the zucchini is tender and the tofu has absorbed some of the broth's color and flavor.
+4. Add the cubed potato, onion wedges, and minced garlic. Stir to combine. Increase the heat to bring the stew back to a gentle boil, then reduce to a steady simmer. Cook for 10 minutes, until the potato is just tender when pierced with a knife.
 
-5. Finish. Add the chopped scallion and optional vinegar during the last 1 to 2 minutes. The stew should be bubbling vigorously.
+5. Add the zucchini, green chili, and chopped shrimp. Stir gently and continue simmering for another 10 minutes. The zucchini should be tender but not mushy, and the shrimp will turn pink and add another layer of savory depth to the broth.
 
-6. Serve. Bring the pot directly to the table, still bubbling. Serve alongside a bowl of steamed rice and eat the stew and rice together.
+6. Add the cubed tofu to the stew. Gently push the tofu below the surface of the broth without breaking the cubes. Simmer for 3 minutes, just long enough for the tofu to heat through and absorb some of the broth.
+
+7. Remove the anchovy bundle from the stew and discard it.
+
+8. Taste the broth and adjust the seasoning. If the stew needs more salt, add a small amount of doenjang rather than plain salt, as it will add flavor along with salinity. If it tastes too salty, add a splash of water.
+
+9. Scatter the scallion pieces over the top of the stew. Serve immediately, still bubbling, with steamed white rice. If using a ttukbaegi, bring it directly to the table on a trivet. The earthenware holds enough heat to keep the stew simmering for several minutes after it leaves the stove.
 
 ---
 
 ## Why This Works
 
-Sauting the doenjang with the meat before adding liquid deepens the flavor considerably. The paste toasts slightly in the hot oil, which develops nutty, caramelized notes that you do not get when you simply dissolve it into water. This step takes only a few minutes but makes a noticeable difference in the finished stew.
+Dried anchovies provide a clean, umami-rich broth without the heaviness of meat-based stocks. Simmering them for a full 15 minutes extracts their inosinic acid, a nucleotide that synergizes with the glutamates in doenjang to create an umami effect that is far more intense than either ingredient could produce alone. This is the same synergy that makes dashi and miso such a powerful combination in Japanese cooking.
 
-Anchovy-kelp broth as the liquid base layers umami on top of the already intense doenjang. If you use plain water, the stew is still good, but the broth will be thinner and less complex. To make a quick anchovy broth, simmer 6 to 8 large dried anchovies (heads and guts removed) and a piece of dried kelp in 3 cups of water for 10 minutes, then strain.
+Doenjang itself is a concentrated source of free glutamates, produced during the months-long fermentation of soybeans. Adding it to the anchovy broth creates a double layer of umami that gives the stew its characteristic depth.
 
-The vegetables are chosen for how they behave in a fast-cooking stew. Zucchini softens quickly and releases moisture. Radish holds its shape and adds sweetness. Tofu absorbs the broth. Onion melts into the background. Together they create variety in texture without requiring a long cook time.
+The potato serves a structural role beyond its flavor. As it simmers, it releases starch into the broth, giving the stew a slightly thicker, more substantial body without the need for any added thickener.
+
+Adding the tofu at the very end, with only 3 minutes of cooking, prevents it from becoming spongy and dense. Medium-firm tofu absorbs just enough broth to take on flavor while maintaining its soft, custardy interior.
 
 ---
 
 ## Ingredient & Health Notes
 
-**Doenjang.** Korean fermented soybean paste, made from meju (fermented soybean blocks) and brine. The fermentation process, which can last months or years, produces a complex mixture of amino acids, enzymes, and beneficial bacteria. In traditional Korean medicine, doenjang is valued for digestive health. Modern research has explored its potential antioxidant and anti-inflammatory properties, though evidence is preliminary. Doenjang is saltier and more pungent than Japanese miso and the two are not directly interchangeable.
+**Doenjang** is a product of long fermentation, typically 6 months or more. Like other fermented soybean products, it contains isoflavones and bioactive peptides that have been studied for potential antioxidant and anti-inflammatory properties. It is also a meaningful source of protein and B vitamins.
 
-**Anchovy-Kelp Broth.** The standard soup base in Korean cooking, made by simmering dried anchovies and dried kelp (dashima) in water. It provides a clean, oceanic umami that supports rather than competes with the doenjang. Many Korean cooks keep a batch in the refrigerator at all times. The same broth appears in [kimchi jjigae](/recipes/kimchi-jjigae) and [sundubu-jjigae](/recipes/sundubu-jjigae).
-
-**Gochugaru.** Added here in a small amount for gentle warmth rather than the aggressive heat found in [yukgaejang](/recipes/yukgaejang). It provides color and a subtle fruitiness that complements the earthy doenjang.
+**Dried anchovies** are rich in calcium, particularly when the bones are consumed. In this recipe, the calcium and minerals leach into the broth during simmering, making the broth itself a source of these nutrients.
 
 ---
 
 ## Substitutions and Variations
 
-**Seafood version.** Replace the pork with a handful of clams or shrimp. Add them with the tofu and cook until the clams open or the shrimp turn pink. The seafood adds a briny depth that pairs beautifully with doenjang.
-
-**Mushrooms.** Sliced shiitake, oyster, or enoki mushrooms are excellent additions. Add them with the tofu and zucchini.
-
-**Potato.** Small cubes of potato, added with the radish, make the stew heartier. They soften and thicken the broth slightly.
-
-**Dried anchovy version (no meat).** Omit the pork entirely and use anchovy-kelp broth as the base. The stew becomes lighter but still deeply flavored from the doenjang.
-
-**Japanese miso.** In a pinch, red (aka) miso is the closest substitute. Use a bit more since miso is generally milder than doenjang. White miso is too delicate for this dish.
+- **Doenjang:** There is no true substitute. Japanese miso is the closest relative, but it is milder and sweeter. If using miso, choose a dark (aka) miso and increase the quantity to 6 or 7 tablespoons.
+- **Anchovy broth:** Substitute with dashima (kelp) broth for a vegetarian base. Simmer a 4-inch piece of dried kelp in the water for 15 minutes, then remove it before adding the doenjang.
+- **Protein:** Thinly sliced pork belly or ground pork can replace or supplement the shrimp. Add it with the potato so it has time to cook through.
+- **Vegetables:** Mushrooms (shiitake or enoki), Korean radish cubes, or fresh perilla leaves are all common additions. Use what is fresh and in season.
+- **Spicier version:** Add 1 tablespoon of gochugaru or 1 teaspoon of gochujang to the broth along with the doenjang for a spicy variation.
 
 ---
 
 ## Serving Suggestions
 
-Doenjang jjigae is almost always served as part of a larger Korean meal rather than as a standalone dish. A bowl of steamed rice is mandatory. The stew provides the salty, savory punch that makes the plain rice satisfying.
-
-Pair with [galbi](/recipes/galbi) or [bulgogi](/recipes/bulgogi) for a classic Korean barbecue table. The richness of the grilled meat and the funky depth of the stew complement each other perfectly.
-
-For a simpler weeknight dinner, serve doenjang jjigae with [kongnamul guk](/recipes/kongnamul-guk) and a plate of [oi-muchim](/recipes/oi-muchim). The mild sprout soup, the bold stew, and the cool cucumber salad cover a wide range of flavors and textures.
+Doenjang-jjigae is always served with steamed white rice and an array of banchan. At minimum, set out a plate of [Napa Cabbage Kimchi](/recipes/tongbaechu-kimchi) and a simple seasoned vegetable. The stew is meant to be eaten communally, with everyone spooning from the same pot into their individual rice bowls. For a more complete meal, add [Bulgogi](/recipes/bulgogi) or [Japchae](/recipes/japchae) to the table. The rich, salty stew is the anchor that ties the lighter dishes together.
 
 ---
 
 ## Storage and Reheating
 
-Doenjang jjigae keeps well in the refrigerator for up to 3 days. The tofu will absorb more broth as it sits, becoming more flavorful but also slightly denser. The zucchini may soften further.
+**Refrigerator:** Store in an airtight container for up to 3 days. The tofu will absorb more broth and become denser as it sits, which many people actually prefer.
 
-Reheat on the stovetop over medium heat until bubbling. Add a splash of water if the stew has thickened. The flavor often deepens overnight as the doenjang continues to develop.
+**Reheating:** Transfer to a pot and bring to a gentle boil over medium heat. Add a splash of water if the stew has thickened too much. If possible, reheat in a ttukbaegi, which will keep it hot at the table.
 
-This stew does not freeze particularly well because the tofu texture changes after freezing and thawing, becoming spongy. If you want to freeze a batch, omit the tofu and add it fresh when reheating.
+**Freezing:** Can be frozen for up to 1 month, but the tofu texture will change, becoming chewier and more porous. If you plan to freeze leftovers, consider leaving the tofu out and adding fresh tofu when reheating.

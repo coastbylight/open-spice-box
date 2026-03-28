@@ -1,12 +1,38 @@
 # Current State — Open Spice Box
 
-_Last updated: 2026-03-27_
+_Last updated: 2026-03-28_
 
 ## What Was Just Completed
 
+**70 new recipes added + rebrand + data fixes (2026-03-27 to 2026-03-28)**
+
+### Rebrand: Ancient Pantry → Open Spice Box
+- Replaced logo with Open Spice Box logo across all pages
+- Renamed all "Ancient Pantry" references to "Open Spice Box" in 30+ source files
+- Renamed "Murgh Korma" → "Chicken Korma" and "Gobhi" → "Gobi" site-wide
+
+### Data Quality Fixes
+- Fixed 212 ingredients across 95 recipes where metric amounts were embedded in text strings instead of structured fields (now properly convert with imperial toggle and scale with serving size)
+- Added missing keywords to unit-conversion.ts: bone, brisket, tongue, oxtail, tendon, tofu, noodles, sprouts, flour, sugar, coconut, ghee, yogurt, etc.
+- Removed all source attributions (source_name, source_url, source_author) from Supabase and all 471 markdown files
+
+### New Recipes (70 total, bringing site total to 520)
+- **25 Chinese recipes**: egg-drop-soup, shaxian-peanut-sauce-noodles, sauteed-broccoli-with-garlic, bok-choy-in-ginger-sauce, yu-choy-with-oyster-sauce, chinese-tea-eggs, singapore-noodles, jing-jiang-rou-si, beef-black-bean-sauce, lo-mein, ginger-beef, sesame-beef, mongolian-beef, chicken-and-broccoli, shrimp-and-broccoli, general-tsos-chicken, black-pepper-beef, walnut-shrimp, clams-black-bean-sauce, salt-and-pepper-squid, chungking-pork, steamed-eggs, steamed-fish-ginger-scallion, chow-mein, sizzling-rice-soup, stuffed-eggplant, stuffed-peppers, braised-pork-potatoes, steamed-spare-ribs, beef-brisket-soup, beef-oyster-sauce, chicken-feet, chicken-ginger-rice-wine-soup
+- **6 Indian recipes**: chicken-achar, chicken-65, palak-paneer, gobi-manchurian, mulligatawny-soup, ghurma-aloo, mutton-seekh-kebab
+- **5 Japanese recipes**: japanese-beef-tongue, asian-coleslaw-miso-ginger, ramen-eggs, chashu-pork, gindara-nitsuke
+- **19 Korean recipes**: daegu-jeon, tongbaechu-kimchi, doenjang-jjigae, maeuntang, sujebi, jeyuk-deopbap, maekjeok, tteokgalbi, dwaeji-bulgogi, ojingeochae-muchim, yukhoe, bugeopo-gochujang-muchim, yeon-geun-jorim, dubu-jorim, algamja-jorim, eundaegu-jorim, jokbal, kkanpunggi, tangsuyuk, galbi-jjim
+- **4 Thai recipes**: larb-gai, thai-coconut-curry-mussels, crab-fried-rice, rad-na
+- **2 Vietnamese recipes**: nuoc-mam-cham
+- **1 Wellness recipe**: carrot-ginger-soup
+- **3 Family recipes**: chicken-achar, chicken-65, palak-paneer (from family with cross-checked quantities)
+
+---
+
+## Previous Milestone
+
 **108 new recipes + 36 blog posts + content infrastructure (2026-03-26)**
 
-### New Recipes (108 total, bringing site total to 450)
+### Previous Recipe Batch (108 total, brought site total from 342 to 450)
 - **38 Chinese recipes** in `full_recipes/chinese recipes/`: twice-cooked-pork, dry-fried-green-beans, tomato-egg-stir-fry, stir-fried-napa-cabbage, stir-fried-shrimp-eggs, red-braised-pork-belly, red-braised-fish, soy-braised-eggs, braised-tofu-mushrooms, shanghai-braised-gluten, zhajiangmian, scallion-oil-noodles, hot-dry-noodles, beef-chow-fun, shrimp-fried-rice, yangzhou-fried-rice, sticky-rice-chinese-sausage, sheng-jian-bao, guo-tie, beef-onion-dumplings, chive-pancakes, scallion-pancakes, beggars-chicken, sichuan-mouthwatering-chicken, three-cup-chicken, steamed-fish-black-bean-sauce, cantonese-steamed-shrimp-garlic, salt-pepper-shrimp, garlic-bok-choy, chinese-eggplant-garlic-sauce, stir-fried-tofu-chili-bean-paste, wood-ear-mushroom-salad, dang-gui-chicken-soup, snow-fungus-dessert-soup, jianbing, chinese-egg-tarts, sesame-balls, chongqing-spicy-chicken
 - **11 Indian recipes**: chicken-chettinad, fish-moilee, mutton-keema, egg-curry, kadhi-pakora, paneer-bhurji, chana-masala, bhindi-masala, tamarind-rice, lassi, masala-chai
 - **13 Japanese recipes**: okonomiyaki, takoyaki, karaage, tonkatsu, katsudon, oyakodon, gyudon, tamagoyaki, agedashi-tofu, nasu-dengaku, nikuman, curry-udon, matcha-tiramisu
